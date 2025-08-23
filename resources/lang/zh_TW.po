@@ -1,0 +1,1363 @@
+# Date created: 2025-08-22 02:59:38 by https://buxt.net
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-23 06:56+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Type Site"
+msgstr "類型站點"
+
+msgid "Basic Settings"
+msgstr "基本設定"
+
+msgid "Custom CSS Code"
+msgstr "自訂 CSS 程式碼"
+
+msgid "At the top, for custom CSS No need to add <strong>&lt;style></strong> tags"
+msgstr "在頂部，對於自訂 CSS 無需添加 <strong>&lt;style></strong> 標籤"
+
+msgid "Custom JS Code at Footer"
+msgstr "頁腳處的自訂 JS 代碼"
+
+msgid "At the bottom, for adding third-party analytics code, e.g. Google analytics, Baidu, CNZZ. Example: "
+msgstr "底部用於添加第三方分析程式碼，例如 Google Analytics、百度、CNZZ。範例："
+
+msgid "Site Logo"
+msgstr "網站標誌"
+
+msgid "Set the site logo (recommended to match the custom logo width and height)"
+msgstr "設定網站logo（建議與自訂logo寬度和高度一致）"
+
+msgid "Site Favicon"
+msgstr "網站圖示"
+
+msgid "Open Main Links in New Tab"
+msgstr "在新分頁中開啟主鏈接"
+
+msgid "Main links such as list/grid articles will open in a new tab."
+msgstr "清單/網格文章等主要連結將在新分頁中開啟。"
+
+msgid "Site Comment Feature"
+msgstr "網站評論功能"
+
+msgid "Control the site comment feature. Disable if not needed."
+msgstr "控制網站評論功能。如不需要，請停用。"
+
+msgid "SEO Settings"
+msgstr "SEO設定"
+
+msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
+msgstr "主題SEO最佳化功能：<br>1.支援自訂替換WordPress預設標題分隔符"
+
+msgid "Simplify Category Alias"
+msgstr "簡化類別別名"
+
+msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
+msgstr "刪除文章分類連結中的 category/ 前綴。一般建議保留預設的 WP 規則。"
+
+msgid "Built-in SEO Features"
+msgstr "內建SEO功能"
+
+msgid "Built-in SEO Settings"
+msgstr "內建 SEO 設定"
+
+msgid "Site-wide Link Separator"
+msgstr "網站範圍的連結分隔符"
+
+msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
+msgstr "一旦選定，請勿中途更改，因為這不利於 SEO。通常使用“-”或“_”"
+
+msgid "Site Keywords"
+msgstr "網站關鍵字"
+
+msgid "3-5 keywords, separated by commas"
+msgstr "3-5個關鍵字，以逗號分隔"
+
+msgid "Site Description"
+msgstr "站點描述"
+
+msgid "Taxonomy Custom"
+msgstr "分類法自訂"
+
+msgid "Custom filter fields"
+msgstr "自訂過濾字段"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "顯示哪些自訂欄位來過濾條目"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "進階自訂過濾欄位配置"
+
+msgid "Filter Name"
+msgstr "過濾器名稱"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "例如：格式、顏色、大小、尺寸、名稱可以在設定後中途修改"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "分類字段唯一標識符"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "必須是純英文，例如geshhi、yanse、szie、color，<b style=\"color:red;\">一旦設置，如果已經有關聯的文章被選中，則此標識符不能中途修改</b>"
+
+msgid "Option Type"
+msgstr "選項類型"
+
+msgid "Multiple Choice"
+msgstr "多項選擇"
+
+msgid "Dropdown Single Choice"
+msgstr "下拉單選"
+
+msgid "Single Choice"
+msgstr "單選"
+
+msgid "Option type when publishing articles in the background"
+msgstr "後台發布文章時的選項類型"
+
+msgid "Advanced Search"
+msgstr "進階搜尋"
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "停用全站搜尋功能（警告）"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "停用後，網站將無法搜尋文章。這可以有效防止暴力破解和資料庫堵塞。"
+
+msgid "Optimize Search to Only Search Article Titles"
+msgstr "優化搜尋以僅搜尋文章標題"
+
+msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
+msgstr "啟用後，搜尋網站時將僅根據文章標題進行搜索，在文章較多的情況下，可大幅提升搜尋效能。請根據需要啟用。"
+
+msgid "Search Box Supports Searching by Category"
+msgstr "搜尋框支援按類別搜尋"
+
+msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
+msgstr "預設啟用。停用時，類別下拉選擇選項將不會顯示。"
+
+msgid "Category Display Depth in Search Box"
+msgstr "搜尋框中的類別顯示深度"
+
+msgid "Show only 1-level main categories"
+msgstr "僅顯示 1 級主類別"
+
+msgid "Expand to 2-level subcategories"
+msgstr "擴展至 2 級子類別"
+
+msgid "Expand to 3-level subcategories"
+msgstr "擴展至 3 級子類別"
+
+msgid "Sorting Method for Category Selection in Search Box"
+msgstr "搜尋框中類別選擇的排序方法"
+
+msgid "By Category ID"
+msgstr "按類別 ID"
+
+msgid "By Category Name"
+msgstr "按類別名稱"
+
+msgid "By Category Alias"
+msgstr "按類別別名"
+
+msgid "By Total Number of Posts"
+msgstr "按貼文總數"
+
+msgid "Category Page - Top"
+msgstr "分類頁面 - 頂部"
+
+msgid "Category Page - Bottom"
+msgstr "分類頁面 - 底部"
+
+msgid "Single Post Page - Top"
+msgstr "單一貼文頁面 - 頂部"
+
+msgid "Single Post Page - Bottom"
+msgstr "單一貼文頁面 - 底部"
+
+msgid "Desktop Ad Code"
+msgstr "桌面廣告程式碼"
+
+msgid "Mobile Ad Code"
+msgstr "行動廣告代碼"
+
+msgid "Ad Settings"
+msgstr "廣告設定"
+
+msgid "Website Optimization"
+msgstr "網站優化"
+
+msgid "Use Gutenberg Editor"
+msgstr "使用 Gutenberg 編輯器"
+
+msgid "Use Gutenberg Widgets"
+msgstr "使用古騰堡小工具"
+
+msgid "Enable Menu Caching"
+msgstr "啟用選單快取"
+
+msgid "Enable to cache the site’s top menu to reduce SQL queries. Disable if using different menus across domains."
+msgstr "啟用此選項可快取網站頂部選單，從而減少 SQL 查詢。如果跨網域使用不同的選單，請停用此選項。"
+
+msgid "Disable WP Content Texturization"
+msgstr "停用 WP 內容紋理化"
+
+msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
+msgstr "停用此選項可允許在貼文中使用原始程式碼格式，無需轉義。這對於基於程式碼的內容很有用。"
+
+msgid "Remove Frontend Admin Bar"
+msgstr "刪除前端管理欄"
+
+msgid "Remove WP Admin Top Logo Menu"
+msgstr "刪除 WP Admin 頂部標誌選單"
+
+msgid "Remove WP Admin Footer Version Info"
+msgstr "刪除 WP Admin 頁腳版本信息"
+
+msgid "Remove WP Dashboard Menu"
+msgstr "刪除 WP 儀表板選單"
+
+msgid "Remove WP Emoji Plugin"
+msgstr "刪除 WP Emoji 插件"
+
+msgid "Greatly reduces JS and CSS usage."
+msgstr "大大減少 JS 和 CSS 的使用。"
+
+msgid "Optimize Head Tags on Frontend"
+msgstr "優化前端的 Head 標籤"
+
+msgid "Simplify Image HTML Code"
+msgstr "簡化圖像 HTML 程式碼"
+
+msgid "Removes unnecessary HTML attributes added by the default WP image editor."
+msgstr "刪除預設 WP 影像編輯器新增的不必要的 HTML 屬性。"
+
+msgid "Disable REST API"
+msgstr "禁用 REST API"
+
+msgid "If you’re using mobile apps or similar, do not disable this."
+msgstr "如果您正在使用行動應用程式或類似應用程序，請不要停用此功能。"
+
+msgid "Disable XML-RPC (Pingback)"
+msgstr "停用 XML-RPC (Pingback)"
+
+msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr "XML-RPC 被第三方客戶端使用。禁用它有助於防止暴力攻擊。"
+
+msgid "Disable F12 Key, Debug tools in Browser"
+msgstr "停用 F12 鍵，瀏覽器中的偵錯工具"
+
+msgid "Disable F12 key, Debug tools in Browser"
+msgstr "停用 F12 鍵，瀏覽器中的偵錯工具"
+
+msgid "URL to redirect if debug tool is opened"
+msgstr "開啟偵錯工具後重新導向的 URL"
+
+msgid "URL will redirect to after pressing F12 (Default is: https://buxt.net)"
+msgstr "按 F12 後 URL 將重新導向至（預設為：https://buxt.net）"
+
+msgid "Import Demo"
+msgstr "導入演示"
+
+msgid "Create Page"
+msgstr "建立頁面"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "建立類似 <a href=\"%s\" target=\"_blank\">%s</a> 演示的 <a href=\"%s\" target=\"_blank\">頁面</a>。"
+
+msgid "Create Menu"
+msgstr "建立選單"
+
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "建立一個類似<a href=\"%s\" target=\"_blank\">%s</a>演示的<a href=\"%s\" target=\"_blank\">選單</a>。"
+
+msgid "Create Widgets"
+msgstr "建立小部件"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "建立<a href=\"%s\" target=\"_blank\">小工具</a>，如<a href=\"%s\" target=\"_blank\">%s</a>演示所示。"
+
+msgid "Import Themes Demo"
+msgstr "導入主題演示"
+
+msgid "Import Theme Demo"
+msgstr "導入主題演示"
+
+msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "導入演示<a href=\"%s\" target=\"_blank\">內容物</a>，類似於<a href=\"%s\" target=\"_blank\">%s</a>演示。"
+
+msgid "Backup Settings"
+msgstr "備份設定"
+
+msgid "This will only back up all theme option settings on this page. It does NOT back up WordPress data like posts. ⚠️ Note: The backup data saved here is in string format and has length validation. Do not manually modify the string to avoid corruption. If editing is needed, please import the data as-is and make changes through the input fields on the settings page."
+msgstr "這只會備份此頁面上的所有主題選項設定。它不會備份 WordPress 資料（例如貼文）。 ⚠️ 注意：此處儲存的備份資料為字串格式，並經過長度驗證。請勿手動修改字串，以免造成損壞。如果需要編輯，請按原樣匯入數據，並透過設定頁面上的輸入欄位進行變更。"
+
+msgid "Cache Manager"
+msgstr "快取管理器"
+
+msgid "Total Cache"
+msgstr "總緩存"
+
+msgid "Cache Empty!"
+msgstr "快取已空！"
+
+msgid "Delete All Cache"
+msgstr "刪除所有快取"
+
+msgid "Are you sure you want to remove all cache?"
+msgstr "您確定要刪除所有快取嗎？"
+
+msgid "Please wait..."
+msgstr "請稍等..."
+
+msgid "Error while deleting cache"
+msgstr "刪除快取時出錯"
+
+msgid "An unexpected error occurred"
+msgstr "發生意外錯誤"
+
+msgid "Theme License"
+msgstr "主題許可證"
+
+msgid "No license activated. Please activate your license."
+msgstr "未啟動許可證。請啟動您的許可證。"
+
+msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
+msgstr "感謝您使用此主題進行創作。請先在 ritheme.com 使用者中心輸入您的許可證 ID 和許可證代碼，然後點擊「儲存」進行驗證。"
+
+msgid "Status"
+msgstr "地位"
+
+msgid "License Key"
+msgstr "許可證密鑰"
+
+msgid "License Email"
+msgstr "授權電子郵件"
+
+msgid "Activation Date"
+msgstr "啟用日期"
+
+msgid "Expiration Date"
+msgstr "截止日期"
+
+msgid "Lifetime License"
+msgstr "終身許可證"
+
+msgid "Activation Domain"
+msgstr "啟動域"
+
+msgid "Update License"
+msgstr "更新許可證"
+
+msgid "Deactivate License"
+msgstr "停用許可證"
+
+msgid "License Code"
+msgstr "許可證代碼"
+
+msgid "Activate"
+msgstr "啟用設定"
+
+msgid "Embed"
+msgstr "嵌入"
+
+msgid "Link"
+msgstr "關聯"
+
+msgid "MP4"
+msgstr "MP4"
+
+msgid "Auto"
+msgstr "汽車"
+
+msgid "Iframe"
+msgstr "內嵌框架"
+
+msgid "Images"
+msgstr "圖片"
+
+msgid "Broken Report"
+msgstr "破損報告"
+
+msgid "Status updated successfully"
+msgstr "狀態更新成功"
+
+msgid "Failed to update status"
+msgstr "更新狀態失敗"
+
+msgid "Item removed successfully"
+msgstr "商品已成功移除"
+
+msgid "Failed to remove item"
+msgstr "無法移除商品"
+
+msgid "All items removed successfully"
+msgstr "已成功刪除所有項目"
+
+msgid "Failed to remove all items"
+msgstr "無法刪除所有項目"
+
+msgid "Broken Movie"
+msgstr "破碎的電影"
+
+msgid "Delete All"
+msgstr "全部刪除"
+
+msgid "Prev"
+msgstr "上一頁"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Reporter"
+msgstr "記者"
+
+msgid "Issues"
+msgstr "問題"
+
+msgid "Details"
+msgstr "細節"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Action"
+msgstr "行動"
+
+msgid "Empty!"
+msgstr "空的！"
+
+msgid "Mark As Resolved"
+msgstr "標記為已解決"
+
+msgid "Edit"
+msgstr "編輯"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "Issues Configuration"
+msgstr "問題配置"
+
+msgid "Save Changes"
+msgstr "儲存變更"
+
+msgid "Add Server"
+msgstr "新增伺服器"
+
+msgid "Server #1"
+msgstr "伺服器 #1"
+
+msgid "Chapter #1"
+msgstr "第一章"
+
+msgid "Server"
+msgstr "伺服器"
+
+msgid "Server Name"
+msgstr "伺服器名稱"
+
+msgid "Add New Chapter"
+msgstr "新增章節"
+
+msgid "Import Chapters"
+msgstr "導入章節"
+
+msgid "Paste your chapter list in the format: Title|Chapter Number|URL"
+msgstr "以以下格式貼上章節清單：標題|章節編號|URL"
+
+msgid "Import"
+msgstr "進口"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "STT"
+msgstr "靜止態"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Index"
+msgstr "指數"
+
+msgid "Chapter Name"
+msgstr "章節名稱"
+
+msgid "Ex: https://example.com/chapter-1 (OR) image1*image2*..."
+msgstr "例如：https://example.com/chapter-1 （或）image1*image2*..."
+
+msgid "Meta Videos"
+msgstr "元影片"
+
+msgid "Completed"
+msgstr "完全的"
+
+msgid "Ongoing"
+msgstr "正在進行"
+
+msgid "Upcoming"
+msgstr "即將推出"
+
+msgid "Manga"
+msgstr "漫畫"
+
+msgid "Manhua"
+msgstr "漫畫"
+
+msgid "Manhwa"
+msgstr "漫畫"
+
+msgid "Doujinshi"
+msgstr "同人誌"
+
+msgid "External ID"
+msgstr "外部 ID"
+
+msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
+msgstr "如果漫畫是從其他來源（例如 MAL、Anilist）匯入的，請輸入 ID。"
+
+msgid "Thumbnail"
+msgstr "縮圖"
+
+msgid "Optional if a Featured Image has already been set."
+msgstr "如果已設定特色圖片，則為可選。"
+
+msgid "Poster"
+msgstr "海報"
+
+msgid "Displayed in vertical format. Optional if you want to use a different image from the Featured Image."
+msgstr "以垂直格式顯示。如果您想使用與特色圖片不同的圖片，則可選。"
+
+msgid "Alternative Title"
+msgstr "替代標題"
+
+msgid "Optional backup or translated title."
+msgstr "可選的備份或翻譯標題。"
+
+msgid "Adult Content"
+msgstr "成人內容"
+
+msgid "Enable if this manga contains 18+ content."
+msgstr "如果該漫畫包含 18+ 內容則啟用。"
+
+msgid "Schedule"
+msgstr "行程"
+
+msgid "Enable if this manga has a release schedule."
+msgstr "如果該漫畫有發佈時間表則啟用。"
+
+msgid "Release Days"
+msgstr "發布日期"
+
+msgid "Select the days this manga is usually updated."
+msgstr "選擇該漫畫通常更新的日期。"
+
+msgid "Monday"
+msgstr "週一"
+
+msgid "Tuesday"
+msgstr "週二"
+
+msgid "Wednesday"
+msgstr "週三"
+
+msgid "Thursday"
+msgstr "週四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "週六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Release Time"
+msgstr "發佈時間"
+
+msgid "Optional — Time of day when the manga is usually released."
+msgstr "可選——漫畫通常發布的時間。"
+
+msgid "Enable Message"
+msgstr "啟用訊息"
+
+msgid "Turn on to display a custom message on the manga page."
+msgstr "打開後在漫畫頁面上顯示自訂訊息。"
+
+msgid "Message Content"
+msgstr "訊息內容"
+
+msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
+msgstr "輸入要顯示的訊息（例如，發佈時間、更新狀態）。如未使用，請留空。"
+
+msgid "Image / Avatar"
+msgstr "圖片/頭像"
+
+msgid "Used for featured or profile display."
+msgstr "用於特色或個人資料展示。"
+
+msgid "Sub"
+msgstr "子"
+
+msgid "Main"
+msgstr "主要的"
+
+msgid "Supporting"
+msgstr "支援"
+
+msgid "Views"
+msgstr "視圖"
+
+msgid "Likes"
+msgstr "喜歡"
+
+msgid "Favorites"
+msgstr "收藏夾"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Artist"
+msgstr "藝術家"
+
+msgid "Magazine"
+msgstr "雜誌"
+
+msgid "Character"
+msgstr "特點"
+
+msgid "Release"
+msgstr "發布"
+
+msgid "Search"
+msgstr "搜尋"
+
+msgid "All Items"
+msgstr "所有商品"
+
+msgid "View Item"
+msgstr "查看商品"
+
+msgid "Edit Item"
+msgstr "編輯項目"
+
+msgid "Update Item"
+msgstr "更新項目"
+
+msgid "Separate items with commas"
+msgstr "用逗號分隔項目"
+
+msgid "Add or remove items"
+msgstr "新增或刪除項目"
+
+msgid "Choose from the most used"
+msgstr "從最常用的"
+
+msgid "Most Used"
+msgstr "最常用"
+
+msgid "Custom Fields"
+msgstr "自訂字段"
+
+msgid "SEO"
+msgstr "搜尋引擎優化"
+
+msgid "Custom SEO Title"
+msgstr "自訂 SEO 標題"
+
+msgid "Leave blank to set nothing"
+msgstr "留空表示不設定任何內容"
+
+msgid "Custom SEO Keywords"
+msgstr "自訂SEO關鍵字"
+
+msgid "Keywords are separated by commas, leave blank to set nothing"
+msgstr "關鍵字以逗號分隔，留空表示不設定"
+
+msgid "Custom SEO Description"
+msgstr "自訂SEO描述"
+
+msgid "BXManager"
+msgstr "BX管理器"
+
+msgid "Player & ADS"
+msgstr "球員和廣告"
+
+msgid "Player Size"
+msgstr "玩家尺寸"
+
+msgid "JWPlayer error detect"
+msgstr "JWPlayer 錯誤偵測"
+
+msgid "If the player cannot play the video, it will automatically switch to another server."
+msgstr "如果播放器無法播放視頻，它將自動切換到另一台伺服器。"
+
+msgid "Show Modal Popup"
+msgstr "顯示模式彈出視窗"
+
+msgid "Auto Play Alternative Server"
+msgstr "自動播放備用伺服器"
+
+msgid "Auto Play Custom Server"
+msgstr "自動播放自訂伺服器"
+
+msgid "Enable Auto Report"
+msgstr "啟用自動報告"
+
+msgid "Enable to automatically report the episode when the user clicks on the report button."
+msgstr "當使用者點選檢舉按鈕時，啟用自動檢舉功能。"
+
+msgid "Show Ads Vast"
+msgstr "顯示廣告 Vast"
+
+msgid "VAST Configuration"
+msgstr "VAST配置"
+
+msgid "Configure VAST settings for the player"
+msgstr "為播放器配置 VAST 設定"
+
+msgid "VAST File"
+msgstr "VAST文件"
+
+msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
+msgstr "用於廣告的 VAST 檔案的網址。如果您啟用 JWPlayer 廣告，則需要此位址。"
+
+msgid "Ads Message"
+msgstr "廣告訊息"
+
+msgid "Ex: XX seconds left in ad. XX cannot be changed"
+msgstr "例如：廣告剩餘 XX 秒。 XX 無法更改"
+
+msgid "XX seconds left in ad"
+msgstr "廣告剩餘 XX 秒"
+
+msgid "Skip Offset"
+msgstr "跳過偏移量"
+
+msgid "The number of seconds before the skip button appears. Default is 5 seconds."
+msgstr "跳過按鈕出現前的秒數。預設為 5 秒。"
+
+msgid "Skip Text"
+msgstr "跳過文字"
+
+msgid "The text to display on the skip button. Default is \"Skip Ad\"."
+msgstr "跳過按鈕上顯示的文字。預設為“跳過廣告”。"
+
+msgid "Skip Ad"
+msgstr "跳過廣告"
+
+msgid "Skip Message"
+msgstr "跳過訊息"
+
+msgid "The message to display when the skip button appears. Default is \"Skip after xxs seconds\"."
+msgstr "跳過按鈕出現時顯示的訊息。預設為“xxs 秒後跳過”。"
+
+msgid "Skip after xxs seconds"
+msgstr "xxs 秒後跳過"
+
+msgid "Show Logo Player"
+msgstr "顯示徽標播放器"
+
+msgid "Logo Player Configuration"
+msgstr "徽標播放器配置"
+
+msgid "Show logo on both JWPlayer and embedded iframe player"
+msgstr "在 JWPlayer 和嵌入式 iframe 播放器上顯示徽標"
+
+msgid "Logo File"
+msgstr "標誌文件"
+
+msgid "The URL of an external JPG, PNG or GIF image to be used as watermark (e.g. /assets/logo.png). We recommend using 24 bit PNG images with transparency"
+msgstr "用作浮水印的外部 JPG、PNG 或 GIF 圖片的 URL（例如 /assets/logo.png）。我們建議使用 24 位元透明 PNG 圖片"
+
+msgid "Logo link"
+msgstr "徽標連結"
+
+msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
+msgstr "點擊浮水印圖片時造訪的 URL。除非配置了此選項，否則點擊徽標不會產生任何影響"
+
+msgid "Logo Position"
+msgstr "標誌位置"
+
+msgid "Top left"
+msgstr "左上角"
+
+msgid "Top right"
+msgstr "右上角"
+
+msgid "Bottom left"
+msgstr "左下角"
+
+msgid "Bottom right"
+msgstr "右下角"
+
+msgid "Control bar (JWPlayer only)"
+msgstr "控制欄（僅限 JWPlayer）"
+
+msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
+msgstr "設定顯示浮水印的角落。 「control-bar」選項僅在 JWPlayer 中受支持，並將徽標新增為控制列右側按鈕組中的最左側圖示。"
+
+msgid "Auto hide logo (JWPlayer only)"
+msgstr "自動隱藏標誌（僅限 JWPlayer）"
+
+msgid "This setting only applies to JWPlayer: Auto hide the logo when the mouse is not over the player."
+msgstr "此設定僅適用於 JWPlayer：當滑鼠不在播放器上時自動隱藏徽標。"
+
+msgid "Show Ads & Banner"
+msgstr "展示廣告和橫幅"
+
+msgid "Custom Ads Position"
+msgstr "自訂廣告位置"
+
+msgid "Ads Configuration"
+msgstr "廣告配置"
+
+msgid "You can add ads code for desktop and mobile devices"
+msgstr "您可以為桌面裝置和行動裝置新增廣告代碼"
+
+msgid "ADS Desktop"
+msgstr "ADS桌面"
+
+msgid "Popup Ads Code Desktop"
+msgstr "桌面彈出廣告代碼"
+
+msgid "Header Ads Code Desktop"
+msgstr "桌面版標題廣告代碼"
+
+msgid "Footer Ads Code Desktop"
+msgstr "頁腳廣告代碼桌面版"
+
+msgid "Top Player Ads Code Desktop"
+msgstr "頂級玩家廣告代碼桌面版"
+
+msgid "Under Player Ads Desktop"
+msgstr "播放器廣告桌面下"
+
+msgid "ADS Mobile"
+msgstr "ADS移動"
+
+msgid "Header Ads Code Mobile"
+msgstr "行動版標題廣告代碼"
+
+msgid "Footer Ads Code Mobile"
+msgstr "行動版頁尾廣告代碼"
+
+msgid "Top Player Ads Code Mobile"
+msgstr "頂級玩家廣告代碼移動版"
+
+msgid "Under Player Ads Mobile"
+msgstr "移動播放器下方廣告"
+
+msgid "Resume Playback"
+msgstr "繼續播放"
+
+msgid "Use localStorage to remember where the user left off and resume playback at the same time offset when revisiting the page."
+msgstr "使用 localStorage 記住使用者上次中斷的位置，並在重新造訪頁面時以相同的時間偏移量繼續播放。"
+
+msgid "Cache Player"
+msgstr "快取播放器"
+
+msgid "Enable cache link"
+msgstr "啟用快取連結"
+
+msgid "Cache Configuration"
+msgstr "快取配置"
+
+msgid "Auto reset cache"
+msgstr "自動重置快取"
+
+msgid "Automatically clear the cache if the player error"
+msgstr "播放器出錯時自動清除緩存"
+
+msgid "Cache time"
+msgstr "快取時間"
+
+msgid "Cache expired time. (seconds)"
+msgstr "緩存過期時間。 （秒）"
+
+msgid "Custom JWPlayer"
+msgstr "自訂 JWPlayer"
+
+msgid "JWPlayer Configuration"
+msgstr "JWPlayer 配置"
+
+msgid "Autostart"
+msgstr "自動啟動"
+
+msgid "Auto Pause Player"
+msgstr "自動暫停播放器"
+
+msgid "Automatically pauses the player based on certain rules"
+msgstr "根據特定規則自動暫停播放器"
+
+msgid "Share Button"
+msgstr "分享按鈕"
+
+msgid "Jwplayer License key"
+msgstr "Jwplayer 許可證金鑰"
+
+msgid "A license key is required for the Pro, Premium and Ads edition."
+msgstr "Pro、Premium 和 Ads 版本需要許可證金鑰。"
+
+msgid "Floating Player"
+msgstr "浮動播放器"
+
+msgid "Default poster image"
+msgstr "預設海報圖片"
+
+msgid "Default Subtitle"
+msgstr "預設字幕"
+
+msgid "Add the url of the file subtitle.srt, .vtt or using the Upload button."
+msgstr "新增檔案 subtitle.srt、.vtt 的 url 或使用上傳按鈕。"
+
+msgid "Select a method to read subtitles"
+msgstr "選擇閱讀字幕的方法"
+
+msgid "Direct link"
+msgstr "直接連結"
+
+msgid "Use readsub.php"
+msgstr "使用 readsub.php"
+
+msgid "Subtitle color"
+msgstr "字幕顏色"
+
+msgid "Subtitle font size"
+msgstr "字幕字體大小"
+
+msgid "About text"
+msgstr "關於文字"
+
+msgid "Custom text to display in the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "右鍵選單中顯示的自訂文字。僅限高級版和廣告版設置"
+
+msgid "About link"
+msgstr "關於連結"
+
+msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "點擊右鍵選單時連結到的自訂 URL。僅限高級版和廣告版設置"
+
+msgid "Detect AdBlocker"
+msgstr "偵測廣告攔截器"
+
+msgid "Auto detects ad blockers and displays a notification to users"
+msgstr "自動偵測廣告攔截器並向使用者顯示通知"
+
+msgid "Adblock Notices"
+msgstr "廣告攔截通知"
+
+msgid "Please disable AdBlock to continue watching."
+msgstr "請停用 AdBlock 以繼續觀看。"
+
+msgid "Ex: \"Users please remove ad blocker!\""
+msgstr "例如：“用戶請刪除廣告攔截器！”"
+
+msgid "All"
+msgstr "全部"
+
+msgid "View"
+msgstr "看法"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Add New "
+msgstr "新增"
+
+msgid "New"
+msgstr "新的"
+
+msgid "Add New Episode"
+msgstr "新增劇集"
+
+msgid "Slug"
+msgstr "蛞蝓"
+
+msgid "Add Subtitle"
+msgstr "新增字幕"
+
+msgid "Label"
+msgstr "標籤"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Movie Details"
+msgstr "電影詳情"
+
+msgid "TMDB ID"
+msgstr "TMDB ID"
+
+msgid "Enter the TMDB ID for this movie."
+msgstr "輸入該電影的 TMDB ID。"
+
+msgid "IMDB ID"
+msgstr "IMDB ID"
+
+msgid "Enter the IMDB ID for this movie."
+msgstr "輸入這部電影的 IMDB ID。"
+
+msgid "Other ID"
+msgstr "其他身分證"
+
+msgid "Enter any other relevant ID for this movie."
+msgstr "輸入該電影的任何其他相關 ID。"
+
+msgid "Runtime"
+msgstr "運行時"
+
+msgid "Enter the runtime of the movie."
+msgstr "輸入電影的播放時間。"
+
+msgid "Episodes"
+msgstr "劇集"
+
+msgid "Enter the episode number of the movie."
+msgstr "輸入電影的集數。"
+
+msgid "Total Episodes"
+msgstr "總集數"
+
+msgid "Enter the total number of episodes for the movie."
+msgstr "輸入電影的總集數。"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
+msgstr "輸入電影的品質（例如，1080p、720p）。"
+
+msgid "Enter the number of likes for this movie."
+msgstr "輸入這部電影的讚數。"
+
+msgid "Dislikes"
+msgstr "不喜歡"
+
+msgid "Enter the number of dislikes for this movie."
+msgstr "輸入不喜歡這部電影的人數。"
+
+msgid "Enter the number of favorites for this movie."
+msgstr "輸入這部電影的收藏數量。"
+
+msgid "Single Movies"
+msgstr "單曲電影"
+
+msgid "TV Series"
+msgstr "電視劇"
+
+msgid "TV Shows"
+msgstr "電視節目"
+
+msgid "Theater Movie"
+msgstr "戲院電影"
+
+msgid "Cartoon"
+msgstr "卡通片"
+
+msgid "Trailer"
+msgstr "拖車"
+
+msgid "OnGoing"
+msgstr "正在進行"
+
+msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
+msgstr "如果已設定特色圖片，則可選。僅允許使用 .png、.jpg、.jpeg 格式的圖片。"
+
+msgid "Trailer Links"
+msgstr "預告片連結"
+
+msgid "Upload or Paste Trailer Links"
+msgstr "上傳或貼上預告片鏈接"
+
+msgid "Schedule Content"
+msgstr "日程內容"
+
+msgid "Enable if this movie has a release schedule."
+msgstr "如果這部電影有上映計劃，則啟用。"
+
+msgid "Schedule Day"
+msgstr "日程安排日"
+
+msgid "Select the day of the week for the movie release schedule."
+msgstr "選擇電影上映日期的星期幾。"
+
+msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
+msgstr "輸入電影上映的時間（例如，上午 10:00）。"
+
+msgid "Related Seasons"
+msgstr "相關季節"
+
+msgid "Select related seasons for this movie."
+msgstr "選擇這部電影的相關季節。"
+
+msgid "Movies Settings"
+msgstr "電影設定"
+
+msgid "Metabox Fields"
+msgstr "Metabox 字段"
+
+msgid "Use Additional Fields"
+msgstr "使用附加字段"
+
+msgid "Additional Fields"
+msgstr "附加字段"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Number"
+msgstr "數位"
+
+msgid "Textarea"
+msgstr "文字區域"
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "Switcher"
+msgstr "切換器"
+
+msgid "Items Select"
+msgstr "項目選擇"
+
+msgid "ID Options"
+msgstr "ID 選項"
+
+msgid "Value Options"
+msgstr "價值選項"
+
+msgid "Metaboxes"
+msgstr "元框"
+
+msgid "Showed"
+msgstr "顯示"
+
+msgid "Hide"
+msgstr "隱藏"
+
+msgid "Season"
+msgstr "季節"
+
+msgid "Season Number"
+msgstr "季節號"
+
+msgid "Add Video"
+msgstr "新增影片"
+
+msgid "Add New Video"
+msgstr "新增視頻"
+
+msgid "Enter video name"
+msgstr "輸入影片名稱"
+
+msgid "Enter video link"
+msgstr "輸入視訊連結"
+
+msgid "Video Code"
+msgstr "視訊程式碼"
+
+msgid "Enter the video code for this movie."
+msgstr "輸入該電影的視訊代碼。"
+
+msgid "Video Preview"
+msgstr "影片預覽"
+
+msgid "Upload or Paste Video Preview Links"
+msgstr "上傳或貼上影片預覽鏈接"
+
+msgid "Videos Settings"
+msgstr "影片設定"
+
+msgid "Yes"
+msgstr "是的"
+
+msgid "No"
+msgstr "不"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Active Theme"
+msgstr "活動主題"
+
+msgid "Data is being imported please be patient..."
+msgstr "數據正在導入，請耐心等待..."
+
+msgid "Loading..."
+msgstr "載入中..."
+
+msgid "An error occurred"
+msgstr "發生錯誤"
+
+msgid "Have fun!"
+msgstr "玩得開心！"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "List Episode"
+msgstr "列出劇集"
+
+msgid "EMBED"
+msgstr "嵌入"
+
+msgid "Content"
+msgstr "內容"
+
+msgid "Are you sure you want to delete this server?"
+msgstr "您確定要刪除該伺服器嗎？"
+
+msgid "Are you sure you want to delete this episode?"
+msgstr "您確定要刪除此集嗎？"
+
+msgid "Are you sure you want to delete this video?"
+msgstr "您確定要刪除該影片嗎？"
+
+msgid "Are you sure you want to delete this chapter?"
+msgstr "您確定要刪除此章節嗎？"
+
+msgid "less than 1 second ago"
+msgstr "不到 1 秒前"
+
+msgid "year ago"
+msgstr "一年前"
+
+msgid "month ago"
+msgstr "一個月前"
+
+msgid "day ago"
+msgstr "一天前"
+
+msgid "hour ago"
+msgstr "小時前"
+
+msgid "minute ago"
+msgstr "分鐘前"
+
+msgid "second ago"
+msgstr "第二次之前"
+
+msgid "years ago"
+msgstr "幾年前"
+
+msgid "months ago"
+msgstr "幾個月前"
+
+msgid "days ago"
+msgstr "天前"
+
+msgid "hours ago"
+msgstr "小時前"
+
+msgid "minutes ago"
+msgstr "分鐘前"
+
+msgid "seconds ago"
+msgstr "幾秒前"
+
+msgid "Copyright infringement!"
+msgstr "侵犯版權！"
+
+msgid "Choose Server"
+msgstr "選擇伺服器"
+
+msgid "Save"
+msgstr "節省"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "您確定要刪除此項目嗎？"
+
+msgid "Are you sure you want to delete %d selected items?"
+msgstr "您確定要刪除 %d 個選定的項目嗎？"
+
+msgid "Updated successfully!"
+msgstr "更新成功！"
+
+msgid "Deleted successfully!"
+msgstr "刪除成功！"
+
+msgid "Saved successfully!"
+msgstr "儲存成功！"
+
+msgid "An error occurred: %s"
+msgstr "發生錯誤：%s"
+
+msgid "Please select at least one item"
+msgstr "請選擇至少一項"
+
+msgid "Processing..."
+msgstr "加工..."
+
+msgid "Search:"
+msgstr "搜尋:"
+
+msgid "Show _MENU_ entries"
+msgstr "顯示_MENU_條目"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "顯示 _TOTAL_ 個條目中的 _START_ 至 _END_ 條"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "顯示 0 至 0 條，共 0 條"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "（從_MAX_個條目中過濾）"
+
+msgid "First"
+msgstr "第一的"
+
+msgid "Last"
+msgstr "最後的"
+
+msgid "Previous"
+msgstr "以前的"
+
+msgid "This video file cannot be played"
+msgstr "此影片檔案無法播放"
+
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "我們無法找到您要尋找的影片。這可能有幾個原因，例如它被擁有者刪除了！"
+
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "要繼續觀看，請點擊「重新載入播放器」按鈕"
+
+msgid "or click on the buttons below"
+msgstr "或點擊下面的按鈕"
+
+msgid "Reload Player"
+msgstr "重新載入播放器"
+
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "您想從保存的位置繼續觀看還是從頭開始？"
+
+msgid "Continue watching"
+msgstr "繼續觀看"
+
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "自動從您上次觀看的位置繼續播放您的影片"
+
+msgid "Playback"
+msgstr "播放"
+
+msgid "Loading, please wait..."
+msgstr "載入中，請稍候..."
+
+msgid "Switching to backup server..."
+msgstr "切換到備用伺服器..."

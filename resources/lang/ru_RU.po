@@ -1,0 +1,1363 @@
+# Date created: 2025-08-22 03:02:16 by https://buxt.net
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-23 06:54+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Type Site"
+msgstr "Тип сайта"
+
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+msgid "Custom CSS Code"
+msgstr "Пользовательский CSS-код"
+
+msgid "At the top, for custom CSS No need to add <strong>&lt;style></strong> tags"
+msgstr "Вверху, для пользовательского CSS. Не нужно добавлять теги <strong>&lt;style></strong>"
+
+msgid "Custom JS Code at Footer"
+msgstr "Пользовательский код JS в нижнем колонтитуле"
+
+msgid "At the bottom, for adding third-party analytics code, e.g. Google analytics, Baidu, CNZZ. Example: "
+msgstr "Внизу — для добавления кода стороннего аналитика, например, Google Analytics, Baidu, CNZZ. Пример:"
+
+msgid "Site Logo"
+msgstr "Логотип сайта"
+
+msgid "Set the site logo (recommended to match the custom logo width and height)"
+msgstr "Установите логотип сайта (рекомендуется, чтобы ширина и высота соответствовали пользовательскому логотипу)"
+
+msgid "Site Favicon"
+msgstr "Фавикон сайта"
+
+msgid "Open Main Links in New Tab"
+msgstr "Открыть основные ссылки в новой вкладке"
+
+msgid "Main links such as list/grid articles will open in a new tab."
+msgstr "Основные ссылки, такие как статьи в виде списка/сетки, будут открываться в новой вкладке."
+
+msgid "Site Comment Feature"
+msgstr "Функция комментариев на сайте"
+
+msgid "Control the site comment feature. Disable if not needed."
+msgstr "Управление функцией комментирования на сайте. Отключите, если не нужно."
+
+msgid "SEO Settings"
+msgstr "Настройки SEO"
+
+msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
+msgstr "Возможности SEO-оптимизации темы:<br>1. Поддерживает пользовательскую замену стандартного разделителя заголовков WordPress."
+
+msgid "Simplify Category Alias"
+msgstr "Упростить псевдоним категории"
+
+msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
+msgstr "Удалите префикс «category/» из ссылок на категории статей. Как правило, рекомендуется сохранить правила WordPress по умолчанию."
+
+msgid "Built-in SEO Features"
+msgstr "Встроенные функции SEO"
+
+msgid "Built-in SEO Settings"
+msgstr "Встроенные настройки SEO"
+
+msgid "Site-wide Link Separator"
+msgstr "Разделитель ссылок на всем сайте"
+
+msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
+msgstr "После выбора не меняйте значение на полпути, так как это неоптимизировано для SEO. Обычно это «-» или «_»."
+
+msgid "Site Keywords"
+msgstr "Ключевые слова сайта"
+
+msgid "3-5 keywords, separated by commas"
+msgstr "3-5 ключевых слов, разделенных запятыми"
+
+msgid "Site Description"
+msgstr "Описание сайта"
+
+msgid "Taxonomy Custom"
+msgstr "Таксономия Пользовательская"
+
+msgid "Custom filter fields"
+msgstr "Пользовательские поля фильтра"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "Какие настраиваемые поля отображать для фильтрации записей"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "Расширенная конфигурация полей настраиваемого фильтра"
+
+msgid "Filter Name"
+msgstr "Имя фильтра"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "Например: формат, цвет, размер, параметры, имя можно изменить в процессе настройки."
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "Уникальный идентификатор поля таксономии"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "Должен быть на чистом английском языке, например, geshhi, yanse, szie, color, <b style=\"color:red;\">После установки, если уже выбраны связанные статьи, этот идентификатор нельзя изменить на полпути</b>"
+
+msgid "Option Type"
+msgstr "Тип опции"
+
+msgid "Multiple Choice"
+msgstr "Множественный выбор"
+
+msgid "Dropdown Single Choice"
+msgstr "Раскрывающийся список с одним выбором"
+
+msgid "Single Choice"
+msgstr "Единственный выбор"
+
+msgid "Option type when publishing articles in the background"
+msgstr "Тип опции при публикации статей в фоновом режиме"
+
+msgid "Advanced Search"
+msgstr "Расширенный поиск"
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "Отключить функцию поиска по всему сайту (внимание)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "После отключения поиск статей на сайте будет невозможен. Это может эффективно предотвратить атаки методом подбора паролей и блокировку базы данных."
+
+msgid "Optimize Search to Only Search Article Titles"
+msgstr "Оптимизируйте поиск, чтобы искать только по заголовкам статей"
+
+msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
+msgstr "После включения функции при поиске по сайту будет использоваться только заголовок статьи, что значительно повышает эффективность поиска при большом количестве статей. Включайте при необходимости."
+
+msgid "Search Box Supports Searching by Category"
+msgstr "Поле поиска поддерживает поиск по категории"
+
+msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
+msgstr "Включено по умолчанию. Если отключено, раскрывающийся список выбора категории не будет отображаться."
+
+msgid "Category Display Depth in Search Box"
+msgstr "Глубина отображения категории в строке поиска"
+
+msgid "Show only 1-level main categories"
+msgstr "Показывать только основные категории 1-го уровня"
+
+msgid "Expand to 2-level subcategories"
+msgstr "Развернуть до 2-уровневых подкатегорий"
+
+msgid "Expand to 3-level subcategories"
+msgstr "Развернуть до 3-уровневых подкатегорий"
+
+msgid "Sorting Method for Category Selection in Search Box"
+msgstr "Метод сортировки для выбора категории в поле поиска"
+
+msgid "By Category ID"
+msgstr "По идентификатору категории"
+
+msgid "By Category Name"
+msgstr "По названию категории"
+
+msgid "By Category Alias"
+msgstr "По категории Псевдоним"
+
+msgid "By Total Number of Posts"
+msgstr "По общему количеству сообщений"
+
+msgid "Category Page - Top"
+msgstr "Страница категории - Верх"
+
+msgid "Category Page - Bottom"
+msgstr "Страница категории — нижняя"
+
+msgid "Single Post Page - Top"
+msgstr "Страница отдельного поста — вверху"
+
+msgid "Single Post Page - Bottom"
+msgstr "Страница отдельного поста — нижняя часть"
+
+msgid "Desktop Ad Code"
+msgstr "Рекламный код для ПК"
+
+msgid "Mobile Ad Code"
+msgstr "Код мобильной рекламы"
+
+msgid "Ad Settings"
+msgstr "Настройки рекламы"
+
+msgid "Website Optimization"
+msgstr "Оптимизация веб-сайта"
+
+msgid "Use Gutenberg Editor"
+msgstr "Использовать редактор Гутенберга"
+
+msgid "Use Gutenberg Widgets"
+msgstr "Используйте виджеты Гутенберга"
+
+msgid "Enable Menu Caching"
+msgstr "Включить кэширование меню"
+
+msgid "Enable to cache the site’s top menu to reduce SQL queries. Disable if using different menus across domains."
+msgstr "Включите кэширование главного меню сайта для уменьшения количества SQL-запросов. Отключите, если используете разные меню на разных доменах."
+
+msgid "Disable WP Content Texturization"
+msgstr "Отключить текстуризацию содержимого WP"
+
+msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
+msgstr "Отключение позволяет использовать форматирование исходного кода в сообщениях без экранирования. Полезно для контента, основанного на коде."
+
+msgid "Remove Frontend Admin Bar"
+msgstr "Удалить панель администратора Frontend"
+
+msgid "Remove WP Admin Top Logo Menu"
+msgstr "Удалить верхнее меню логотипа WP Admin"
+
+msgid "Remove WP Admin Footer Version Info"
+msgstr "Удалить информацию о версии нижнего колонтитула WP Admin"
+
+msgid "Remove WP Dashboard Menu"
+msgstr "Удалить меню панели инструментов WP"
+
+msgid "Remove WP Emoji Plugin"
+msgstr "Удалить плагин WP Emoji"
+
+msgid "Greatly reduces JS and CSS usage."
+msgstr "Значительно сокращает использование JS и CSS."
+
+msgid "Optimize Head Tags on Frontend"
+msgstr "Оптимизация тегов заголовков на фронтенде"
+
+msgid "Simplify Image HTML Code"
+msgstr "Упростить HTML-код изображения"
+
+msgid "Removes unnecessary HTML attributes added by the default WP image editor."
+msgstr "Удаляет ненужные атрибуты HTML, добавленные редактором изображений WP по умолчанию."
+
+msgid "Disable REST API"
+msgstr "Отключить REST API"
+
+msgid "If you’re using mobile apps or similar, do not disable this."
+msgstr "Если вы используете мобильные приложения или что-то подобное, не отключайте эту функцию."
+
+msgid "Disable XML-RPC (Pingback)"
+msgstr "Отключить XML-RPC (Pingback)"
+
+msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr "XML-RPC используется сторонними клиентами. Отключение этого протокола может помочь предотвратить атаки методом подбора."
+
+msgid "Disable F12 Key, Debug tools in Browser"
+msgstr "Отключить клавишу F12, инструменты отладки в браузере"
+
+msgid "Disable F12 key, Debug tools in Browser"
+msgstr "Отключить клавишу F12, инструменты отладки в браузере"
+
+msgid "URL to redirect if debug tool is opened"
+msgstr "URL для перенаправления, если открыт инструмент отладки"
+
+msgid "URL will redirect to after pressing F12 (Default is: https://buxt.net)"
+msgstr "URL-адрес будет перенаправлен после нажатия F12 (по умолчанию: https://buxt.net)"
+
+msgid "Import Demo"
+msgstr "Импорт демо"
+
+msgid "Create Page"
+msgstr "Создать страницу"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Создайте <a href=\"%s\" target=\"_blank\">страницу</a>, как на демо-версии <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Create Menu"
+msgstr "Создать меню"
+
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Создайте <a href=\"%s\" target=\"_blank\">меню</a>, как на демонстрации <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Create Widgets"
+msgstr "Создать виджеты"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Создайте <a href=\"%s\" target=\"_blank\">виджеты</a>, как в демоверсии <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Import Themes Demo"
+msgstr "Демонстрация импорта тем"
+
+msgid "Import Theme Demo"
+msgstr "Импорт демо-темы"
+
+msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Импортируйте демонстрационное <a href=\"%s\" target=\"_blank\">содержимое</a>, как в <a href=\"%s\" target=\"_blank\">%s</a> демо."
+
+msgid "Backup Settings"
+msgstr "Настройки резервного копирования"
+
+msgid "This will only back up all theme option settings on this page. It does NOT back up WordPress data like posts. ⚠️ Note: The backup data saved here is in string format and has length validation. Do not manually modify the string to avoid corruption. If editing is needed, please import the data as-is and make changes through the input fields on the settings page."
+msgstr "Это позволит создать резервную копию только всех настроек темы на этой странице. Резервное копирование данных WordPress, таких как записи, НЕ выполняется. ⚠️ Примечание: данные резервной копии, сохранённые здесь, имеют строковый формат и проверены на длину. Не изменяйте строку вручную во избежание её повреждения. Если требуется редактирование, импортируйте данные «как есть» и внесите изменения через поля ввода на странице настроек."
+
+msgid "Cache Manager"
+msgstr "Менеджер кэша"
+
+msgid "Total Cache"
+msgstr "Общий кэш"
+
+msgid "Cache Empty!"
+msgstr "Кэш пуст!"
+
+msgid "Delete All Cache"
+msgstr "Удалить весь кэш"
+
+msgid "Are you sure you want to remove all cache?"
+msgstr "Вы уверены, что хотите удалить весь кэш?"
+
+msgid "Please wait..."
+msgstr "Пожалуйста, подождите..."
+
+msgid "Error while deleting cache"
+msgstr "Ошибка при удалении кэша"
+
+msgid "An unexpected error occurred"
+msgstr "Произошла непредвиденная ошибка"
+
+msgid "Theme License"
+msgstr "Лицензия на тему"
+
+msgid "No license activated. Please activate your license."
+msgstr "Лицензия не активирована. Пожалуйста, активируйте вашу лицензию."
+
+msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
+msgstr "Благодарим вас за использование этой темы. Сначала введите идентификатор лицензии и код лицензии из центра пользователя ritheme.com, а затем нажмите «Сохранить» для подтверждения."
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+msgid "License Email"
+msgstr "Лицензионный адрес электронной почты"
+
+msgid "Activation Date"
+msgstr "Дата активации"
+
+msgid "Expiration Date"
+msgstr "Дата окончания срока"
+
+msgid "Lifetime License"
+msgstr "Пожизненная лицензия"
+
+msgid "Activation Domain"
+msgstr "Домен активации"
+
+msgid "Update License"
+msgstr "Обновление лицензии"
+
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+msgid "License Code"
+msgstr "Лицензионный код"
+
+msgid "Activate"
+msgstr "Активировать"
+
+msgid "Embed"
+msgstr "Встроить"
+
+msgid "Link"
+msgstr "Связь"
+
+msgid "MP4"
+msgstr "МП4"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Iframe"
+msgstr "IFrame"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Broken Report"
+msgstr "Сломанный отчет"
+
+msgid "Status updated successfully"
+msgstr "Статус успешно обновлен"
+
+msgid "Failed to update status"
+msgstr "Не удалось обновить статус"
+
+msgid "Item removed successfully"
+msgstr "Элемент успешно удален"
+
+msgid "Failed to remove item"
+msgstr "Не удалось удалить элемент."
+
+msgid "All items removed successfully"
+msgstr "Все элементы успешно удалены"
+
+msgid "Failed to remove all items"
+msgstr "Не удалось удалить все элементы."
+
+msgid "Broken Movie"
+msgstr "Сломанный фильм"
+
+msgid "Delete All"
+msgstr "Удалить все"
+
+msgid "Prev"
+msgstr "Предыдущая"
+
+msgid "Next"
+msgstr "Следующий"
+
+msgid "Reporter"
+msgstr "Репортер"
+
+msgid "Issues"
+msgstr "Проблемы"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Empty!"
+msgstr "Пустой!"
+
+msgid "Mark As Resolved"
+msgstr "Отметить как решенное"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Remove"
+msgstr "Удалять"
+
+msgid "Issues Configuration"
+msgstr "Проблемы конфигурации"
+
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+msgid "Add Server"
+msgstr "Добавить сервер"
+
+msgid "Server #1"
+msgstr "Сервер №1"
+
+msgid "Chapter #1"
+msgstr "Глава №1"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Server Name"
+msgstr "Имя сервера"
+
+msgid "Add New Chapter"
+msgstr "Добавить новую главу"
+
+msgid "Import Chapters"
+msgstr "Импорт глав"
+
+msgid "Paste your chapter list in the format: Title|Chapter Number|URL"
+msgstr "Вставьте список глав в формате: Название|Номер главы|URL"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "STT"
+msgstr "СТТ"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Index"
+msgstr "Индекс"
+
+msgid "Chapter Name"
+msgstr "Название главы"
+
+msgid "Ex: https://example.com/chapter-1 (OR) image1*image2*..."
+msgstr "Пример: https://example.com/chapter-1 (ИЛИ) image1*image2*..."
+
+msgid "Meta Videos"
+msgstr "Мета-видео"
+
+msgid "Completed"
+msgstr "Завершенный"
+
+msgid "Ongoing"
+msgstr "Непрерывный"
+
+msgid "Upcoming"
+msgstr "Предстоящие"
+
+msgid "Manga"
+msgstr "Манга"
+
+msgid "Manhua"
+msgstr "Маньхуа"
+
+msgid "Manhwa"
+msgstr "Манхва"
+
+msgid "Doujinshi"
+msgstr "Додзинси"
+
+msgid "External ID"
+msgstr "Внешний идентификатор"
+
+msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
+msgstr "Введите идентификатор, если эта манга импортирована из другого источника (например, MAL, Anilist)."
+
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+msgid "Optional if a Featured Image has already been set."
+msgstr "Необязательно, если избранное изображение уже установлено."
+
+msgid "Poster"
+msgstr "Плакат"
+
+msgid "Displayed in vertical format. Optional if you want to use a different image from the Featured Image."
+msgstr "Отображается в вертикальном формате. Необязательно, если вы хотите использовать изображение, отличное от избранного."
+
+msgid "Alternative Title"
+msgstr "Альтернативное название"
+
+msgid "Optional backup or translated title."
+msgstr "Дополнительная резервная копия или переведенный заголовок."
+
+msgid "Adult Content"
+msgstr "Контент для взрослых"
+
+msgid "Enable if this manga contains 18+ content."
+msgstr "Включите, если эта манга содержит контент 18+."
+
+msgid "Schedule"
+msgstr "Расписание"
+
+msgid "Enable if this manga has a release schedule."
+msgstr "Включите, если у этой манги есть график выхода."
+
+msgid "Release Days"
+msgstr "Дни релиза"
+
+msgid "Select the days this manga is usually updated."
+msgstr "Выберите дни, в которые обычно обновляется эта манга."
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Release Time"
+msgstr "Время выпуска"
+
+msgid "Optional — Time of day when the manga is usually released."
+msgstr "Необязательно — Время суток, когда обычно выходит манга."
+
+msgid "Enable Message"
+msgstr "Включить сообщение"
+
+msgid "Turn on to display a custom message on the manga page."
+msgstr "Включите, чтобы отобразить пользовательское сообщение на странице манги."
+
+msgid "Message Content"
+msgstr "Содержание сообщения"
+
+msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
+msgstr "Введите сообщение для отображения (например, время выпуска, статус обновления). Оставьте поле пустым, если не используется."
+
+msgid "Image / Avatar"
+msgstr "Изображение / Аватар"
+
+msgid "Used for featured or profile display."
+msgstr "Используется для отображения избранного или профиля."
+
+msgid "Sub"
+msgstr "Суб"
+
+msgid "Main"
+msgstr "Основной"
+
+msgid "Supporting"
+msgstr "Поддерживающий"
+
+msgid "Views"
+msgstr "Просмотры"
+
+msgid "Likes"
+msgstr "Нравится"
+
+msgid "Favorites"
+msgstr "Избранное"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Artist"
+msgstr "Художник"
+
+msgid "Magazine"
+msgstr "Журнал"
+
+msgid "Character"
+msgstr "Характер"
+
+msgid "Release"
+msgstr "Выпускать"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "All Items"
+msgstr "Все предметы"
+
+msgid "View Item"
+msgstr "Просмотреть элемент"
+
+msgid "Edit Item"
+msgstr "Редактировать элемент"
+
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+msgid "Separate items with commas"
+msgstr "Разделяйте элементы запятыми."
+
+msgid "Add or remove items"
+msgstr "Добавить или удалить элементы"
+
+msgid "Choose from the most used"
+msgstr "Выбирайте из наиболее используемых"
+
+msgid "Most Used"
+msgstr "Наиболее часто используемые"
+
+msgid "Custom Fields"
+msgstr "Пользовательские поля"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Custom SEO Title"
+msgstr "Пользовательский SEO-заголовок"
+
+msgid "Leave blank to set nothing"
+msgstr "Оставьте поле пустым, чтобы ничего не устанавливать."
+
+msgid "Custom SEO Keywords"
+msgstr "Пользовательские ключевые слова SEO"
+
+msgid "Keywords are separated by commas, leave blank to set nothing"
+msgstr "Ключевые слова разделяются запятыми. Оставьте поле пустым, чтобы ничего не указывать."
+
+msgid "Custom SEO Description"
+msgstr "Индивидуальное SEO-описание"
+
+msgid "BXManager"
+msgstr "BXManager"
+
+msgid "Player & ADS"
+msgstr "Плеер и реклама"
+
+msgid "Player Size"
+msgstr "Размер игрока"
+
+msgid "JWPlayer error detect"
+msgstr "Обнаружение ошибки JWPlayer"
+
+msgid "If the player cannot play the video, it will automatically switch to another server."
+msgstr "Если проигрыватель не может воспроизвести видео, он автоматически переключится на другой сервер."
+
+msgid "Show Modal Popup"
+msgstr "Показать модальное всплывающее окно"
+
+msgid "Auto Play Alternative Server"
+msgstr "Автоматическое воспроизведение альтернативного сервера"
+
+msgid "Auto Play Custom Server"
+msgstr "Автоматическое воспроизведение пользовательского сервера"
+
+msgid "Enable Auto Report"
+msgstr "Включить автоматический отчет"
+
+msgid "Enable to automatically report the episode when the user clicks on the report button."
+msgstr "Включите автоматическую отправку отчета об эпизоде, когда пользователь нажимает кнопку «Сообщить»."
+
+msgid "Show Ads Vast"
+msgstr "Показывать рекламу Vast"
+
+msgid "VAST Configuration"
+msgstr "Конфигурация VAST"
+
+msgid "Configure VAST settings for the player"
+msgstr "Настройте параметры VAST для проигрывателя"
+
+msgid "VAST File"
+msgstr "VAST-файл"
+
+msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
+msgstr "URL-адрес VAST-файла, который будет использоваться для рекламы. Это необходимо, если вы включили рекламу в JWPlayer."
+
+msgid "Ads Message"
+msgstr "Рекламное сообщение"
+
+msgid "Ex: XX seconds left in ad. XX cannot be changed"
+msgstr "Пример: осталось XX секунд рекламы. XX нельзя изменить."
+
+msgid "XX seconds left in ad"
+msgstr "Осталось XX секунд рекламы"
+
+msgid "Skip Offset"
+msgstr "Пропустить смещение"
+
+msgid "The number of seconds before the skip button appears. Default is 5 seconds."
+msgstr "Количество секунд до появления кнопки «Пропустить». Значение по умолчанию — 5 секунд."
+
+msgid "Skip Text"
+msgstr "Пропустить текст"
+
+msgid "The text to display on the skip button. Default is \"Skip Ad\"."
+msgstr "Текст, отображаемый на кнопке «Пропустить». По умолчанию — «Пропустить рекламу»."
+
+msgid "Skip Ad"
+msgstr "Пропустить рекламу"
+
+msgid "Skip Message"
+msgstr "Пропустить сообщение"
+
+msgid "The message to display when the skip button appears. Default is \"Skip after xxs seconds\"."
+msgstr "Сообщение, которое будет отображаться при появлении кнопки «Пропустить». По умолчанию — «Пропустить через xxs секунд»."
+
+msgid "Skip after xxs seconds"
+msgstr "Пропустить через xxs секунд"
+
+msgid "Show Logo Player"
+msgstr "Показать логотип плеера"
+
+msgid "Logo Player Configuration"
+msgstr "Конфигурация проигрывателя логотипов"
+
+msgid "Show logo on both JWPlayer and embedded iframe player"
+msgstr "Показывать логотип как в JWPlayer, так и во встроенном iframe-плеере"
+
+msgid "Logo File"
+msgstr "Файл логотипа"
+
+msgid "The URL of an external JPG, PNG or GIF image to be used as watermark (e.g. /assets/logo.png). We recommend using 24 bit PNG images with transparency"
+msgstr "URL внешнего изображения JPG, PNG или GIF, которое будет использоваться в качестве водяного знака (например, /assets/logo.png). Мы рекомендуем использовать 24-битные изображения PNG с прозрачностью."
+
+msgid "Logo link"
+msgstr "Ссылка на логотип"
+
+msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
+msgstr "URL-адрес, по которому будет осуществляться переход при нажатии на изображение водяного знака. Нажатие на логотип не повлияет на результат, если это не настроено."
+
+msgid "Logo Position"
+msgstr "Положение логотипа"
+
+msgid "Top left"
+msgstr "Вверху слева"
+
+msgid "Top right"
+msgstr "Вверху справа"
+
+msgid "Bottom left"
+msgstr "Внизу слева"
+
+msgid "Bottom right"
+msgstr "Внизу справа"
+
+msgid "Control bar (JWPlayer only)"
+msgstr "Панель управления (только JWPlayer)"
+
+msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
+msgstr "Задаёт угол, в котором будет отображаться водяной знак. Параметр «control-bar» поддерживается только в JWPlayer и добавляет логотип в качестве крайнего левого значка в правой группе кнопок на панели управления."
+
+msgid "Auto hide logo (JWPlayer only)"
+msgstr "Автоматически скрывать логотип (только JWPlayer)"
+
+msgid "This setting only applies to JWPlayer: Auto hide the logo when the mouse is not over the player."
+msgstr "Этот параметр применим только к JWPlayer: автоматически скрывать логотип, когда указатель мыши не находится над проигрывателем."
+
+msgid "Show Ads & Banner"
+msgstr "Показывать рекламу и баннеры"
+
+msgid "Custom Ads Position"
+msgstr "Пользовательская позиция рекламы"
+
+msgid "Ads Configuration"
+msgstr "Конфигурация рекламы"
+
+msgid "You can add ads code for desktop and mobile devices"
+msgstr "Вы можете добавить рекламный код для настольных компьютеров и мобильных устройств."
+
+msgid "ADS Desktop"
+msgstr "ADS Desktop"
+
+msgid "Popup Ads Code Desktop"
+msgstr "Код всплывающей рекламы на рабочем столе"
+
+msgid "Header Ads Code Desktop"
+msgstr "Код заголовка объявления для рабочего стола"
+
+msgid "Footer Ads Code Desktop"
+msgstr "Код рекламного колонтитула для рабочего стола"
+
+msgid "Top Player Ads Code Desktop"
+msgstr "Код Top Player Ads для рабочего стола"
+
+msgid "Under Player Ads Desktop"
+msgstr "Под рекламой проигрывателя на рабочем столе"
+
+msgid "ADS Mobile"
+msgstr "ADS Mobile"
+
+msgid "Header Ads Code Mobile"
+msgstr "Код заголовка рекламы для мобильных устройств"
+
+msgid "Footer Ads Code Mobile"
+msgstr "Код рекламы нижнего колонтитула для мобильных устройств"
+
+msgid "Top Player Ads Code Mobile"
+msgstr "Код Top Player Ads Code для мобильных устройств"
+
+msgid "Under Player Ads Mobile"
+msgstr "Под рекламой игрока на мобильном устройстве"
+
+msgid "Resume Playback"
+msgstr "Возобновить воспроизведение"
+
+msgid "Use localStorage to remember where the user left off and resume playback at the same time offset when revisiting the page."
+msgstr "Используйте localStorage, чтобы запомнить, где остановился пользователь, и возобновить воспроизведение с того же смещения во времени при повторном посещении страницы."
+
+msgid "Cache Player"
+msgstr "Кэш-плеер"
+
+msgid "Enable cache link"
+msgstr "Включить ссылку на кэш"
+
+msgid "Cache Configuration"
+msgstr "Конфигурация кэша"
+
+msgid "Auto reset cache"
+msgstr "Автоматический сброс кеша"
+
+msgid "Automatically clear the cache if the player error"
+msgstr "Автоматически очищать кэш при ошибке плеера"
+
+msgid "Cache time"
+msgstr "время кэширования"
+
+msgid "Cache expired time. (seconds)"
+msgstr "Время истечения срока действия кэша (секунды)"
+
+msgid "Custom JWPlayer"
+msgstr "Пользовательский JWPlayer"
+
+msgid "JWPlayer Configuration"
+msgstr "Конфигурация JWPlayer"
+
+msgid "Autostart"
+msgstr "Автозапуск"
+
+msgid "Auto Pause Player"
+msgstr "Автоматическая пауза проигрывателя"
+
+msgid "Automatically pauses the player based on certain rules"
+msgstr "Автоматически ставит проигрыватель на паузу на основе определенных правил"
+
+msgid "Share Button"
+msgstr "Кнопка «Поделиться»"
+
+msgid "Jwplayer License key"
+msgstr "Лицензионный ключ Jwplayer"
+
+msgid "A license key is required for the Pro, Premium and Ads edition."
+msgstr "Для версий Pro, Premium и Ads требуется лицензионный ключ."
+
+msgid "Floating Player"
+msgstr "Плавающий игрок"
+
+msgid "Default poster image"
+msgstr "Изображение постера по умолчанию"
+
+msgid "Default Subtitle"
+msgstr "Субтитры по умолчанию"
+
+msgid "Add the url of the file subtitle.srt, .vtt or using the Upload button."
+msgstr "Добавьте URL файла subtitle.srt, .vtt или воспользуйтесь кнопкой «Загрузить»."
+
+msgid "Select a method to read subtitles"
+msgstr "Выберите способ чтения субтитров"
+
+msgid "Direct link"
+msgstr "Прямая ссылка"
+
+msgid "Use readsub.php"
+msgstr "Использовать readsub.php"
+
+msgid "Subtitle color"
+msgstr "Цвет субтитров"
+
+msgid "Subtitle font size"
+msgstr "Размер шрифта субтитров"
+
+msgid "About text"
+msgstr "О тексте"
+
+msgid "Custom text to display in the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "Пользовательский текст для отображения в контекстном меню. Доступно только для версий Premium и Ads."
+
+msgid "About link"
+msgstr "О ссылке"
+
+msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "Пользовательский URL-адрес, на который будет ссылаться контекстное меню. Можно настроить только для версий Premium и Ads."
+
+msgid "Detect AdBlocker"
+msgstr "Обнаружить блокировщик рекламы"
+
+msgid "Auto detects ad blockers and displays a notification to users"
+msgstr "Автоматически обнаруживает блокировщики рекламы и отображает уведомление пользователям"
+
+msgid "Adblock Notices"
+msgstr "Уведомления о блокировке рекламы"
+
+msgid "Please disable AdBlock to continue watching."
+msgstr "Пожалуйста, отключите AdBlock, чтобы продолжить просмотр."
+
+msgid "Ex: \"Users please remove ad blocker!\""
+msgstr "Пример: «Пользователи, пожалуйста, удалите блокировщик рекламы!»"
+
+msgid "All"
+msgstr "Все"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Update"
+msgstr "Обновлять"
+
+msgid "Add New "
+msgstr "Добавить новый"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "Add New Episode"
+msgstr "Добавить новый эпизод"
+
+msgid "Slug"
+msgstr "Слизень"
+
+msgid "Add Subtitle"
+msgstr "Добавить субтитры"
+
+msgid "Label"
+msgstr "Этикетка"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Movie Details"
+msgstr "Подробности фильма"
+
+msgid "TMDB ID"
+msgstr "Идентификатор TMDB"
+
+msgid "Enter the TMDB ID for this movie."
+msgstr "Введите идентификатор TMDB для этого фильма."
+
+msgid "IMDB ID"
+msgstr "Идентификатор IMDB"
+
+msgid "Enter the IMDB ID for this movie."
+msgstr "Введите идентификатор IMDB для этого фильма."
+
+msgid "Other ID"
+msgstr "Другой идентификатор"
+
+msgid "Enter any other relevant ID for this movie."
+msgstr "Введите любой другой соответствующий идентификатор этого фильма."
+
+msgid "Runtime"
+msgstr "Время выполнения"
+
+msgid "Enter the runtime of the movie."
+msgstr "Укажите продолжительность фильма."
+
+msgid "Episodes"
+msgstr "Эпизоды"
+
+msgid "Enter the episode number of the movie."
+msgstr "Введите номер серии фильма."
+
+msgid "Total Episodes"
+msgstr "Всего эпизодов"
+
+msgid "Enter the total number of episodes for the movie."
+msgstr "Введите общее количество серий фильма."
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
+msgstr "Введите качество фильма (например, 1080p, 720p)."
+
+msgid "Enter the number of likes for this movie."
+msgstr "Введите количество лайков для этого фильма."
+
+msgid "Dislikes"
+msgstr "Не нравится"
+
+msgid "Enter the number of dislikes for this movie."
+msgstr "Введите количество дизлайков к этому фильму."
+
+msgid "Enter the number of favorites for this movie."
+msgstr "Введите количество избранных для этого фильма."
+
+msgid "Single Movies"
+msgstr "Отдельные фильмы"
+
+msgid "TV Series"
+msgstr "Сериал"
+
+msgid "TV Shows"
+msgstr "ТВ-шоу"
+
+msgid "Theater Movie"
+msgstr "Театральное кино"
+
+msgid "Cartoon"
+msgstr "Мультфильм"
+
+msgid "Trailer"
+msgstr "Трейлер"
+
+msgid "OnGoing"
+msgstr "Непрерывный"
+
+msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
+msgstr "Необязательно, если выбранное изображение уже установлено. Допускаются только изображения в форматах .png, .jpg, .jpeg."
+
+msgid "Trailer Links"
+msgstr "Ссылки на трейлеры"
+
+msgid "Upload or Paste Trailer Links"
+msgstr "Загрузите или вставьте ссылки на трейлеры"
+
+msgid "Schedule Content"
+msgstr "Расписание контента"
+
+msgid "Enable if this movie has a release schedule."
+msgstr "Включите, если у этого фильма есть график выхода."
+
+msgid "Schedule Day"
+msgstr "Расписание дня"
+
+msgid "Select the day of the week for the movie release schedule."
+msgstr "Выберите день недели для просмотра графика выхода фильмов."
+
+msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
+msgstr "Введите время суток, когда фильм выйдет в прокат (например, 10:00)."
+
+msgid "Related Seasons"
+msgstr "Связанные сезоны"
+
+msgid "Select related seasons for this movie."
+msgstr "Выберите соответствующие сезоны для этого фильма."
+
+msgid "Movies Settings"
+msgstr "Настройки фильмов"
+
+msgid "Metabox Fields"
+msgstr "Поля метабокса"
+
+msgid "Use Additional Fields"
+msgstr "Использовать дополнительные поля"
+
+msgid "Additional Fields"
+msgstr "Дополнительные поля"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Number"
+msgstr "Число"
+
+msgid "Textarea"
+msgstr "Текстовая область"
+
+msgid "Select"
+msgstr "Выбирать"
+
+msgid "Switcher"
+msgstr "Переключатель"
+
+msgid "Items Select"
+msgstr "Выбрать элементы"
+
+msgid "ID Options"
+msgstr "Параметры идентификатора"
+
+msgid "Value Options"
+msgstr "Варианты значений"
+
+msgid "Metaboxes"
+msgstr "Метабоксы"
+
+msgid "Showed"
+msgstr "Показал"
+
+msgid "Hide"
+msgstr "Скрывать"
+
+msgid "Season"
+msgstr "Сезон"
+
+msgid "Season Number"
+msgstr "Номер сезона"
+
+msgid "Add Video"
+msgstr "Добавить видео"
+
+msgid "Add New Video"
+msgstr "Добавить новое видео"
+
+msgid "Enter video name"
+msgstr "Введите название видео"
+
+msgid "Enter video link"
+msgstr "Введите ссылку на видео"
+
+msgid "Video Code"
+msgstr "Видеокод"
+
+msgid "Enter the video code for this movie."
+msgstr "Введите видеокод этого фильма."
+
+msgid "Video Preview"
+msgstr "Видео-превью"
+
+msgid "Upload or Paste Video Preview Links"
+msgstr "Загрузите или вставьте ссылки для предварительного просмотра видео"
+
+msgid "Videos Settings"
+msgstr "Настройки видео"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Active Theme"
+msgstr "Активная тема"
+
+msgid "Data is being imported please be patient..."
+msgstr "Данные импортируются, пожалуйста, будьте терпеливы..."
+
+msgid "Loading..."
+msgstr "Загрузка..."
+
+msgid "An error occurred"
+msgstr "Произошла ошибка"
+
+msgid "Have fun!"
+msgstr "Веселиться!"
+
+msgid "Close"
+msgstr "Закрывать"
+
+msgid "List Episode"
+msgstr "Список эпизодов"
+
+msgid "EMBED"
+msgstr "ВСТРОИТЬ"
+
+msgid "Content"
+msgstr "Содержание"
+
+msgid "Are you sure you want to delete this server?"
+msgstr "Вы уверены, что хотите удалить этот сервер?"
+
+msgid "Are you sure you want to delete this episode?"
+msgstr "Вы уверены, что хотите удалить этот эпизод?"
+
+msgid "Are you sure you want to delete this video?"
+msgstr "Вы уверены, что хотите удалить это видео?"
+
+msgid "Are you sure you want to delete this chapter?"
+msgstr "Вы уверены, что хотите удалить эту главу?"
+
+msgid "less than 1 second ago"
+msgstr "менее 1 секунды назад"
+
+msgid "year ago"
+msgstr "год назад"
+
+msgid "month ago"
+msgstr "месяц назад"
+
+msgid "day ago"
+msgstr "день назад"
+
+msgid "hour ago"
+msgstr "час назад"
+
+msgid "minute ago"
+msgstr "минуту назад"
+
+msgid "second ago"
+msgstr "секунду назад"
+
+msgid "years ago"
+msgstr "много лет назад"
+
+msgid "months ago"
+msgstr "несколько месяцев назад"
+
+msgid "days ago"
+msgstr "дней назад"
+
+msgid "hours ago"
+msgstr "часов назад"
+
+msgid "minutes ago"
+msgstr "минут назад"
+
+msgid "seconds ago"
+msgstr "секунд назад"
+
+msgid "Copyright infringement!"
+msgstr "Нарушение авторских прав!"
+
+msgid "Choose Server"
+msgstr "Выберите сервер"
+
+msgid "Save"
+msgstr "Сохранять"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Вы уверены, что хотите удалить этот элемент?"
+
+msgid "Are you sure you want to delete %d selected items?"
+msgstr "Вы уверены, что хотите удалить %d выбранных элементов?"
+
+msgid "Updated successfully!"
+msgstr "Обновлено успешно!"
+
+msgid "Deleted successfully!"
+msgstr "Успешно удалено!"
+
+msgid "Saved successfully!"
+msgstr "Сохранено успешно!"
+
+msgid "An error occurred: %s"
+msgstr "Произошла ошибка: %s"
+
+msgid "Please select at least one item"
+msgstr "Пожалуйста, выберите хотя бы один пункт"
+
+msgid "Processing..."
+msgstr "Обработка..."
+
+msgid "Search:"
+msgstr "Поиск:"
+
+msgid "Show _MENU_ entries"
+msgstr "Показать пункты _МЕНЮ_"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Показано _START_ по _END_ из _TOTAL_ записей"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Показано 0–0 из 0 записей"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(отфильтровано из _MAX_ общего числа записей)"
+
+msgid "First"
+msgstr "Первый"
+
+msgid "Last"
+msgstr "Последний"
+
+msgid "Previous"
+msgstr "Предыдущий"
+
+msgid "This video file cannot be played"
+msgstr "Этот видеофайл не может быть воспроизведен"
+
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "Мы не можем найти видео, которое вы ищете. Это может быть вызвано несколькими причинами, например, оно было удалено владельцем!"
+
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "Чтобы продолжить просмотр, пожалуйста, нажмите на кнопку \"Перезагрузить плеер\""
+
+msgid "or click on the buttons below"
+msgstr "или нажмите на кнопки ниже"
+
+msgid "Reload Player"
+msgstr "Перезагрузить плеер"
+
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "Хотите продолжить просмотр с сохраненного места или начать с начала?"
+
+msgid "Continue watching"
+msgstr "Продолжить просмотр"
+
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "Автоматически возобновляет ваши видео с того места, где вы их последний раз смотрели"
+
+msgid "Playback"
+msgstr "Воспроизведение"
+
+msgid "Loading, please wait..."
+msgstr "Загрузка, пожалуйста, подождите..."
+
+msgid "Switching to backup server..."
+msgstr "Переключение на резервный сервер..."

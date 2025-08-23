@@ -1,0 +1,1144 @@
+/* BXMovies */
+.csf-bxmovies-nav-tabs {
+    border-bottom: 3px solid #b22f8e;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    overflow: hidden;
+}
+
+.csf-bxmovies-nav-tabs li {
+  margin-bottom: -1px;
+  position: relative;
+}
+
+.csf-bxmovies-nav-tabs li a {
+    display: block;
+    padding: 5px 30px 5px 10px;
+    text-decoration: none;
+    color: #555;
+    border: 1px solid transparent;
+    margin-right: 3px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    position: relative;
+}
+
+.csf-bxmovies-nav-tabs li.active a {
+  background: #8e44ad;
+  color: white;
+  border-color: #8e44ad;
+}
+
+.csf-bxmovies-nav-tabs li a:hover {
+  background: #e0e0e0;
+  color: #333;
+}
+
+.csf-bxmovies-nav-tabs li.active a:hover {
+  background: #8e44ad;
+  color: white;
+}
+
+.csf-bxmovies-tab-remove-btn {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent !important;
+  border: none !important;
+  color: #999 !important;
+  font-size: 12px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 !important;
+}
+
+.csf-bxmovies-tab-remove-btn:hover {
+  background: rgba(255, 255, 255, 0.2) !important;
+  color: #fff !important;
+}
+
+.csf-bxmovies-nav-tabs li.active .csf-bxmovies-tab-remove-btn {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.csf-bxmovies-nav-tabs li.active .csf-bxmovies-tab-remove-btn:hover {
+  color: #fff !important;
+  background: rgba(255, 255, 255, 0.2) !important;
+}
+
+.csf-bxmovies-add-tab {
+    background: #5cb85c !important;
+    color: white !important;
+    border: none !important;
+    padding: 4px 12px !important;
+    margin: 0px 0 0 0px !important;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.csf-bxmovies-add-tab .fa {
+  margin-right: 0;
+}
+
+.csf-bxmovies-add-tab:hover {
+  background: #449d44 !important;
+}
+
+.csf-bxmovies-tab-content {
+    padding: 5px 10px;
+    border: 1px solid #eee;
+}
+
+.csf-bxmovies-tab-pane {
+  display: none;
+}
+
+.csf-bxmovies-tab-pane.active {
+  display: block;
+}
+
+.csf-bxmovies-server-name-section {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.csf-bxmovies-server-name-row {
+    display: flex;
+    align-items: center;
+}
+
+.csf-bxmovies-label {
+    background: #8d8d8d;
+    color: white;
+    padding: 8px 12px !important;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    min-width: 60px;
+    text-align: center;
+}
+
+.csf-bxmovies-server-name {
+  flex: 1;
+  max-width: 300px;
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.csf-bxmovies-episodes-section {
+  margin-top: 20px;
+}
+
+.csf-bxmovies-episodes-header {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.csf-bxmovies-add-episode {
+  background: #d9534f !important;
+  color: white !important;
+  border: none !important;
+  padding: 8px 15px !important;
+  border-radius: 4px !important;
+  font-size: 12px !important;
+  cursor: pointer;
+}
+
+.csf-bxmovies-add-episode:hover {
+  background: #c9302c !important;
+}
+
+.csf-bxmovies-episode {
+    border: 1px dashed #979494;
+    margin-bottom: 15px;
+    background: #fafafa;
+    overflow: hidden;
+}
+
+.csf-bxmovies-episode-main {
+  padding: 15px;
+  display: flex;
+  align-items: end;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.csf-bxmovies-field-group {
+  display: flex;
+  flex-direction: row;
+}
+
+.csf-bxmovies-field-group label {
+    font-size: 11px;
+    font-weight: 900;
+    background: #ff0000;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    padding: 0px 15px;
+    margin-bottom: 0;
+}
+
+.csf-bxmovies-field-group input,
+.csf-bxmovies-field-group select {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 13px;
+  min-width: 80px;
+}
+
+.csf-bxmovies-field-group input[type="text"] {
+  width: 80px;
+}
+
+.csf-bxmovies-field-group select {
+  width: 100px;
+}
+
+.csf-bxmovies-link-field {
+  flex: 1;
+}
+
+.csf-bxmovies-link-field input {
+  width: 100%;
+}
+
+.csf-bxmovies-episode-actions {
+  display: flex;
+  gap: 5px;
+  align-items: end;
+}
+
+.csf-bxmovies-subtitle-btn {
+  background: #f0ad4e !important;
+  color: white !important;
+  border: none !important;
+  padding: 6px 10px !important;
+  font-size: 11px !important;
+  cursor: pointer;
+}
+
+.csf-bxmovies-server-btn {
+  background: #5bc0de !important;
+  color: white !important;
+  border: none !important;
+  padding: 6px 10px !important;
+  font-size: 11px !important;
+  cursor: pointer;
+}
+
+.csf-bxmovies-remove-episode {
+  background: #d9534f !important;
+  color: white !important;
+  border: none !important;
+  width: 28px !important;
+  height: 28px !important;
+  cursor: pointer;
+  font-size: 14px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.csf-bxmovies-sort {
+  background: #8d1569 !important;
+  color: white !important;
+  border: none !important;
+  padding: 6px 10px !important;
+  font-size: 11px !important;
+  cursor: pointer;
+}
+
+.csf-bxmovies-clone {
+  background: #5bc0de !important;
+  color: white !important;
+  border: none !important;
+  padding: 6px 10px !important;
+  font-size: 11px !important;
+  cursor: pointer;
+}
+
+.csf-bxmovies-subtitles-section,
+.csf-bxmovies-backup-section {
+  background: #f9f9f9;
+  border-top: 1px solid #ddd;
+  padding: 15px;
+  display: none;
+  width: 100%;
+  box-sizing: border-box;
+  flex: none;
+  position: relative;
+}
+
+.csf-bxmovies-episode {
+  display: block;
+}
+
+.csf-bxmovies-subtitle-header,
+.csf-bxmovies-backup-header {
+  margin-bottom: 15px;
+}
+
+.csf-bxmovies-add-subtitle,
+.csf-bxmovies-add-backup {
+  background: #5cb85c !important;
+  color: white !important;
+  border: none !important;
+  padding: 6px 12px !important;
+  font-size: 11px !important;
+  border-radius: 3px !important;
+  cursor: pointer;
+}
+
+.csf-bxmovies-subtitle-row,
+.csf-bxmovies-backup-row {
+  display: flex;
+  align-items: end;
+  gap: 15px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  flex-wrap: wrap;
+}
+
+.csf-bxmovies-subtitle-row .csf-bxmovies-field-group {
+  min-width: 120px;
+}
+
+.csf-bxmovies-subtitle-actions,
+.csf-bxmovies-backup-actions {
+  display: flex;
+  gap: 5px;
+  align-items: end;
+  flex-shrink: 0;
+}
+
+.csf-bxmovies-subtitle-actions button,
+.csf-bxmovies-backup-actions button {
+  padding: 6px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 11px;
+}
+
+.csf-bxmovies-subtitle-actions .button-blue,
+.csf-bxmovies-backup-actions .button-blue {
+  background: #5bc0de !important;
+  color: white !important;
+}
+
+.csf-bxmovies-remove-subtitle,
+.csf-bxmovies-remove-backup {
+  background: #d9534f !important;
+  color: white !important;
+  width: 24px !important;
+  height: 24px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.csf-bxmovies-add-server {
+    background: #5cb85c !important;
+    color: white !important;
+    border: none !important;
+    padding: 10px 10px !important;
+    border-radius: 4px !important;
+    margin-top: 15px !important;
+    font-size: 14px !important;
+    display: block;
+    width: 100px;
+    text-decoration: none;
+}
+
+.csf-bxmovies-add-server:hover {
+  background: #449d44 !important;
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.csf-bxmovies-episode-actions .fa,
+.csf-bxmovies-subtitle-actions .fa,
+.csf-bxmovies-backup-actions .fa,
+.csf-bxmovies-remove-episode .fa,
+.csf-bxmovies-remove-subtitle .fa,
+.csf-bxmovies-remove-backup .fa,
+.csf-bxmovies-tab-remove-btn .fa {
+  margin-right: 0;
+}
+
+@media (max-width: 768px) {
+  .csf-bxmovies-episode-main {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .csf-bxmovies-field-group {
+    margin-bottom: 10px;
+  }
+  
+  .csf-bxmovies-episode-actions {
+    justify-content: center;
+    margin-top: 10px;
+  }
+}
+
+
+/* BXVideos */
+.csf-bxvideos-nav-tabs {
+    border-bottom: 3px solid #b22f8e;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.csf-bxvideos-nav-tabs li {
+  margin-bottom: -1px;
+  position: relative;
+}
+
+.csf-bxvideos-nav-tabs li a {
+    display: block;
+    padding: 10px 30px 10px 15px;
+    text-decoration: none;
+    color: #555;
+    border: 1px solid transparent;
+    margin-right: 2px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    position: relative;
+}
+
+.csf-bxvideos-nav-tabs li.active a {
+  background: #8e44ad;
+  color: white;
+  border-color: #8e44ad;
+}
+
+.csf-bxvideos-nav-tabs li a:hover {
+  background: #e0e0e0;
+  color: #333;
+}
+
+.csf-bxvideos-nav-tabs li.active a:hover {
+  background: #8e44ad;
+  color: white;
+}
+
+.csf-bxvideos-tab-remove-btn {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent !important;
+  border: none !important;
+  color: #999 !important;
+  font-size: 12px !important;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 50% !important;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 !important;
+}
+
+.csf-bxvideos-tab-remove-btn:hover {
+  background: rgba(255, 255, 255, 0.2) !important;
+  color: #fff !important;
+}
+
+.csf-bxvideos-nav-tabs li.active .csf-bxvideos-tab-remove-btn {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.csf-bxvideos-nav-tabs li.active .csf-bxvideos-tab-remove-btn:hover {
+  color: #fff !important;
+  background: rgba(255, 255, 255, 0.2) !important;
+}
+
+.csf-bxvideos-add-tab {
+  background: #5cb85c !important;
+  color: white !important;
+  border: none !important;
+  padding: 8px 12px !important;
+  margin: 2px 0 0 5px !important;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.csf-bxvideos-add-tab:hover {
+  background: #449d44 !important;
+}
+
+.csf-bxvideos-tab-content {
+    padding: 5px 10px;
+    border: 1px solid #eee;
+}
+
+.csf-bxvideos-tab-pane {
+  display: none;
+}
+
+.csf-bxvideos-tab-pane.active {
+  display: block;
+}
+
+.csf-bxvideos-label {
+    background: #e74c3c;
+    color: white;
+    padding: 8px 12px !important;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    min-width: 60px;
+    text-align: center;
+}
+
+.csf-bxvideos-videos-section {
+  margin-top: 5px;
+}
+
+.csf-bxvideos-videos-header {
+  text-align: right;
+  margin-bottom: 5px;
+}
+
+.csf-bxvideos-add-video {
+  background: #d9534f !important;
+  color: white !important;
+  border: none !important;
+  padding: 8px 15px !important;
+  border-radius: 4px !important;
+  font-size: 12px !important;
+  cursor: pointer;
+}
+
+.csf-bxvideos-add-video:hover {
+  background: #c9302c !important;
+}
+
+.csf-bxvideos-video {
+    border: 1px dashed #979494;
+    margin-bottom: 15px;
+    background: #fafafa;
+    overflow: hidden;
+    display: block;
+}
+
+.csf-bxvideos-video-main {
+  padding: 15px;
+  display: flex;
+  align-items: end;
+  flex-wrap: wrap;
+}
+
+.csf-bxvideos-field-group {
+  display: flex;
+  flex-direction: row;
+}
+
+.csf-bxvideos-field-group label {
+    font-size: 11px;
+    font-weight: 900;
+    background: #ff0000;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    padding: 0px 15px;
+    margin-bottom: 0;
+}
+
+.csf-bxvideos-field-group input,
+.csf-bxvideos-field-group select {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 13px;
+  min-width: 80px;
+}
+
+.csf-bxvideos-field-group input[type="text"] {
+  width: 100%;
+}
+
+.csf-bxvideos-field-group select {
+  width: 100px;
+}
+
+.csf-bxvideos-link-field input {
+  width: 100%;
+}
+
+.csf-bxvideos-video-actions {
+  display: flex;
+  gap: 5px;
+  align-items: end;
+  margin-left: auto;
+}
+
+.csf-bxvideos-remove-video {
+  background: #d9534f !important;
+  color: white !important;
+  border: none !important;
+  width: 28px !important;
+  height: 28px !important;
+  cursor: pointer;
+  font-size: 14px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  .csf-bxvideos-video-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .csf-bxvideos-field-group {
+    margin-bottom: 10px;
+  }
+  
+  .csf-bxvideos-video-actions {
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+}
+/* BXManga */
+
+.csf-bxmanga-pagination {
+    margin-top: 15px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.csf-bxmanga-pagination button {
+    padding: 5px 10px;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.csf-bxmanga-pagination button:hover {
+    background: #e0e0e0;
+}
+
+.csf-bxmanga-pagination button.active {
+    background: #8e44ad;
+    color: white;
+    border-color: #8e44ad;
+}
+
+.csf-bxmanga-show-all {
+    background: #2271b1 !important;
+    color: white !important;
+    border-color: #2271b1 !important;
+}
+
+.csf-bxmanga-show-all:hover {
+    background: #135e96 !important;
+}
+
+.csf-sortable-placeholder {
+    background: #f7f7f7;
+    border: 2px dashed #ddd;
+    margin: 5px 0;
+    height: 60px;
+}
+
+.csf-bxmanga-chapter {
+    background: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    padding: 10px;
+    transition: background 0.2s;
+}
+
+.csf-bxmanga-chapter:hover {
+    background: #f9f9f9;
+}
+
+.csf-bxmanga-chapter.ui-sortable-helper {
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+
+.csf-bxmanga-sort-handle {
+    background: #8d1569 !important;
+    color: white !important;
+    border: none !important;
+    padding: 6px 10px !important;
+    font-size: 11px !important;
+    cursor: move;
+}
+
+.csf-bxmanga-clone {
+    background: #5bc0de !important;
+    color: white !important;
+    border: none !important;
+    padding: 6px 10px !important;
+    font-size: 11px !important;
+    cursor: pointer;
+}
+
+.csf-bxmanga-sort-handle i, .csf-bxmanga-clone i {
+    margin-right: 0px !important;
+}
+
+.csf-bxmanga-nav-tabs {
+    border-bottom: 3px solid #b22f8e;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    overflow: hidden;
+}
+
+.csf-bxmanga-nav-tabs li {
+    margin-bottom: -1px;
+    position: relative;
+}
+
+.csf-bxmanga-nav-tabs li a {
+    display: block;
+    padding: 5px 30px 5px 15px;
+    text-decoration: none;
+    color: #555;
+    border: 1px solid transparent;
+    margin-right: 2px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    position: relative;
+}
+.csf-bxmanga-nav-tabs li.active a {
+    background: #8e44ad;
+    color: white;
+    border-color: #8e44ad;
+}
+.csf-bxmanga-nav-tabs li a:hover {
+    background: #e0e0e0;
+    color: #333;
+}
+.csf-bxmanga-nav-tabs li.active a:hover {
+    background: #8e44ad;
+    color: white;
+}
+.csf-bxmanga-tab-remove-btn {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent !important;
+    border: none !important;
+    color: #999 !important;
+    font-size: 12px !important;
+    width: 18px !important;
+    height: 18px !important;
+    border-radius: 50% !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 !important;
+}
+.csf-bxmanga-tab-remove-btn:hover {
+    background: rgba(255, 255, 255, 0.2) !important;
+    color: #fff !important;
+}
+.csf-bxmanga-nav-tabs li.active .csf-bxmanga-tab-remove-btn {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+.csf-bxmanga-nav-tabs li.active .csf-bxmanga-tab-remove-btn:hover {
+    color: #fff !important;
+    background: rgba(255, 255, 255, 0.2) !important;
+}
+.csf-bxmanga-add-tab {
+    background: #5cb85c !important;
+    color: white !important;
+    border: none !important;
+    padding: 5px 12px !important;
+    cursor: pointer;
+    font-size: 14px;
+}
+.csf-bxmanga-add-tab:hover {
+    background: #449d44 !important;
+}
+.csf-bxmanga-tab-content {
+    padding: 5px 10px;
+    border: 1px solid #eee;
+}
+.csf-bxmanga-tab-pane {
+    display: none;
+}
+.csf-bxmanga-tab-pane.active {
+    display: block;
+}
+.csf-bxmanga-server-name-section {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+.csf-bxmanga-server-name-row {
+    display: flex;
+    align-items: center;
+}
+.csf-bxmanga-label {
+    background: #e74c3c;
+    color: white;
+    padding: 8px 12px !important;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    min-width: 60px;
+    text-align: center;
+}
+.csf-bxmanga-server-name {
+    flex: 1;
+    max-width: 300px;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.csf-bxmanga-chapters-section {
+    margin-top: 20px;
+}
+.csf-bxmanga-chapters-header {
+    text-align: right;
+    margin-bottom: 20px;
+}
+.csf-bxmanga-add-chapter {
+    background: #d9534f !important;
+    color: white !important;
+    border: none !important;
+    padding: 8px 15px !important;
+    border-radius: 4px !important;
+    font-size: 12px !important;
+    cursor: pointer;
+}
+.csf-bxmanga-add-chapter:hover {
+    background: #c9302c !important;
+}
+.csf-bxmanga-chapter {
+    border: 1px dashed #979494;
+    margin-bottom: 15px;
+    background: #fafafa;
+    overflow: hidden;
+    display: block;
+}
+.csf-bxmanga-chapter-header {
+    display: flex;
+    align-items: start;
+    gap: 15px;
+    flex-wrap: wrap;
+    background: #f9f9f9;
+}
+.csf-bxmanga-field-group {
+    display: flex;
+    flex-direction: row;
+}
+.csf-bxmanga-field-group input,
+.csf-bxmanga-field-group select,
+.csf-bxmanga-field-group textarea {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 13px;
+    min-width: 80px;
+}
+.csf-bxmanga-field-group input[type="text"] {
+    width: 300px;
+}
+.csf-bxmanga-field-group select {
+    width: 100px;
+}
+.csf-bxmanga-field-group textarea {
+    width: 100%;
+    resize: vertical;
+}
+.csf-bxmanga-chapter-actions {
+    display: flex;
+    gap: 5px;
+    align-items: end;
+    margin-left: auto;
+}
+.csf-bxmanga-remove-chapter {
+    background: #d9534f !important;
+    color: white !important;
+    border: none !important;
+    width: 28px !important;
+    height: 28px !important;
+    cursor: pointer;
+    font-size: 14px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.csf-bxmanga-add-tab .fa,
+.csf-bxmanga-remove-chapter .fa {
+    margin-right: 0px;
+}
+.csf-bxmanga-add-server {
+    background: #5cb85c !important;
+    color: white !important;
+    border: none !important;
+    padding: 10px 10px !important;
+    border-radius: 4px !important;
+    margin-top: 15px !important;
+    font-size: 14px !important;
+    display: block;
+    width: 100px;
+    text-decoration: none;
+}
+
+.csf-bxmanga-add-server:hover {
+    background: #449d44 !important;
+    color: white !important;
+    text-decoration: none !important;
+}
+
+@media (max-width: 768px) {
+.csf-bxmanga-chapter-header {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.csf-bxmanga-field-group {
+    margin-bottom: 10px;
+}
+
+.csf-bxmanga-chapter-actions {
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 0;
+}
+}
+.csf-bxmanga-chapters-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+    justify-content: flex-end;
+}
+
+.csf-bxmanga-sort-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.csf-bxmanga-sort-btn {
+    background: #8e44ad !important;
+    color: white !important;
+    border: none !important;
+    padding: 8px 15px !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.csf-bxmanga-sort-btn i {
+    margin-right: 0;
+    font-size: 14px;
+    display: inline-block;
+    width: 14px;
+    text-align: center;
+}
+
+.csf-bxmanga-sort-btn:hover {
+    background: #6c3483 !important;
+}
+
+.csf-bxmanga-sort-btn.active {
+    background: #6c3483 !important;
+}
+
+.csf-bxmanga-sort-btn i {
+    transition: transform 0.2s;
+}
+
+.csf-bxmanga-sort-btn.desc i {
+    transform: rotate(180deg);
+}
+
+.csf-bxmanga-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.csf-bxmanga-add-chapter,
+.csf-bxmanga-import-chapters {
+    background: #5cb85c !important;
+    color: white !important;
+    border: none !important;
+    padding: 8px 15px !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.csf-bxmanga-import-chapters {
+    background: #0073aa !important;
+}
+
+.csf-bxmanga-add-chapter:hover {
+    background: #449d44 !important;
+}
+
+.csf-bxmanga-import-chapters:hover {
+    background: #005177 !important;
+}
+
+.csf-bxmanga-import-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.csf-bxmanga-import-content {
+    background: white;
+    padding: 25px;
+    border-radius: 8px;
+    width: 1200px;
+    max-width: 90%;
+    box-shadow: 0 2px 30px rgba(0,0,0,0.2);
+}
+
+.csf-bxmanga-import-content h3 {
+    margin: 0 0 15px;
+    font-size: 18px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+.csf-bxmanga-import-content p {
+    margin-bottom: 15px;
+    color: #666;
+}
+
+.csf-bxmanga-import-textarea {
+    width: 100%;
+    min-height: 200px;
+    margin: 10px 0;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 13px;
+    line-height: 1.4;
+    resize: vertical;
+}
+
+.csf-bxmanga-import-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.csf-bxmanga-import-submit,
+.csf-bxmanga-import-cancel {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.csf-bxmanga-import-submit {
+    background: #0073aa;
+    color: white;
+}
+
+.csf-bxmanga-import-submit:hover {
+    background: #005177;
+}
+
+.csf-bxmanga-import-cancel {
+    background: #f0f0f1;
+    color: #2c3338;
+}
+
+.csf-bxmanga-import-cancel:hover {
+    background: #e0e0e0;
+}
+
+
+.csf-bxmanga-chapter-header-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 15px;
+  padding: 10px 15px;
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.csf-bxmanga-field-header {
+  color: #1f1f1f;
+  font-weight: bold;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.csf-bxmanga-field-header.stt {
+    width: 50px;
+}
+.csf-bxmanga-field-header.name {
+    width: 300px;
+}
+.csf-bxmanga-field-header.type {
+    width: 100px;
+}
+.csf-bxmanga-field-header.link {
+    width: 498px;
+}
+.csf-bxmanga-field-header.time {
+    width: 186px;
+}
+
+.csf-bxmanga-field-header.actions {
+    width: 100px;
+}

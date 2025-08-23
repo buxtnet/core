@@ -1,0 +1,1363 @@
+# Date created: 2025-08-22 02:48:00 by https://buxt.net
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-08-23 06:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+
+msgid "Type Site"
+msgstr "Loại trang web"
+
+msgid "Basic Settings"
+msgstr "Cài đặt cơ bản"
+
+msgid "Custom CSS Code"
+msgstr "Mã CSS tùy chỉnh"
+
+msgid "At the top, for custom CSS No need to add <strong>&lt;style></strong> tags"
+msgstr "Ở trên cùng, để tùy chỉnh CSS Không cần thêm thẻ <strong>&lt;style></strong>"
+
+msgid "Custom JS Code at Footer"
+msgstr "Mã JS tùy chỉnh ở chân trang"
+
+msgid "At the bottom, for adding third-party analytics code, e.g. Google analytics, Baidu, CNZZ. Example: "
+msgstr "Ở phía dưới, để thêm mã phân tích của bên thứ ba, ví dụ: Google Analytics, Baidu, CNZZ. Ví dụ:"
+
+msgid "Site Logo"
+msgstr "Logo trang web"
+
+msgid "Set the site logo (recommended to match the custom logo width and height)"
+msgstr "Đặt logo trang web (khuyến nghị phù hợp với chiều rộng và chiều cao của logo tùy chỉnh)"
+
+msgid "Site Favicon"
+msgstr "Biểu tượng trang web"
+
+msgid "Open Main Links in New Tab"
+msgstr "Mở liên kết chính trong tab mới"
+
+msgid "Main links such as list/grid articles will open in a new tab."
+msgstr "Các liên kết chính như bài viết dạng danh sách/lưới sẽ mở trong một tab mới."
+
+msgid "Site Comment Feature"
+msgstr "Tính năng bình luận trang web"
+
+msgid "Control the site comment feature. Disable if not needed."
+msgstr "Kiểm soát tính năng bình luận trên trang web. Tắt nếu không cần thiết."
+
+msgid "SEO Settings"
+msgstr "Cài đặt SEO"
+
+msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
+msgstr "Tính năng tối ưu hóa SEO cho chủ đề:<br>1. Hỗ trợ thay thế tùy chỉnh dấu phân cách tiêu đề mặc định của WordPress"
+
+msgid "Simplify Category Alias"
+msgstr "Đơn giản hóa bí danh danh mục"
+
+msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
+msgstr "Xóa tiền tố danh mục/thể loại khỏi liên kết danh mục bài viết. Nhìn chung, nên giữ nguyên các quy tắc mặc định của WP."
+
+msgid "Built-in SEO Features"
+msgstr "Tính năng SEO tích hợp"
+
+msgid "Built-in SEO Settings"
+msgstr "Cài đặt SEO tích hợp"
+
+msgid "Site-wide Link Separator"
+msgstr "Bộ phân tách liên kết toàn trang web"
+
+msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
+msgstr "Sau khi chọn, đừng thay đổi giữa chừng vì nó không thân thiện với SEO. Thường là \"-\" hoặc \"_\"."
+
+msgid "Site Keywords"
+msgstr "Từ khóa trang web"
+
+msgid "3-5 keywords, separated by commas"
+msgstr "3-5 từ khóa, cách nhau bằng dấu phẩy"
+
+msgid "Site Description"
+msgstr "Mô tả trang web"
+
+msgid "Taxonomy Custom"
+msgstr "Phân loại tùy chỉnh"
+
+msgid "Custom filter fields"
+msgstr "Các trường lọc tùy chỉnh"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "Những trường tùy chỉnh nào sẽ hiển thị để lọc mục nhập"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "Cấu hình trường bộ lọc tùy chỉnh nâng cao"
+
+msgid "Filter Name"
+msgstr "Tên bộ lọc"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "Ví dụ: định dạng, màu sắc, kích thước, kích thước, tên có thể được sửa đổi giữa chừng sau khi thiết lập"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "Mã định danh duy nhất của trường phân loại"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "Phải là tiếng Anh thuần túy, chẳng hạn như geshhi, yanse, szie, color, <b style=\"color:red;\">Sau khi thiết lập, nếu đã có các bài viết liên quan được chọn, thì mã định danh này không thể được sửa đổi giữa chừng</b>"
+
+msgid "Option Type"
+msgstr "Loại tùy chọn"
+
+msgid "Multiple Choice"
+msgstr "Trắc nghiệm"
+
+msgid "Dropdown Single Choice"
+msgstr "Lựa chọn đơn thả xuống"
+
+msgid "Single Choice"
+msgstr "Lựa chọn duy nhất"
+
+msgid "Option type when publishing articles in the background"
+msgstr "Loại tùy chọn khi xuất bản bài viết ở chế độ nền"
+
+msgid "Advanced Search"
+msgstr "Tìm kiếm nâng cao"
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "Tắt chức năng tìm kiếm toàn trang web (Thận trọng)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "Sau khi vô hiệu hóa, trang web sẽ không thể tìm kiếm bài viết. Điều này có thể ngăn chặn hiệu quả các cuộc tấn công brute force và chặn cơ sở dữ liệu."
+
+msgid "Optimize Search to Only Search Article Titles"
+msgstr "Tối ưu hóa tìm kiếm để chỉ tìm kiếm tiêu đề bài viết"
+
+msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
+msgstr "Sau khi bật, khi tìm kiếm trên trang web, nó sẽ chỉ tìm kiếm dựa trên tiêu đề bài viết, giúp cải thiện đáng kể hiệu suất tìm kiếm khi có nhiều bài viết. Bạn có thể bật tùy ý."
+
+msgid "Search Box Supports Searching by Category"
+msgstr "Hộp tìm kiếm hỗ trợ tìm kiếm theo danh mục"
+
+msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
+msgstr "Được bật theo mặc định. Khi tắt, tùy chọn thả xuống danh mục sẽ không được hiển thị."
+
+msgid "Category Display Depth in Search Box"
+msgstr "Độ sâu hiển thị danh mục trong hộp tìm kiếm"
+
+msgid "Show only 1-level main categories"
+msgstr "Chỉ hiển thị danh mục chính cấp 1"
+
+msgid "Expand to 2-level subcategories"
+msgstr "Mở rộng thành các tiểu thể loại 2 cấp"
+
+msgid "Expand to 3-level subcategories"
+msgstr "Mở rộng thành các tiểu thể loại 3 cấp"
+
+msgid "Sorting Method for Category Selection in Search Box"
+msgstr "Phương pháp sắp xếp để lựa chọn danh mục trong hộp tìm kiếm"
+
+msgid "By Category ID"
+msgstr "Theo ID danh mục"
+
+msgid "By Category Name"
+msgstr "Theo tên danh mục"
+
+msgid "By Category Alias"
+msgstr "Theo danh mục Biệt danh"
+
+msgid "By Total Number of Posts"
+msgstr "Theo tổng số bài viết"
+
+msgid "Category Page - Top"
+msgstr "Trang danh mục - Đầu trang"
+
+msgid "Category Page - Bottom"
+msgstr "Trang danh mục - Cuối trang"
+
+msgid "Single Post Page - Top"
+msgstr "Trang bài viết đơn - Đầu trang"
+
+msgid "Single Post Page - Bottom"
+msgstr "Trang bài viết đơn - Dưới cùng"
+
+msgid "Desktop Ad Code"
+msgstr "Mã quảng cáo trên máy tính để bàn"
+
+msgid "Mobile Ad Code"
+msgstr "Mã quảng cáo di động"
+
+msgid "Ad Settings"
+msgstr "Cài đặt quảng cáo"
+
+msgid "Website Optimization"
+msgstr "Tối ưu hóa trang web"
+
+msgid "Use Gutenberg Editor"
+msgstr "Sử dụng trình soạn thảo Gutenberg"
+
+msgid "Use Gutenberg Widgets"
+msgstr "Sử dụng tiện ích Gutenberg"
+
+msgid "Enable Menu Caching"
+msgstr "Bật bộ nhớ đệm menu"
+
+msgid "Enable to cache the site’s top menu to reduce SQL queries. Disable if using different menus across domains."
+msgstr "Bật lưu trữ menu trên cùng của trang web để giảm truy vấn SQL. Tắt nếu sử dụng các menu khác nhau trên nhiều tên miền."
+
+msgid "Disable WP Content Texturization"
+msgstr "Vô hiệu hóa WP Content Texturization"
+
+msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
+msgstr "Tắt cho phép định dạng mã thô trong bài đăng mà không cần thoát. Hữu ích cho nội dung dựa trên mã."
+
+msgid "Remove Frontend Admin Bar"
+msgstr "Xóa thanh quản trị Frontend"
+
+msgid "Remove WP Admin Top Logo Menu"
+msgstr "Xóa Menu Logo Trên Cùng Của WP Admin"
+
+msgid "Remove WP Admin Footer Version Info"
+msgstr "Xóa thông tin phiên bản chân trang WP Admin"
+
+msgid "Remove WP Dashboard Menu"
+msgstr "Xóa Menu Bảng điều khiển WP"
+
+msgid "Remove WP Emoji Plugin"
+msgstr "Xóa Plugin WP Emoji"
+
+msgid "Greatly reduces JS and CSS usage."
+msgstr "Giảm đáng kể việc sử dụng JS và CSS."
+
+msgid "Optimize Head Tags on Frontend"
+msgstr "Tối ưu hóa thẻ Head trên Frontend"
+
+msgid "Simplify Image HTML Code"
+msgstr "Đơn giản hóa mã HTML hình ảnh"
+
+msgid "Removes unnecessary HTML attributes added by the default WP image editor."
+msgstr "Xóa các thuộc tính HTML không cần thiết được thêm vào bởi trình chỉnh sửa hình ảnh WP mặc định."
+
+msgid "Disable REST API"
+msgstr "Vô hiệu hóa REST API"
+
+msgid "If you’re using mobile apps or similar, do not disable this."
+msgstr "Nếu bạn đang sử dụng ứng dụng di động hoặc ứng dụng tương tự, đừng tắt tính năng này."
+
+msgid "Disable XML-RPC (Pingback)"
+msgstr "Vô hiệu hóa XML-RPC (Pingback)"
+
+msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr "XML-RPC được sử dụng bởi các máy khách bên thứ ba. Việc tắt nó có thể giúp ngăn chặn các cuộc tấn công brute-force."
+
+msgid "Disable F12 Key, Debug tools in Browser"
+msgstr "Tắt phím F12, công cụ gỡ lỗi trong trình duyệt"
+
+msgid "Disable F12 key, Debug tools in Browser"
+msgstr "Tắt phím F12, công cụ gỡ lỗi trong trình duyệt"
+
+msgid "URL to redirect if debug tool is opened"
+msgstr "URL để chuyển hướng nếu công cụ gỡ lỗi được mở"
+
+msgid "URL will redirect to after pressing F12 (Default is: https://buxt.net)"
+msgstr "URL sẽ chuyển hướng đến sau khi nhấn F12 (Mặc định là: https://buxt.net)"
+
+msgid "Import Demo"
+msgstr "Nhập bản demo"
+
+msgid "Create Page"
+msgstr "Tạo trang"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Tạo <a href=\"%s\" target=\"_blank\">trang</a> giống như trên bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Create Menu"
+msgstr "Tạo Menu"
+
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Tạo <a href=\"%s\" target=\"_blank\">menu</a> giống như trong bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Create Widgets"
+msgstr "Tạo tiện ích"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Tạo <a href=\"%s\" target=\"_blank\">tiện ích</a> giống như trên bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Import Themes Demo"
+msgstr "Nhập bản demo chủ đề"
+
+msgid "Import Theme Demo"
+msgstr "Nhập bản demo chủ đề"
+
+msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Nhập nội dung bản demo <a href=\"%s\" target=\"_blank\"></a> như trên bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Backup Settings"
+msgstr "Cài đặt sao lưu"
+
+msgid "This will only back up all theme option settings on this page. It does NOT back up WordPress data like posts. ⚠️ Note: The backup data saved here is in string format and has length validation. Do not manually modify the string to avoid corruption. If editing is needed, please import the data as-is and make changes through the input fields on the settings page."
+msgstr "Thao tác này chỉ sao lưu tất cả cài đặt tùy chọn giao diện trên trang này. KHÔNG sao lưu dữ liệu WordPress như bài viết. ⚠️ Lưu ý: Dữ liệu sao lưu được lưu ở đây ở định dạng chuỗi và có xác thực độ dài. Vui lòng không sửa đổi chuỗi thủ công để tránh bị lỗi. Nếu cần chỉnh sửa, vui lòng nhập dữ liệu nguyên trạng và thực hiện thay đổi thông qua các trường nhập liệu trên trang cài đặt."
+
+msgid "Cache Manager"
+msgstr "Trình quản lý bộ nhớ đệm"
+
+msgid "Total Cache"
+msgstr "Tổng bộ nhớ đệm"
+
+msgid "Cache Empty!"
+msgstr "Bộ nhớ đệm trống!"
+
+msgid "Delete All Cache"
+msgstr "Xóa tất cả bộ nhớ đệm"
+
+msgid "Are you sure you want to remove all cache?"
+msgstr "Bạn có chắc chắn muốn xóa toàn bộ bộ nhớ đệm không?"
+
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+msgid "Error while deleting cache"
+msgstr "Lỗi khi xóa bộ nhớ đệm"
+
+msgid "An unexpected error occurred"
+msgstr "Đã xảy ra lỗi không mong muốn"
+
+msgid "Theme License"
+msgstr "Giấy phép chủ đề"
+
+msgid "No license activated. Please activate your license."
+msgstr "Chưa có giấy phép nào được kích hoạt. Vui lòng kích hoạt giấy phép của bạn."
+
+msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
+msgstr "Cảm ơn bạn đã sử dụng giao diện này cho sáng tạo của mình. Trước tiên, vui lòng nhập ID giấy phép và Mã giấy phép từ trung tâm người dùng ritheme.com, sau đó nhấp vào lưu để xác minh."
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "License Key"
+msgstr "Khóa cấp phép"
+
+msgid "License Email"
+msgstr "Email Giấy phép"
+
+msgid "Activation Date"
+msgstr "Ngày kích hoạt"
+
+msgid "Expiration Date"
+msgstr "Ngày hết hạn"
+
+msgid "Lifetime License"
+msgstr "Giấy phép trọn đời"
+
+msgid "Activation Domain"
+msgstr "Miền kích hoạt"
+
+msgid "Update License"
+msgstr "Cập nhật Giấy phép"
+
+msgid "Deactivate License"
+msgstr "Hủy kích hoạt giấy phép"
+
+msgid "License Code"
+msgstr "Mã giấy phép"
+
+msgid "Activate"
+msgstr "Kích hoạt"
+
+msgid "Embed"
+msgstr "Nhúng"
+
+msgid "Link"
+msgstr "Liên kết"
+
+msgid "MP4"
+msgstr "MP4"
+
+msgid "Auto"
+msgstr "Tự động"
+
+msgid "Iframe"
+msgstr "Khung nội tuyến"
+
+msgid "Images"
+msgstr "Hình ảnh"
+
+msgid "Broken Report"
+msgstr "Báo cáo bị hỏng"
+
+msgid "Status updated successfully"
+msgstr "Trạng thái đã được cập nhật thành công"
+
+msgid "Failed to update status"
+msgstr "Không cập nhật được trạng thái"
+
+msgid "Item removed successfully"
+msgstr "Đã xóa mục thành công"
+
+msgid "Failed to remove item"
+msgstr "Không thể xóa mục"
+
+msgid "All items removed successfully"
+msgstr "Đã xóa thành công tất cả các mục"
+
+msgid "Failed to remove all items"
+msgstr "Không thể xóa tất cả các mục"
+
+msgid "Broken Movie"
+msgstr "Phim hỏng"
+
+msgid "Delete All"
+msgstr "Xóa tất cả"
+
+msgid "Prev"
+msgstr "Trước đó"
+
+msgid "Next"
+msgstr "Kế tiếp"
+
+msgid "Reporter"
+msgstr "Phóng viên"
+
+msgid "Issues"
+msgstr "Vấn đề"
+
+msgid "Details"
+msgstr "Chi tiết"
+
+msgid "Time"
+msgstr "Thời gian"
+
+msgid "Action"
+msgstr "Hoạt động"
+
+msgid "Empty!"
+msgstr "Trống!"
+
+msgid "Mark As Resolved"
+msgstr "Đánh dấu là đã giải quyết"
+
+msgid "Edit"
+msgstr "Biên tập"
+
+msgid "Remove"
+msgstr "Di dời"
+
+msgid "Issues Configuration"
+msgstr "Cấu hình sự cố"
+
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+msgid "Add Server"
+msgstr "Thêm máy chủ"
+
+msgid "Server #1"
+msgstr "Máy chủ số 1"
+
+msgid "Chapter #1"
+msgstr "Chương #1"
+
+msgid "Server"
+msgstr "Máy chủ"
+
+msgid "Server Name"
+msgstr "Tên máy chủ"
+
+msgid "Add New Chapter"
+msgstr "Thêm chương mới"
+
+msgid "Import Chapters"
+msgstr "Nhập chương"
+
+msgid "Paste your chapter list in the format: Title|Chapter Number|URL"
+msgstr "Dán danh sách chương của bạn theo định dạng: Tiêu đề|Số chương|URL"
+
+msgid "Import"
+msgstr "Nhập khẩu"
+
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+msgid "STT"
+msgstr "STT"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Type"
+msgstr "Kiểu"
+
+msgid "Index"
+msgstr "Mục lục"
+
+msgid "Chapter Name"
+msgstr "Tên chương"
+
+msgid "Ex: https://example.com/chapter-1 (OR) image1*image2*..."
+msgstr "Ví dụ: https://example.com/chapter-1 (HOẶC) image1*image2*..."
+
+msgid "Meta Videos"
+msgstr "Video Meta"
+
+msgid "Completed"
+msgstr "Hoàn thành"
+
+msgid "Ongoing"
+msgstr "Đang diễn ra"
+
+msgid "Upcoming"
+msgstr "Sắp tới"
+
+msgid "Manga"
+msgstr "Truyện tranh"
+
+msgid "Manhua"
+msgstr "Manhua"
+
+msgid "Manhwa"
+msgstr "Manhwa"
+
+msgid "Doujinshi"
+msgstr "Doujinshi"
+
+msgid "External ID"
+msgstr "ID bên ngoài"
+
+msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
+msgstr "Nhập ID nếu manga này được nhập từ nguồn khác (ví dụ: MAL, Anilist)."
+
+msgid "Thumbnail"
+msgstr "Hình thu nhỏ"
+
+msgid "Optional if a Featured Image has already been set."
+msgstr "Tùy chọn nếu Hình ảnh nổi bật đã được thiết lập."
+
+msgid "Poster"
+msgstr "Áp phích"
+
+msgid "Displayed in vertical format. Optional if you want to use a different image from the Featured Image."
+msgstr "Hiển thị theo chiều dọc. Tùy chọn nếu bạn muốn sử dụng hình ảnh khác với Hình ảnh nổi bật."
+
+msgid "Alternative Title"
+msgstr "Tiêu đề thay thế"
+
+msgid "Optional backup or translated title."
+msgstr "Tiêu đề sao lưu hoặc dịch tùy chọn."
+
+msgid "Adult Content"
+msgstr "Nội dung dành cho người lớn"
+
+msgid "Enable if this manga contains 18+ content."
+msgstr "Bật nếu manga này chứa nội dung 18+."
+
+msgid "Schedule"
+msgstr "Lịch trình"
+
+msgid "Enable if this manga has a release schedule."
+msgstr "Bật nếu manga này có lịch phát hành."
+
+msgid "Release Days"
+msgstr "Ngày phát hành"
+
+msgid "Select the days this manga is usually updated."
+msgstr "Chọn những ngày manga này thường được cập nhật."
+
+msgid "Monday"
+msgstr "Thứ hai"
+
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+msgid "Wednesday"
+msgstr "Thứ Tư"
+
+msgid "Thursday"
+msgstr "Thứ năm"
+
+msgid "Friday"
+msgstr "Thứ sáu"
+
+msgid "Saturday"
+msgstr "Thứ bảy"
+
+msgid "Sunday"
+msgstr "Chủ nhật"
+
+msgid "Release Time"
+msgstr "Thời gian phát hành"
+
+msgid "Optional — Time of day when the manga is usually released."
+msgstr "Tùy chọn — Thời gian trong ngày mà manga thường được phát hành."
+
+msgid "Enable Message"
+msgstr "Bật tin nhắn"
+
+msgid "Turn on to display a custom message on the manga page."
+msgstr "Bật để hiển thị thông báo tùy chỉnh trên trang manga."
+
+msgid "Message Content"
+msgstr "Nội dung tin nhắn"
+
+msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
+msgstr "Nhập thông báo để hiển thị (ví dụ: thời gian phát hành, trạng thái cập nhật). Để trống nếu không sử dụng."
+
+msgid "Image / Avatar"
+msgstr "Hình ảnh / Avatar"
+
+msgid "Used for featured or profile display."
+msgstr "Được sử dụng để hiển thị nổi bật hoặc hồ sơ."
+
+msgid "Sub"
+msgstr "Phụ"
+
+msgid "Main"
+msgstr "Chủ yếu"
+
+msgid "Supporting"
+msgstr "Hỗ trợ"
+
+msgid "Views"
+msgstr "Lượt xem"
+
+msgid "Likes"
+msgstr "Thích"
+
+msgid "Favorites"
+msgstr "Yêu thích"
+
+msgid "Author"
+msgstr "Tác giả"
+
+msgid "Artist"
+msgstr "Nghệ sĩ"
+
+msgid "Magazine"
+msgstr "Tạp chí"
+
+msgid "Character"
+msgstr "Tính cách"
+
+msgid "Release"
+msgstr "Giải phóng"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "All Items"
+msgstr "Tất cả các mặt hàng"
+
+msgid "View Item"
+msgstr "Xem mục"
+
+msgid "Edit Item"
+msgstr "Chỉnh sửa mục"
+
+msgid "Update Item"
+msgstr "Cập nhật mục"
+
+msgid "Separate items with commas"
+msgstr "Phân tách các mục bằng dấu phẩy"
+
+msgid "Add or remove items"
+msgstr "Thêm hoặc xóa mục"
+
+msgid "Choose from the most used"
+msgstr "Chọn từ những thứ được sử dụng nhiều nhất"
+
+msgid "Most Used"
+msgstr "Được sử dụng nhiều nhất"
+
+msgid "Custom Fields"
+msgstr "Trường tùy chỉnh"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Custom SEO Title"
+msgstr "Tiêu đề SEO tùy chỉnh"
+
+msgid "Leave blank to set nothing"
+msgstr "Để trống để không thiết lập gì cả"
+
+msgid "Custom SEO Keywords"
+msgstr "Từ khóa SEO tùy chỉnh"
+
+msgid "Keywords are separated by commas, leave blank to set nothing"
+msgstr "Từ khóa được phân tách bằng dấu phẩy, để trống để không thiết lập gì"
+
+msgid "Custom SEO Description"
+msgstr "Mô tả SEO tùy chỉnh"
+
+msgid "BXManager"
+msgstr "Trình quản lý BX"
+
+msgid "Player & ADS"
+msgstr "Người chơi & Quảng cáo"
+
+msgid "Player Size"
+msgstr "Kích thước người chơi"
+
+msgid "JWPlayer error detect"
+msgstr "Phát hiện lỗi JWPlayer"
+
+msgid "If the player cannot play the video, it will automatically switch to another server."
+msgstr "Nếu trình phát không thể phát video, nó sẽ tự động chuyển sang máy chủ khác."
+
+msgid "Show Modal Popup"
+msgstr "Hiển thị cửa sổ bật lên"
+
+msgid "Auto Play Alternative Server"
+msgstr "Máy chủ thay thế tự động phát"
+
+msgid "Auto Play Custom Server"
+msgstr "Máy chủ tùy chỉnh tự động phát"
+
+msgid "Enable Auto Report"
+msgstr "Bật báo cáo tự động"
+
+msgid "Enable to automatically report the episode when the user clicks on the report button."
+msgstr "Cho phép tự động báo cáo tập phim khi người dùng nhấp vào nút báo cáo."
+
+msgid "Show Ads Vast"
+msgstr "Hiển thị quảng cáo Vast"
+
+msgid "VAST Configuration"
+msgstr "Cấu hình VAST"
+
+msgid "Configure VAST settings for the player"
+msgstr "Cấu hình cài đặt VAST cho trình phát"
+
+msgid "VAST File"
+msgstr "Tệp VAST"
+
+msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
+msgstr "URL của tệp VAST sẽ được sử dụng cho quảng cáo. Thông tin này là bắt buộc nếu bạn bật quảng cáo JWPlayer."
+
+msgid "Ads Message"
+msgstr "Tin nhắn quảng cáo"
+
+msgid "Ex: XX seconds left in ad. XX cannot be changed"
+msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi"
+
+msgid "XX seconds left in ad"
+msgstr "Còn XX giây nữa là hết quảng cáo"
+
+msgid "Skip Offset"
+msgstr "Bù trừ bỏ qua"
+
+msgid "The number of seconds before the skip button appears. Default is 5 seconds."
+msgstr "Số giây trước khi nút bỏ qua xuất hiện. Mặc định là 5 giây."
+
+msgid "Skip Text"
+msgstr "Bỏ qua văn bản"
+
+msgid "The text to display on the skip button. Default is \"Skip Ad\"."
+msgstr "Văn bản hiển thị trên nút bỏ qua. Mặc định là \"Bỏ qua quảng cáo\"."
+
+msgid "Skip Ad"
+msgstr "Bỏ qua quảng cáo"
+
+msgid "Skip Message"
+msgstr "Bỏ qua tin nhắn"
+
+msgid "The message to display when the skip button appears. Default is \"Skip after xxs seconds\"."
+msgstr "Thông báo hiển thị khi nút bỏ qua xuất hiện. Mặc định là \"Bỏ qua sau xx giây\"."
+
+msgid "Skip after xxs seconds"
+msgstr "Bỏ qua sau xxs giây"
+
+msgid "Show Logo Player"
+msgstr "Hiển thị Logo Player"
+
+msgid "Logo Player Configuration"
+msgstr "Cấu hình trình phát logo"
+
+msgid "Show logo on both JWPlayer and embedded iframe player"
+msgstr "Hiển thị logo trên cả JWPlayer và trình phát iframe nhúng"
+
+msgid "Logo File"
+msgstr "Tệp Logo"
+
+msgid "The URL of an external JPG, PNG or GIF image to be used as watermark (e.g. /assets/logo.png). We recommend using 24 bit PNG images with transparency"
+msgstr "URL của hình ảnh JPG, PNG hoặc GIF bên ngoài được sử dụng làm hình mờ (ví dụ: /assets/logo.png). Chúng tôi khuyên bạn nên sử dụng hình ảnh PNG 24 bit có độ trong suốt"
+
+msgid "Logo link"
+msgstr "Liên kết logo"
+
+msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
+msgstr "URL để truy cập khi nhấp vào hình ảnh mờ. Việc nhấp vào logo sẽ không có tác dụng trừ khi tùy chọn này được cấu hình."
+
+msgid "Logo Position"
+msgstr "Vị trí Logo"
+
+msgid "Top left"
+msgstr "Trên cùng bên trái"
+
+msgid "Top right"
+msgstr "Phía trên bên phải"
+
+msgid "Bottom left"
+msgstr "Dưới cùng bên trái"
+
+msgid "Bottom right"
+msgstr "Góc dưới bên phải"
+
+msgid "Control bar (JWPlayer only)"
+msgstr "Thanh điều khiển (chỉ dành cho JWPlayer)"
+
+msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
+msgstr "Tùy chọn này thiết lập góc hiển thị hình mờ. Tùy chọn \"control-bar\" chỉ được hỗ trợ trong JWPlayer và thêm logo làm biểu tượng ngoài cùng bên trái trong nhóm nút bên phải trên thanh điều khiển."
+
+msgid "Auto hide logo (JWPlayer only)"
+msgstr "Tự động ẩn logo (chỉ dành cho JWPlayer)"
+
+msgid "This setting only applies to JWPlayer: Auto hide the logo when the mouse is not over the player."
+msgstr "Cài đặt này chỉ áp dụng cho JWPlayer: Tự động ẩn logo khi chuột không ở trên trình phát."
+
+msgid "Show Ads & Banner"
+msgstr "Hiển thị quảng cáo & biểu ngữ"
+
+msgid "Custom Ads Position"
+msgstr "Vị trí quảng cáo tùy chỉnh"
+
+msgid "Ads Configuration"
+msgstr "Cấu hình quảng cáo"
+
+msgid "You can add ads code for desktop and mobile devices"
+msgstr "Bạn có thể thêm mã quảng cáo cho máy tính để bàn và thiết bị di động"
+
+msgid "ADS Desktop"
+msgstr "Máy tính để bàn ADS"
+
+msgid "Popup Ads Code Desktop"
+msgstr "Mã quảng cáo bật lên trên máy tính để bàn"
+
+msgid "Header Ads Code Desktop"
+msgstr "Mã quảng cáo tiêu đề máy tính để bàn"
+
+msgid "Footer Ads Code Desktop"
+msgstr "Footer Ads Code Desktop"
+
+msgid "Top Player Ads Code Desktop"
+msgstr "Mã quảng cáo Top Player dành cho máy tính để bàn"
+
+msgid "Under Player Ads Desktop"
+msgstr "Trong quảng cáo của người chơi trên máy tính để bàn"
+
+msgid "ADS Mobile"
+msgstr "ADS Mobile"
+
+msgid "Header Ads Code Mobile"
+msgstr "Mã quảng cáo tiêu đề di động"
+
+msgid "Footer Ads Code Mobile"
+msgstr "Mã quảng cáo chân trang Di động"
+
+msgid "Top Player Ads Code Mobile"
+msgstr "Mã quảng cáo Top Player Mobile"
+
+msgid "Under Player Ads Mobile"
+msgstr "Quảng cáo bên dưới trình phát trên thiết bị di động"
+
+msgid "Resume Playback"
+msgstr "Tiếp tục phát lại"
+
+msgid "Use localStorage to remember where the user left off and resume playback at the same time offset when revisiting the page."
+msgstr "Sử dụng localStorage để ghi nhớ nơi người dùng dừng lại và tiếp tục phát lại tại cùng thời điểm khi truy cập lại trang."
+
+msgid "Cache Player"
+msgstr "Trình phát bộ nhớ đệm"
+
+msgid "Enable cache link"
+msgstr "Bật liên kết bộ nhớ đệm"
+
+msgid "Cache Configuration"
+msgstr "Cấu hình bộ nhớ đệm"
+
+msgid "Auto reset cache"
+msgstr "Tự động đặt lại bộ nhớ đệm"
+
+msgid "Automatically clear the cache if the player error"
+msgstr "Tự động xóa bộ nhớ đệm nếu trình phát bị lỗi"
+
+msgid "Cache time"
+msgstr "Thời gian lưu trữ đệm"
+
+msgid "Cache expired time. (seconds)"
+msgstr "Thời gian hết hạn bộ nhớ đệm. (giây)"
+
+msgid "Custom JWPlayer"
+msgstr "JWPlayer tùy chỉnh"
+
+msgid "JWPlayer Configuration"
+msgstr "Cấu hình JWPlayer"
+
+msgid "Autostart"
+msgstr "Tự động khởi động"
+
+msgid "Auto Pause Player"
+msgstr "Tự động tạm dừng trình phát"
+
+msgid "Automatically pauses the player based on certain rules"
+msgstr "Tự động tạm dừng trình phát dựa trên các quy tắc nhất định"
+
+msgid "Share Button"
+msgstr "Nút chia sẻ"
+
+msgid "Jwplayer License key"
+msgstr "Khóa cấp phép Jwplayer"
+
+msgid "A license key is required for the Pro, Premium and Ads edition."
+msgstr "Cần có khóa cấp phép cho phiên bản Pro, Premium và Ads."
+
+msgid "Floating Player"
+msgstr "Người chơi nổi"
+
+msgid "Default poster image"
+msgstr "Hình ảnh áp phích mặc định"
+
+msgid "Default Subtitle"
+msgstr "Phụ đề mặc định"
+
+msgid "Add the url of the file subtitle.srt, .vtt or using the Upload button."
+msgstr "Thêm url của tệp subtitle.srt, .vtt hoặc sử dụng nút Tải lên."
+
+msgid "Select a method to read subtitles"
+msgstr "Chọn một phương pháp để đọc phụ đề"
+
+msgid "Direct link"
+msgstr "Liên kết trực tiếp"
+
+msgid "Use readsub.php"
+msgstr "Sử dụng readsub.php"
+
+msgid "Subtitle color"
+msgstr "Màu phụ đề"
+
+msgid "Subtitle font size"
+msgstr "Kích thước phông chữ phụ đề"
+
+msgid "About text"
+msgstr "Về văn bản"
+
+msgid "Custom text to display in the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "Văn bản tùy chỉnh sẽ hiển thị trong menu chuột phải. Chỉ có thể thiết lập cho Phiên bản Cao cấp và Quảng cáo."
+
+msgid "About link"
+msgstr "Về liên kết"
+
+msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "URL tùy chỉnh để liên kết đến khi nhấp vào menu chuột phải. Chỉ có thể thiết lập cho Phiên bản Cao cấp và Quảng cáo"
+
+msgid "Detect AdBlocker"
+msgstr "Phát hiện AdBlocker"
+
+msgid "Auto detects ad blockers and displays a notification to users"
+msgstr "Tự động phát hiện trình chặn quảng cáo và hiển thị thông báo cho người dùng"
+
+msgid "Adblock Notices"
+msgstr "Thông báo chặn quảng cáo"
+
+msgid "Please disable AdBlock to continue watching."
+msgstr "Vui lòng tắt AdBlock để tiếp tục xem."
+
+msgid "Ex: \"Users please remove ad blocker!\""
+msgstr "VD: \"Người dùng vui lòng xóa trình chặn quảng cáo!\""
+
+msgid "All"
+msgstr "Tất cả"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Add New "
+msgstr "Thêm mới"
+
+msgid "New"
+msgstr "Mới"
+
+msgid "Add New Episode"
+msgstr "Thêm tập mới"
+
+msgid "Slug"
+msgstr "Sên"
+
+msgid "Add Subtitle"
+msgstr "Thêm phụ đề"
+
+msgid "Label"
+msgstr "Nhãn"
+
+msgid "File"
+msgstr "Tài liệu"
+
+msgid "Movie Details"
+msgstr "Chi tiết phim"
+
+msgid "TMDB ID"
+msgstr "Mã số TMDB"
+
+msgid "Enter the TMDB ID for this movie."
+msgstr "Nhập ID TMDB cho phim này."
+
+msgid "IMDB ID"
+msgstr "Mã IMDB"
+
+msgid "Enter the IMDB ID for this movie."
+msgstr "Nhập ID IMDB cho bộ phim này."
+
+msgid "Other ID"
+msgstr "ID khác"
+
+msgid "Enter any other relevant ID for this movie."
+msgstr "Nhập bất kỳ ID nào khác có liên quan cho bộ phim này."
+
+msgid "Runtime"
+msgstr "Thời gian chạy"
+
+msgid "Enter the runtime of the movie."
+msgstr "Nhập thời lượng của bộ phim."
+
+msgid "Episodes"
+msgstr "Các tập phim"
+
+msgid "Enter the episode number of the movie."
+msgstr "Nhập số tập của bộ phim."
+
+msgid "Total Episodes"
+msgstr "Tổng số tập"
+
+msgid "Enter the total number of episodes for the movie."
+msgstr "Nhập tổng số tập của bộ phim."
+
+msgid "Quality"
+msgstr "Chất lượng"
+
+msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
+msgstr "Nhập chất lượng của phim (ví dụ: 1080p, 720p)."
+
+msgid "Enter the number of likes for this movie."
+msgstr "Nhập số lượt thích cho bộ phim này."
+
+msgid "Dislikes"
+msgstr "Không thích"
+
+msgid "Enter the number of dislikes for this movie."
+msgstr "Nhập số lượt không thích cho bộ phim này."
+
+msgid "Enter the number of favorites for this movie."
+msgstr "Nhập số lượng phim yêu thích của bạn."
+
+msgid "Single Movies"
+msgstr "Phim đơn"
+
+msgid "TV Series"
+msgstr "Phim truyền hình"
+
+msgid "TV Shows"
+msgstr "Chương trình truyền hình"
+
+msgid "Theater Movie"
+msgstr "Phim sân khấu"
+
+msgid "Cartoon"
+msgstr "Hoạt hình"
+
+msgid "Trailer"
+msgstr "Đoạn phim giới thiệu"
+
+msgid "OnGoing"
+msgstr "Đang diễn ra"
+
+msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
+msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ cho phép định dạng ảnh .png, .jpg, .jpeg."
+
+msgid "Trailer Links"
+msgstr "Liên kết Trailer"
+
+msgid "Upload or Paste Trailer Links"
+msgstr "Tải lên hoặc dán liên kết đoạn giới thiệu"
+
+msgid "Schedule Content"
+msgstr "Nội dung lịch trình"
+
+msgid "Enable if this movie has a release schedule."
+msgstr "Bật nếu phim này có lịch phát hành."
+
+msgid "Schedule Day"
+msgstr "Lịch trình ngày"
+
+msgid "Select the day of the week for the movie release schedule."
+msgstr "Chọn ngày trong tuần để xem lịch phát hành phim."
+
+msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
+msgstr "Nhập thời gian trong ngày mà phim sẽ được phát hành (ví dụ: 10:00 sáng)."
+
+msgid "Related Seasons"
+msgstr "Các mùa liên quan"
+
+msgid "Select related seasons for this movie."
+msgstr "Chọn các mùa liên quan đến bộ phim này."
+
+msgid "Movies Settings"
+msgstr "Cài đặt phim"
+
+msgid "Metabox Fields"
+msgstr "Trường Metabox"
+
+msgid "Use Additional Fields"
+msgstr "Sử dụng các trường bổ sung"
+
+msgid "Additional Fields"
+msgstr "Các trường bổ sung"
+
+msgid "Description"
+msgstr "Sự miêu tả"
+
+msgid "Text"
+msgstr "Chữ"
+
+msgid "Number"
+msgstr "Con số"
+
+msgid "Textarea"
+msgstr "Vùng văn bản"
+
+msgid "Select"
+msgstr "Lựa chọn"
+
+msgid "Switcher"
+msgstr "Bộ chuyển đổi"
+
+msgid "Items Select"
+msgstr "Chọn mục"
+
+msgid "ID Options"
+msgstr "Tùy chọn ID"
+
+msgid "Value Options"
+msgstr "Tùy chọn giá trị"
+
+msgid "Metaboxes"
+msgstr "Metabox"
+
+msgid "Showed"
+msgstr "Đã hiển thị"
+
+msgid "Hide"
+msgstr "Trốn"
+
+msgid "Season"
+msgstr "Mùa"
+
+msgid "Season Number"
+msgstr "Số mùa giải"
+
+msgid "Add Video"
+msgstr "Thêm video"
+
+msgid "Add New Video"
+msgstr "Thêm video mới"
+
+msgid "Enter video name"
+msgstr "Nhập tên video"
+
+msgid "Enter video link"
+msgstr "Nhập liên kết video"
+
+msgid "Video Code"
+msgstr "Mã video"
+
+msgid "Enter the video code for this movie."
+msgstr "Nhập mã video cho bộ phim này."
+
+msgid "Video Preview"
+msgstr "Xem trước video"
+
+msgid "Upload or Paste Video Preview Links"
+msgstr "Tải lên hoặc dán liên kết xem trước video"
+
+msgid "Videos Settings"
+msgstr "Cài đặt video"
+
+msgid "Yes"
+msgstr "Đúng"
+
+msgid "No"
+msgstr "KHÔNG"
+
+msgid "Version"
+msgstr "Phiên bản"
+
+msgid "Active Theme"
+msgstr "Chủ đề hoạt động"
+
+msgid "Data is being imported please be patient..."
+msgstr "Dữ liệu đang được nhập, vui lòng kiên nhẫn..."
+
+msgid "Loading..."
+msgstr "Đang tải..."
+
+msgid "An error occurred"
+msgstr "Đã xảy ra lỗi"
+
+msgid "Have fun!"
+msgstr "Chúc vui vẻ!"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "List Episode"
+msgstr "Danh sách tập phim"
+
+msgid "EMBED"
+msgstr "NHÚNG"
+
+msgid "Content"
+msgstr "Nội dung"
+
+msgid "Are you sure you want to delete this server?"
+msgstr "Bạn có chắc chắn muốn xóa máy chủ này không?"
+
+msgid "Are you sure you want to delete this episode?"
+msgstr "Bạn có chắc chắn muốn xóa tập này không?"
+
+msgid "Are you sure you want to delete this video?"
+msgstr "Bạn có chắc chắn muốn xóa video này không?"
+
+msgid "Are you sure you want to delete this chapter?"
+msgstr "Bạn có chắc chắn muốn xóa chương này không?"
+
+msgid "less than 1 second ago"
+msgstr "ít hơn 1 giây trước"
+
+msgid "year ago"
+msgstr "năm trước"
+
+msgid "month ago"
+msgstr "tháng trước"
+
+msgid "day ago"
+msgstr "ngày trước"
+
+msgid "hour ago"
+msgstr "giờ trước"
+
+msgid "minute ago"
+msgstr "phút trước"
+
+msgid "second ago"
+msgstr "giây trước"
+
+msgid "years ago"
+msgstr "nhiều năm trước"
+
+msgid "months ago"
+msgstr "tháng trước"
+
+msgid "days ago"
+msgstr "ngày trước"
+
+msgid "hours ago"
+msgstr "giờ trước"
+
+msgid "minutes ago"
+msgstr "phút trước"
+
+msgid "seconds ago"
+msgstr "vài giây trước"
+
+msgid "Copyright infringement!"
+msgstr "Vi phạm bản quyền!"
+
+msgid "Choose Server"
+msgstr "Chọn máy chủ"
+
+msgid "Save"
+msgstr "Cứu"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Bạn có chắc chắn muốn xóa mục này không?"
+
+msgid "Are you sure you want to delete %d selected items?"
+msgstr "Bạn có chắc chắn muốn xóa %d mục đã chọn không?"
+
+msgid "Updated successfully!"
+msgstr "Đã cập nhật thành công!"
+
+msgid "Deleted successfully!"
+msgstr "Đã xóa thành công!"
+
+msgid "Saved successfully!"
+msgstr "Đã lưu thành công!"
+
+msgid "An error occurred: %s"
+msgstr "Đã xảy ra lỗi: %s"
+
+msgid "Please select at least one item"
+msgstr "Vui lòng chọn ít nhất một mục"
+
+msgid "Processing..."
+msgstr "Xử lý..."
+
+msgid "Search:"
+msgstr "Tìm kiếm:"
+
+msgid "Show _MENU_ entries"
+msgstr "Hiển thị các mục _MENU_"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Hiển thị _START_ đến _END_ trong tổng số _TOTAL_ mục nhập"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Hiển thị 0 đến 0 trong số 0 mục nhập"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(được lọc từ tổng số _MAX_ mục nhập)"
+
+msgid "First"
+msgstr "Đầu tiên"
+
+msgid "Last"
+msgstr "Cuối cùng"
+
+msgid "Previous"
+msgstr "Trước"
+
+msgid "This video file cannot be played"
+msgstr "Tệp video này không thể phát"
+
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "Chúng tôi không thể tìm thấy video bạn đang tìm. Có thể có nhiều lý do cho điều này, ví dụ như nó đã bị chủ sở hữu xóa!"
+
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "Để tiếp tục xem, vui lòng nhấp vào nút \"Tải lại Player\""
+
+msgid "or click on the buttons below"
+msgstr "hoặc nhấp vào các nút bên dưới"
+
+msgid "Reload Player"
+msgstr "Tải lại Player"
+
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "Bạn có muốn tiếp tục xem từ vị trí đã lưu hay bắt đầu lại từ đầu không?"
+
+msgid "Continue watching"
+msgstr "Tiếp tục xem"
+
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "Tự động tiếp tục video của bạn từ nơi bạn đã xem lần cuối"
+
+msgid "Playback"
+msgstr "Phát lại"
+
+msgid "Loading, please wait..."
+msgstr "Đang tải, vui lòng đợi..."
+
+msgid "Switching to backup server..."
+msgstr "Đang chuyển sang server dự phòng..."
