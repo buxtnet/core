@@ -2,6 +2,7 @@
     "name": "buxtnet/core",
     "description": "buxt.net mangager",
     "type": "library",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Buxt\\": "src/"
