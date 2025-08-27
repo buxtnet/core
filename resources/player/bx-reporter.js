@@ -1,1 +1,136 @@
-function _0x9bb4(){const _0x2d055f=['POST','.mark-as-resolved-','Failed\x20to\x20remove\x20items!','i18n','success','error','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22btn-close\x20btn-close-white\x20me-2\x20m-auto\x22\x20data-bs-dismiss=\x22toast\x22></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','An\x20error\x20occurred\x20while\x20removing\x20all\x20items.','2635368cQaUkE','2548pHikYW','2824911clVwRs','___','opacity','table.rp\x20tbody','danger','.item_','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toast\x20align-items-center\x20text-white\x20bg-','querySelector','hidden.bs.toast','display','appendChild','style','show','30TmxCkG','message','\x20border-0\x22\x20role=\x22alert\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22d-flex\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toast-body\x22>','showToast','</td></tr>','16248RhFFXM','data','append','opacity\x200.5s','bxajax_updatestatus','bxajax_removeall','ajaxUrl','An\x20error\x20occurred\x20while\x20removing\x20the\x20item.','json','\x20span','878920fpWUQs','createElement','undefined','removeAll','Empty!','.toast-container','Marked\x20as\x20resolved\x20successfully!','Error:','Failed\x20to\x20mark\x20as\x20resolved!','2692572KnvByu','transition','classList','.status_','<tr><td\x20colspan=\x228\x22\x20class=\x22text-center\x20text-muted\x22>','addEventListener','An\x20error\x20occurred\x20while\x20updating\x20the\x20status.','Failed\x20to\x20remove\x20item!','74ttokGv','bxajax_removeitem','ajaxurl','action','Toast','3208400jQjOOB','body','div','innerHTML','lastElementChild','remove','All\x20items\x20removed\x20successfully!','13976TErgKt'];_0x9bb4=function(){return _0x2d055f;};return _0x9bb4();}function _0x28dc(_0x12661e,_0x5043c5){const _0x9bb428=_0x9bb4();return _0x28dc=function(_0x28dccb,_0x2535be){_0x28dccb=_0x28dccb-0xac;let _0x4654e7=_0x9bb428[_0x28dccb];return _0x4654e7;},_0x28dc(_0x12661e,_0x5043c5);}const _0x420f5a=_0x28dc;(function(_0x1f0da4,_0x5dae9b){const _0x536d18=_0x28dc,_0x18e308=_0x1f0da4();while(!![]){try{const _0x5d9fa7=-parseInt(_0x536d18(0xee))/0x1*(-parseInt(_0x536d18(0xe2))/0x2)+parseInt(_0x536d18(0xb3))/0x3+-parseInt(_0x536d18(0xd1))/0x4+parseInt(_0x536d18(0xe7))/0x5+parseInt(_0x536d18(0xda))/0x6+parseInt(_0x536d18(0xb4))/0x7*(-parseInt(_0x536d18(0xc7))/0x8)+-parseInt(_0x536d18(0xb5))/0x9*(parseInt(_0x536d18(0xc2))/0xa);if(_0x5d9fa7===_0x5dae9b)break;else _0x18e308['push'](_0x18e308['shift']());}catch(_0xc94a20){_0x18e308['push'](_0x18e308['shift']());}}}(_0x9bb4,0x8ee8f));class Reporter{constructor(){const _0x425906=_0x28dc;this[_0x425906(0xcd)]=bxreport[_0x425906(0xe4)],this[_0x425906(0xae)]=bxreport[_0x425906(0xae)];}['___'](_0x2ceac5){const _0x4f2d3b=_0x28dc;return this[_0x4f2d3b(0xae)][_0x2ceac5]||_0x2ceac5;}async[_0x420f5a(0xd4)](){const _0x2f1685=_0x420f5a;try{const _0x403537=new FormData();_0x403537[_0x2f1685(0xc9)]('action',_0x2f1685(0xcc));const _0x301342=await fetch(this[_0x2f1685(0xcd)],{'method':_0x2f1685(0xef),'body':_0x403537}),_0x5c6928=await _0x301342[_0x2f1685(0xcf)]();_0x5c6928[_0x2f1685(0xaf)]?(document[_0x2f1685(0xbc)](_0x2f1685(0xb8))[_0x2f1685(0xea)]=_0x2f1685(0xde)+this[_0x2f1685(0xb6)](_0x2f1685(0xd5))+_0x2f1685(0xc6),this[_0x2f1685(0xc5)](_0x5c6928[_0x2f1685(0xc8)][_0x2f1685(0xc3)]||this['___'](_0x2f1685(0xed)),_0x2f1685(0xaf))):this[_0x2f1685(0xc5)](_0x5c6928[_0x2f1685(0xc8)][_0x2f1685(0xc3)]||this[_0x2f1685(0xb6)](_0x2f1685(0xad)),'error');}catch(_0x20d149){console['error'](_0x2f1685(0xd8),_0x20d149),this[_0x2f1685(0xc5)](this[_0x2f1685(0xb6)](_0x2f1685(0xb2)),_0x2f1685(0xb0));}}async['markAsResolved'](_0x2b9d98){const _0x1f17ea=_0x420f5a;try{const _0xf66f8e=new FormData();_0xf66f8e[_0x1f17ea(0xc9)](_0x1f17ea(0xe5),_0x1f17ea(0xcb)),_0xf66f8e[_0x1f17ea(0xc9)]('id',_0x2b9d98);const _0x4d4683=await fetch(this[_0x1f17ea(0xcd)],{'method':_0x1f17ea(0xef),'body':_0xf66f8e}),_0x3e2da4=await _0x4d4683[_0x1f17ea(0xcf)]();if(_0x3e2da4['success']){const _0x5a66db=document[_0x1f17ea(0xbc)](_0x1f17ea(0xdd)+_0x2b9d98+_0x1f17ea(0xd0));_0x5a66db&&(_0x5a66db[_0x1f17ea(0xdc)][_0x1f17ea(0xec)]('text-success'),_0x5a66db[_0x1f17ea(0xdc)]['add']('text-muted'));const _0x559ab2=document[_0x1f17ea(0xbc)](_0x1f17ea(0xac)+_0x2b9d98);_0x559ab2&&(_0x559ab2[_0x1f17ea(0xc0)][_0x1f17ea(0xbe)]='none'),this[_0x1f17ea(0xc5)](_0x3e2da4[_0x1f17ea(0xc8)][_0x1f17ea(0xc3)]||this[_0x1f17ea(0xb6)](_0x1f17ea(0xd7)),_0x1f17ea(0xaf));}else this[_0x1f17ea(0xc5)](_0x3e2da4['data'][_0x1f17ea(0xc3)]||this[_0x1f17ea(0xb6)](_0x1f17ea(0xd9)),_0x1f17ea(0xb0));}catch(_0x523b49){console[_0x1f17ea(0xb0)](_0x1f17ea(0xd8),_0x523b49),this['showToast'](this[_0x1f17ea(0xb6)](_0x1f17ea(0xe0)),_0x1f17ea(0xb0));}}async['removeItem'](_0x1c4798){const _0x29d0bd=_0x420f5a;try{const _0x25e3e5=new FormData();_0x25e3e5[_0x29d0bd(0xc9)](_0x29d0bd(0xe5),_0x29d0bd(0xe3)),_0x25e3e5[_0x29d0bd(0xc9)]('id',_0x1c4798);const _0x20cd6d=await fetch(this[_0x29d0bd(0xcd)],{'method':'POST','body':_0x25e3e5}),_0x1413f4=await _0x20cd6d['json']();if(_0x1413f4[_0x29d0bd(0xaf)]){const _0x2acd0a=document[_0x29d0bd(0xbc)](_0x29d0bd(0xba)+_0x1c4798);_0x2acd0a&&(_0x2acd0a[_0x29d0bd(0xc0)][_0x29d0bd(0xb7)]='0',_0x2acd0a[_0x29d0bd(0xc0)][_0x29d0bd(0xdb)]=_0x29d0bd(0xca),setTimeout(()=>{const _0x5e40b5=_0x29d0bd;_0x2acd0a[_0x5e40b5(0xec)]();},0x1f4)),this[_0x29d0bd(0xc5)](_0x1413f4[_0x29d0bd(0xc8)]['message']||this['___']('Item\x20removed\x20successfully!'),'success');}else this[_0x29d0bd(0xc5)](_0x1413f4[_0x29d0bd(0xc8)][_0x29d0bd(0xc3)]||this['___'](_0x29d0bd(0xe1)),_0x29d0bd(0xb0));}catch(_0x59c6df){console[_0x29d0bd(0xb0)]('Error:',_0x59c6df),this[_0x29d0bd(0xc5)](this['___'](_0x29d0bd(0xce)),_0x29d0bd(0xb0));}}[_0x420f5a(0xc5)](_0x10a478,_0x8c1907='info'){const _0x2e51ac=_0x420f5a,_0x327371=window['bootstrap'];if(typeof _0x327371!==_0x2e51ac(0xd3)&&_0x327371[_0x2e51ac(0xe6)]){const _0x34f354=_0x2e51ac(0xbb)+(_0x8c1907==='success'?_0x2e51ac(0xaf):_0x2e51ac(0xb9))+_0x2e51ac(0xc4)+_0x10a478+_0x2e51ac(0xb1);let _0x3ee165=document['querySelector'](_0x2e51ac(0xd6));!_0x3ee165&&(_0x3ee165=document[_0x2e51ac(0xd2)](_0x2e51ac(0xe9)),_0x3ee165['className']='toast-container\x20position-fixed\x20bottom-0\x20end-0\x20p-3',document[_0x2e51ac(0xe8)][_0x2e51ac(0xbf)](_0x3ee165));_0x3ee165['insertAdjacentHTML']('beforeend',_0x34f354);const _0x7b1830=_0x3ee165[_0x2e51ac(0xeb)],_0x667795=new _0x327371['Toast'](_0x7b1830);_0x667795[_0x2e51ac(0xc1)](),_0x7b1830[_0x2e51ac(0xdf)](_0x2e51ac(0xbd),()=>{const _0x4f42a5=_0x2e51ac;_0x7b1830[_0x4f42a5(0xec)]();});}else alert(_0x10a478);}}const reporter=new Reporter();
+class Reporter {
+    constructor() {
+        this.ajaxUrl = bxreport.ajaxurl
+        this.i18n = bxreport.i18n
+    }
+
+    ___(key) {
+        return this.i18n[key] || key
+    }
+
+    async removeAll() {
+        try {
+        const formData = new FormData()
+        formData.append("action", "bxajax_removeall")
+        const response = await fetch(this.ajaxUrl, {
+            method: "POST",
+            body: formData,
+        })
+        const data = await response.json()
+        if (data.success) {
+            document.querySelector("table.rp tbody").innerHTML =
+            '<tr><td colspan="8" class="text-center text-muted">' + this.___("Empty!") + "</td></tr>"
+            this.showToast(data.data.message || this.___("All items removed successfully!"), "success")
+        } else {
+            this.showToast(data.data.message || this.___("Failed to remove items!"), "error")
+        }
+        } catch (error) {
+        console.error("Error:", error)
+        this.showToast(this.___("An error occurred while removing all items."), "error")
+        }
+    }
+
+    async markAsResolved(postID) {
+        try {
+        const formData = new FormData()
+        formData.append("action", "bxajax_updatestatus")
+        formData.append("id", postID)
+
+        const response = await fetch(this.ajaxUrl, {
+            method: "POST",
+            body: formData,
+        })
+
+        const data = await response.json()
+
+        if (data.success) {
+            const statusElement = document.querySelector(".status_" + postID + " span")
+            if (statusElement) {
+            statusElement.classList.remove("text-success")
+            statusElement.classList.add("text-muted")
+            }
+
+            const resolveButton = document.querySelector(".mark-as-resolved-" + postID)
+            if (resolveButton) {
+            resolveButton.style.display = "none"
+            }
+
+            this.showToast(data.data.message || this.___("Marked as resolved successfully!"), "success")
+        } else {
+            this.showToast(data.data.message || this.___("Failed to mark as resolved!"), "error")
+        }
+        } catch (error) {
+        console.error("Error:", error)
+        this.showToast(this.___("An error occurred while updating the status."), "error")
+        }
+    }
+
+    async removeItem(postID) {
+        try {
+        const formData = new FormData()
+        formData.append("action", "bxajax_removeitem")
+        formData.append("id", postID)
+
+        const response = await fetch(this.ajaxUrl, {
+            method: "POST",
+            body: formData,
+        })
+
+        const data = await response.json()
+
+        if (data.success) {
+            const item = document.querySelector(".item_" + postID)
+            if (item) {
+            item.style.opacity = "0"
+            item.style.transition = "opacity 0.5s"
+            setTimeout(() => {
+                item.remove()
+            }, 500)
+            }
+
+            this.showToast(data.data.message || this.___("Item removed successfully!"), "success")
+        } else {
+            this.showToast(data.data.message || this.___("Failed to remove item!"), "error")
+        }
+        } catch (error) {
+        console.error("Error:", error)
+        this.showToast(this.___("An error occurred while removing the item."), "error")
+        }
+    }
+
+    showToast(message, type = "info") {
+        const bootstrap = window.bootstrap
+        if (typeof bootstrap !== "undefined" && bootstrap.Toast) {
+        const toastHtml = `
+                    <div class="toast align-items-center text-white bg-${type === "success" ? "success" : "danger"} border-0" role="alert">
+                        <div class="d-flex">
+                            <div class="toast-body">${message}</div>
+                            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+                        </div>
+                    </div>
+                `
+
+        let toastContainer = document.querySelector(".toast-container")
+        if (!toastContainer) {
+            toastContainer = document.createElement("div")
+            toastContainer.className = "toast-container position-fixed bottom-0 end-0 p-3"
+            document.body.appendChild(toastContainer)
+        }
+
+        toastContainer.insertAdjacentHTML("beforeend", toastHtml)
+        const toastElement = toastContainer.lastElementChild
+        const toast = new bootstrap.Toast(toastElement)
+        toast.show()
+
+        // Remove toast element after it's hidden
+        toastElement.addEventListener("hidden.bs.toast", () => {
+            toastElement.remove()
+        })
+        } else {
+        // Fallback to alert
+        alert(message)
+        }
+    }
+}
+
+const reporter = new Reporter()
