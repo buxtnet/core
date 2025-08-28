@@ -1999,17 +1999,24 @@
 	}
 
 	function Aa(e) {
-		var a, t;
-		"function" == typeof navigator.sendBeacon && (a = e, t = function() {
-			g(a, ae);
-			var e = ha(a, ae, "jwplayer6", {
-				returnURL: !0
-			});
-			void 0 !== e && navigator.sendBeacon(e)
-		}, window.addEventListener("unload", t), a.external.playerAPI.on("remove", function() {
-			g(a, ae), window.removeEventListener("unload", t), a.meta.playerRemoved = !0, ha(a, ae, "jwplayer6")
-		}))
-	}
+        var a, t;
+        if (typeof navigator.sendBeacon === "function") {
+            a = e
+            t = function() {
+                g(a, ae)
+                var url = ha(a, ae, "jwplayer6", { returnURL: true })
+                if (url !== undefined) navigator.sendBeacon(url)
+            }
+            window.addEventListener("pagehide", t)
+
+            a.external.playerAPI.on("remove", function() {
+                g(a, ae)
+                window.removeEventListener("pagehide", t)
+                a.meta.playerRemoved = true
+                ha(a, ae, "jwplayer6")
+            })
+        }
+    }
 	var xa = ["predictions", "segments", "decisionThresholds"];
 	var ja = 1e3;
 
