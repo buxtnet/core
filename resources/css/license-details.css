@@ -789,8 +789,7 @@ input[type="text"], input[type="password"], input[type="color"], input[type="dat
   display: inline-block;
   width: 48%;
   vertical-align: top;
-  padding-right: 5px !important;
-  padding-left: 5px !important;
+  padding: 2px !important;
 }
 
 .bx-33 {
@@ -823,7 +822,17 @@ input[type="text"], input[type="password"], input[type="color"], input[type="dat
   font-size: 13px;
   text-transform: uppercase;
 }
-
+#side-sortables .csf-section {
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#side-sortables .csf-field .csf-title {
+    text-align: center;
+}
+#side-sortables .csf-field-number .csf--wrap {
+    width: 100%;
+}
 .csf-bxmovies-field-header.text {
   width: 82px;
 }
