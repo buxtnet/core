@@ -1,9 +1,9 @@
-# Date created: 2025-08-22 02:50:57 by https://buxt.net
+# Date created: 2025-09-22 04:41:35 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-23 06:54+0700\n"
+"PO-Revision-Date: 2025-09-22 04:43+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: th\n"
@@ -12,11 +12,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "Type Site"
-msgstr "ประเภทไซต์"
+msgid "Movies Code"
+msgstr "รหัสภาพยนตร์"
 
-msgid "Basic Settings"
-msgstr "การตั้งค่าพื้นฐาน"
+msgid "Quality"
+msgstr "คุณภาพ"
+
+msgid "Runtime"
+msgstr "รันไทม์"
+
+msgid "Copyright"
+msgstr "ลิขสิทธิ์"
+
+msgid "Title"
+msgstr "ชื่อ"
+
+msgid "Thumbs"
+msgstr "นิ้วหัวแม่มือ"
+
+msgid "Details"
+msgstr "รายละเอียด"
+
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+msgid "Date"
+msgstr "วันที่"
+
+msgid "Tags"
+msgstr "แท็ก"
+
+msgid "Last Update"
+msgstr "อัปเดตล่าสุด"
+
+msgid "views"
+msgstr "มุมมอง"
 
 msgid "Custom CSS Code"
 msgstr "รหัส CSS ที่กำหนดเอง"
@@ -51,6 +81,9 @@ msgstr "ฟีเจอร์ความคิดเห็นบนเว็บ
 msgid "Control the site comment feature. Disable if not needed."
 msgstr "ควบคุมฟีเจอร์แสดงความคิดเห็นบนเว็บไซต์ ปิดใช้งานหากไม่จำเป็น"
 
+msgid "Basic Settings"
+msgstr "การตั้งค่าพื้นฐาน"
+
 msgid "SEO Settings"
 msgstr "การตั้งค่า SEO"
 
@@ -62,6 +95,9 @@ msgstr "ลดความซับซ้อนของหมวดหมู่
 
 msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
 msgstr "ลบหมวดหมู่/คำนำหน้าออกจากลิงก์หมวดหมู่บทความ โดยทั่วไปขอแนะนำให้คงกฎ WP เริ่มต้นไว้"
+
+msgid "Categories Type"
+msgstr "ประเภทหมวดหมู่"
 
 msgid "Built-in SEO Features"
 msgstr "คุณสมบัติ SEO ในตัว"
@@ -123,65 +159,20 @@ msgstr "ตัวเลือกเดียว"
 msgid "Option type when publishing articles in the background"
 msgstr "ประเภทตัวเลือกเมื่อเผยแพร่บทความในพื้นหลัง"
 
-msgid "Advanced Search"
-msgstr "การค้นหาขั้นสูง"
+msgid "Popup"
+msgstr "ป๊อปอัป"
 
-msgid "Disable Sitewide Search Function (Caution)"
-msgstr "ปิดใช้งานฟังก์ชันการค้นหาทั่วทั้งไซต์ (ข้อควรระวัง)"
+msgid "Top Archive"
+msgstr "เก็บถาวรด้านบน"
 
-msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
-msgstr "หลังจากปิดใช้งานแล้ว เว็บไซต์จะไม่สามารถค้นหาบทความได้ ซึ่งสามารถป้องกันการโจมตีแบบ Brute Force และการบล็อกฐานข้อมูลได้อย่างมีประสิทธิภาพ"
+msgid "Bottom Archive"
+msgstr "เก็บถาวรด้านล่าง"
 
-msgid "Optimize Search to Only Search Article Titles"
-msgstr "เพิ่มประสิทธิภาพการค้นหาเพื่อค้นหาเฉพาะชื่อบทความ"
+msgid "Top Player"
+msgstr "ผู้เล่นชั้นนำ"
 
-msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
-msgstr "หลังจากเปิดใช้งานแล้ว เมื่อค้นหาเว็บไซต์ ระบบจะค้นหาตามชื่อบทความเท่านั้น ซึ่งช่วยเพิ่มประสิทธิภาพการค้นหาเมื่อมีบทความจำนวนมาก เปิดใช้งานได้ตามต้องการ"
-
-msgid "Search Box Supports Searching by Category"
-msgstr "กล่องค้นหารองรับการค้นหาตามหมวดหมู่"
-
-msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
-msgstr "เปิดใช้งานตามค่าเริ่มต้น หากปิดใช้งาน ตัวเลือกการเลือกหมวดหมู่แบบดรอปดาวน์จะไม่ปรากฏขึ้น"
-
-msgid "Category Display Depth in Search Box"
-msgstr "ความลึกของการแสดงหมวดหมู่ในช่องค้นหา"
-
-msgid "Show only 1-level main categories"
-msgstr "แสดงเฉพาะหมวดหมู่หลักระดับ 1 เท่านั้น"
-
-msgid "Expand to 2-level subcategories"
-msgstr "ขยายไปยังหมวดหมู่ย่อย 2 ระดับ"
-
-msgid "Expand to 3-level subcategories"
-msgstr "ขยายไปยังหมวดหมู่ย่อย 3 ระดับ"
-
-msgid "Sorting Method for Category Selection in Search Box"
-msgstr "วิธีการเรียงลำดับสำหรับการเลือกหมวดหมู่ในช่องค้นหา"
-
-msgid "By Category ID"
-msgstr "ตามรหัสหมวดหมู่"
-
-msgid "By Category Name"
-msgstr "ตามชื่อหมวดหมู่"
-
-msgid "By Category Alias"
-msgstr "ตามหมวดหมู่ ชื่อเล่น"
-
-msgid "By Total Number of Posts"
-msgstr "ตามจำนวนโพสต์ทั้งหมด"
-
-msgid "Category Page - Top"
-msgstr "หน้าหมวดหมู่ - ด้านบน"
-
-msgid "Category Page - Bottom"
-msgstr "หน้าหมวดหมู่ - ด้านล่าง"
-
-msgid "Single Post Page - Top"
-msgstr "หน้าโพสต์เดี่ยว - ด้านบน"
-
-msgid "Single Post Page - Bottom"
-msgstr "หน้าโพสต์เดี่ยว - ด้านล่าง"
+msgid "Bottom Player"
+msgstr "ผู้เล่นล่าง"
 
 msgid "Desktop Ad Code"
 msgstr "รหัสโฆษณาบนเดสก์ท็อป"
@@ -191,6 +182,9 @@ msgstr "รหัสโฆษณาบนมือถือ"
 
 msgid "Ad Settings"
 msgstr "การตั้งค่าโฆษณา"
+
+msgid "Enable Ads"
+msgstr "เปิดใช้งานโฆษณา"
 
 msgid "Website Optimization"
 msgstr "การเพิ่มประสิทธิภาพเว็บไซต์"
@@ -217,7 +211,7 @@ msgid "Remove Frontend Admin Bar"
 msgstr "ลบแถบผู้ดูแลระบบ Frontend"
 
 msgid "Remove WP Admin Top Logo Menu"
-msgstr "ลบเมนูโลโก้ด้านบนของ WP Admin"
+msgstr "ลบโลโก้เมนูด้านบนของ WP Admin"
 
 msgid "Remove WP Admin Footer Version Info"
 msgstr "ลบข้อมูลเวอร์ชันส่วนท้ายของ WP Admin"
@@ -252,6 +246,12 @@ msgstr "ปิดใช้งาน XML-RPC (Pingback)"
 msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
 msgstr "XML-RPC ถูกใช้โดยไคลเอ็นต์บุคคลที่สาม การปิดใช้งานจะช่วยป้องกันการโจมตีแบบ Brute-force ได้"
 
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "ปิดใช้งานฟังก์ชันการค้นหาทั่วทั้งไซต์ (ข้อควรระวัง)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "หลังจากปิดใช้งานแล้ว เว็บไซต์จะไม่สามารถค้นหาบทความได้ วิธีนี้ช่วยป้องกันการโจมตีแบบ Brute Force และการบล็อกฐานข้อมูลได้อย่างมีประสิทธิภาพ"
+
 msgid "Disable F12 Key, Debug tools in Browser"
 msgstr "ปิดใช้งานปุ่ม F12, เครื่องมือดีบักในเบราว์เซอร์"
 
@@ -283,7 +283,7 @@ msgid "Create Widgets"
 msgstr "สร้างวิดเจ็ต"
 
 msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "สร้าง <a href=\"%s\" target=\"_blank\">วิดเจ็ต</a> เช่นเดียวกับการสาธิต <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr "สร้าง <a href=\"%s\" target=\"_blank\">วิดเจ็ต</a> เช่นเดียวกับในเดโม <a href=\"%s\" target=\"_blank\">%s</a>"
 
 msgid "Import Themes Demo"
 msgstr "นำเข้าธีมสาธิต"
@@ -384,14 +384,53 @@ msgstr "ไอเฟรม"
 msgid "Images"
 msgstr "รูปภาพ"
 
+msgid "less than 1 second ago"
+msgstr "น้อยกว่า 1 วินาทีที่ผ่านมา"
+
+msgid "year ago"
+msgstr "ปีที่แล้ว"
+
+msgid "month ago"
+msgstr "เดือนที่แล้ว"
+
+msgid "day ago"
+msgstr "เมื่อวันก่อน"
+
+msgid "hour ago"
+msgstr "ชั่วโมงที่แล้ว"
+
+msgid "minute ago"
+msgstr "นาทีที่แล้ว"
+
+msgid "second ago"
+msgstr "วินาทีที่แล้ว"
+
+msgid "years ago"
+msgstr "หลายปีก่อน"
+
+msgid "months ago"
+msgstr "หลายเดือนก่อน"
+
+msgid "days ago"
+msgstr "หลายวันที่ผ่านมา"
+
+msgid "hours ago"
+msgstr "ชั่วโมงที่ผ่านมา"
+
+msgid "minutes ago"
+msgstr "นาทีที่แล้ว"
+
+msgid "seconds ago"
+msgstr "วินาทีที่แล้ว"
+
 msgid "Broken Report"
 msgstr "รายงานเสียหาย"
 
-msgid "Status updated successfully"
-msgstr "สถานะอัปเดตสำเร็จแล้ว"
+msgid "Invalid REST nonce."
+msgstr "ค่า nonce REST ไม่ถูกต้อง"
 
-msgid "Failed to update status"
-msgstr "ไม่สามารถอัปเดตสถานะได้"
+msgid "Issues configuration saved successfully."
+msgstr "บันทึกการกำหนดค่าปัญหาสำเร็จแล้ว"
 
 msgid "Item removed successfully"
 msgstr "ลบรายการสำเร็จแล้ว"
@@ -405,17 +444,23 @@ msgstr "ลบรายการทั้งหมดออกสำเร็จ
 msgid "Failed to remove all items"
 msgstr "ไม่สามารถลบรายการทั้งหมดได้"
 
+msgid "Status updated successfully"
+msgstr "สถานะอัปเดตสำเร็จแล้ว"
+
+msgid "Failed to update status"
+msgstr "ไม่สามารถอัปเดตสถานะได้"
+
+msgid "There are %d broken movies!"
+msgstr "มีภาพยนตร์เสีย %d เรื่อง!"
+
+msgid "Go to Report"
+msgstr "ไปที่รายงาน"
+
 msgid "Broken Movie"
 msgstr "หนังพัง"
 
 msgid "Delete All"
 msgstr "ลบทั้งหมด"
-
-msgid "Prev"
-msgstr "ก่อนหน้า"
-
-msgid "Next"
-msgstr "ต่อไป"
 
 msgid "Reporter"
 msgstr "ผู้สื่อข่าว"
@@ -423,32 +468,29 @@ msgstr "ผู้สื่อข่าว"
 msgid "Issues"
 msgstr "ปัญหา"
 
-msgid "Details"
-msgstr "รายละเอียด"
-
 msgid "Time"
 msgstr "เวลา"
 
 msgid "Action"
 msgstr "การกระทำ"
 
-msgid "Empty!"
-msgstr "ว่างเปล่า!"
-
-msgid "Mark As Resolved"
-msgstr "ทำเครื่องหมายว่าได้รับการแก้ไขแล้ว"
-
-msgid "Edit"
-msgstr "แก้ไข"
-
-msgid "Remove"
-msgstr "ลบ"
+msgid "Loading..."
+msgstr "กำลังโหลด..."
 
 msgid "Issues Configuration"
 msgstr "ปัญหาการกำหนดค่า"
 
 msgid "Save Changes"
 msgstr "บันทึกการเปลี่ยนแปลง"
+
+msgid "Separate categories with commas"
+msgstr "แยกหมวดหมู่ด้วยเครื่องหมายจุลภาค"
+
+msgid "Add or remove categories"
+msgstr "เพิ่มหรือลบหมวดหมู่"
+
+msgid "Choose from the most used categories"
+msgstr "เลือกจากหมวดหมู่ที่ใช้มากที่สุด"
 
 msgid "Add Server"
 msgstr "เพิ่มเซิร์ฟเวอร์"
@@ -513,6 +555,9 @@ msgstr "กำลังจะมีขึ้น"
 msgid "Manga"
 msgstr "มังงะ"
 
+msgid "Oneshot"
+msgstr "วันช็อต"
+
 msgid "Manhua"
 msgstr "ม่านฮวา"
 
@@ -522,17 +567,11 @@ msgstr "มังฮวา"
 msgid "Doujinshi"
 msgstr "โดจินชิ"
 
-msgid "External ID"
-msgstr "รหัสภายนอก"
-
-msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
-msgstr "กรุณาระบุ ID หากมังงะเรื่องนี้นำเข้าจากแหล่งอื่น (เช่น MAL, Anilist)"
-
 msgid "Thumbnail"
 msgstr "ภาพย่อ"
 
 msgid "Optional if a Featured Image has already been set."
-msgstr "ทางเลือกหากมีการตั้งค่าภาพเด่นแล้ว"
+msgstr "เป็นทางเลือกหากมีการตั้งค่าภาพเด่นแล้ว"
 
 msgid "Poster"
 msgstr "โปสเตอร์"
@@ -603,72 +642,6 @@ msgstr "เนื้อหาข้อความ"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "กรอกข้อความที่จะแสดง (เช่น เวลาเผยแพร่ สถานะการอัปเดต) เว้นว่างไว้หากไม่ได้ใช้"
 
-msgid "Image / Avatar"
-msgstr "รูปภาพ / อวาตาร์"
-
-msgid "Used for featured or profile display."
-msgstr "ใช้สำหรับแสดงคุณสมบัติเด่นหรือโปรไฟล์"
-
-msgid "Sub"
-msgstr "ซับ"
-
-msgid "Main"
-msgstr "หลัก"
-
-msgid "Supporting"
-msgstr "การสนับสนุน"
-
-msgid "Views"
-msgstr "มุมมอง"
-
-msgid "Likes"
-msgstr "ไลค์"
-
-msgid "Favorites"
-msgstr "รายการโปรด"
-
-msgid "Author"
-msgstr "ผู้เขียน"
-
-msgid "Artist"
-msgstr "ศิลปิน"
-
-msgid "Magazine"
-msgstr "นิตยสาร"
-
-msgid "Character"
-msgstr "อักขระ"
-
-msgid "Release"
-msgstr "ปล่อย"
-
-msgid "Search"
-msgstr "ค้นหา"
-
-msgid "All Items"
-msgstr "รายการทั้งหมด"
-
-msgid "View Item"
-msgstr "ดูรายการ"
-
-msgid "Edit Item"
-msgstr "แก้ไขรายการ"
-
-msgid "Update Item"
-msgstr "อัพเดทไอเทม"
-
-msgid "Separate items with commas"
-msgstr "แยกรายการด้วยเครื่องหมายจุลภาค"
-
-msgid "Add or remove items"
-msgstr "เพิ่มหรือลบรายการ"
-
-msgid "Choose from the most used"
-msgstr "เลือกจากที่ใช้มากที่สุด"
-
-msgid "Most Used"
-msgstr "ใช้มากที่สุด"
-
 msgid "Custom Fields"
 msgstr "ฟิลด์ที่กำหนดเอง"
 
@@ -710,9 +683,6 @@ msgstr "แสดงป๊อปอัปแบบโมดอล"
 
 msgid "Auto Play Alternative Server"
 msgstr "เซิร์ฟเวอร์ทางเลือกเล่นอัตโนมัติ"
-
-msgid "Auto Play Custom Server"
-msgstr "เล่นเซิร์ฟเวอร์ที่กำหนดเองโดยอัตโนมัติ"
 
 msgid "Enable Auto Report"
 msgstr "เปิดใช้งานรายงานอัตโนมัติ"
@@ -966,11 +936,17 @@ msgstr "กรุณาปิดการใช้งาน AdBlock เพื่
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "ตัวอย่าง: \"ผู้ใช้โปรดลบตัวบล็อกโฆษณา!\""
 
+msgid "Search"
+msgstr "ค้นหา"
+
 msgid "All"
 msgstr "ทั้งหมด"
 
 msgid "View"
 msgstr "ดู"
+
+msgid "Edit"
+msgstr "แก้ไข"
 
 msgid "Update"
 msgstr "อัปเดต"
@@ -1011,15 +987,6 @@ msgstr "รหัส IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "ใส่รหัส IMDB สำหรับภาพยนตร์เรื่องนี้"
 
-msgid "Other ID"
-msgstr "รหัสอื่นๆ"
-
-msgid "Enter any other relevant ID for this movie."
-msgstr "กรอกรหัสอื่น ๆ ที่เกี่ยวข้องกับภาพยนตร์เรื่องนี้"
-
-msgid "Runtime"
-msgstr "รันไทม์"
-
 msgid "Enter the runtime of the movie."
 msgstr "ระบุระยะเวลาการฉายของภาพยนตร์"
 
@@ -1035,23 +1002,8 @@ msgstr "จำนวนตอนทั้งหมด"
 msgid "Enter the total number of episodes for the movie."
 msgstr "ระบุจำนวนตอนทั้งหมดของภาพยนตร์"
 
-msgid "Quality"
-msgstr "คุณภาพ"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "ป้อนคุณภาพของภาพยนตร์ (เช่น 1080p, 720p)"
-
-msgid "Enter the number of likes for this movie."
-msgstr "กรุณาระบุจำนวนการกดถูกใจให้กับภาพยนต์เรื่องนี้"
-
-msgid "Dislikes"
-msgstr "ไม่ชอบ"
-
-msgid "Enter the number of dislikes for this movie."
-msgstr "กรุณาระบุจำนวนการไม่ชอบภาพยนตร์นี้"
-
-msgid "Enter the number of favorites for this movie."
-msgstr "กรุณาระบุจำนวนรายการโปรดสำหรับภาพยนต์เรื่องนี้"
 
 msgid "Single Movies"
 msgstr "ภาพยนตร์เดี่ยว"
@@ -1095,68 +1047,20 @@ msgstr "ตารางวัน"
 msgid "Select the day of the week for the movie release schedule."
 msgstr "เลือกวันในสัปดาห์สำหรับกำหนดการเปิดตัวภาพยนตร์"
 
-msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
-msgstr "ป้อนเวลาของวันเมื่อภาพยนตร์จะออกฉาย (เช่น 10.00 น.)"
+msgid "Enable Related Movies"
+msgstr "เปิดใช้งานภาพยนตร์ที่เกี่ยวข้อง"
 
-msgid "Related Seasons"
-msgstr "ฤดูกาลที่เกี่ยวข้อง"
+msgid "Select Post"
+msgstr "เลือกโพสต์"
 
-msgid "Select related seasons for this movie."
+msgid "Select related seasons for this movies."
 msgstr "เลือกฤดูกาลที่เกี่ยวข้องกับภาพยนตร์นี้"
+
+msgid "Custom Title"
+msgstr "ชื่อเรื่องที่กำหนดเอง"
 
 msgid "Movies Settings"
 msgstr "การตั้งค่าภาพยนตร์"
-
-msgid "Metabox Fields"
-msgstr "ฟิลด์เมตาบ็อกซ์"
-
-msgid "Use Additional Fields"
-msgstr "ใช้ช่องข้อมูลเพิ่มเติม"
-
-msgid "Additional Fields"
-msgstr "ช่องข้อมูลเพิ่มเติม"
-
-msgid "Description"
-msgstr "คำอธิบาย"
-
-msgid "Text"
-msgstr "ข้อความ"
-
-msgid "Number"
-msgstr "ตัวเลข"
-
-msgid "Textarea"
-msgstr "พื้นที่ข้อความ"
-
-msgid "Select"
-msgstr "เลือก"
-
-msgid "Switcher"
-msgstr "สวิตเชอร์"
-
-msgid "Items Select"
-msgstr "เลือกรายการ"
-
-msgid "ID Options"
-msgstr "ตัวเลือก ID"
-
-msgid "Value Options"
-msgstr "ตัวเลือกค่า"
-
-msgid "Metaboxes"
-msgstr "เมตาบอกซ์"
-
-msgid "Showed"
-msgstr "แสดงให้เห็น"
-
-msgid "Hide"
-msgstr "ซ่อน"
-
-msgid "Season"
-msgstr "ฤดูกาล"
-
-msgid "Season Number"
-msgstr "หมายเลขฤดูกาล"
 
 msgid "Add Video"
 msgstr "เพิ่มวิดีโอ"
@@ -1169,21 +1073,6 @@ msgstr "กรอกชื่อวิดีโอ"
 
 msgid "Enter video link"
 msgstr "เข้าสู่ลิงค์วิดีโอ"
-
-msgid "Video Code"
-msgstr "รหัสวิดีโอ"
-
-msgid "Enter the video code for this movie."
-msgstr "กรอกรหัสวิดีโอของภาพยนต์เรื่องนี้"
-
-msgid "Video Preview"
-msgstr "ตัวอย่างวิดีโอ"
-
-msgid "Upload or Paste Video Preview Links"
-msgstr "อัพโหลดหรือวางลิงก์ตัวอย่างวิดีโอ"
-
-msgid "Videos Settings"
-msgstr "การตั้งค่าวิดีโอ"
 
 msgid "Yes"
 msgstr "ใช่"
@@ -1200,9 +1089,6 @@ msgstr "ธีมที่ใช้งานอยู่"
 msgid "Data is being imported please be patient..."
 msgstr "กำลังนำเข้าข้อมูล กรุณารอสักครู่..."
 
-msgid "Loading..."
-msgstr "กำลังโหลด..."
-
 msgid "An error occurred"
 msgstr "เกิดข้อผิดพลาด"
 
@@ -1214,9 +1100,6 @@ msgstr "ปิด"
 
 msgid "List Episode"
 msgstr "รายชื่อตอน"
-
-msgid "EMBED"
-msgstr "ฝัง"
 
 msgid "Content"
 msgstr "เนื้อหา"
@@ -1233,44 +1116,110 @@ msgstr "คุณแน่ใจว่าต้องการลบวิดี
 msgid "Are you sure you want to delete this chapter?"
 msgstr "คุณแน่ใจว่าต้องการลบบทนี้ใช่ไหม?"
 
-msgid "less than 1 second ago"
-msgstr "น้อยกว่า 1 วินาทีที่ผ่านมา"
+msgid "This video file cannot be played"
+msgstr "ไม่สามารถเล่นไฟล์วิดีโอนี้ได้"
 
-msgid "year ago"
-msgstr "ปีที่แล้ว"
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "เราไม่พบวิดีโอที่คุณกำลังมองหา อาจมีสาเหตุหลายประการ เช่น วิดีโอถูกลบโดยเจ้าของ!"
 
-msgid "month ago"
-msgstr "เดือนที่แล้ว"
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "หากต้องการรับชมต่อ โปรดคลิกปุ่ม \"โหลดเครื่องเล่นใหม่\""
 
-msgid "day ago"
-msgstr "เมื่อวันก่อน"
+msgid "or click on the buttons below"
+msgstr "หรือคลิกที่ปุ่มด้านล่าง"
 
-msgid "hour ago"
-msgstr "ชั่วโมงที่แล้ว"
+msgid "Reload Player"
+msgstr "โหลดเครื่องเล่นใหม่"
 
-msgid "minute ago"
-msgstr "นาทีที่แล้ว"
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "คุณต้องการดูต่อจากตำแหน่งที่บันทึกไว้หรือเริ่มตั้งแต่ต้น?"
 
-msgid "second ago"
-msgstr "วินาทีที่แล้ว"
+msgid "Continue watching"
+msgstr "รับชมต่อ"
 
-msgid "years ago"
-msgstr "หลายปีก่อน"
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "จะเริ่มเล่นวิดีโอต่อจากตำแหน่งที่คุณเล่นครั้งล่าสุดโดยอัตโนมัติ"
 
-msgid "months ago"
-msgstr "หลายเดือนก่อน"
+msgid "Playback"
+msgstr "การเล่นซ้ำ"
 
-msgid "days ago"
-msgstr "หลายวันที่ผ่านมา"
+msgid "Loading, please wait..."
+msgstr "กำลังโหลด กรุณารอสักครู่..."
 
-msgid "hours ago"
-msgstr "ชั่วโมงที่ผ่านมา"
+msgid "Switching to backup server..."
+msgstr "กำลังเปลี่ยนไปใช้เซิร์ฟเวอร์สำรองข้อมูล..."
 
-msgid "minutes ago"
-msgstr "นาทีที่แล้ว"
+msgid "Error loading video."
+msgstr "เกิดข้อผิดพลาดในการโหลดวิดีโอ"
 
-msgid "seconds ago"
-msgstr "วินาทีที่แล้ว"
+msgid "Empty!"
+msgstr "ว่างเปล่า!"
+
+msgid "All items removed successfully!"
+msgstr "ลบรายการทั้งหมดออกสำเร็จแล้ว!"
+
+msgid "Failed to remove items!"
+msgstr "ไม่สามารถลบรายการได้!"
+
+msgid "An error occurred while removing all items."
+msgstr "เกิดข้อผิดพลาดขณะลบรายการทั้งหมด"
+
+msgid "Marked as resolved successfully!"
+msgstr "ทำเครื่องหมายว่าได้รับการแก้ไขเรียบร้อยแล้ว!"
+
+msgid "Failed to mark as resolved!"
+msgstr "ไม่สามารถทำเครื่องหมายว่าได้รับการแก้ไขแล้ว!"
+
+msgid "An error occurred while updating the status."
+msgstr "เกิดข้อผิดพลาดขณะอัปเดตสถานะ"
+
+msgid "Item removed successfully!"
+msgstr "ลบรายการสำเร็จแล้ว!"
+
+msgid "Failed to remove item!"
+msgstr "ไม่สามารถลบรายการได้!"
+
+msgid "An error occurred while removing the item."
+msgstr "เกิดข้อผิดพลาดขณะลบรายการ"
+
+msgid "Mark As Resolved"
+msgstr "ทำเครื่องหมายว่าได้รับการแก้ไขแล้ว"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Prev"
+msgstr "ก่อนหน้า"
+
+msgid "Next"
+msgstr "ต่อไป"
+
+msgid "Saved successfully!"
+msgstr "บันทึกเรียบร้อยแล้ว!"
+
+msgid "Failed to save!"
+msgstr "ไม่สามารถบันทึกได้!"
+
+msgid "An error occurred while saving the issues."
+msgstr "เกิดข้อผิดพลาดขณะบันทึกปัญหา"
+
+msgid "Report an Issue"
+msgstr "รายงานปัญหา"
+
+msgid "Send Report"
+msgstr "ส่งรายงาน"
+
+msgid "Please select at least one issue."
+msgstr "โปรดเลือกอย่างน้อยหนึ่งประเด็น"
+
+msgid "Report sent successfully!"
+msgstr "ส่งรายงานเรียบร้อยแล้ว!"
+
+msgid "Failed to send report!"
+msgstr "ส่งรายงานไม่สำเร็จ!"
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
+msgstr "เราไม่พบวิดีโอที่คุณกำลังมองหา<br>อาจมีสาเหตุหลายประการ เช่น วิดีโอถูกลบโดยเจ้าของ หรือเนื้อหานี้ไม่สามารถใช้ได้ในประเทศของคุณ!"
 
 msgid "Copyright infringement!"
 msgstr "ละเมิดลิขสิทธิ์!"
@@ -1292,9 +1241,6 @@ msgstr "อัปเดตสำเร็จแล้ว!"
 
 msgid "Deleted successfully!"
 msgstr "ลบสำเร็จแล้ว!"
-
-msgid "Saved successfully!"
-msgstr "บันทึกเรียบร้อยแล้ว!"
 
 msgid "An error occurred: %s"
 msgstr "เกิดข้อผิดพลาด: %s"
@@ -1329,35 +1275,29 @@ msgstr "ล่าสุด"
 msgid "Previous"
 msgstr "ก่อนหน้า"
 
-msgid "This video file cannot be played"
-msgstr "ไม่สามารถเล่นไฟล์วิดีโอนี้ได้"
+msgid "History"
+msgstr "ประวัติศาสตร์"
 
-msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
-msgstr "เราไม่สามารถค้นหาวิดีโอที่คุณกำลังมองหาได้ อาจมีสาเหตุหลายประการ เช่น ถูกเจ้าของลบไป!"
+msgid "Profile"
+msgstr "ประวัติโดยย่อ"
 
-msgid "To continue watching, please click on the \"Reload Player\" button"
-msgstr "เพื่อดูต่อไป โปรดคลิกที่ปุ่ม \"โหลดผู้เล่นใหม่\""
+msgid "Favorite"
+msgstr "ที่ชื่นชอบ"
 
-msgid "or click on the buttons below"
-msgstr "หรือคลิกที่ปุ่มด้านล่าง"
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
 
-msgid "Reload Player"
-msgstr "โหลดผู้เล่นใหม่"
+msgid "Movies"
+msgstr "ภาพยนตร์"
 
-msgid "Do you want to continue viewing from the saved location or start from the beginning?"
-msgstr "คุณต้องการดูต่อจากตำแหน่งที่บันทึกไว้หรือเริ่มต้นใหม่ตั้งแต่ต้นหรือไม่?"
+msgid "TV Show"
+msgstr "รายการทีวี"
 
-msgid "Continue watching"
-msgstr "ดูต่อ"
+msgid "Featured"
+msgstr "โดดเด่น"
 
-msgid "Automatically resumes your videos from where you played them last at"
-msgstr "กลับมาดูวิดีโอของคุณโดยอัตโนมัติจากจุดที่คุณดูล่าสุด"
+msgid "Register"
+msgstr "ลงทะเบียน"
 
-msgid "Playback"
-msgstr "เล่น"
-
-msgid "Loading, please wait..."
-msgstr "กำลังโหลด กรุณารอสักครู่..."
-
-msgid "Switching to backup server..."
-msgstr "กำลังสลับไปยังเซิร์ฟเวอร์สำรอง..."
+msgid "Reset"
+msgstr "รีเซ็ต"

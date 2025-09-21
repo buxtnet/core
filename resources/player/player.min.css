@@ -1,0 +1,334 @@
+#bxplayer-loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 60px;
+    height: 60px;
+}
+
+#bxplayer-loader::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: #FF3D00 transparent;
+}
+
+#bxplayer-loader, .bxplayer-loader {
+    width: 16px;
+    height: 16px;
+    border: 3px solid #FFF;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+}
+
+.bxplayer-loader::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: #FF3D00 transparent;
+}
+.loader-text {
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 16px;
+}
+
+@keyframes rotation {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.bxplayer-16x9 { aspect-ratio: 16 / 9; width: 100%; height: auto; background: #000; position: relative; overflow: hidden; }
+.bxplayer-4x3  { aspect-ratio: 4 / 3;  width: 100%; height: auto; background: #000; position: relative; overflow: hidden; }
+.bxplayer-21x9 { aspect-ratio: 21 / 9; width: 100%; height: auto; background: #000; position: relative; overflow: hidden; }
+
+#ajax-player { width: 100%; height: 100%; }
+.bxplayer-relative {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.bxplayer-notice {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    inset: 0;
+    font-weight: 700;
+    font-size: 1.25rem;
+    background-color: rgba(0,0,0,0.85);
+    color: #dc3545;
+    z-index: 99;
+}
+.bxplayer-embed {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+#bxplayer-wrapper .bx-modal {
+    display: none;
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bxplayer-wrapper .bx-modal-content {
+    background: #fff;
+    border-radius: 8px;
+    max-width: 90%;
+    width: 500px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    animation: fadeInDown 0.3s;
+    position: relative;
+}
+
+#bxplayer-wrapper .bx-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding: 5px 10px;
+    background: linear-gradient(90deg, #4a90e2, #9013fe);
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+}
+#bxplayer-wrapper .adult-content-title {
+    margin: 0;
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+#bxplayer-wrapper .bx-close {
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    transition: color 0.3s;
+}
+#bxplayer-wrapper .bx-close:hover {
+    color: #ff4444;
+}
+#bxplayer-wrapper .bx-modal-body {
+    color: #6c6a6a;
+    text-align: center;
+    font-size: 14px;
+    padding: 15px 10px;
+}
+@media (max-width: 768px) {
+    #bxplayer-wrapper .bx-modal-body {
+        font-size: 12px;
+    }
+}
+#bxplayer-wrapper .bx-btn-danger {
+    background: #d9534f;
+    border: none;
+    color: #fff;
+    margin-top: 10px;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+#bxplayer-wrapper .bx-btn-danger:hover {
+    background: #c9302c;
+}
+@keyframes fadeInDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.dark #bxplayer-wrapper .bx-modal-content {
+    background: #1a1a1a;
+}
+.dark #bxplayer-wrapper .bx-modal-header {
+    background: linear-gradient(90deg, #2a5aa5, #6b0db3);
+    border-bottom: 1px solid #333;
+}
+.dark #bxplayer-wrapper .bx-modal-body {
+    color: #b0b0b0;
+}
+.dark #bxplayer-wrapper .bx-btn-danger {
+    background: #a94442;
+}
+.dark #bxplayer-wrapper .bx-btn-danger:hover {
+    background: #8a3d3a;
+}
+
+#bxReportModal {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+#bxReportModal .bx-modal-content {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    position: relative;
+    overflow: hidden;
+}
+
+#bxReportModal .bx-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0;
+}
+
+#bxReportModal .bx-close {
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    color: #aaa;
+}
+
+#bxReportModal .bx-close:hover {
+    color: #000;
+}
+
+#bxReportModal .adult-content-title {
+    margin: 0;
+    color: #333;
+}
+
+#bxReportModal .bx-issues-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#bxReportModal .bx-issues-list li {
+    flex: 0 0 calc(50% - 5px);
+    margin-bottom: 8px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+#bxReportModal .bx-issue-checkbox {
+    margin-right: 8px;
+}
+
+#bxReportModal label {
+    cursor: pointer;
+    font-size: 14px;
+    color: #333;
+    line-height: 1.4;
+}
+
+#bxReportModal .bx-report-form {
+    margin-top: 10px;
+}
+
+#bxReportModal .bx-report-form input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+#bxReportModal .bx-report-form input[type="text"]:focus {
+    outline: none;
+    border-color: #007cba;
+    box-shadow: 0 0 5px rgba(0, 124, 186, 0.3);
+}
+
+#bxReportModal .bx-report-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical;
+    font-size: 14px;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+
+#bxReportModal .bx-report-form textarea:focus {
+    outline: none;
+    border-color: #007cba;
+    box-shadow: 0 0 5px rgba(0, 124, 186, 0.3);
+}
+
+#bxReportModal .bx-modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-top: 1px solid #eee;
+}
+
+#bxReportModal .bx-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+#bxReportModal .bx-btn-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+#bxReportModal .bx-btn-danger:hover {
+    background-color: #c82333;
+}
+
+#bxReportModal .bx-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+    #bxReportModal .bx-modal-content {
+        width: 95%;
+        padding: 15px;
+    }
+    #bxReportModal .bx-issues-list li {
+        flex: 0 0 100%; 
+    }
+    #bxReportModal .bx-modal-footer {
+        flex-direction: column;
+    }
+}

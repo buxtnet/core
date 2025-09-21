@@ -4,10 +4,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgid "Type Site"
+msgid "Movies Code"
 msgstr ""
 
-msgid "Basic Settings"
+msgid "Quality"
+msgstr ""
+
+msgid "Runtime"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Thumbs"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Last Update"
+msgstr ""
+
+msgid "views"
 msgstr ""
 
 msgid "Custom CSS Code"
@@ -43,6 +73,9 @@ msgstr ""
 msgid "Control the site comment feature. Disable if not needed."
 msgstr ""
 
+msgid "Basic Settings"
+msgstr ""
+
 msgid "SEO Settings"
 msgstr ""
 
@@ -53,6 +86,9 @@ msgid "Simplify Category Alias"
 msgstr ""
 
 msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
+msgstr ""
+
+msgid "Categories Type"
 msgstr ""
 
 msgid "Built-in SEO Features"
@@ -115,64 +151,19 @@ msgstr ""
 msgid "Option type when publishing articles in the background"
 msgstr ""
 
-msgid "Advanced Search"
+msgid "Popup"
 msgstr ""
 
-msgid "Disable Sitewide Search Function (Caution)"
+msgid "Top Archive"
 msgstr ""
 
-msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgid "Bottom Archive"
 msgstr ""
 
-msgid "Optimize Search to Only Search Article Titles"
+msgid "Top Player"
 msgstr ""
 
-msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
-msgstr ""
-
-msgid "Search Box Supports Searching by Category"
-msgstr ""
-
-msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
-msgstr ""
-
-msgid "Category Display Depth in Search Box"
-msgstr ""
-
-msgid "Show only 1-level main categories"
-msgstr ""
-
-msgid "Expand to 2-level subcategories"
-msgstr ""
-
-msgid "Expand to 3-level subcategories"
-msgstr ""
-
-msgid "Sorting Method for Category Selection in Search Box"
-msgstr ""
-
-msgid "By Category ID"
-msgstr ""
-
-msgid "By Category Name"
-msgstr ""
-
-msgid "By Category Alias"
-msgstr ""
-
-msgid "By Total Number of Posts"
-msgstr ""
-
-msgid "Category Page - Top"
-msgstr ""
-
-msgid "Category Page - Bottom"
-msgstr ""
-
-msgid "Single Post Page - Top"
-msgstr ""
-
-msgid "Single Post Page - Bottom"
+msgid "Bottom Player"
 msgstr ""
 
 msgid "Desktop Ad Code"
@@ -182,6 +173,9 @@ msgid "Mobile Ad Code"
 msgstr ""
 
 msgid "Ad Settings"
+msgstr ""
+
+msgid "Enable Ads"
 msgstr ""
 
 msgid "Website Optimization"
@@ -242,6 +236,12 @@ msgid "Disable XML-RPC (Pingback)"
 msgstr ""
 
 msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr ""
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr ""
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
 msgstr ""
 
 msgid "Disable F12 Key, Debug tools in Browser"
@@ -376,13 +376,52 @@ msgstr ""
 msgid "Images"
 msgstr ""
 
+msgid "less than 1 second ago"
+msgstr ""
+
+msgid "year ago"
+msgstr ""
+
+msgid "month ago"
+msgstr ""
+
+msgid "day ago"
+msgstr ""
+
+msgid "hour ago"
+msgstr ""
+
+msgid "minute ago"
+msgstr ""
+
+msgid "second ago"
+msgstr ""
+
+msgid "years ago"
+msgstr ""
+
+msgid "months ago"
+msgstr ""
+
+msgid "days ago"
+msgstr ""
+
+msgid "hours ago"
+msgstr ""
+
+msgid "minutes ago"
+msgstr ""
+
+msgid "seconds ago"
+msgstr ""
+
 msgid "Broken Report"
 msgstr ""
 
-msgid "Status updated successfully"
+msgid "Invalid REST nonce."
 msgstr ""
 
-msgid "Failed to update status"
+msgid "Issues configuration saved successfully."
 msgstr ""
 
 msgid "Item removed successfully"
@@ -397,16 +436,22 @@ msgstr ""
 msgid "Failed to remove all items"
 msgstr ""
 
+msgid "Status updated successfully"
+msgstr ""
+
+msgid "Failed to update status"
+msgstr ""
+
+msgid "There are %d broken movies!"
+msgstr ""
+
+msgid "Go to Report"
+msgstr ""
+
 msgid "Broken Movie"
 msgstr ""
 
 msgid "Delete All"
-msgstr ""
-
-msgid "Prev"
-msgstr ""
-
-msgid "Next"
 msgstr ""
 
 msgid "Reporter"
@@ -415,31 +460,28 @@ msgstr ""
 msgid "Issues"
 msgstr ""
 
-msgid "Details"
-msgstr ""
-
 msgid "Time"
 msgstr ""
 
 msgid "Action"
 msgstr ""
 
-msgid "Empty!"
-msgstr ""
-
-msgid "Mark As Resolved"
-msgstr ""
-
-msgid "Edit"
-msgstr ""
-
-msgid "Remove"
+msgid "Loading..."
 msgstr ""
 
 msgid "Issues Configuration"
 msgstr ""
 
 msgid "Save Changes"
+msgstr ""
+
+msgid "Separate categories with commas"
+msgstr ""
+
+msgid "Add or remove categories"
+msgstr ""
+
+msgid "Choose from the most used categories"
 msgstr ""
 
 msgid "Add Server"
@@ -505,6 +547,9 @@ msgstr ""
 msgid "Manga"
 msgstr ""
 
+msgid "Oneshot"
+msgstr ""
+
 msgid "Manhua"
 msgstr ""
 
@@ -512,12 +557,6 @@ msgid "Manhwa"
 msgstr ""
 
 msgid "Doujinshi"
-msgstr ""
-
-msgid "External ID"
-msgstr ""
-
-msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
 msgstr ""
 
 msgid "Thumbnail"
@@ -595,72 +634,6 @@ msgstr ""
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr ""
 
-msgid "Image / Avatar"
-msgstr ""
-
-msgid "Used for featured or profile display."
-msgstr ""
-
-msgid "Sub"
-msgstr ""
-
-msgid "Main"
-msgstr ""
-
-msgid "Supporting"
-msgstr ""
-
-msgid "Views"
-msgstr ""
-
-msgid "Likes"
-msgstr ""
-
-msgid "Favorites"
-msgstr ""
-
-msgid "Author"
-msgstr ""
-
-msgid "Artist"
-msgstr ""
-
-msgid "Magazine"
-msgstr ""
-
-msgid "Character"
-msgstr ""
-
-msgid "Release"
-msgstr ""
-
-msgid "Search"
-msgstr ""
-
-msgid "All Items"
-msgstr ""
-
-msgid "View Item"
-msgstr ""
-
-msgid "Edit Item"
-msgstr ""
-
-msgid "Update Item"
-msgstr ""
-
-msgid "Separate items with commas"
-msgstr ""
-
-msgid "Add or remove items"
-msgstr ""
-
-msgid "Choose from the most used"
-msgstr ""
-
-msgid "Most Used"
-msgstr ""
-
 msgid "Custom Fields"
 msgstr ""
 
@@ -701,9 +674,6 @@ msgid "Show Modal Popup"
 msgstr ""
 
 msgid "Auto Play Alternative Server"
-msgstr ""
-
-msgid "Auto Play Custom Server"
 msgstr ""
 
 msgid "Enable Auto Report"
@@ -958,10 +928,16 @@ msgstr ""
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr ""
 
+msgid "Search"
+msgstr ""
+
 msgid "All"
 msgstr ""
 
 msgid "View"
+msgstr ""
+
+msgid "Edit"
 msgstr ""
 
 msgid "Update"
@@ -1003,15 +979,6 @@ msgstr ""
 msgid "Enter the IMDB ID for this movie."
 msgstr ""
 
-msgid "Other ID"
-msgstr ""
-
-msgid "Enter any other relevant ID for this movie."
-msgstr ""
-
-msgid "Runtime"
-msgstr ""
-
 msgid "Enter the runtime of the movie."
 msgstr ""
 
@@ -1027,22 +994,7 @@ msgstr ""
 msgid "Enter the total number of episodes for the movie."
 msgstr ""
 
-msgid "Quality"
-msgstr ""
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
-msgstr ""
-
-msgid "Enter the number of likes for this movie."
-msgstr ""
-
-msgid "Dislikes"
-msgstr ""
-
-msgid "Enter the number of dislikes for this movie."
-msgstr ""
-
-msgid "Enter the number of favorites for this movie."
 msgstr ""
 
 msgid "Single Movies"
@@ -1087,67 +1039,19 @@ msgstr ""
 msgid "Select the day of the week for the movie release schedule."
 msgstr ""
 
-msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
+msgid "Enable Related Movies"
 msgstr ""
 
-msgid "Related Seasons"
+msgid "Select Post"
 msgstr ""
 
-msgid "Select related seasons for this movie."
+msgid "Select related seasons for this movies."
+msgstr ""
+
+msgid "Custom Title"
 msgstr ""
 
 msgid "Movies Settings"
-msgstr ""
-
-msgid "Metabox Fields"
-msgstr ""
-
-msgid "Use Additional Fields"
-msgstr ""
-
-msgid "Additional Fields"
-msgstr ""
-
-msgid "Description"
-msgstr ""
-
-msgid "Text"
-msgstr ""
-
-msgid "Number"
-msgstr ""
-
-msgid "Textarea"
-msgstr ""
-
-msgid "Select"
-msgstr ""
-
-msgid "Switcher"
-msgstr ""
-
-msgid "Items Select"
-msgstr ""
-
-msgid "ID Options"
-msgstr ""
-
-msgid "Value Options"
-msgstr ""
-
-msgid "Metaboxes"
-msgstr ""
-
-msgid "Showed"
-msgstr ""
-
-msgid "Hide"
-msgstr ""
-
-msgid "Season"
-msgstr ""
-
-msgid "Season Number"
 msgstr ""
 
 msgid "Add Video"
@@ -1160,21 +1064,6 @@ msgid "Enter video name"
 msgstr ""
 
 msgid "Enter video link"
-msgstr ""
-
-msgid "Video Code"
-msgstr ""
-
-msgid "Enter the video code for this movie."
-msgstr ""
-
-msgid "Video Preview"
-msgstr ""
-
-msgid "Upload or Paste Video Preview Links"
-msgstr ""
-
-msgid "Videos Settings"
 msgstr ""
 
 msgid "Yes"
@@ -1192,9 +1081,6 @@ msgstr ""
 msgid "Data is being imported please be patient..."
 msgstr ""
 
-msgid "Loading..."
-msgstr ""
-
 msgid "An error occurred"
 msgstr ""
 
@@ -1205,9 +1091,6 @@ msgid "Close"
 msgstr ""
 
 msgid "List Episode"
-msgstr ""
-
-msgid "EMBED"
 msgstr ""
 
 msgid "Content"
@@ -1225,43 +1108,109 @@ msgstr ""
 msgid "Are you sure you want to delete this chapter?"
 msgstr ""
 
-msgid "less than 1 second ago"
+msgid "This video file cannot be played"
 msgstr ""
 
-msgid "year ago"
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
 msgstr ""
 
-msgid "month ago"
+msgid "To continue watching, please click on the \"Reload Player\" button"
 msgstr ""
 
-msgid "day ago"
+msgid "or click on the buttons below"
 msgstr ""
 
-msgid "hour ago"
+msgid "Reload Player"
 msgstr ""
 
-msgid "minute ago"
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
 msgstr ""
 
-msgid "second ago"
+msgid "Continue watching"
 msgstr ""
 
-msgid "years ago"
+msgid "Automatically resumes your videos from where you played them last at"
 msgstr ""
 
-msgid "months ago"
+msgid "Playback"
 msgstr ""
 
-msgid "days ago"
+msgid "Loading, please wait..."
 msgstr ""
 
-msgid "hours ago"
+msgid "Switching to backup server..."
 msgstr ""
 
-msgid "minutes ago"
+msgid "Error loading video."
 msgstr ""
 
-msgid "seconds ago"
+msgid "Empty!"
+msgstr ""
+
+msgid "All items removed successfully!"
+msgstr ""
+
+msgid "Failed to remove items!"
+msgstr ""
+
+msgid "An error occurred while removing all items."
+msgstr ""
+
+msgid "Marked as resolved successfully!"
+msgstr ""
+
+msgid "Failed to mark as resolved!"
+msgstr ""
+
+msgid "An error occurred while updating the status."
+msgstr ""
+
+msgid "Item removed successfully!"
+msgstr ""
+
+msgid "Failed to remove item!"
+msgstr ""
+
+msgid "An error occurred while removing the item."
+msgstr ""
+
+msgid "Mark As Resolved"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Saved successfully!"
+msgstr ""
+
+msgid "Failed to save!"
+msgstr ""
+
+msgid "An error occurred while saving the issues."
+msgstr ""
+
+msgid "Report an Issue"
+msgstr ""
+
+msgid "Send Report"
+msgstr ""
+
+msgid "Please select at least one issue."
+msgstr ""
+
+msgid "Report sent successfully!"
+msgstr ""
+
+msgid "Failed to send report!"
+msgstr ""
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
 msgstr ""
 
 msgid "Copyright infringement!"
@@ -1283,9 +1232,6 @@ msgid "Updated successfully!"
 msgstr ""
 
 msgid "Deleted successfully!"
-msgstr ""
-
-msgid "Saved successfully!"
 msgstr ""
 
 msgid "An error occurred: %s"
@@ -1321,66 +1267,30 @@ msgstr ""
 msgid "Previous"
 msgstr ""
 
-msgid "404 Error"
+msgid "History"
 msgstr ""
 
-msgid "Back to homepage"
+msgid "Profile"
 msgstr ""
 
-msgid "Keyword"
+msgid "Favorite"
 msgstr ""
 
-msgid "About"
+msgid "Login"
 msgstr ""
 
-msgid "Genre, actors, code,..."
+msgid "Movies"
 msgstr ""
 
-msgid "Genre, actors, codes,..."
+msgid "TV Show"
 msgstr ""
 
-msgid "Show More"
+msgid "Featured"
 msgstr ""
 
-msgid "Day"
+msgid "Register"
 msgstr ""
 
-msgid "Week"
-msgstr ""
-
-msgid "Month"
-msgstr ""
-
-msgid "This video file cannot be played"
-msgstr ""
-
-msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
-msgstr ""
-
-msgid "To continue watching, please click on the \"Reload Player\" button"
-msgstr ""
-
-msgid "or click on the buttons below"
-msgstr ""
-
-msgid "Reload Player"
-msgstr ""
-
-msgid "Do you want to continue viewing from the saved location or start from the beginning?"
-msgstr ""
-
-msgid "Continue watching"
-msgstr ""
-
-msgid "Automatically resumes your videos from where you played them last at"
-msgstr ""
-
-msgid "Playback"
-msgstr ""
-
-msgid "Loading, please wait..."
-msgstr ""
-
-msgid "Switching to backup server..."
+msgid "Reset"
 msgstr ""
 

@@ -1,9 +1,9 @@
-# Date created: 2025-08-22 03:02:16 by https://buxt.net
+# Date created: 2025-09-22 04:41:28 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-23 06:54+0700\n"
+"PO-Revision-Date: 2025-09-22 04:43+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -12,11 +12,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "Type Site"
-msgstr "Тип сайта"
+msgid "Movies Code"
+msgstr "Код фильмов"
 
-msgid "Basic Settings"
-msgstr "Основные настройки"
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Runtime"
+msgstr "Время выполнения"
+
+msgid "Copyright"
+msgstr "Авторские права"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Thumbs"
+msgstr "Большие пальцы"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Last Update"
+msgstr "Последнее обновление"
+
+msgid "views"
+msgstr "просмотров"
 
 msgid "Custom CSS Code"
 msgstr "Пользовательский CSS-код"
@@ -51,6 +81,9 @@ msgstr "Функция комментариев на сайте"
 msgid "Control the site comment feature. Disable if not needed."
 msgstr "Управление функцией комментирования на сайте. Отключите, если не нужно."
 
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
 msgid "SEO Settings"
 msgstr "Настройки SEO"
 
@@ -62,6 +95,9 @@ msgstr "Упростить псевдоним категории"
 
 msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
 msgstr "Удалите префикс «category/» из ссылок на категории статей. Как правило, рекомендуется сохранить правила WordPress по умолчанию."
+
+msgid "Categories Type"
+msgstr "Категории Тип"
 
 msgid "Built-in SEO Features"
 msgstr "Встроенные функции SEO"
@@ -123,65 +159,20 @@ msgstr "Единственный выбор"
 msgid "Option type when publishing articles in the background"
 msgstr "Тип опции при публикации статей в фоновом режиме"
 
-msgid "Advanced Search"
-msgstr "Расширенный поиск"
+msgid "Popup"
+msgstr "Неожиданно возникнуть"
 
-msgid "Disable Sitewide Search Function (Caution)"
-msgstr "Отключить функцию поиска по всему сайту (внимание)"
+msgid "Top Archive"
+msgstr "Лучший архив"
 
-msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
-msgstr "После отключения поиск статей на сайте будет невозможен. Это может эффективно предотвратить атаки методом подбора паролей и блокировку базы данных."
+msgid "Bottom Archive"
+msgstr "Нижний архив"
 
-msgid "Optimize Search to Only Search Article Titles"
-msgstr "Оптимизируйте поиск, чтобы искать только по заголовкам статей"
+msgid "Top Player"
+msgstr "Лучший игрок"
 
-msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
-msgstr "После включения функции при поиске по сайту будет использоваться только заголовок статьи, что значительно повышает эффективность поиска при большом количестве статей. Включайте при необходимости."
-
-msgid "Search Box Supports Searching by Category"
-msgstr "Поле поиска поддерживает поиск по категории"
-
-msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
-msgstr "Включено по умолчанию. Если отключено, раскрывающийся список выбора категории не будет отображаться."
-
-msgid "Category Display Depth in Search Box"
-msgstr "Глубина отображения категории в строке поиска"
-
-msgid "Show only 1-level main categories"
-msgstr "Показывать только основные категории 1-го уровня"
-
-msgid "Expand to 2-level subcategories"
-msgstr "Развернуть до 2-уровневых подкатегорий"
-
-msgid "Expand to 3-level subcategories"
-msgstr "Развернуть до 3-уровневых подкатегорий"
-
-msgid "Sorting Method for Category Selection in Search Box"
-msgstr "Метод сортировки для выбора категории в поле поиска"
-
-msgid "By Category ID"
-msgstr "По идентификатору категории"
-
-msgid "By Category Name"
-msgstr "По названию категории"
-
-msgid "By Category Alias"
-msgstr "По категории Псевдоним"
-
-msgid "By Total Number of Posts"
-msgstr "По общему количеству сообщений"
-
-msgid "Category Page - Top"
-msgstr "Страница категории - Верх"
-
-msgid "Category Page - Bottom"
-msgstr "Страница категории — нижняя"
-
-msgid "Single Post Page - Top"
-msgstr "Страница отдельного поста — вверху"
-
-msgid "Single Post Page - Bottom"
-msgstr "Страница отдельного поста — нижняя часть"
+msgid "Bottom Player"
+msgstr "Лучший игрок"
 
 msgid "Desktop Ad Code"
 msgstr "Рекламный код для ПК"
@@ -191,6 +182,9 @@ msgstr "Код мобильной рекламы"
 
 msgid "Ad Settings"
 msgstr "Настройки рекламы"
+
+msgid "Enable Ads"
+msgstr "Включить рекламу"
 
 msgid "Website Optimization"
 msgstr "Оптимизация веб-сайта"
@@ -251,6 +245,12 @@ msgstr "Отключить XML-RPC (Pingback)"
 
 msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
 msgstr "XML-RPC используется сторонними клиентами. Отключение этого протокола может помочь предотвратить атаки методом подбора."
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "Отключить функцию поиска по всему сайту (внимание)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "После отключения поиск статей на сайте будет невозможен. Это может эффективно предотвратить атаки методом подбора паролей и блокировку базы данных."
 
 msgid "Disable F12 Key, Debug tools in Browser"
 msgstr "Отключить клавишу F12, инструменты отладки в браузере"
@@ -384,14 +384,53 @@ msgstr "IFrame"
 msgid "Images"
 msgstr "Изображения"
 
+msgid "less than 1 second ago"
+msgstr "менее 1 секунды назад"
+
+msgid "year ago"
+msgstr "год назад"
+
+msgid "month ago"
+msgstr "месяц назад"
+
+msgid "day ago"
+msgstr "день назад"
+
+msgid "hour ago"
+msgstr "час назад"
+
+msgid "minute ago"
+msgstr "минуту назад"
+
+msgid "second ago"
+msgstr "секунду назад"
+
+msgid "years ago"
+msgstr "много лет назад"
+
+msgid "months ago"
+msgstr "несколько месяцев назад"
+
+msgid "days ago"
+msgstr "дней назад"
+
+msgid "hours ago"
+msgstr "часов назад"
+
+msgid "minutes ago"
+msgstr "минут назад"
+
+msgid "seconds ago"
+msgstr "секунд назад"
+
 msgid "Broken Report"
 msgstr "Сломанный отчет"
 
-msgid "Status updated successfully"
-msgstr "Статус успешно обновлен"
+msgid "Invalid REST nonce."
+msgstr "Недопустимый одноразовый номер REST."
 
-msgid "Failed to update status"
-msgstr "Не удалось обновить статус"
+msgid "Issues configuration saved successfully."
+msgstr "Конфигурация проблем успешно сохранена."
 
 msgid "Item removed successfully"
 msgstr "Элемент успешно удален"
@@ -405,17 +444,23 @@ msgstr "Все элементы успешно удалены"
 msgid "Failed to remove all items"
 msgstr "Не удалось удалить все элементы."
 
+msgid "Status updated successfully"
+msgstr "Статус успешно обновлен"
+
+msgid "Failed to update status"
+msgstr "Не удалось обновить статус"
+
+msgid "There are %d broken movies!"
+msgstr "Есть %d сломанных фильмов!"
+
+msgid "Go to Report"
+msgstr "Перейти к отчету"
+
 msgid "Broken Movie"
 msgstr "Сломанный фильм"
 
 msgid "Delete All"
 msgstr "Удалить все"
-
-msgid "Prev"
-msgstr "Предыдущая"
-
-msgid "Next"
-msgstr "Следующий"
 
 msgid "Reporter"
 msgstr "Репортер"
@@ -423,32 +468,29 @@ msgstr "Репортер"
 msgid "Issues"
 msgstr "Проблемы"
 
-msgid "Details"
-msgstr "Подробности"
-
 msgid "Time"
 msgstr "Время"
 
 msgid "Action"
 msgstr "Действие"
 
-msgid "Empty!"
-msgstr "Пустой!"
-
-msgid "Mark As Resolved"
-msgstr "Отметить как решенное"
-
-msgid "Edit"
-msgstr "Редактировать"
-
-msgid "Remove"
-msgstr "Удалять"
+msgid "Loading..."
+msgstr "Загрузка..."
 
 msgid "Issues Configuration"
 msgstr "Проблемы конфигурации"
 
 msgid "Save Changes"
 msgstr "Сохранить изменения"
+
+msgid "Separate categories with commas"
+msgstr "Разделяйте категории запятыми."
+
+msgid "Add or remove categories"
+msgstr "Добавить или удалить категории"
+
+msgid "Choose from the most used categories"
+msgstr "Выберите из наиболее часто используемых категорий"
 
 msgid "Add Server"
 msgstr "Добавить сервер"
@@ -513,6 +555,9 @@ msgstr "Предстоящие"
 msgid "Manga"
 msgstr "Манга"
 
+msgid "Oneshot"
+msgstr "Ваншот"
+
 msgid "Manhua"
 msgstr "Маньхуа"
 
@@ -521,12 +566,6 @@ msgstr "Манхва"
 
 msgid "Doujinshi"
 msgstr "Додзинси"
-
-msgid "External ID"
-msgstr "Внешний идентификатор"
-
-msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
-msgstr "Введите идентификатор, если эта манга импортирована из другого источника (например, MAL, Anilist)."
 
 msgid "Thumbnail"
 msgstr "Миниатюра"
@@ -603,72 +642,6 @@ msgstr "Содержание сообщения"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "Введите сообщение для отображения (например, время выпуска, статус обновления). Оставьте поле пустым, если не используется."
 
-msgid "Image / Avatar"
-msgstr "Изображение / Аватар"
-
-msgid "Used for featured or profile display."
-msgstr "Используется для отображения избранного или профиля."
-
-msgid "Sub"
-msgstr "Суб"
-
-msgid "Main"
-msgstr "Основной"
-
-msgid "Supporting"
-msgstr "Поддерживающий"
-
-msgid "Views"
-msgstr "Просмотры"
-
-msgid "Likes"
-msgstr "Нравится"
-
-msgid "Favorites"
-msgstr "Избранное"
-
-msgid "Author"
-msgstr "Автор"
-
-msgid "Artist"
-msgstr "Художник"
-
-msgid "Magazine"
-msgstr "Журнал"
-
-msgid "Character"
-msgstr "Характер"
-
-msgid "Release"
-msgstr "Выпускать"
-
-msgid "Search"
-msgstr "Поиск"
-
-msgid "All Items"
-msgstr "Все предметы"
-
-msgid "View Item"
-msgstr "Просмотреть элемент"
-
-msgid "Edit Item"
-msgstr "Редактировать элемент"
-
-msgid "Update Item"
-msgstr "Обновить элемент"
-
-msgid "Separate items with commas"
-msgstr "Разделяйте элементы запятыми."
-
-msgid "Add or remove items"
-msgstr "Добавить или удалить элементы"
-
-msgid "Choose from the most used"
-msgstr "Выбирайте из наиболее используемых"
-
-msgid "Most Used"
-msgstr "Наиболее часто используемые"
-
 msgid "Custom Fields"
 msgstr "Пользовательские поля"
 
@@ -710,9 +683,6 @@ msgstr "Показать модальное всплывающее окно"
 
 msgid "Auto Play Alternative Server"
 msgstr "Автоматическое воспроизведение альтернативного сервера"
-
-msgid "Auto Play Custom Server"
-msgstr "Автоматическое воспроизведение пользовательского сервера"
 
 msgid "Enable Auto Report"
 msgstr "Включить автоматический отчет"
@@ -949,7 +919,7 @@ msgid "About link"
 msgstr "О ссылке"
 
 msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
-msgstr "Пользовательский URL-адрес, на который будет ссылаться контекстное меню. Можно настроить только для версий Premium и Ads."
+msgstr "Пользовательский URL-адрес, на который будет ссылаться контекстное меню. Доступно только для версий Premium и Ads."
 
 msgid "Detect AdBlocker"
 msgstr "Обнаружить блокировщик рекламы"
@@ -966,11 +936,17 @@ msgstr "Пожалуйста, отключите AdBlock, чтобы продо�
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "Пример: «Пользователи, пожалуйста, удалите блокировщик рекламы!»"
 
+msgid "Search"
+msgstr "Поиск"
+
 msgid "All"
 msgstr "Все"
 
 msgid "View"
 msgstr "Вид"
+
+msgid "Edit"
+msgstr "Редактировать"
 
 msgid "Update"
 msgstr "Обновлять"
@@ -1011,15 +987,6 @@ msgstr "Идентификатор IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "Введите идентификатор IMDB для этого фильма."
 
-msgid "Other ID"
-msgstr "Другой идентификатор"
-
-msgid "Enter any other relevant ID for this movie."
-msgstr "Введите любой другой соответствующий идентификатор этого фильма."
-
-msgid "Runtime"
-msgstr "Время выполнения"
-
 msgid "Enter the runtime of the movie."
 msgstr "Укажите продолжительность фильма."
 
@@ -1035,23 +1002,8 @@ msgstr "Всего эпизодов"
 msgid "Enter the total number of episodes for the movie."
 msgstr "Введите общее количество серий фильма."
 
-msgid "Quality"
-msgstr "Качество"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Введите качество фильма (например, 1080p, 720p)."
-
-msgid "Enter the number of likes for this movie."
-msgstr "Введите количество лайков для этого фильма."
-
-msgid "Dislikes"
-msgstr "Не нравится"
-
-msgid "Enter the number of dislikes for this movie."
-msgstr "Введите количество дизлайков к этому фильму."
-
-msgid "Enter the number of favorites for this movie."
-msgstr "Введите количество избранных для этого фильма."
 
 msgid "Single Movies"
 msgstr "Отдельные фильмы"
@@ -1095,68 +1047,20 @@ msgstr "Расписание дня"
 msgid "Select the day of the week for the movie release schedule."
 msgstr "Выберите день недели для просмотра графика выхода фильмов."
 
-msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
-msgstr "Введите время суток, когда фильм выйдет в прокат (например, 10:00)."
+msgid "Enable Related Movies"
+msgstr "Включить похожие фильмы"
 
-msgid "Related Seasons"
-msgstr "Связанные сезоны"
+msgid "Select Post"
+msgstr "Выбрать пост"
 
-msgid "Select related seasons for this movie."
+msgid "Select related seasons for this movies."
 msgstr "Выберите соответствующие сезоны для этого фильма."
+
+msgid "Custom Title"
+msgstr "Пользовательский заголовок"
 
 msgid "Movies Settings"
 msgstr "Настройки фильмов"
-
-msgid "Metabox Fields"
-msgstr "Поля метабокса"
-
-msgid "Use Additional Fields"
-msgstr "Использовать дополнительные поля"
-
-msgid "Additional Fields"
-msgstr "Дополнительные поля"
-
-msgid "Description"
-msgstr "Описание"
-
-msgid "Text"
-msgstr "Текст"
-
-msgid "Number"
-msgstr "Число"
-
-msgid "Textarea"
-msgstr "Текстовая область"
-
-msgid "Select"
-msgstr "Выбирать"
-
-msgid "Switcher"
-msgstr "Переключатель"
-
-msgid "Items Select"
-msgstr "Выбрать элементы"
-
-msgid "ID Options"
-msgstr "Параметры идентификатора"
-
-msgid "Value Options"
-msgstr "Варианты значений"
-
-msgid "Metaboxes"
-msgstr "Метабоксы"
-
-msgid "Showed"
-msgstr "Показал"
-
-msgid "Hide"
-msgstr "Скрывать"
-
-msgid "Season"
-msgstr "Сезон"
-
-msgid "Season Number"
-msgstr "Номер сезона"
 
 msgid "Add Video"
 msgstr "Добавить видео"
@@ -1169,21 +1073,6 @@ msgstr "Введите название видео"
 
 msgid "Enter video link"
 msgstr "Введите ссылку на видео"
-
-msgid "Video Code"
-msgstr "Видеокод"
-
-msgid "Enter the video code for this movie."
-msgstr "Введите видеокод этого фильма."
-
-msgid "Video Preview"
-msgstr "Видео-превью"
-
-msgid "Upload or Paste Video Preview Links"
-msgstr "Загрузите или вставьте ссылки для предварительного просмотра видео"
-
-msgid "Videos Settings"
-msgstr "Настройки видео"
 
 msgid "Yes"
 msgstr "Да"
@@ -1200,9 +1089,6 @@ msgstr "Активная тема"
 msgid "Data is being imported please be patient..."
 msgstr "Данные импортируются, пожалуйста, будьте терпеливы..."
 
-msgid "Loading..."
-msgstr "Загрузка..."
-
 msgid "An error occurred"
 msgstr "Произошла ошибка"
 
@@ -1214,9 +1100,6 @@ msgstr "Закрывать"
 
 msgid "List Episode"
 msgstr "Список эпизодов"
-
-msgid "EMBED"
-msgstr "ВСТРОИТЬ"
 
 msgid "Content"
 msgstr "Содержание"
@@ -1233,44 +1116,110 @@ msgstr "Вы уверены, что хотите удалить это виде�
 msgid "Are you sure you want to delete this chapter?"
 msgstr "Вы уверены, что хотите удалить эту главу?"
 
-msgid "less than 1 second ago"
-msgstr "менее 1 секунды назад"
+msgid "This video file cannot be played"
+msgstr "Этот видеофайл не может быть воспроизведен"
 
-msgid "year ago"
-msgstr "год назад"
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "Мы не можем найти нужное вам видео. Это может быть вызвано несколькими причинами, например, оно было удалено владельцем!"
 
-msgid "month ago"
-msgstr "месяц назад"
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "Чтобы продолжить просмотр, нажмите кнопку «Перезагрузить плеер»."
 
-msgid "day ago"
-msgstr "день назад"
+msgid "or click on the buttons below"
+msgstr "или нажмите на кнопки ниже"
 
-msgid "hour ago"
-msgstr "час назад"
+msgid "Reload Player"
+msgstr "Перезагрузить плеер"
 
-msgid "minute ago"
-msgstr "минуту назад"
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "Хотите продолжить просмотр с сохраненного места или начать с начала?"
 
-msgid "second ago"
-msgstr "секунду назад"
+msgid "Continue watching"
+msgstr "Продолжайте смотреть"
 
-msgid "years ago"
-msgstr "много лет назад"
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "Автоматически возобновляет воспроизведение видео с того места, где вы его последний раз воспроизводили."
 
-msgid "months ago"
-msgstr "несколько месяцев назад"
+msgid "Playback"
+msgstr "Воспроизведение"
 
-msgid "days ago"
-msgstr "дней назад"
+msgid "Loading, please wait..."
+msgstr "Загрузка, пожалуйста подождите..."
 
-msgid "hours ago"
-msgstr "часов назад"
+msgid "Switching to backup server..."
+msgstr "Переключение на резервный сервер..."
 
-msgid "minutes ago"
-msgstr "минут назад"
+msgid "Error loading video."
+msgstr "Ошибка загрузки видео."
 
-msgid "seconds ago"
-msgstr "секунд назад"
+msgid "Empty!"
+msgstr "Пустой!"
+
+msgid "All items removed successfully!"
+msgstr "Все элементы успешно удалены!"
+
+msgid "Failed to remove items!"
+msgstr "Не удалось удалить элементы!"
+
+msgid "An error occurred while removing all items."
+msgstr "Произошла ошибка при удалении всех элементов."
+
+msgid "Marked as resolved successfully!"
+msgstr "Отмечено как успешно решенное!"
+
+msgid "Failed to mark as resolved!"
+msgstr "Не удалось отметить как решенное!"
+
+msgid "An error occurred while updating the status."
+msgstr "Произошла ошибка при обновлении статуса."
+
+msgid "Item removed successfully!"
+msgstr "Элемент успешно удален!"
+
+msgid "Failed to remove item!"
+msgstr "Не удалось удалить элемент!"
+
+msgid "An error occurred while removing the item."
+msgstr "Произошла ошибка при удалении элемента."
+
+msgid "Mark As Resolved"
+msgstr "Отметить как решенное"
+
+msgid "Remove"
+msgstr "Удалять"
+
+msgid "Prev"
+msgstr "Предыдущая"
+
+msgid "Next"
+msgstr "Следующий"
+
+msgid "Saved successfully!"
+msgstr "Сохранено успешно!"
+
+msgid "Failed to save!"
+msgstr "Не удалось сохранить!"
+
+msgid "An error occurred while saving the issues."
+msgstr "Произошла ошибка при сохранении выпусков."
+
+msgid "Report an Issue"
+msgstr "Сообщить о проблеме"
+
+msgid "Send Report"
+msgstr "Отправить отчет"
+
+msgid "Please select at least one issue."
+msgstr "Пожалуйста, выберите хотя бы одну проблему."
+
+msgid "Report sent successfully!"
+msgstr "Отчет успешно отправлен!"
+
+msgid "Failed to send report!"
+msgstr "Не удалось отправить отчет!"
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
+msgstr "Мы не можем найти видео, которое вы ищете.<br>Этому может быть несколько причин, например, оно было удалено владельцем или этот контент недоступен в вашей стране!"
 
 msgid "Copyright infringement!"
 msgstr "Нарушение авторских прав!"
@@ -1292,9 +1241,6 @@ msgstr "Обновлено успешно!"
 
 msgid "Deleted successfully!"
 msgstr "Успешно удалено!"
-
-msgid "Saved successfully!"
-msgstr "Сохранено успешно!"
 
 msgid "An error occurred: %s"
 msgstr "Произошла ошибка: %s"
@@ -1329,35 +1275,29 @@ msgstr "Последний"
 msgid "Previous"
 msgstr "Предыдущий"
 
-msgid "This video file cannot be played"
-msgstr "Этот видеофайл не может быть воспроизведен"
+msgid "History"
+msgstr "История"
 
-msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
-msgstr "Мы не можем найти видео, которое вы ищете. Это может быть вызвано несколькими причинами, например, оно было удалено владельцем!"
+msgid "Profile"
+msgstr "Профиль"
 
-msgid "To continue watching, please click on the \"Reload Player\" button"
-msgstr "Чтобы продолжить просмотр, пожалуйста, нажмите на кнопку \"Перезагрузить плеер\""
+msgid "Favorite"
+msgstr "Любимый"
 
-msgid "or click on the buttons below"
-msgstr "или нажмите на кнопки ниже"
+msgid "Login"
+msgstr "Авторизоваться"
 
-msgid "Reload Player"
-msgstr "Перезагрузить плеер"
+msgid "Movies"
+msgstr "Фильмы"
 
-msgid "Do you want to continue viewing from the saved location or start from the beginning?"
-msgstr "Хотите продолжить просмотр с сохраненного места или начать с начала?"
+msgid "TV Show"
+msgstr "ТВ-шоу"
 
-msgid "Continue watching"
-msgstr "Продолжить просмотр"
+msgid "Featured"
+msgstr "Избранное"
 
-msgid "Automatically resumes your videos from where you played them last at"
-msgstr "Автоматически возобновляет ваши видео с того места, где вы их последний раз смотрели"
+msgid "Register"
+msgstr "Зарегистрироваться"
 
-msgid "Playback"
-msgstr "Воспроизведение"
-
-msgid "Loading, please wait..."
-msgstr "Загрузка, пожалуйста, подождите..."
-
-msgid "Switching to backup server..."
-msgstr "Переключение на резервный сервер..."
+msgid "Reset"
+msgstr "Перезагрузить"

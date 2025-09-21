@@ -1,9 +1,9 @@
-# Date created: 2025-08-22 02:48:00 by https://buxt.net
+# Date created: 2025-09-22 04:41:44 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-23 06:55+0700\n"
+"PO-Revision-Date: 2025-09-22 04:43+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi\n"
@@ -12,11 +12,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
 
-msgid "Type Site"
-msgstr "Loại trang web"
+msgid "Movies Code"
+msgstr "Mã phim"
 
-msgid "Basic Settings"
-msgstr "Cài đặt cơ bản"
+msgid "Quality"
+msgstr "Chất lượng"
+
+msgid "Runtime"
+msgstr "Thời gian chạy"
+
+msgid "Copyright"
+msgstr "Bản quyền"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Thumbs"
+msgstr "Ngón tay cái"
+
+msgid "Details"
+msgstr "Chi tiết"
+
+msgid "Categories"
+msgstr "Thể loại"
+
+msgid "Date"
+msgstr "Ngày"
+
+msgid "Tags"
+msgstr "Thẻ"
+
+msgid "Last Update"
+msgstr "Cập nhật lần cuối"
+
+msgid "views"
+msgstr "lượt xem"
 
 msgid "Custom CSS Code"
 msgstr "Mã CSS tùy chỉnh"
@@ -51,6 +81,9 @@ msgstr "Tính năng bình luận trang web"
 msgid "Control the site comment feature. Disable if not needed."
 msgstr "Kiểm soát tính năng bình luận trên trang web. Tắt nếu không cần thiết."
 
+msgid "Basic Settings"
+msgstr "Cài đặt cơ bản"
+
 msgid "SEO Settings"
 msgstr "Cài đặt SEO"
 
@@ -62,6 +95,9 @@ msgstr "Đơn giản hóa bí danh danh mục"
 
 msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
 msgstr "Xóa tiền tố danh mục/thể loại khỏi liên kết danh mục bài viết. Nhìn chung, nên giữ nguyên các quy tắc mặc định của WP."
+
+msgid "Categories Type"
+msgstr "Loại danh mục"
 
 msgid "Built-in SEO Features"
 msgstr "Tính năng SEO tích hợp"
@@ -123,65 +159,20 @@ msgstr "Lựa chọn duy nhất"
 msgid "Option type when publishing articles in the background"
 msgstr "Loại tùy chọn khi xuất bản bài viết ở chế độ nền"
 
-msgid "Advanced Search"
-msgstr "Tìm kiếm nâng cao"
+msgid "Popup"
+msgstr "Cửa sổ bật lên"
 
-msgid "Disable Sitewide Search Function (Caution)"
-msgstr "Tắt chức năng tìm kiếm toàn trang web (Thận trọng)"
+msgid "Top Archive"
+msgstr "Lưu trữ hàng đầu"
 
-msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
-msgstr "Sau khi vô hiệu hóa, trang web sẽ không thể tìm kiếm bài viết. Điều này có thể ngăn chặn hiệu quả các cuộc tấn công brute force và chặn cơ sở dữ liệu."
+msgid "Bottom Archive"
+msgstr "Lưu trữ dưới cùng"
 
-msgid "Optimize Search to Only Search Article Titles"
-msgstr "Tối ưu hóa tìm kiếm để chỉ tìm kiếm tiêu đề bài viết"
+msgid "Top Player"
+msgstr "Người chơi hàng đầu"
 
-msgid "After enabling, when searching the site, it will only search based on the article title, which greatly improves search performance when there are many articles. Enable as needed."
-msgstr "Sau khi bật, khi tìm kiếm trên trang web, nó sẽ chỉ tìm kiếm dựa trên tiêu đề bài viết, giúp cải thiện đáng kể hiệu suất tìm kiếm khi có nhiều bài viết. Bạn có thể bật tùy ý."
-
-msgid "Search Box Supports Searching by Category"
-msgstr "Hộp tìm kiếm hỗ trợ tìm kiếm theo danh mục"
-
-msgid "Enabled by default. When disabled, the category dropdown selection option will not be displayed."
-msgstr "Được bật theo mặc định. Khi tắt, tùy chọn thả xuống danh mục sẽ không được hiển thị."
-
-msgid "Category Display Depth in Search Box"
-msgstr "Độ sâu hiển thị danh mục trong hộp tìm kiếm"
-
-msgid "Show only 1-level main categories"
-msgstr "Chỉ hiển thị danh mục chính cấp 1"
-
-msgid "Expand to 2-level subcategories"
-msgstr "Mở rộng thành các tiểu thể loại 2 cấp"
-
-msgid "Expand to 3-level subcategories"
-msgstr "Mở rộng thành các tiểu thể loại 3 cấp"
-
-msgid "Sorting Method for Category Selection in Search Box"
-msgstr "Phương pháp sắp xếp để lựa chọn danh mục trong hộp tìm kiếm"
-
-msgid "By Category ID"
-msgstr "Theo ID danh mục"
-
-msgid "By Category Name"
-msgstr "Theo tên danh mục"
-
-msgid "By Category Alias"
-msgstr "Theo danh mục Biệt danh"
-
-msgid "By Total Number of Posts"
-msgstr "Theo tổng số bài viết"
-
-msgid "Category Page - Top"
-msgstr "Trang danh mục - Đầu trang"
-
-msgid "Category Page - Bottom"
-msgstr "Trang danh mục - Cuối trang"
-
-msgid "Single Post Page - Top"
-msgstr "Trang bài viết đơn - Đầu trang"
-
-msgid "Single Post Page - Bottom"
-msgstr "Trang bài viết đơn - Dưới cùng"
+msgid "Bottom Player"
+msgstr "Người chơi ở dưới cùng"
 
 msgid "Desktop Ad Code"
 msgstr "Mã quảng cáo trên máy tính để bàn"
@@ -191,6 +182,9 @@ msgstr "Mã quảng cáo di động"
 
 msgid "Ad Settings"
 msgstr "Cài đặt quảng cáo"
+
+msgid "Enable Ads"
+msgstr "Bật quảng cáo"
 
 msgid "Website Optimization"
 msgstr "Tối ưu hóa trang web"
@@ -251,6 +245,12 @@ msgstr "Vô hiệu hóa XML-RPC (Pingback)"
 
 msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
 msgstr "XML-RPC được sử dụng bởi các máy khách bên thứ ba. Việc tắt nó có thể giúp ngăn chặn các cuộc tấn công brute-force."
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "Tắt chức năng tìm kiếm toàn trang web (Thận trọng)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "Sau khi vô hiệu hóa, trang web sẽ không thể tìm kiếm bài viết. Điều này có thể ngăn chặn hiệu quả các cuộc tấn công brute force và chặn cơ sở dữ liệu."
 
 msgid "Disable F12 Key, Debug tools in Browser"
 msgstr "Tắt phím F12, công cụ gỡ lỗi trong trình duyệt"
@@ -384,14 +384,53 @@ msgstr "Khung nội tuyến"
 msgid "Images"
 msgstr "Hình ảnh"
 
+msgid "less than 1 second ago"
+msgstr "ít hơn 1 giây trước"
+
+msgid "year ago"
+msgstr "năm trước"
+
+msgid "month ago"
+msgstr "tháng trước"
+
+msgid "day ago"
+msgstr "ngày trước"
+
+msgid "hour ago"
+msgstr "giờ trước"
+
+msgid "minute ago"
+msgstr "phút trước"
+
+msgid "second ago"
+msgstr "giây trước"
+
+msgid "years ago"
+msgstr "nhiều năm trước"
+
+msgid "months ago"
+msgstr "tháng trước"
+
+msgid "days ago"
+msgstr "ngày trước"
+
+msgid "hours ago"
+msgstr "giờ trước"
+
+msgid "minutes ago"
+msgstr "phút trước"
+
+msgid "seconds ago"
+msgstr "vài giây trước"
+
 msgid "Broken Report"
 msgstr "Báo cáo bị hỏng"
 
-msgid "Status updated successfully"
-msgstr "Trạng thái đã được cập nhật thành công"
+msgid "Invalid REST nonce."
+msgstr "Nonce REST không hợp lệ."
 
-msgid "Failed to update status"
-msgstr "Không cập nhật được trạng thái"
+msgid "Issues configuration saved successfully."
+msgstr "Cấu hình sự cố đã được lưu thành công."
 
 msgid "Item removed successfully"
 msgstr "Đã xóa mục thành công"
@@ -405,17 +444,23 @@ msgstr "Đã xóa thành công tất cả các mục"
 msgid "Failed to remove all items"
 msgstr "Không thể xóa tất cả các mục"
 
+msgid "Status updated successfully"
+msgstr "Trạng thái đã được cập nhật thành công"
+
+msgid "Failed to update status"
+msgstr "Không cập nhật được trạng thái"
+
+msgid "There are %d broken movies!"
+msgstr "Có %d phim bị hỏng!"
+
+msgid "Go to Report"
+msgstr "Đi đến Báo cáo"
+
 msgid "Broken Movie"
 msgstr "Phim hỏng"
 
 msgid "Delete All"
 msgstr "Xóa tất cả"
-
-msgid "Prev"
-msgstr "Trước đó"
-
-msgid "Next"
-msgstr "Kế tiếp"
 
 msgid "Reporter"
 msgstr "Phóng viên"
@@ -423,32 +468,29 @@ msgstr "Phóng viên"
 msgid "Issues"
 msgstr "Vấn đề"
 
-msgid "Details"
-msgstr "Chi tiết"
-
 msgid "Time"
 msgstr "Thời gian"
 
 msgid "Action"
 msgstr "Hoạt động"
 
-msgid "Empty!"
-msgstr "Trống!"
-
-msgid "Mark As Resolved"
-msgstr "Đánh dấu là đã giải quyết"
-
-msgid "Edit"
-msgstr "Biên tập"
-
-msgid "Remove"
-msgstr "Di dời"
+msgid "Loading..."
+msgstr "Đang tải..."
 
 msgid "Issues Configuration"
 msgstr "Cấu hình sự cố"
 
 msgid "Save Changes"
 msgstr "Lưu thay đổi"
+
+msgid "Separate categories with commas"
+msgstr "Phân tách các danh mục bằng dấu phẩy"
+
+msgid "Add or remove categories"
+msgstr "Thêm hoặc xóa danh mục"
+
+msgid "Choose from the most used categories"
+msgstr "Chọn từ các danh mục được sử dụng nhiều nhất"
 
 msgid "Add Server"
 msgstr "Thêm máy chủ"
@@ -513,6 +555,9 @@ msgstr "Sắp tới"
 msgid "Manga"
 msgstr "Truyện tranh"
 
+msgid "Oneshot"
+msgstr "Oneshot"
+
 msgid "Manhua"
 msgstr "Manhua"
 
@@ -521,12 +566,6 @@ msgstr "Manhwa"
 
 msgid "Doujinshi"
 msgstr "Doujinshi"
-
-msgid "External ID"
-msgstr "ID bên ngoài"
-
-msgid "Enter ID if this manga is imported from another source (e.g., MAL, Anilist)."
-msgstr "Nhập ID nếu manga này được nhập từ nguồn khác (ví dụ: MAL, Anilist)."
 
 msgid "Thumbnail"
 msgstr "Hình thu nhỏ"
@@ -550,7 +589,7 @@ msgid "Adult Content"
 msgstr "Nội dung dành cho người lớn"
 
 msgid "Enable if this manga contains 18+ content."
-msgstr "Bật nếu manga này chứa nội dung 18+."
+msgstr "Bật nếu manga này có nội dung 18+."
 
 msgid "Schedule"
 msgstr "Lịch trình"
@@ -603,72 +642,6 @@ msgstr "Nội dung tin nhắn"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "Nhập thông báo để hiển thị (ví dụ: thời gian phát hành, trạng thái cập nhật). Để trống nếu không sử dụng."
 
-msgid "Image / Avatar"
-msgstr "Hình ảnh / Avatar"
-
-msgid "Used for featured or profile display."
-msgstr "Được sử dụng để hiển thị nổi bật hoặc hồ sơ."
-
-msgid "Sub"
-msgstr "Phụ"
-
-msgid "Main"
-msgstr "Chủ yếu"
-
-msgid "Supporting"
-msgstr "Hỗ trợ"
-
-msgid "Views"
-msgstr "Lượt xem"
-
-msgid "Likes"
-msgstr "Thích"
-
-msgid "Favorites"
-msgstr "Yêu thích"
-
-msgid "Author"
-msgstr "Tác giả"
-
-msgid "Artist"
-msgstr "Nghệ sĩ"
-
-msgid "Magazine"
-msgstr "Tạp chí"
-
-msgid "Character"
-msgstr "Tính cách"
-
-msgid "Release"
-msgstr "Giải phóng"
-
-msgid "Search"
-msgstr "Tìm kiếm"
-
-msgid "All Items"
-msgstr "Tất cả các mặt hàng"
-
-msgid "View Item"
-msgstr "Xem mục"
-
-msgid "Edit Item"
-msgstr "Chỉnh sửa mục"
-
-msgid "Update Item"
-msgstr "Cập nhật mục"
-
-msgid "Separate items with commas"
-msgstr "Phân tách các mục bằng dấu phẩy"
-
-msgid "Add or remove items"
-msgstr "Thêm hoặc xóa mục"
-
-msgid "Choose from the most used"
-msgstr "Chọn từ những thứ được sử dụng nhiều nhất"
-
-msgid "Most Used"
-msgstr "Được sử dụng nhiều nhất"
-
 msgid "Custom Fields"
 msgstr "Trường tùy chỉnh"
 
@@ -694,7 +667,7 @@ msgid "BXManager"
 msgstr "Trình quản lý BX"
 
 msgid "Player & ADS"
-msgstr "Người chơi & Quảng cáo"
+msgstr "Trình phát & Quảng cáo"
 
 msgid "Player Size"
 msgstr "Kích thước người chơi"
@@ -710,9 +683,6 @@ msgstr "Hiển thị cửa sổ bật lên"
 
 msgid "Auto Play Alternative Server"
 msgstr "Máy chủ thay thế tự động phát"
-
-msgid "Auto Play Custom Server"
-msgstr "Máy chủ tùy chỉnh tự động phát"
 
 msgid "Enable Auto Report"
 msgstr "Bật báo cáo tự động"
@@ -739,7 +709,7 @@ msgid "Ads Message"
 msgstr "Tin nhắn quảng cáo"
 
 msgid "Ex: XX seconds left in ad. XX cannot be changed"
-msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi"
+msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi được"
 
 msgid "XX seconds left in ad"
 msgstr "Còn XX giây nữa là hết quảng cáo"
@@ -966,11 +936,17 @@ msgstr "Vui lòng tắt AdBlock để tiếp tục xem."
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "VD: \"Người dùng vui lòng xóa trình chặn quảng cáo!\""
 
+msgid "Search"
+msgstr "Tìm kiếm"
+
 msgid "All"
 msgstr "Tất cả"
 
 msgid "View"
 msgstr "Xem"
+
+msgid "Edit"
+msgstr "Biên tập"
 
 msgid "Update"
 msgstr "Cập nhật"
@@ -1011,15 +987,6 @@ msgstr "Mã IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "Nhập ID IMDB cho bộ phim này."
 
-msgid "Other ID"
-msgstr "ID khác"
-
-msgid "Enter any other relevant ID for this movie."
-msgstr "Nhập bất kỳ ID nào khác có liên quan cho bộ phim này."
-
-msgid "Runtime"
-msgstr "Thời gian chạy"
-
 msgid "Enter the runtime of the movie."
 msgstr "Nhập thời lượng của bộ phim."
 
@@ -1035,23 +1002,8 @@ msgstr "Tổng số tập"
 msgid "Enter the total number of episodes for the movie."
 msgstr "Nhập tổng số tập của bộ phim."
 
-msgid "Quality"
-msgstr "Chất lượng"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Nhập chất lượng của phim (ví dụ: 1080p, 720p)."
-
-msgid "Enter the number of likes for this movie."
-msgstr "Nhập số lượt thích cho bộ phim này."
-
-msgid "Dislikes"
-msgstr "Không thích"
-
-msgid "Enter the number of dislikes for this movie."
-msgstr "Nhập số lượt không thích cho bộ phim này."
-
-msgid "Enter the number of favorites for this movie."
-msgstr "Nhập số lượng phim yêu thích của bạn."
 
 msgid "Single Movies"
 msgstr "Phim đơn"
@@ -1075,7 +1027,7 @@ msgid "OnGoing"
 msgstr "Đang diễn ra"
 
 msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
-msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ cho phép định dạng ảnh .png, .jpg, .jpeg."
+msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ chấp nhận định dạng ảnh .png, .jpg, .jpeg."
 
 msgid "Trailer Links"
 msgstr "Liên kết Trailer"
@@ -1095,68 +1047,20 @@ msgstr "Lịch trình ngày"
 msgid "Select the day of the week for the movie release schedule."
 msgstr "Chọn ngày trong tuần để xem lịch phát hành phim."
 
-msgid "Enter the time of day when the movie will be released (e.g., 10:00 AM)."
-msgstr "Nhập thời gian trong ngày mà phim sẽ được phát hành (ví dụ: 10:00 sáng)."
+msgid "Enable Related Movies"
+msgstr "Bật Phim liên quan"
 
-msgid "Related Seasons"
-msgstr "Các mùa liên quan"
+msgid "Select Post"
+msgstr "Chọn bài đăng"
 
-msgid "Select related seasons for this movie."
+msgid "Select related seasons for this movies."
 msgstr "Chọn các mùa liên quan đến bộ phim này."
+
+msgid "Custom Title"
+msgstr "Tiêu đề tùy chỉnh"
 
 msgid "Movies Settings"
 msgstr "Cài đặt phim"
-
-msgid "Metabox Fields"
-msgstr "Trường Metabox"
-
-msgid "Use Additional Fields"
-msgstr "Sử dụng các trường bổ sung"
-
-msgid "Additional Fields"
-msgstr "Các trường bổ sung"
-
-msgid "Description"
-msgstr "Sự miêu tả"
-
-msgid "Text"
-msgstr "Chữ"
-
-msgid "Number"
-msgstr "Con số"
-
-msgid "Textarea"
-msgstr "Vùng văn bản"
-
-msgid "Select"
-msgstr "Lựa chọn"
-
-msgid "Switcher"
-msgstr "Bộ chuyển đổi"
-
-msgid "Items Select"
-msgstr "Chọn mục"
-
-msgid "ID Options"
-msgstr "Tùy chọn ID"
-
-msgid "Value Options"
-msgstr "Tùy chọn giá trị"
-
-msgid "Metaboxes"
-msgstr "Metabox"
-
-msgid "Showed"
-msgstr "Đã hiển thị"
-
-msgid "Hide"
-msgstr "Trốn"
-
-msgid "Season"
-msgstr "Mùa"
-
-msgid "Season Number"
-msgstr "Số mùa giải"
 
 msgid "Add Video"
 msgstr "Thêm video"
@@ -1169,21 +1073,6 @@ msgstr "Nhập tên video"
 
 msgid "Enter video link"
 msgstr "Nhập liên kết video"
-
-msgid "Video Code"
-msgstr "Mã video"
-
-msgid "Enter the video code for this movie."
-msgstr "Nhập mã video cho bộ phim này."
-
-msgid "Video Preview"
-msgstr "Xem trước video"
-
-msgid "Upload or Paste Video Preview Links"
-msgstr "Tải lên hoặc dán liên kết xem trước video"
-
-msgid "Videos Settings"
-msgstr "Cài đặt video"
 
 msgid "Yes"
 msgstr "Đúng"
@@ -1200,9 +1089,6 @@ msgstr "Chủ đề hoạt động"
 msgid "Data is being imported please be patient..."
 msgstr "Dữ liệu đang được nhập, vui lòng kiên nhẫn..."
 
-msgid "Loading..."
-msgstr "Đang tải..."
-
 msgid "An error occurred"
 msgstr "Đã xảy ra lỗi"
 
@@ -1214,9 +1100,6 @@ msgstr "Đóng"
 
 msgid "List Episode"
 msgstr "Danh sách tập phim"
-
-msgid "EMBED"
-msgstr "NHÚNG"
 
 msgid "Content"
 msgstr "Nội dung"
@@ -1233,44 +1116,110 @@ msgstr "Bạn có chắc chắn muốn xóa video này không?"
 msgid "Are you sure you want to delete this chapter?"
 msgstr "Bạn có chắc chắn muốn xóa chương này không?"
 
-msgid "less than 1 second ago"
-msgstr "ít hơn 1 giây trước"
+msgid "This video file cannot be played"
+msgstr "Không thể phát tệp video này"
 
-msgid "year ago"
-msgstr "năm trước"
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "Chúng tôi không thể tìm thấy video bạn đang tìm kiếm. Có thể có một số lý do cho việc này, ví dụ như video đã bị chủ sở hữu xóa!"
 
-msgid "month ago"
-msgstr "tháng trước"
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "Để tiếp tục xem, vui lòng nhấp vào nút \"Tải lại trình phát\""
 
-msgid "day ago"
-msgstr "ngày trước"
+msgid "or click on the buttons below"
+msgstr "hoặc nhấp vào các nút bên dưới"
 
-msgid "hour ago"
-msgstr "giờ trước"
+msgid "Reload Player"
+msgstr "Tải lại máy nghe nhạc"
 
-msgid "minute ago"
-msgstr "phút trước"
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "Bạn muốn tiếp tục xem từ vị trí đã lưu hay xem lại từ đầu?"
 
-msgid "second ago"
-msgstr "giây trước"
+msgid "Continue watching"
+msgstr "Tiếp tục xem"
 
-msgid "years ago"
-msgstr "nhiều năm trước"
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "Tự động tiếp tục video của bạn từ nơi bạn đã phát chúng lần cuối"
 
-msgid "months ago"
-msgstr "tháng trước"
+msgid "Playback"
+msgstr "Phát lại"
 
-msgid "days ago"
-msgstr "ngày trước"
+msgid "Loading, please wait..."
+msgstr "Đang tải, vui lòng đợi..."
 
-msgid "hours ago"
-msgstr "giờ trước"
+msgid "Switching to backup server..."
+msgstr "Đang chuyển sang máy chủ sao lưu..."
 
-msgid "minutes ago"
-msgstr "phút trước"
+msgid "Error loading video."
+msgstr "Có lỗi khi tải video."
 
-msgid "seconds ago"
-msgstr "vài giây trước"
+msgid "Empty!"
+msgstr "Trống!"
+
+msgid "All items removed successfully!"
+msgstr "Đã xóa thành công tất cả các mục!"
+
+msgid "Failed to remove items!"
+msgstr "Không thể xóa mục!"
+
+msgid "An error occurred while removing all items."
+msgstr "Đã xảy ra lỗi khi xóa tất cả các mục."
+
+msgid "Marked as resolved successfully!"
+msgstr "Đã đánh dấu là giải quyết thành công!"
+
+msgid "Failed to mark as resolved!"
+msgstr "Không thể đánh dấu là đã giải quyết!"
+
+msgid "An error occurred while updating the status."
+msgstr "Đã xảy ra lỗi khi cập nhật trạng thái."
+
+msgid "Item removed successfully!"
+msgstr "Đã xóa mục thành công!"
+
+msgid "Failed to remove item!"
+msgstr "Không thể xóa mục!"
+
+msgid "An error occurred while removing the item."
+msgstr "Đã xảy ra lỗi khi xóa mục."
+
+msgid "Mark As Resolved"
+msgstr "Đánh dấu là đã giải quyết"
+
+msgid "Remove"
+msgstr "Di dời"
+
+msgid "Prev"
+msgstr "Trước đó"
+
+msgid "Next"
+msgstr "Kế tiếp"
+
+msgid "Saved successfully!"
+msgstr "Đã lưu thành công!"
+
+msgid "Failed to save!"
+msgstr "Không lưu được!"
+
+msgid "An error occurred while saving the issues."
+msgstr "Đã xảy ra lỗi khi lưu các vấn đề."
+
+msgid "Report an Issue"
+msgstr "Báo cáo sự cố"
+
+msgid "Send Report"
+msgstr "Gửi báo cáo"
+
+msgid "Please select at least one issue."
+msgstr "Vui lòng chọn ít nhất một vấn đề."
+
+msgid "Report sent successfully!"
+msgstr "Báo cáo đã được gửi thành công!"
+
+msgid "Failed to send report!"
+msgstr "Không gửi được báo cáo!"
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
+msgstr "Chúng tôi không thể tìm thấy video bạn đang tìm kiếm.<br>Có thể có một số lý do cho việc này, ví dụ như video đã bị chủ sở hữu xóa hoặc nội dung này không khả dụng ở quốc gia của bạn!"
 
 msgid "Copyright infringement!"
 msgstr "Vi phạm bản quyền!"
@@ -1292,9 +1241,6 @@ msgstr "Đã cập nhật thành công!"
 
 msgid "Deleted successfully!"
 msgstr "Đã xóa thành công!"
-
-msgid "Saved successfully!"
-msgstr "Đã lưu thành công!"
 
 msgid "An error occurred: %s"
 msgstr "Đã xảy ra lỗi: %s"
@@ -1329,35 +1275,29 @@ msgstr "Cuối cùng"
 msgid "Previous"
 msgstr "Trước"
 
-msgid "This video file cannot be played"
-msgstr "Tệp video này không thể phát"
+msgid "History"
+msgstr "Lịch sử"
 
-msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
-msgstr "Chúng tôi không thể tìm thấy video bạn đang tìm. Có thể có nhiều lý do cho điều này, ví dụ như nó đã bị chủ sở hữu xóa!"
+msgid "Profile"
+msgstr "Hồ sơ"
 
-msgid "To continue watching, please click on the \"Reload Player\" button"
-msgstr "Để tiếp tục xem, vui lòng nhấp vào nút \"Tải lại Player\""
+msgid "Favorite"
+msgstr "Yêu thích"
 
-msgid "or click on the buttons below"
-msgstr "hoặc nhấp vào các nút bên dưới"
+msgid "Login"
+msgstr "Đăng nhập"
 
-msgid "Reload Player"
-msgstr "Tải lại Player"
+msgid "Movies"
+msgstr "Phim"
 
-msgid "Do you want to continue viewing from the saved location or start from the beginning?"
-msgstr "Bạn có muốn tiếp tục xem từ vị trí đã lưu hay bắt đầu lại từ đầu không?"
+msgid "TV Show"
+msgstr "Chương trình truyền hình"
 
-msgid "Continue watching"
-msgstr "Tiếp tục xem"
+msgid "Featured"
+msgstr "Nổi bật"
 
-msgid "Automatically resumes your videos from where you played them last at"
-msgstr "Tự động tiếp tục video của bạn từ nơi bạn đã xem lần cuối"
+msgid "Register"
+msgstr "Đăng ký"
 
-msgid "Playback"
-msgstr "Phát lại"
-
-msgid "Loading, please wait..."
-msgstr "Đang tải, vui lòng đợi..."
-
-msgid "Switching to backup server..."
-msgstr "Đang chuyển sang server dự phòng..."
+msgid "Reset"
+msgstr "Cài lại"
