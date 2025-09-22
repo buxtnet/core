@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 04:43+0700\n"
+"PO-Revision-Date: 2025-09-22 08:56+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: vi\n"
@@ -1301,3 +1301,12 @@ msgstr "Đăng ký"
 
 msgid "Reset"
 msgstr "Cài lại"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "Bật hoặc tắt hiển thị các phim hoặc mùa liên quan cho bài viết này. Khi bật, bạn có thể chọn thủ công các bài viết liên quan bên dưới, hoặc hệ thống sẽ tự động tìm các bài viết liên quan dựa trên tiêu đề (ví dụ: các mùa phù hợp như \"Huyết Quỷ Hỗn Chiến - Phần 1\"). Tắt để ẩn nội dung liên quan."
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "Chọn một phim hoặc mùa liên quan để liên kết với bài viết này. Sử dụng chức năng tìm kiếm để tìm bài viết theo tiêu đề và kéo để sắp xếp lại nếu cần. Các bài viết được chọn sẽ được hiển thị dưới dạng nội dung liên quan trên giao diện người dùng."
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "Nhập tiêu đề tùy chỉnh cho bài viết được chọn để hiển thị trên giao diện người dùng. Nếu để trống, tiêu đề gốc của bài viết sẽ được sử dụng tự động. Sử dụng tính năng này để cung cấp tiêu đề ngắn hơn hoặc mô tả rõ ràng hơn nếu cần."

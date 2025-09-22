@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 04:43+0700\n"
+"PO-Revision-Date: 2025-09-22 08:56+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -1301,3 +1301,12 @@ msgstr "Зарегистрироваться"
 
 msgid "Reset"
 msgstr "Перезагрузить"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "Включить или отключить отображение связанных фильмов или сезонов для этой записи. При включении вы можете вручную выбрать связанные записи ниже, или система автоматически найдет связанные записи на основе заголовка (например, соответствующие сезоны, такие как «Хаос Кровавого Демона - Сезон 1»). Отключите, чтобы скрыть связанный контент."
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "Выберите связанный фильм или сезон для связи с этой записью. Используйте поиск, чтобы найти записи по заголовку, и перетаскивайте для изменения порядка при необходимости. Выбранные записи будут отображаться как связанный контент на фронтенде."
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "Введите пользовательский заголовок для выбранной записи для отображения на фронтенде. Если оставить пустым, будет автоматически использован исходный заголовок записи. Используйте это, чтобы указать более короткий или описательный заголовок при необходимости."

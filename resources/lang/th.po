@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 04:43+0700\n"
+"PO-Revision-Date: 2025-09-22 08:56+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: th\n"
@@ -1301,3 +1301,12 @@ msgstr "ลงทะเบียน"
 
 msgid "Reset"
 msgstr "รีเซ็ต"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "เปิดหรือปิดการแสดงผลภาพยนตร์หรือซีซันที่เกี่ยวข้องสำหรับโพสต์นี้ เมื่อเปิดใช้งาน คุณสามารถเลือกโพสต์ที่เกี่ยวข้องด้านล่างด้วยตนเอง หรือระบบจะค้นหาโพสต์ที่เกี่ยวข้องโดยอัตโนมัติตามชื่อเรื่อง (เช่น ซีซันที่ตรงกัน เช่น \"ความโกลาหลของปีศาจเลือด - ซีซัน 1\") ปิดเพื่อซ่อนเนื้อหาที่เกี่ยวข้อง"
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "เลือกภาพยนตร์หรือซีซันที่เกี่ยวข้องเพื่อเชื่อมโยงกับโพสต์นี้ ใช้การค้นหาเพื่อค้นหาโพสต์ตามชื่อเรื่อง และลากเพื่อจัดเรียงใหม่หากจำเป็น โพสต์ที่เลือกจะถูกแสดงเป็นเนื้อหาที่เกี่ยวข้องในหน้าเว็บ"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "ป้อนชื่อที่กำหนดเองสำหรับโพสต์ที่เลือกเพื่อแสดงในหน้าเว็บ หากปล่อยว่าง ชื่อโพสต์เดิมจะถูกใช้โดยอัตโนมัติ ใช้เพื่อให้ชื่อที่สั้นลงหรืออธิบายได้ชัดเจนยิ่งขึ้นหากจำเป็น"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 04:43+0700\n"
+"PO-Revision-Date: 2025-09-22 08:57+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
@@ -1301,3 +1301,12 @@ msgstr "登記"
 
 msgid "Reset"
 msgstr "重置"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "啟用或停用此文章相關電影或季的顯示。啟用後，您可以在下方手動選擇相關文章，或者系統將根據標題自動查找相關文章（例如，匹配的季，如「血魔混亂 - 第1季」）。停用以隱藏相關內容。"
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "選擇一部相關電影或季以與此文章關聯。使用搜尋按標題查找文章，並根據需要拖曳重新排序。所選文章將作為相關內容顯示在前端。"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "為所選文章輸入自訂標題以在前端顯示。如果留空，將自動使用原始文章標題。使用此功能可提供更短或更具描述性的標題。"
