@@ -1,0 +1,1389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Thumbs"
+msgstr "親指"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "Last Update"
+msgstr "最終更新日"
+
+msgid "views"
+msgstr "ビュー"
+
+msgid "Custom CSS Code"
+msgstr "カスタムCSSコード"
+
+msgid "At the top, for custom CSS No need to add <strong>&lt;style></strong> tags"
+msgstr "上部にカスタム CSS を配置します。<strong>&lt;style></strong> タグを追加する必要はありません。"
+
+msgid "Custom JS Code at Footer"
+msgstr "フッターのカスタム JS コード"
+
+msgid "At the bottom, for adding third-party analytics code, e.g. Google analytics, Baidu, CNZZ. Example: "
+msgstr "下部には、Google Analytics、Baidu、CNZZなどのサードパーティ分析コードを追加します。例："
+
+msgid "Site Logo"
+msgstr "サイトロゴ"
+
+msgid "Set the site logo (recommended to match the custom logo width and height)"
+msgstr "サイトのロゴを設定します（カスタムロゴの幅と高さに合わせることを推奨）"
+
+msgid "Site Favicon"
+msgstr "サイトのファビコン"
+
+msgid "Open Main Links in New Tab"
+msgstr "メインリンクを新しいタブで開く"
+
+msgid "Main links such as list/grid articles will open in a new tab."
+msgstr "リスト/グリッド記事などの主要なリンクは新しいタブで開きます。"
+
+msgid "Site Comment Feature"
+msgstr "サイトコメント機能"
+
+msgid "Control the site comment feature. Disable if not needed."
+msgstr "サイトのコメント機能を制御します。必要ない場合は無効にします。"
+
+msgid "Basic Settings"
+msgstr "基本設定"
+
+msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
+msgstr "テーマSEO最適化機能:<br>1. WordPressのデフォルトのタイトルセパレーターのカスタム置換をサポート"
+
+msgid "Simplify Category Alias"
+msgstr "カテゴリエイリアスの簡素化"
+
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "カテゴリーリンクから「category/」プレフィックスを削除してURLを簡素化します。SEOの一貫性を保つため、WordPressのデフォルトルールを維持することを推奨します。"
+
+msgid "Categories Display Style"
+msgstr "カテゴリ表示スタイル"
+
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "フロントエンドでのカテゴリーの表示方法を選択します。テーマデザインに合ったスタイルを選択してください。"
+
+msgid "Enable Built-in SEO Features"
+msgstr "組み込みSEO機能を有効にする"
+
+msgid "Built-in SEO Settings"
+msgstr "組み込みのSEO設定"
+
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "Google標準SEO機能を自動作成"
+
+msgid "Site-wide Link Separator"
+msgstr "サイト全体のリンクセパレーター"
+
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "SEOタイトルの区切り文字（例：\"-\" または \"|\"）を設定します。SEOの一貫性を保つため、設定後はこの文字を変更しないでください。"
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "Yoast SEOの組み込み設定を有効にする"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "最適なオンページ SEO を実現するために、Yoast SEO 設定 (タイトル、分類、パンくずリスト) を自動的に構成します。"
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "組み込みのRank Math SEO設定を有効にする"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "Rank Math SEO 設定を自動的に構成し、動的なタイトルとメタ説明のカスタム変数を登録します。"
+
+msgid "Bing Webmaster Verification Code"
+msgstr "Bingウェブマスター認証コード"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "Microsoft Bing 確認コードを入力します。"
+
+msgid "Yandex Verification Code"
+msgstr "Yandex認証コード"
+
+msgid "Enter your Yandex verification code."
+msgstr "Yandex 認証コードを入力してください。"
+
+msgid "Google Site Verification Code"
+msgstr "Google サイト確認コード"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "Google Search Console の確認コードを入力します。"
+
+msgid "Baidu Site Verification Code"
+msgstr "Baiduサイト認証コード"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "Baidu ウェブマスター ツールの確認コードを入力します。"
+
+msgid "Site Keywords"
+msgstr "サイトのキーワード"
+
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "サイトに関連する 3～5 個のキーワードをコンマで区切って入力します (例: 映画、ストリーミング、エンターテイメント)。"
+
+msgid "Site Description"
+msgstr "サイトの説明"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "検索エンジンのメタディスクリプション用に、サイトの簡単な説明（50〜160 文字を推奨）を入力します。"
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "SEOタイトル（映画情報ページ）"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "映画情報ページのSEOタイトルをカスタマイズします。プレースホルダーを使用して、映画の詳細を動的に挿入します。"
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "使用可能なプレースホルダー: {title} = 映画のタイトル、{slug} = エピソードのスラッグ、{quality} = 映画の品質、{release} = 公開年、{alt_title} = 元のタイトル、{runtime} = 再生時間、{country} = 国"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "SEO タイトル（映画視聴ページ）"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "映画鑑賞ページのSEOタイトルをカスタマイズします。プレースホルダーを使用して、映画の詳細を動的に挿入します。"
+
+msgid "SEO Settings"
+msgstr "SEO設定"
+
+msgid "Taxonomy Custom"
+msgstr "分類カスタム"
+
+msgid "Custom filter fields"
+msgstr "カスタムフィルターフィールド"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "フィルタリングエントリに表示するカスタムフィールド"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "高度なカスタムフィルターフィールドの設定"
+
+msgid "Filter Name"
+msgstr "フィルター名"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "例えば、フォーマット、色、サイズ、寸法、名前は設定後に途中で変更することができます"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "分類フィールドの一意の識別子"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "geshhi、yanse、szie、color などの純粋な英語である必要があります。<b style=\"color:red;\">一度設定すると、関連する冠詞がすでに選択されている場合、この識別子を途中で変更することはできません。</b>"
+
+msgid "Option Type"
+msgstr "オプションタイプ"
+
+msgid "Multiple Choice"
+msgstr "複数選択問題"
+
+msgid "Dropdown Single Choice"
+msgstr "ドロップダウン単一選択"
+
+msgid "Single Choice"
+msgstr "単一選択"
+
+msgid "Option type when publishing articles in the background"
+msgstr "バックグラウンドで記事を公開する際のオプションの種類"
+
+msgid "Popup"
+msgstr "ポップアップ"
+
+msgid "Top Archive"
+msgstr "トップアーカイブ"
+
+msgid "Bottom Archive"
+msgstr "下部アーカイブ"
+
+msgid "Top Player"
+msgstr "トッププレーヤー"
+
+msgid "Bottom Player"
+msgstr "最下位のプレイヤー"
+
+msgid "Desktop Ad Code"
+msgstr "デスクトップ広告コード"
+
+msgid "Mobile Ad Code"
+msgstr "モバイル広告コード"
+
+msgid "Ad Settings"
+msgstr "広告設定"
+
+msgid "Enable Ads"
+msgstr "広告を有効にする"
+
+msgid "Website Optimization"
+msgstr "ウェブサイトの最適化"
+
+msgid "Use Gutenberg Editor"
+msgstr "Gutenbergエディタを使用する"
+
+msgid "Use Gutenberg Widgets"
+msgstr "Gutenbergウィジェットを使用する"
+
+msgid "Enable Menu Caching"
+msgstr "メニューキャッシュを有効にする"
+
+msgid "Enable to cache the site’s top menu to reduce SQL queries. Disable if using different menus across domains."
+msgstr "サイトのトップメニューをキャッシュしてSQLクエリを削減するには、これを有効にしてください。ドメイン間で異なるメニューを使用する場合は、無効にしてください。"
+
+msgid "Disable WP Content Texturization"
+msgstr "WPコンテンツのテクスチャ化を無効にする"
+
+msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
+msgstr "無効にすると、投稿でエスケープ処理なしで生のコード形式を使用できます。コードベースのコンテンツに便利です。"
+
+msgid "Remove Frontend Admin Bar"
+msgstr "フロントエンド管理バーを削除する"
+
+msgid "Remove WP Admin Top Logo Menu"
+msgstr "WP Adminのトップロゴメニューを削除する"
+
+msgid "Remove WP Admin Footer Version Info"
+msgstr "WP Admin フッターのバージョン情報を削除する"
+
+msgid "Remove WP Dashboard Menu"
+msgstr "WPダッシュボードメニューを削除する"
+
+msgid "Remove WP Emoji Plugin"
+msgstr "WP Emojiプラグインを削除する"
+
+msgid "Greatly reduces JS and CSS usage."
+msgstr "JS と CSS の使用量を大幅に削減します。"
+
+msgid "Optimize Head Tags on Frontend"
+msgstr "フロントエンドのヘッドタグを最適化する"
+
+msgid "Simplify Image HTML Code"
+msgstr "画像のHTMLコードを簡素化"
+
+msgid "Removes unnecessary HTML attributes added by the default WP image editor."
+msgstr "デフォルトの WP 画像エディタによって追加された不要な HTML 属性を削除します。"
+
+msgid "Disable REST API"
+msgstr "REST APIを無効にする"
+
+msgid "If you’re using mobile apps or similar, do not disable this."
+msgstr "モバイルアプリなどを使用している場合は、これを無効にしないでください。"
+
+msgid "Disable XML-RPC (Pingback)"
+msgstr "XML-RPC（ピンバック）を無効にする"
+
+msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr "XML-RPCはサードパーティのクライアントで使用されます。これを無効にすると、ブルートフォース攻撃を防ぐのに役立ちます。"
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "サイト全体の検索機能を無効にする（注意）"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "無効化すると、サイトは記事を検索できなくなります。これにより、ブルートフォース攻撃やデータベースのブロックを効果的に防ぐことができます。"
+
+msgid "Disable F12 Key, Debug tools in Browser"
+msgstr "F12キーを無効にして、ブラウザのデバッグツールを無効にする"
+
+msgid "Disable F12 key, Debug tools in Browser"
+msgstr "F12キーとブラウザのデバッグツールを無効にする"
+
+msgid "URL to redirect if debug tool is opened"
+msgstr "デバッグツールが開かれた場合にリダイレクトする URL"
+
+msgid "URL will redirect to after pressing F12 (Default is: https://buxt.net)"
+msgstr "F12 キーを押すと URL がリダイレクトされます (デフォルト: https://buxt.net)"
+
+msgid "Import Demo"
+msgstr "インポートデモ"
+
+msgid "Create Page"
+msgstr "ページを作成"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのような <a href=\"%s\" target=\"_blank\">ページ</a> を作成します。"
+
+msgid "Create Menu"
+msgstr "メニューを作成"
+
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのような <a href=\"%s\" target=\"_blank\">メニュー</a> を作成します。"
+
+msgid "Create Widgets"
+msgstr "ウィジェットを作成する"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのような <a href=\"%s\" target=\"_blank\">ウィジェット</a> を作成します。"
+
+msgid "Import Themes Demo"
+msgstr "テーマのインポートデモ"
+
+msgid "Import Theme Demo"
+msgstr "テーマのインポートデモ"
+
+msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのようなデモ <a href=\"%s\" target=\"_blank\">コンテンツ</a> をインポートします。"
+
+msgid "Backup Settings"
+msgstr "バックアップ設定"
+
+msgid "This will only back up all theme option settings on this page. It does NOT back up WordPress data like posts. ⚠️ Note: The backup data saved here is in string format and has length validation. Do not manually modify the string to avoid corruption. If editing is needed, please import the data as-is and make changes through the input fields on the settings page."
+msgstr "このページにあるすべてのテーマオプション設定のみがバックアップされます。投稿などのWordPressデータはバックアップされません。⚠️ 注意：ここに保存されるバックアップデータは文字列形式で、長さの検証が行われます。破損を防ぐため、文字列を手動で変更しないでください。編集が必要な場合は、データをそのままインポートし、設定ページの入力フィールドから変更してください。"
+
+msgid "Cache Manager"
+msgstr "キャッシュマネージャー"
+
+msgid "Total Cache"
+msgstr "合計キャッシュ"
+
+msgid "Cache Empty!"
+msgstr "キャッシュが空です!"
+
+msgid "Delete All Cache"
+msgstr "すべてのキャッシュを削除"
+
+msgid "Are you sure you want to remove all cache?"
+msgstr "すべてのキャッシュを削除してもよろしいですか?"
+
+msgid "Please wait..."
+msgstr "お待ちください..."
+
+msgid "Error while deleting cache"
+msgstr "キャッシュの削除中にエラーが発生しました"
+
+msgid "An unexpected error occurred"
+msgstr "予期しないエラーが発生しました"
+
+msgid "Theme License"
+msgstr "テーマライセンス"
+
+msgid "No license activated. Please activate your license."
+msgstr "ライセンスが有効化されていません。ライセンスを有効化してください。"
+
+msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
+msgstr "このテーマをご利用いただき、ありがとうございます。ritheme.com ユーザーセンターからライセンスIDとライセンスコードを入力し、「保存」をクリックして確認してください。"
+
+msgid "Status"
+msgstr "状態"
+
+msgid "License Key"
+msgstr "ライセンスキー"
+
+msgid "License Email"
+msgstr "ライセンスメール"
+
+msgid "Activation Date"
+msgstr "有効化日"
+
+msgid "Expiration Date"
+msgstr "有効期限"
+
+msgid "Lifetime License"
+msgstr "生涯ライセンス"
+
+msgid "Activation Domain"
+msgstr "アクティベーションドメイン"
+
+msgid "Update License"
+msgstr "ライセンスの更新"
+
+msgid "Deactivate License"
+msgstr "ライセンスの無効化"
+
+msgid "License Code"
+msgstr "ライセンスコード"
+
+msgid "Activate"
+msgstr "活性化"
+
+msgid "Embed"
+msgstr "埋め込み"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "MP4"
+msgstr "MP4"
+
+msgid "Auto"
+msgstr "オート"
+
+msgid "Iframe"
+msgstr "インラインフレーム"
+
+msgid "Images"
+msgstr "画像"
+
+msgid "less than 1 second ago"
+msgstr "1秒未満前"
+
+msgid "year ago"
+msgstr "1年前"
+
+msgid "month ago"
+msgstr "1か月前"
+
+msgid "day ago"
+msgstr "1日前"
+
+msgid "hour ago"
+msgstr "1時間前"
+
+msgid "minute ago"
+msgstr "1分前"
+
+msgid "second ago"
+msgstr "1秒前"
+
+msgid "years ago"
+msgstr "数年前"
+
+msgid "months ago"
+msgstr "数か月前"
+
+msgid "days ago"
+msgstr "数日前"
+
+msgid "hours ago"
+msgstr "数時間前"
+
+msgid "minutes ago"
+msgstr "数分前"
+
+msgid "seconds ago"
+msgstr "数秒前"
+
+msgid "Broken Report"
+msgstr "壊れたレポート"
+
+msgid "Invalid REST nonce."
+msgstr "無効な REST nonce。"
+
+msgid "Issues configuration saved successfully."
+msgstr "問題の構成が正常に保存されました。"
+
+msgid "Item removed successfully"
+msgstr "アイテムは正常に削除されました"
+
+msgid "Failed to remove item"
+msgstr "アイテムを削除できませんでした"
+
+msgid "All items removed successfully"
+msgstr "すべてのアイテムが正常に削除されました"
+
+msgid "Failed to remove all items"
+msgstr "すべてのアイテムを削除できませんでした"
+
+msgid "Status updated successfully"
+msgstr "ステータスが正常に更新されました"
+
+msgid "Failed to update status"
+msgstr "ステータスの更新に失敗しました"
+
+msgid "There are %d broken movies!"
+msgstr "壊れたムービーが %d 件あります。"
+
+msgid "Go to Report"
+msgstr "レポートへ"
+
+msgid "Broken Movie"
+msgstr "壊れた映画"
+
+msgid "Delete All"
+msgstr "すべて削除"
+
+msgid "Reporter"
+msgstr "記者"
+
+msgid "Issues"
+msgstr "問題"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "Loading..."
+msgstr "読み込み中..."
+
+msgid "Issues Configuration"
+msgstr "問題の構成"
+
+msgid "Save Changes"
+msgstr "変更を保存"
+
+msgid "Separate categories with commas"
+msgstr "カテゴリをカンマで区切る"
+
+msgid "Add or remove categories"
+msgstr "カテゴリを追加または削除する"
+
+msgid "Choose from the most used categories"
+msgstr "最もよく使われるカテゴリから選択してください"
+
+msgid "Add Server"
+msgstr "サーバーを追加"
+
+msgid "Server #1"
+msgstr "サーバー #1"
+
+msgid "Chapter #1"
+msgstr "第1章"
+
+msgid "Server"
+msgstr "サーバ"
+
+msgid "Server Name"
+msgstr "サーバー名"
+
+msgid "Add New Chapter"
+msgstr "新しい章を追加"
+
+msgid "Import Chapters"
+msgstr "章をインポートする"
+
+msgid "Paste your chapter list in the format: Title|Chapter Number|URL"
+msgstr "章リストを次の形式で貼り付けます: タイトル|章番号|URL"
+
+msgid "Import"
+msgstr "輸入"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "STT"
+msgstr "STT"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Index"
+msgstr "索引"
+
+msgid "Chapter Name"
+msgstr "章名"
+
+msgid "Ex: https://example.com/chapter-1 (OR) image1*image2*..."
+msgstr "例: https://example.com/chapter-1 (または) image1*image2*..."
+
+msgid "Meta Videos"
+msgstr "メタビデオ"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Ongoing"
+msgstr "進行中"
+
+msgid "Upcoming"
+msgstr "今後の予定"
+
+msgid "Manga"
+msgstr "マンガ"
+
+msgid "Oneshot"
+msgstr "ワンショット"
+
+msgid "Manhua"
+msgstr "マンフア"
+
+msgid "Manhwa"
+msgstr "マンガ"
+
+msgid "Doujinshi"
+msgstr "同人誌"
+
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+msgid "Optional if a Featured Image has already been set."
+msgstr "注目画像がすでに設定されている場合はオプションです。"
+
+msgid "Poster"
+msgstr "ポスター"
+
+msgid "Displayed in vertical format. Optional if you want to use a different image from the Featured Image."
+msgstr "縦向きで表示されます。注目画像とは異なる画像を使用する場合はオプションです。"
+
+msgid "Alternative Title"
+msgstr "別名"
+
+msgid "Optional backup or translated title."
+msgstr "オプションのバックアップまたは翻訳されたタイトル。"
+
+msgid "Adult Content"
+msgstr "アダルトコンテンツ"
+
+msgid "Enable if this manga contains 18+ content."
+msgstr "このマンガに18歳以上向けのコンテンツが含まれている場合に有効にします。"
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Enable if this manga has a release schedule."
+msgstr "このマンガに発売予定がある場合は有効にします。"
+
+msgid "Release Days"
+msgstr "リリース日"
+
+msgid "Select the days this manga is usually updated."
+msgstr "このマンガが通常更新される日を選択してください。"
+
+msgid "Monday"
+msgstr "月曜日"
+
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "Release Time"
+msgstr "リリース時間"
+
+msgid "Optional — Time of day when the manga is usually released."
+msgstr "オプション - マンガが通常リリースされる時間。"
+
+msgid "Enable Message"
+msgstr "メッセージを有効にする"
+
+msgid "Turn on to display a custom message on the manga page."
+msgstr "オンにするとマンガページにカスタムメッセージが表示されます。"
+
+msgid "Message Content"
+msgstr "メッセージの内容"
+
+msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
+msgstr "表示するメッセージ（例：リリース時間、アップデート状況）を入力します。使用しない場合は空白のままにしてください。"
+
+msgid "Fetch Manga Info"
+msgstr "マンガ情報を取得する"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "ソースを選択して URL を入力すると、データが自動的に入力されます。"
+
+msgid "Fetch"
+msgstr "フェッチ"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "otruyenapi.com からの有効な URL を入力してください。"
+
+msgid "Fetching..."
+msgstr "取得中..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "データの取得と入力に成功しました。"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "データの取得に失敗したか、応答形式が無効です。"
+
+msgid "An error occurred during the request: "
+msgstr "リクエスト中にエラーが発生しました:"
+
+msgid "Fetching from AniList..."
+msgstr "AniList から取得しています..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "AniList から正常に取得され、入力されました。"
+
+msgid "AniList: No data found."
+msgstr "AniList: データが見つかりません。"
+
+msgid "Please enter a valid URL or ID."
+msgstr "有効な URL または ID を入力してください。"
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "ソースを検出できません。Otruyen、MyAnimeList、またはAniListの有効なURLまたはIDを入力してください。"
+
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Custom SEO Title"
+msgstr "カスタムSEOタイトル"
+
+msgid "Leave blank to set nothing"
+msgstr "何も設定しない場合は空白のままにします"
+
+msgid "Custom SEO Keywords"
+msgstr "カスタムSEOキーワード"
+
+msgid "Keywords are separated by commas, leave blank to set nothing"
+msgstr "キーワードはカンマで区切られます。何も設定しない場合は空白のままにしてください。"
+
+msgid "Custom SEO Description"
+msgstr "カスタムSEO説明"
+
+msgid "BXManager"
+msgstr "BXマネージャー"
+
+msgid "Views Day"
+msgstr "ビューの日"
+
+msgid "Views Week"
+msgstr "視聴週"
+
+msgid "Views Month"
+msgstr "月間閲覧数"
+
+msgid "Views All"
+msgstr "すべて表示"
+
+msgid "Player & ADS"
+msgstr "プレイヤーと広告"
+
+msgid "Player Size"
+msgstr "プレーヤーサイズ"
+
+msgid "JWPlayer error detect"
+msgstr "JWPlayerエラー検出"
+
+msgid "If the player cannot play the video, it will automatically switch to another server."
+msgstr "プレーヤーがビデオを再生できない場合は、自動的に別のサーバーに切り替わります。"
+
+msgid "Show Modal Popup"
+msgstr "モーダルポップアップを表示"
+
+msgid "Auto Play Alternative Server"
+msgstr "自動再生代替サーバー"
+
+msgid "Enable Auto Report"
+msgstr "自動レポートを有効にする"
+
+msgid "Enable to automatically report the episode when the user clicks on the report button."
+msgstr "ユーザーがレポートボタンをクリックしたときにエピソードを自動的にレポートできるようにします。"
+
+msgid "Show Ads Vast"
+msgstr "広告を表示"
+
+msgid "VAST Configuration"
+msgstr "VAST構成"
+
+msgid "Configure VAST settings for the player"
+msgstr "プレーヤーのVAST設定を構成する"
+
+msgid "VAST File"
+msgstr "VASTファイル"
+
+msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
+msgstr "広告に使用するVASTファイルのURL。JWPlayer広告を有効にする場合は必須です。"
+
+msgid "Ads Message"
+msgstr "広告メッセージ"
+
+msgid "Ex: XX seconds left in ad. XX cannot be changed"
+msgstr "例: 広告の残り時間はXX秒です。XXは変更できません"
+
+msgid "XX seconds left in ad"
+msgstr "広告残りXX秒"
+
+msgid "Skip Offset"
+msgstr "スキップオフセット"
+
+msgid "The number of seconds before the skip button appears. Default is 5 seconds."
+msgstr "スキップボタンが表示されるまでの秒数。デフォルトは5秒です。"
+
+msgid "Skip Text"
+msgstr "テキストをスキップ"
+
+msgid "The text to display on the skip button. Default is \"Skip Ad\"."
+msgstr "スキップボタンに表示するテキスト。デフォルトは「広告をスキップ」です。"
+
+msgid "Skip Ad"
+msgstr "広告をスキップ"
+
+msgid "Skip Message"
+msgstr "メッセージをスキップ"
+
+msgid "The message to display when the skip button appears. Default is \"Skip after xxs seconds\"."
+msgstr "スキップボタンが表示されたときに表示されるメッセージ。デフォルトは「xxs秒後にスキップ」です。"
+
+msgid "Skip after xxs seconds"
+msgstr "xxs秒後にスキップ"
+
+msgid "Show Logo Player"
+msgstr "ロゴプレーヤーを表示"
+
+msgid "Logo Player Configuration"
+msgstr "ロゴプレーヤーの設定"
+
+msgid "Show logo on both JWPlayer and embedded iframe player"
+msgstr "JWPlayerと埋め込みiframeプレーヤーの両方にロゴを表示する"
+
+msgid "Logo File"
+msgstr "ロゴファイル"
+
+msgid "The URL of an external JPG, PNG or GIF image to be used as watermark (e.g. /assets/logo.png). We recommend using 24 bit PNG images with transparency"
+msgstr "透かしとして使用する外部JPG、PNG、またはGIF画像のURL（例：/assets/logo.png）。透明度の高い24ビットPNG画像の使用を推奨します。"
+
+msgid "Logo link"
+msgstr "ロゴリンク"
+
+msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
+msgstr "透かし画像をクリックしたときにアクセスするURL。これを設定しないと、ロゴをクリックしても何も起こりません。"
+
+msgid "Logo Position"
+msgstr "ロゴの位置"
+
+msgid "Top left"
+msgstr "左上"
+
+msgid "Top right"
+msgstr "右上"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom right"
+msgstr "右下"
+
+msgid "Control bar (JWPlayer only)"
+msgstr "コントロールバー（JWPlayerのみ）"
+
+msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
+msgstr "透かしを表示するコーナーを設定します。「control-bar」オプションはJWPlayerでのみサポートされており、コントロールバーの右側のボタングループの左端のアイコンとしてロゴを追加します。"
+
+msgid "Auto hide logo (JWPlayer only)"
+msgstr "ロゴを自動的に非表示にする（JWPlayer のみ）"
+
+msgid "This setting only applies to JWPlayer: Auto hide the logo when the mouse is not over the player."
+msgstr "この設定は JWPlayer にのみ適用されます: マウスがプレーヤー上にないときにロゴを自動的に非表示にします。"
+
+msgid "Show Ads & Banner"
+msgstr "広告とバナーを表示"
+
+msgid "Custom Ads Position"
+msgstr "カスタム広告の位置"
+
+msgid "Ads Configuration"
+msgstr "広告設定"
+
+msgid "You can add ads code for desktop and mobile devices"
+msgstr "デスクトップとモバイルデバイス用の広告コードを追加できます"
+
+msgid "ADS Desktop"
+msgstr "ADSデスクトップ"
+
+msgid "Popup Ads Code Desktop"
+msgstr "ポップアップ広告コードデスクトップ"
+
+msgid "Header Ads Code Desktop"
+msgstr "ヘッダー広告コードデスクトップ"
+
+msgid "Footer Ads Code Desktop"
+msgstr "フッター広告コードデスクトップ"
+
+msgid "Top Player Ads Code Desktop"
+msgstr "トッププレーヤー広告コードデスクトップ"
+
+msgid "Under Player Ads Desktop"
+msgstr "プレーヤー広告デスクトップ"
+
+msgid "ADS Mobile"
+msgstr "ADSモバイル"
+
+msgid "Header Ads Code Mobile"
+msgstr "ヘッダー広告コード（モバイル）"
+
+msgid "Footer Ads Code Mobile"
+msgstr "フッター広告コード（モバイル）"
+
+msgid "Top Player Ads Code Mobile"
+msgstr "トッププレーヤー広告コードモバイル"
+
+msgid "Under Player Ads Mobile"
+msgstr "プレイヤー広告モバイル"
+
+msgid "Resume Playback"
+msgstr "再生を再開する"
+
+msgid "Use localStorage to remember where the user left off and resume playback at the same time offset when revisiting the page."
+msgstr "localStorage を使用して、ユーザーが中断した場所を記憶し、ページに再度アクセスしたときに同じ時間オフセットで再生を再開します。"
+
+msgid "Cache Player"
+msgstr "キャッシュプレーヤー"
+
+msgid "Enable cache link"
+msgstr "キャッシュリンクを有効にする"
+
+msgid "Cache Configuration"
+msgstr "キャッシュ構成"
+
+msgid "Auto reset cache"
+msgstr "キャッシュの自動リセット"
+
+msgid "Automatically clear the cache if the player error"
+msgstr "プレーヤーエラーが発生した場合、自動的にキャッシュをクリアします"
+
+msgid "Cache time"
+msgstr "キャッシュ時間"
+
+msgid "Cache expired time. (seconds)"
+msgstr "キャッシュの有効期限（秒）"
+
+msgid "Custom JWPlayer"
+msgstr "カスタム JWPlayer"
+
+msgid "JWPlayer Configuration"
+msgstr "JWPlayerの設定"
+
+msgid "Autostart"
+msgstr "自動起動"
+
+msgid "Auto Pause Player"
+msgstr "プレーヤーの自動一時停止"
+
+msgid "Automatically pauses the player based on certain rules"
+msgstr "特定のルールに基づいてプレーヤーを自動的に一時停止します"
+
+msgid "Share Button"
+msgstr "シェアボタン"
+
+msgid "Jwplayer License key"
+msgstr "Jwplayer ライセンスキー"
+
+msgid "A license key is required for the Pro, Premium and Ads edition."
+msgstr "Pro、Premium、Ads エディションにはライセンス キーが必要です。"
+
+msgid "Floating Player"
+msgstr "フローティングプレイヤー"
+
+msgid "Default poster image"
+msgstr "デフォルトのポスター画像"
+
+msgid "Default Subtitle"
+msgstr "デフォルトの字幕"
+
+msgid "Add the url of the file subtitle.srt, .vtt or using the Upload button."
+msgstr "ファイル subtitle.srt、.vtt の URL を追加するか、[アップロード] ボタンを使用します。"
+
+msgid "Select a method to read subtitles"
+msgstr "字幕の読み方を選択してください"
+
+msgid "Direct link"
+msgstr "直接リンク"
+
+msgid "Use readsub.php"
+msgstr "readsub.php を使用する"
+
+msgid "Subtitle color"
+msgstr "字幕の色"
+
+msgid "Subtitle font size"
+msgstr "字幕のフォントサイズ"
+
+msgid "About text"
+msgstr "テキストについて"
+
+msgid "Custom text to display in the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "右クリックメニューに表示するカスタムテキスト。プレミアムエディションと広告エディションでのみ設定できます。"
+
+msgid "About link"
+msgstr "リンクについて"
+
+msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "右クリックメニューをクリックした際にリンクするカスタムURL。プレミアムエディションと広告エディションでのみ設定できます。"
+
+msgid "Detect AdBlocker"
+msgstr "広告ブロッカーを検出"
+
+msgid "Auto detects ad blockers and displays a notification to users"
+msgstr "広告ブロッカーを自動検出し、ユーザーに通知を表示します"
+
+msgid "Adblock Notices"
+msgstr "広告ブロックに関するお知らせ"
+
+msgid "Please disable AdBlock to continue watching."
+msgstr "視聴を続けるにはAdBlockを無効にしてください。"
+
+msgid "Ex: \"Users please remove ad blocker!\""
+msgstr "例: 「ユーザーは広告ブロッカーを削除してください!」"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "All"
+msgstr "全て"
+
+msgid "View"
+msgstr "ビュー"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Update"
+msgstr "アップデート"
+
+msgid "Add New "
+msgstr "新規追加"
+
+msgid "New"
+msgstr "新しい"
+
+msgid "Add New Episode"
+msgstr "新しいエピソードを追加"
+
+msgid "Slug"
+msgstr "スラッグ"
+
+msgid "Add Subtitle"
+msgstr "字幕を追加"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Movie Details"
+msgstr "映画の詳細"
+
+msgid "TMDB ID"
+msgstr "TMDB ID"
+
+msgid "Enter the TMDB ID for this movie."
+msgstr "この映画のTMDB IDを入力してください。"
+
+msgid "IMDB ID"
+msgstr "IMDB ID"
+
+msgid "Enter the IMDB ID for this movie."
+msgstr "この映画の IMDB ID を入力してください。"
+
+msgid "Runtime"
+msgstr "ランタイム"
+
+msgid "Enter the runtime of the movie."
+msgstr "映画の実行時間を入力します。"
+
+msgid "Episodes"
+msgstr "エピソード"
+
+msgid "Enter the episode number of the movie."
+msgstr "映画のエピソード番号を入力してください。"
+
+msgid "Total Episodes"
+msgstr "合計エピソード数"
+
+msgid "Enter the total number of episodes for the movie."
+msgstr "映画の合計エピソード数を入力します。"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
+msgstr "映画の品質を入力します（例：1080p、720p）。"
+
+msgid "Single Movies"
+msgstr "単発映画"
+
+msgid "TV Series"
+msgstr "連続テレビ番組"
+
+msgid "TV Shows"
+msgstr "テレビ番組"
+
+msgid "Theater Movie"
+msgstr "劇場映画"
+
+msgid "Cartoon"
+msgstr "漫画"
+
+msgid "Trailer"
+msgstr "トレーラー"
+
+msgid "OnGoing"
+msgstr "進行中"
+
+msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
+msgstr "注目画像が既に設定されている場合、オプションです。.png、.jpg、.jpeg形式の画像のみが許可されます。"
+
+msgid "Trailer Links"
+msgstr "トレーラーリンク"
+
+msgid "Upload or Paste Trailer Links"
+msgstr "トレーラーリンクをアップロードまたは貼り付ける"
+
+msgid "Schedule Content"
+msgstr "スケジュールコンテンツ"
+
+msgid "Enable if this movie has a release schedule."
+msgstr "この映画の公開スケジュールがある場合は有効にします。"
+
+msgid "Schedule Day"
+msgstr "スケジュール日"
+
+msgid "Select the day of the week for the movie release schedule."
+msgstr "映画の公開スケジュールに合わせて曜日を選択してください。"
+
+msgid "Enable Related Movies"
+msgstr "関連動画を有効にする"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "この投稿に関連する映画やシーズンの表示を有効または無効にします。有効にすると、以下の関連投稿を手動で選択できます。また、タイトルに基づいてシステムが自動的に関連投稿を検索します（例：「Blood Demon Chaos - Season 1」のようにシーズンが一致するもの）。無効にすると、関連コンテンツが非表示になります。"
+
+msgid "Select Post"
+msgstr "投稿を選択"
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "この投稿に関連付ける関連映画またはシーズンを選択してください。検索機能を使ってタイトルで投稿を検索し、必要に応じてドラッグして並べ替えてください。選択した投稿は、フロントエンドに関連コンテンツとして表示されます。"
+
+msgid "Custom Title"
+msgstr "カスタムタイトル"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "選択した投稿のフロントエンドに表示するカスタムタイトルを入力してください。空白のままにした場合、元の投稿タイトルが自動的に使用されます。必要に応じて、より短いタイトルやより説明的なタイトルを入力してください。"
+
+msgid "Movies Settings"
+msgstr "映画の設定"
+
+msgid "Add Video"
+msgstr "ビデオを追加"
+
+msgid "Add New Video"
+msgstr "新しいビデオを追加"
+
+msgid "Enter video name"
+msgstr "ビデオ名を入力"
+
+msgid "Enter video link"
+msgstr "ビデオリンクを入力"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Active Theme"
+msgstr "アクティブテーマ"
+
+msgid "Data is being imported please be patient..."
+msgstr "データをインポート中です。しばらくお待ちください。"
+
+msgid "An error occurred"
+msgstr "エラーが発生しました"
+
+msgid "Have fun!"
+msgstr "楽しむ！"
+
+msgid "Close"
+msgstr "近い"
+
+msgid "List Episode"
+msgstr "エピソード一覧"
+
+msgid "Content"
+msgstr "コンテンツ"
+
+msgid "Are you sure you want to delete this server?"
+msgstr "このサーバーを削除してもよろしいですか?"
+
+msgid "Are you sure you want to delete this episode?"
+msgstr "このエピソードを削除してもよろしいですか?"
+
+msgid "Are you sure you want to delete this video?"
+msgstr "このビデオを削除してもよろしいですか?"
+
+msgid "Are you sure you want to delete this chapter?"
+msgstr "この章を削除してもよろしいですか?"
+
+msgid "This video file cannot be played"
+msgstr "このビデオファイルは再生できません"
+
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "お探しの動画が見つかりません。所有者によって削除されたなど、いくつかの理由が考えられます。"
+
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "視聴を続けるには、「プレーヤーを再読み込み」ボタンをクリックしてください。"
+
+msgid "or click on the buttons below"
+msgstr "または下のボタンをクリックしてください"
+
+msgid "Reload Player"
+msgstr "プレーヤーをリロード"
+
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "保存した場所から引き続き表示しますか、それとも最初から始めますか?"
+
+msgid "Continue watching"
+msgstr "視聴を続ける"
+
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "最後に再生した場所からビデオを自動的に再開します"
+
+msgid "Playback"
+msgstr "再生"
+
+msgid "Loading, please wait..."
+msgstr "読み込み中です。お待​​ちください..."
+
+msgid "Switching to backup server..."
+msgstr "バックアップ サーバーに切り替えています..."
+
+msgid "Error loading video."
+msgstr "ビデオの読み込み中にエラーが発生しました。"
+
+msgid "Empty!"
+msgstr "空の！"
+
+msgid "All items removed successfully!"
+msgstr "すべてのアイテムが正常に削除されました。"
+
+msgid "Failed to remove items!"
+msgstr "アイテムの削除に失敗しました。"
+
+msgid "An error occurred while removing all items."
+msgstr "すべてのアイテムを削除中にエラーが発生しました。"
+
+msgid "Marked as resolved successfully!"
+msgstr "解決済みとしてマークされました。"
+
+msgid "Failed to mark as resolved!"
+msgstr "解決済みとしてマークできませんでした。"
+
+msgid "An error occurred while updating the status."
+msgstr "ステータスの更新中にエラーが発生しました。"
+
+msgid "Item removed successfully!"
+msgstr "アイテムは正常に削除されました。"
+
+msgid "Failed to remove item!"
+msgstr "アイテムの削除に失敗しました。"
+
+msgid "An error occurred while removing the item."
+msgstr "アイテムの削除中にエラーが発生しました。"
+
+msgid "Mark As Resolved"
+msgstr "解決済みとしてマーク"
+
+msgid "Remove"
+msgstr "取り除く"
+
+msgid "Prev"
+msgstr "前へ"
+
+msgid "Next"
+msgstr "次"
+
+msgid "Saved successfully!"
+msgstr "保存に成功しました!"
+
+msgid "Failed to save!"
+msgstr "保存に失敗しました!"
+
+msgid "An error occurred while saving the issues."
+msgstr "問題の保存中にエラーが発生しました。"
+
+msgid "Report an Issue"
+msgstr "問題を報告する"
+
+msgid "Send Report"
+msgstr "レポートを送信"
+
+msgid "Please select at least one issue."
+msgstr "少なくとも 1 つの問題を選択してください。"
+
+msgid "Report sent successfully!"
+msgstr "レポートは正常に送信されました。"
+
+msgid "Failed to send report!"
+msgstr "レポートの送信に失敗しました。"
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
+msgstr "お探しの動画が見つかりません。<br>所有者によって削除された、お住まいの国ではこのコンテンツが利用できないなど、いくつかの理由が考えられます。"
+
+msgid "Copyright infringement!"
+msgstr "著作権侵害です！"
+
+msgid "Choose Server"
+msgstr "サーバーを選択"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "このアイテムを削除してもよろしいですか?"
+
+msgid "Are you sure you want to delete %d selected items?"
+msgstr "選択した %d 個のアイテムを削除してもよろしいですか?"
+
+msgid "Updated successfully!"
+msgstr "更新に成功しました!"
+
+msgid "Deleted successfully!"
+msgstr "削除されました!"
+
+msgid "An error occurred: %s"
+msgstr "エラーが発生しました: %s"
+
+msgid "Please select at least one item"
+msgstr "少なくとも1つの項目を選択してください"
+
+msgid "Processing..."
+msgstr "処理..."
+
+msgid "Search:"
+msgstr "検索："
+
+msgid "Show _MENU_ entries"
+msgstr "_MENU_エントリを表示"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "合計 _TOTAL_ 件中 _START_～_END_ 件を表示しています"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0件中0件を表示"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(合計 _MAX_ 件のエントリからフィルタリング)"
+
+msgid "First"
+msgstr "初め"
+
+msgid "Last"
+msgstr "最後"
+
+msgid "Previous"
+msgstr "前の"
+

@@ -1,0 +1,1389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Thumbs"
+msgstr "अंगूठे"
+
+msgid "Details"
+msgstr "विवरण"
+
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+msgid "Date"
+msgstr "तारीख"
+
+msgid "Tags"
+msgstr "टैग"
+
+msgid "Last Update"
+msgstr "आखिरी अपडेट"
+
+msgid "views"
+msgstr "दृश्य"
+
+msgid "Custom CSS Code"
+msgstr "कस्टम CSS कोड"
+
+msgid "At the top, for custom CSS No need to add <strong>&lt;style></strong> tags"
+msgstr "शीर्ष पर, कस्टम CSS के लिए <strong><style></strong> टैग जोड़ने की आवश्यकता नहीं है"
+
+msgid "Custom JS Code at Footer"
+msgstr "पादलेख पर कस्टम JS कोड"
+
+msgid "At the bottom, for adding third-party analytics code, e.g. Google analytics, Baidu, CNZZ. Example: "
+msgstr "नीचे, तृतीय-पक्ष एनालिटिक्स कोड जोड़ने के लिए, जैसे कि Google analytics, Baidu, CNZZ. उदाहरण:"
+
+msgid "Site Logo"
+msgstr "साइट लोगो"
+
+msgid "Set the site logo (recommended to match the custom logo width and height)"
+msgstr "साइट लोगो सेट करें (कस्टम लोगो की चौड़ाई और ऊंचाई से मेल खाने के लिए अनुशंसित)"
+
+msgid "Site Favicon"
+msgstr "साइट फ़ेविकॉन"
+
+msgid "Open Main Links in New Tab"
+msgstr "मुख्य लिंक नए टैब में खोलें"
+
+msgid "Main links such as list/grid articles will open in a new tab."
+msgstr "मुख्य लिंक जैसे सूची/ग्रिड लेख एक नए टैब में खुलेंगे।"
+
+msgid "Site Comment Feature"
+msgstr "साइट टिप्पणी सुविधा"
+
+msgid "Control the site comment feature. Disable if not needed."
+msgstr "साइट टिप्पणी सुविधा को नियंत्रित करें। यदि आवश्यक न हो तो अक्षम करें।"
+
+msgid "Basic Settings"
+msgstr "मूल सेटिंग्स"
+
+msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
+msgstr "थीम एसईओ अनुकूलन सुविधाएँ:<br>1. वर्डप्रेस डिफ़ॉल्ट शीर्षक विभाजक के कस्टम प्रतिस्थापन का समर्थन करता है"
+
+msgid "Simplify Category Alias"
+msgstr "श्रेणी उपनाम को सरल बनाएं"
+
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "URL को सरल बनाने के लिए श्रेणी लिंक से \"category/\" उपसर्ग हटाएँ। SEO की निरंतरता के लिए डिफ़ॉल्ट वर्डप्रेस नियमों को बनाए रखने की अनुशंसा की जाती है।"
+
+msgid "Categories Display Style"
+msgstr "श्रेणियाँ प्रदर्शन शैली"
+
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "चुनें कि श्रेणियाँ फ़्रंटएंड पर कैसे प्रदर्शित हों। अपनी थीम डिज़ाइन से मेल खाने वाली शैली चुनें।"
+
+msgid "Enable Built-in SEO Features"
+msgstr "अंतर्निहित SEO सुविधाएँ सक्षम करें"
+
+msgid "Built-in SEO Settings"
+msgstr "अंतर्निहित SEO सेटिंग्स"
+
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "स्वचालित रूप से Google मानक SEO फ़ंक्शन बनाएँ"
+
+msgid "Site-wide Link Separator"
+msgstr "साइट-व्यापी लिंक विभाजक"
+
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "SEO शीर्षकों के लिए विभाजक सेट करें (उदाहरण के लिए, \"-\" या \"|\")। SEO की एकरूपता बनाए रखने के लिए सेटअप के बाद इसे बदलने से बचें।"
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "अंतर्निहित Yoast SEO कॉन्फ़िगरेशन सक्षम करें"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "सर्वोत्तम ऑन-पेज SEO के लिए Yoast SEO सेटिंग्स (शीर्षक, टैक्सोनॉमी, ब्रेडक्रम्ब्स) को स्वचालित रूप से कॉन्फ़िगर करें।"
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "अंतर्निहित रैंक मैथ एसईओ कॉन्फ़िगरेशन सक्षम करें"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "स्वचालित रूप से रैंक मैथ एसईओ सेटिंग्स कॉन्फ़िगर करें और गतिशील शीर्षक और मेटा विवरण के लिए कस्टम चर पंजीकृत करें।"
+
+msgid "Bing Webmaster Verification Code"
+msgstr "बिंग वेबमास्टर सत्यापन कोड"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "अपना Microsoft Bing सत्यापन कोड दर्ज करें."
+
+msgid "Yandex Verification Code"
+msgstr "यांडेक्स सत्यापन कोड"
+
+msgid "Enter your Yandex verification code."
+msgstr "अपना Yandex सत्यापन कोड दर्ज करें."
+
+msgid "Google Site Verification Code"
+msgstr "Google साइट सत्यापन कोड"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "अपना Google Search Console सत्यापन कोड दर्ज करें."
+
+msgid "Baidu Site Verification Code"
+msgstr "Baidu साइट सत्यापन कोड"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "अपना Baidu वेबमास्टर टूल्स सत्यापन कोड दर्ज करें."
+
+msgid "Site Keywords"
+msgstr "साइट कीवर्ड"
+
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "अपनी साइट से संबंधित 3-5 कीवर्ड अल्पविराम से अलग करके दर्ज करें (उदाहरण के लिए, मूवीज़, स्ट्रीमिंग, मनोरंजन)।"
+
+msgid "Site Description"
+msgstr "स्थल विवरण"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "खोज इंजन मेटा विवरण के लिए अपनी साइट का संक्षिप्त विवरण (अनुशंसित 50-160 अक्षर) दर्ज करें।"
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "एसईओ शीर्षक (फ़िल्म जानकारी पृष्ठ)"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "मूवी जानकारी पृष्ठ के लिए SEO शीर्षक को अनुकूलित करें। मूवी विवरण को गतिशील रूप से सम्मिलित करने के लिए प्लेसहोल्डर्स का उपयोग करें।"
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "उपलब्ध प्लेसहोल्डर: {title} = मूवी का शीर्षक, {slug} = एपिसोड स्लग, {quality} = मूवी की गुणवत्ता, {release} = रिलीज़ वर्ष, {alt_title} = मूल शीर्षक, {runtime} = अवधि, {country} = देश"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "एसईओ शीर्षक (मूवी देखें पृष्ठ)"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "मूवी देखने वाले पेज के लिए SEO शीर्षक को अनुकूलित करें। मूवी विवरण को गतिशील रूप से सम्मिलित करने के लिए प्लेसहोल्डर्स का उपयोग करें।"
+
+msgid "SEO Settings"
+msgstr "एसईओ सेटिंग्स"
+
+msgid "Taxonomy Custom"
+msgstr "वर्गीकरण कस्टम"
+
+msgid "Custom filter fields"
+msgstr "कस्टम फ़िल्टर फ़ील्ड"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "प्रविष्टियों को फ़िल्टर करने के लिए कौन से कस्टम फ़ील्ड प्रदर्शित करें"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "उन्नत कस्टम फ़िल्टर फ़ील्ड कॉन्फ़िगरेशन"
+
+msgid "Filter Name"
+msgstr "फ़िल्टर का नाम"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "उदाहरण के लिए: प्रारूप, रंग, आकार, आयाम, नाम को सेटिंग के बाद बीच में संशोधित किया जा सकता है"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "टैक्सोनॉमी फ़ील्ड विशिष्ट पहचानकर्ता"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "शुद्ध अंग्रेजी होना चाहिए, जैसे कि geshhi, yanse, szie, color, <b style=\"color:red;\">एक बार सेट हो जाने पर, यदि पहले से ही संबद्ध लेख चयनित हैं, तो इस पहचानकर्ता को बीच में संशोधित नहीं किया जा सकता है</b>"
+
+msgid "Option Type"
+msgstr "विकल्प प्रकार"
+
+msgid "Multiple Choice"
+msgstr "बहुविकल्पी"
+
+msgid "Dropdown Single Choice"
+msgstr "ड्रॉपडाउन एकल विकल्प"
+
+msgid "Single Choice"
+msgstr "एकल विकल्प"
+
+msgid "Option type when publishing articles in the background"
+msgstr "पृष्ठभूमि में लेख प्रकाशित करते समय विकल्प प्रकार"
+
+msgid "Popup"
+msgstr "पॉप अप"
+
+msgid "Top Archive"
+msgstr "शीर्ष पुरालेख"
+
+msgid "Bottom Archive"
+msgstr "निचला पुरालेख"
+
+msgid "Top Player"
+msgstr "बेहतरीन खिलाड़ी"
+
+msgid "Bottom Player"
+msgstr "सबसे निचला खिलाड़ी"
+
+msgid "Desktop Ad Code"
+msgstr "डेस्कटॉप विज्ञापन कोड"
+
+msgid "Mobile Ad Code"
+msgstr "मोबाइल विज्ञापन कोड"
+
+msgid "Ad Settings"
+msgstr "विज्ञापन सेटिंग्स"
+
+msgid "Enable Ads"
+msgstr "विज्ञापन सक्षम करें"
+
+msgid "Website Optimization"
+msgstr "वेबसाइट अनुकूलन"
+
+msgid "Use Gutenberg Editor"
+msgstr "गुटेनबर्ग संपादक का उपयोग करें"
+
+msgid "Use Gutenberg Widgets"
+msgstr "गुटेनबर्ग विजेट का उपयोग करें"
+
+msgid "Enable Menu Caching"
+msgstr "मेनू कैशिंग सक्षम करें"
+
+msgid "Enable to cache the site’s top menu to reduce SQL queries. Disable if using different menus across domains."
+msgstr "SQL क्वेरीज़ को कम करने के लिए साइट के शीर्ष मेनू को कैश करने की सुविधा सक्षम करें। यदि डोमेन में अलग-अलग मेनू का उपयोग कर रहे हैं तो इसे अक्षम करें।"
+
+msgid "Disable WP Content Texturization"
+msgstr "WP सामग्री टेक्सचराइजेशन अक्षम करें"
+
+msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
+msgstr "अक्षम करने से पोस्ट में बिना एस्केप के रॉ कोड फ़ॉर्मेटिंग की सुविधा मिलती है। कोड-आधारित सामग्री के लिए उपयोगी।"
+
+msgid "Remove Frontend Admin Bar"
+msgstr "फ्रंटएंड एडमिन बार हटाएँ"
+
+msgid "Remove WP Admin Top Logo Menu"
+msgstr "WP एडमिन टॉप लोगो मेनू हटाएँ"
+
+msgid "Remove WP Admin Footer Version Info"
+msgstr "WP एडमिन फ़ुटर संस्करण जानकारी हटाएँ"
+
+msgid "Remove WP Dashboard Menu"
+msgstr "WP डैशबोर्ड मेनू हटाएँ"
+
+msgid "Remove WP Emoji Plugin"
+msgstr "WP इमोजी प्लगइन हटाएँ"
+
+msgid "Greatly reduces JS and CSS usage."
+msgstr "JS और CSS के उपयोग को बहुत कम कर देता है।"
+
+msgid "Optimize Head Tags on Frontend"
+msgstr "फ्रंटएंड पर हेड टैग अनुकूलित करें"
+
+msgid "Simplify Image HTML Code"
+msgstr "छवि HTML कोड को सरल बनाएं"
+
+msgid "Removes unnecessary HTML attributes added by the default WP image editor."
+msgstr "डिफ़ॉल्ट WP छवि संपादक द्वारा जोड़े गए अनावश्यक HTML विशेषताओं को हटाता है।"
+
+msgid "Disable REST API"
+msgstr "REST API अक्षम करें"
+
+msgid "If you’re using mobile apps or similar, do not disable this."
+msgstr "यदि आप मोबाइल ऐप या इसी तरह का कोई उपकरण इस्तेमाल कर रहे हैं, तो इसे अक्षम न करें।"
+
+msgid "Disable XML-RPC (Pingback)"
+msgstr "XML-RPC अक्षम करें (पिंगबैक)"
+
+msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr "XML-RPC का उपयोग तृतीय-पक्ष क्लाइंट द्वारा किया जाता है। इसे अक्षम करने से ब्रूट-फोर्स हमलों को रोकने में मदद मिल सकती है।"
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "साइट-व्यापी खोज फ़ंक्शन अक्षम करें (सावधानी)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "अक्षम करने के बाद, साइट लेखों की खोज नहीं कर पाएगी। इससे ब्रूट फ़ोर्स हमलों और डेटाबेस ब्लॉकेज को प्रभावी ढंग से रोका जा सकता है।"
+
+msgid "Disable F12 Key, Debug tools in Browser"
+msgstr "ब्राउज़र में F12 कुंजी, डीबग टूल अक्षम करें"
+
+msgid "Disable F12 key, Debug tools in Browser"
+msgstr "ब्राउज़र में F12 कुंजी, डीबग टूल अक्षम करें"
+
+msgid "URL to redirect if debug tool is opened"
+msgstr "यदि डिबग टूल खोला गया है तो पुनर्निर्देशित करने के लिए URL"
+
+msgid "URL will redirect to after pressing F12 (Default is: https://buxt.net)"
+msgstr "F12 दबाने के बाद URL रीडायरेक्ट हो जाएगा (डिफ़ॉल्ट है: https://buxt.net)"
+
+msgid "Import Demo"
+msgstr "डेमो आयात करें"
+
+msgid "Create Page"
+msgstr "पेज बनाएँ"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह <a href=\"%s\" target=\"_blank\">पृष्ठ</a> बनाएँ."
+
+msgid "Create Menu"
+msgstr "मेनू बनाएँ"
+
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह एक <a href=\"%s\" target=\"_blank\">मेनू</a> बनाएँ."
+
+msgid "Create Widgets"
+msgstr "विजेट बनाएँ"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह <a href=\"%s\" target=\"_blank\">विजेट</a> बनाएं."
+
+msgid "Import Themes Demo"
+msgstr "थीम्स डेमो आयात करें"
+
+msgid "Import Theme Demo"
+msgstr "थीम डेमो आयात करें"
+
+msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह डेमो <a href=\"%s\" target=\"_blank\">सामग्री</a> आयात करें."
+
+msgid "Backup Settings"
+msgstr "बैकअप सेटिंग्स"
+
+msgid "This will only back up all theme option settings on this page. It does NOT back up WordPress data like posts. ⚠️ Note: The backup data saved here is in string format and has length validation. Do not manually modify the string to avoid corruption. If editing is needed, please import the data as-is and make changes through the input fields on the settings page."
+msgstr "यह केवल इस पृष्ठ पर सभी थीम विकल्प सेटिंग्स का बैकअप लेगा। यह पोस्ट जैसे वर्डप्रेस डेटा का बैकअप नहीं लेता है। ⚠️ नोट: यहाँ सहेजा गया बैकअप डेटा स्ट्रिंग फ़ॉर्मेट में है और इसकी लंबाई मान्य है। भ्रष्ट होने से बचने के लिए स्ट्रिंग को मैन्युअल रूप से संशोधित न करें। यदि संपादन आवश्यक हो, तो कृपया डेटा को यथावत आयात करें और सेटिंग्स पृष्ठ पर इनपुट फ़ील्ड के माध्यम से परिवर्तन करें।"
+
+msgid "Cache Manager"
+msgstr "कैश प्रबंधक"
+
+msgid "Total Cache"
+msgstr "कुल कैश"
+
+msgid "Cache Empty!"
+msgstr "कैश खाली!"
+
+msgid "Delete All Cache"
+msgstr "सभी कैश हटाएं"
+
+msgid "Are you sure you want to remove all cache?"
+msgstr "क्या आप वाकई सारा कैश हटाना चाहते हैं?"
+
+msgid "Please wait..."
+msgstr "कृपया प्रतीक्षा करें..."
+
+msgid "Error while deleting cache"
+msgstr "कैश हटाते समय त्रुटि"
+
+msgid "An unexpected error occurred"
+msgstr "एक अप्रत्याशित त्रुटि हुई"
+
+msgid "Theme License"
+msgstr "थीम लाइसेंस"
+
+msgid "No license activated. Please activate your license."
+msgstr "कोई लाइसेंस सक्रिय नहीं है। कृपया अपना लाइसेंस सक्रिय करें।"
+
+msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
+msgstr "अपनी रचना के लिए इस थीम का उपयोग करने के लिए धन्यवाद। कृपया पहले अपने ritheme.com उपयोगकर्ता केंद्र से अपना लाइसेंस आईडी और लाइसेंस कोड दर्ज करें, फिर सत्यापित करने के लिए सहेजें पर क्लिक करें।"
+
+msgid "Status"
+msgstr "स्थिति"
+
+msgid "License Key"
+msgstr "लाइसेंस कुंजी"
+
+msgid "License Email"
+msgstr "लाइसेंस ईमेल"
+
+msgid "Activation Date"
+msgstr "सक्रियण तिथि"
+
+msgid "Expiration Date"
+msgstr "समाप्ति तिथि"
+
+msgid "Lifetime License"
+msgstr "आजीवन अनुज्ञा"
+
+msgid "Activation Domain"
+msgstr "सक्रियण डोमेन"
+
+msgid "Update License"
+msgstr "लाइसेंस अपडेट करें"
+
+msgid "Deactivate License"
+msgstr "लाइसेंस निष्क्रिय करें"
+
+msgid "License Code"
+msgstr "अनुज्ञापत्र संहिता"
+
+msgid "Activate"
+msgstr "सक्रिय करें"
+
+msgid "Embed"
+msgstr "एम्बेड"
+
+msgid "Link"
+msgstr "जोड़ना"
+
+msgid "MP4"
+msgstr "एमपी4"
+
+msgid "Auto"
+msgstr "ऑटो"
+
+msgid "Iframe"
+msgstr "आईफ्रेम"
+
+msgid "Images"
+msgstr "इमेजिस"
+
+msgid "less than 1 second ago"
+msgstr "1 सेकंड से भी कम समय पहले"
+
+msgid "year ago"
+msgstr "साल पहले"
+
+msgid "month ago"
+msgstr "महीने पहले"
+
+msgid "day ago"
+msgstr "एक दिन पहले"
+
+msgid "hour ago"
+msgstr "घंटेभर पहले"
+
+msgid "minute ago"
+msgstr "एक मिनट पहले"
+
+msgid "second ago"
+msgstr "सेकंड पहले"
+
+msgid "years ago"
+msgstr "साल पहले"
+
+msgid "months ago"
+msgstr "महीने पहले"
+
+msgid "days ago"
+msgstr "दिन पहले"
+
+msgid "hours ago"
+msgstr "घंंटों पहले"
+
+msgid "minutes ago"
+msgstr "कुछ मिनट पहले"
+
+msgid "seconds ago"
+msgstr "कुछ सेकंड पहले"
+
+msgid "Broken Report"
+msgstr "टूटी हुई रिपोर्ट"
+
+msgid "Invalid REST nonce."
+msgstr "अमान्य REST नॉन्स."
+
+msgid "Issues configuration saved successfully."
+msgstr "समस्या कॉन्फ़िगरेशन सफलतापूर्वक सहेजा गया."
+
+msgid "Item removed successfully"
+msgstr "आइटम सफलतापूर्वक हटा दिया गया"
+
+msgid "Failed to remove item"
+msgstr "आइटम हटाने में विफल"
+
+msgid "All items removed successfully"
+msgstr "सभी आइटम सफलतापूर्वक हटा दिए गए"
+
+msgid "Failed to remove all items"
+msgstr "सभी आइटम हटाने में विफल"
+
+msgid "Status updated successfully"
+msgstr "स्थिति सफलतापूर्वक अपडेट की गई"
+
+msgid "Failed to update status"
+msgstr "स्थिति अपडेट करने में विफल"
+
+msgid "There are %d broken movies!"
+msgstr "%d टूटी हुई फिल्में हैं!"
+
+msgid "Go to Report"
+msgstr "रिपोर्ट पर जाएं"
+
+msgid "Broken Movie"
+msgstr "ब्रोकन मूवी"
+
+msgid "Delete All"
+msgstr "सभी हटा दो"
+
+msgid "Reporter"
+msgstr "रिपोर्टर"
+
+msgid "Issues"
+msgstr "समस्याएँ"
+
+msgid "Time"
+msgstr "समय"
+
+msgid "Action"
+msgstr "कार्रवाई"
+
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+msgid "Issues Configuration"
+msgstr "समस्याएँ कॉन्फ़िगरेशन"
+
+msgid "Save Changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+msgid "Separate categories with commas"
+msgstr "श्रेणियों को अल्पविराम से अलग करें"
+
+msgid "Add or remove categories"
+msgstr "श्रेणियाँ जोड़ें या हटाएँ"
+
+msgid "Choose from the most used categories"
+msgstr "सबसे अधिक उपयोग की जाने वाली श्रेणियों में से चुनें"
+
+msgid "Add Server"
+msgstr "सर्वर जोड़ें"
+
+msgid "Server #1"
+msgstr "सर्वर #1"
+
+msgid "Chapter #1"
+msgstr "अध्याय 1"
+
+msgid "Server"
+msgstr "सर्वर"
+
+msgid "Server Name"
+msgstr "सर्वर का नाम"
+
+msgid "Add New Chapter"
+msgstr "नया अध्याय जोड़ें"
+
+msgid "Import Chapters"
+msgstr "अध्याय आयात करें"
+
+msgid "Paste your chapter list in the format: Title|Chapter Number|URL"
+msgstr "अपनी अध्याय सूची इस प्रारूप में चिपकाएँ: शीर्षक|अध्याय संख्या|URL"
+
+msgid "Import"
+msgstr "आयात"
+
+msgid "Cancel"
+msgstr "रद्द करना"
+
+msgid "STT"
+msgstr "एसटीटी"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Type"
+msgstr "प्रकार"
+
+msgid "Index"
+msgstr "अनुक्रमणिका"
+
+msgid "Chapter Name"
+msgstr "अध्याय का नाम"
+
+msgid "Ex: https://example.com/chapter-1 (OR) image1*image2*..."
+msgstr "उदाहरण: https://example.com/chapter-1 (या) image1*image2*..."
+
+msgid "Meta Videos"
+msgstr "मेटा वीडियो"
+
+msgid "Completed"
+msgstr "पुरा होना।"
+
+msgid "Ongoing"
+msgstr "चल रहे"
+
+msgid "Upcoming"
+msgstr "आगामी"
+
+msgid "Manga"
+msgstr "मंगा"
+
+msgid "Oneshot"
+msgstr "एक शॉट"
+
+msgid "Manhua"
+msgstr "ManHua"
+
+msgid "Manhwa"
+msgstr "Manhwa"
+
+msgid "Doujinshi"
+msgstr "doujinshi"
+
+msgid "Thumbnail"
+msgstr "थंबनेल"
+
+msgid "Optional if a Featured Image has already been set."
+msgstr "यदि विशेष छवि पहले से ही सेट की गई है तो वैकल्पिक।"
+
+msgid "Poster"
+msgstr "पोस्टर"
+
+msgid "Displayed in vertical format. Optional if you want to use a different image from the Featured Image."
+msgstr "लंबवत प्रारूप में प्रदर्शित। यदि आप फ़ीचर्ड इमेज से भिन्न इमेज का उपयोग करना चाहते हैं तो यह वैकल्पिक है।"
+
+msgid "Alternative Title"
+msgstr "वैकल्पिक शीर्षक"
+
+msgid "Optional backup or translated title."
+msgstr "वैकल्पिक बैकअप या अनुवादित शीर्षक."
+
+msgid "Adult Content"
+msgstr "वयस्क सामग्री"
+
+msgid "Enable if this manga contains 18+ content."
+msgstr "यदि इस मंगा में 18+ सामग्री है तो सक्षम करें।"
+
+msgid "Schedule"
+msgstr "अनुसूची"
+
+msgid "Enable if this manga has a release schedule."
+msgstr "यदि इस मंगा का कोई रिलीज़ शेड्यूल है तो उसे सक्षम करें."
+
+msgid "Release Days"
+msgstr "रिलीज़ के दिन"
+
+msgid "Select the days this manga is usually updated."
+msgstr "इस मंगा को आमतौर पर अपडेट करने के लिए दिन का चयन करें।"
+
+msgid "Monday"
+msgstr "सोमवार"
+
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+msgid "Wednesday"
+msgstr "बुधवार"
+
+msgid "Thursday"
+msgstr "गुरुवार"
+
+msgid "Friday"
+msgstr "शुक्रवार"
+
+msgid "Saturday"
+msgstr "शनिवार"
+
+msgid "Sunday"
+msgstr "रविवार"
+
+msgid "Release Time"
+msgstr "जारी करने का समय"
+
+msgid "Optional — Time of day when the manga is usually released."
+msgstr "वैकल्पिक - दिन का वह समय जब मंगा आमतौर पर जारी किया जाता है।"
+
+msgid "Enable Message"
+msgstr "संदेश सक्षम करें"
+
+msgid "Turn on to display a custom message on the manga page."
+msgstr "मंगा पृष्ठ पर कस्टम संदेश प्रदर्शित करने के लिए चालू करें।"
+
+msgid "Message Content"
+msgstr "संदेश की सामग्री"
+
+msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
+msgstr "दिखाने के लिए संदेश दर्ज करें (जैसे, रिलीज़ समय, अपडेट स्थिति)। अगर इस्तेमाल न किया गया हो तो खाली छोड़ दें।"
+
+msgid "Fetch Manga Info"
+msgstr "मंगा जानकारी प्राप्त करें"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "डेटा को स्वचालित रूप से भरने के लिए एक स्रोत का चयन करें और URL दर्ज करें।"
+
+msgid "Fetch"
+msgstr "लाना"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "कृपया otruyenapi.com से एक मान्य URL दर्ज करें।"
+
+msgid "Fetching..."
+msgstr "लाया जा रहा है..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "डेटा सफलतापूर्वक प्राप्त और भरा गया!"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "डेटा प्राप्त करने में विफल या प्रतिक्रिया प्रारूप अमान्य."
+
+msgid "An error occurred during the request: "
+msgstr "अनुरोध के दौरान एक त्रुटि हुई:"
+
+msgid "Fetching from AniList..."
+msgstr "AniList से प्राप्त किया जा रहा है..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "AniList से सफलतापूर्वक प्राप्त और भरा गया!"
+
+msgid "AniList: No data found."
+msgstr "AniList: कोई डेटा नहीं मिला."
+
+msgid "Please enter a valid URL or ID."
+msgstr "कृपया एक मान्य URL या ID दर्ज करें."
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "स्रोत का पता नहीं चल सका। कृपया Otruyen, MyAnimeList, या AniList के लिए एक मान्य URL या ID दर्ज करें।"
+
+msgid "Custom Fields"
+msgstr "तटकर क्षेत्र"
+
+msgid "SEO"
+msgstr "एसईओ"
+
+msgid "Custom SEO Title"
+msgstr "कस्टम एसईओ शीर्षक"
+
+msgid "Leave blank to set nothing"
+msgstr "कुछ भी सेट न करने के लिए खाली छोड़ दें"
+
+msgid "Custom SEO Keywords"
+msgstr "कस्टम एसईओ कीवर्ड"
+
+msgid "Keywords are separated by commas, leave blank to set nothing"
+msgstr "कीवर्ड अल्पविराम से अलग किए गए हैं, कुछ भी सेट न करने के लिए खाली छोड़ दें"
+
+msgid "Custom SEO Description"
+msgstr "कस्टम एसईओ विवरण"
+
+msgid "BXManager"
+msgstr "बीएक्समैनेजर"
+
+msgid "Views Day"
+msgstr "दृश्य दिवस"
+
+msgid "Views Week"
+msgstr "दृश्य सप्ताह"
+
+msgid "Views Month"
+msgstr "दृश्य महीना"
+
+msgid "Views All"
+msgstr "सभी दृश्य"
+
+msgid "Player & ADS"
+msgstr "प्लेयर और विज्ञापन"
+
+msgid "Player Size"
+msgstr "खिलाड़ी का आकार"
+
+msgid "JWPlayer error detect"
+msgstr "JWPlayer त्रुटि का पता चला"
+
+msgid "If the player cannot play the video, it will automatically switch to another server."
+msgstr "यदि प्लेयर वीडियो नहीं चला पाता है, तो वह स्वचालित रूप से दूसरे सर्वर पर चला जाएगा।"
+
+msgid "Show Modal Popup"
+msgstr "मॉडल पॉपअप दिखाएँ"
+
+msgid "Auto Play Alternative Server"
+msgstr "ऑटो प्ले वैकल्पिक सर्वर"
+
+msgid "Enable Auto Report"
+msgstr "ऑटो रिपोर्ट सक्षम करें"
+
+msgid "Enable to automatically report the episode when the user clicks on the report button."
+msgstr "जब उपयोगकर्ता रिपोर्ट बटन पर क्लिक करता है तो प्रकरण की स्वचालित रूप से रिपोर्ट करने की सुविधा सक्षम करें।"
+
+msgid "Show Ads Vast"
+msgstr "विज्ञापन दिखाएं विशाल"
+
+msgid "VAST Configuration"
+msgstr "VAST कॉन्फ़िगरेशन"
+
+msgid "Configure VAST settings for the player"
+msgstr "प्लेयर के लिए VAST सेटिंग्स कॉन्फ़िगर करें"
+
+msgid "VAST File"
+msgstr "VAST फ़ाइल"
+
+msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
+msgstr "विज्ञापनों के लिए इस्तेमाल की जाने वाली VAST फ़ाइल का URL. अगर आप JWPlayer विज्ञापन सक्षम करते हैं, तो यह ज़रूरी है."
+
+msgid "Ads Message"
+msgstr "विज्ञापन संदेश"
+
+msgid "Ex: XX seconds left in ad. XX cannot be changed"
+msgstr "उदाहरण: विज्ञापन में XX सेकंड बचे हैं। XX को बदला नहीं जा सकता"
+
+msgid "XX seconds left in ad"
+msgstr "विज्ञापन में XX सेकंड बचे हैं"
+
+msgid "Skip Offset"
+msgstr "ऑफसेट छोड़ें"
+
+msgid "The number of seconds before the skip button appears. Default is 5 seconds."
+msgstr "स्किप बटन दिखाई देने से पहले सेकंड की संख्या। डिफ़ॉल्ट 5 सेकंड है।"
+
+msgid "Skip Text"
+msgstr "पाठ छोड़ें"
+
+msgid "The text to display on the skip button. Default is \"Skip Ad\"."
+msgstr "स्किप बटन पर प्रदर्शित होने वाला पाठ। डिफ़ॉल्ट \"स्किप विज्ञापन\" है।"
+
+msgid "Skip Ad"
+msgstr "विज्ञापन को छोड़ें"
+
+msgid "Skip Message"
+msgstr "संदेश छोड़ें"
+
+msgid "The message to display when the skip button appears. Default is \"Skip after xxs seconds\"."
+msgstr "स्किप बटन दिखाई देने पर प्रदर्शित होने वाला संदेश। डिफ़ॉल्ट \"xxs सेकंड के बाद स्किप करें\" है।"
+
+msgid "Skip after xxs seconds"
+msgstr "xxs सेकंड के बाद छोड़ें"
+
+msgid "Show Logo Player"
+msgstr "लोगो प्लेयर दिखाएँ"
+
+msgid "Logo Player Configuration"
+msgstr "लोगो प्लेयर कॉन्फ़िगरेशन"
+
+msgid "Show logo on both JWPlayer and embedded iframe player"
+msgstr "JWPlayer और एम्बेडेड iframe प्लेयर दोनों पर लोगो दिखाएँ"
+
+msgid "Logo File"
+msgstr "लोगो फ़ाइल"
+
+msgid "The URL of an external JPG, PNG or GIF image to be used as watermark (e.g. /assets/logo.png). We recommend using 24 bit PNG images with transparency"
+msgstr "वॉटरमार्क के रूप में उपयोग की जाने वाली किसी बाहरी JPG, PNG या GIF छवि का URL (उदाहरण: /assets/logo.png)। हम पारदर्शिता वाली 24-बिट PNG छवियों का उपयोग करने की सलाह देते हैं।"
+
+msgid "Logo link"
+msgstr "लोगो लिंक"
+
+msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
+msgstr "वॉटरमार्क इमेज पर क्लिक करने पर जाने वाला URL। किसी लोगो पर क्लिक करने से कोई प्रभाव नहीं पड़ेगा जब तक कि इसे कॉन्फ़िगर न किया गया हो"
+
+msgid "Logo Position"
+msgstr "लोगो की स्थिति"
+
+msgid "Top left"
+msgstr "बाएं से बाएं"
+
+msgid "Top right"
+msgstr "ठीक तरह से ऊपर"
+
+msgid "Bottom left"
+msgstr "तली छोड़ें"
+
+msgid "Bottom right"
+msgstr "नीचे दाएं"
+
+msgid "Control bar (JWPlayer only)"
+msgstr "नियंत्रण पट्टी (केवल JWPlayer)"
+
+msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
+msgstr "यह वॉटरमार्क प्रदर्शित करने के लिए कोने को निर्धारित करता है। \"कंट्रोल-बार\" विकल्प केवल JWPlayer में समर्थित है और यह कंट्रोल बार में बटनों के दाएँ समूह में सबसे बाएँ आइकन के रूप में लोगो जोड़ता है।"
+
+msgid "Auto hide logo (JWPlayer only)"
+msgstr "लोगो को स्वचालित रूप से छिपाएँ (केवल JWPlayer)"
+
+msgid "This setting only applies to JWPlayer: Auto hide the logo when the mouse is not over the player."
+msgstr "यह सेटिंग केवल JWPlayer पर लागू होती है: जब माउस प्लेयर के ऊपर न हो तो लोगो को स्वचालित रूप से छिपाएँ।"
+
+msgid "Show Ads & Banner"
+msgstr "विज्ञापन और बैनर दिखाएँ"
+
+msgid "Custom Ads Position"
+msgstr "कस्टम विज्ञापन स्थिति"
+
+msgid "Ads Configuration"
+msgstr "विज्ञापन कॉन्फ़िगरेशन"
+
+msgid "You can add ads code for desktop and mobile devices"
+msgstr "आप डेस्कटॉप और मोबाइल डिवाइस के लिए विज्ञापन कोड जोड़ सकते हैं"
+
+msgid "ADS Desktop"
+msgstr "एडीएस डेस्कटॉप"
+
+msgid "Popup Ads Code Desktop"
+msgstr "पॉपअप विज्ञापन कोड डेस्कटॉप"
+
+msgid "Header Ads Code Desktop"
+msgstr "हेडर विज्ञापन कोड डेस्कटॉप"
+
+msgid "Footer Ads Code Desktop"
+msgstr "फ़ुटर विज्ञापन कोड डेस्कटॉप"
+
+msgid "Top Player Ads Code Desktop"
+msgstr "शीर्ष खिलाड़ी विज्ञापन कोड डेस्कटॉप"
+
+msgid "Under Player Ads Desktop"
+msgstr "प्लेयर विज्ञापन डेस्कटॉप के अंतर्गत"
+
+msgid "ADS Mobile"
+msgstr "एडीएस मोबाइल"
+
+msgid "Header Ads Code Mobile"
+msgstr "हेडर विज्ञापन कोड मोबाइल"
+
+msgid "Footer Ads Code Mobile"
+msgstr "फ़ुटर विज्ञापन कोड मोबाइल"
+
+msgid "Top Player Ads Code Mobile"
+msgstr "शीर्ष खिलाड़ी विज्ञापन कोड मोबाइल"
+
+msgid "Under Player Ads Mobile"
+msgstr "प्लेयर विज्ञापन मोबाइल के अंतर्गत"
+
+msgid "Resume Playback"
+msgstr "प्लेबैक वापस चालू करें"
+
+msgid "Use localStorage to remember where the user left off and resume playback at the same time offset when revisiting the page."
+msgstr "localStorage का उपयोग यह याद रखने के लिए करें कि उपयोगकर्ता ने कहां छोड़ा था और पृष्ठ पर पुनः आने पर उसी समय ऑफसेट पर प्लेबैक पुनः आरंभ करें।"
+
+msgid "Cache Player"
+msgstr "कैश प्लेयर"
+
+msgid "Enable cache link"
+msgstr "कैश लिंक सक्षम करें"
+
+msgid "Cache Configuration"
+msgstr "कैश कॉन्फ़िगरेशन"
+
+msgid "Auto reset cache"
+msgstr "स्वचालित रीसेट कैश"
+
+msgid "Automatically clear the cache if the player error"
+msgstr "प्लेयर त्रुटि होने पर कैश को स्वचालित रूप से साफ़ करें"
+
+msgid "Cache time"
+msgstr "कैश समय"
+
+msgid "Cache expired time. (seconds)"
+msgstr "कैश समाप्ति समय. (सेकंड)"
+
+msgid "Custom JWPlayer"
+msgstr "कस्टम JWPlayer"
+
+msgid "JWPlayer Configuration"
+msgstr "JWPlayer कॉन्फ़िगरेशन"
+
+msgid "Autostart"
+msgstr "ऑटो स्टार्ट"
+
+msgid "Auto Pause Player"
+msgstr "ऑटो पॉज़ प्लेयर"
+
+msgid "Automatically pauses the player based on certain rules"
+msgstr "कुछ नियमों के आधार पर प्लेयर को स्वचालित रूप से रोक देता है"
+
+msgid "Share Button"
+msgstr "शेयर बटन"
+
+msgid "Jwplayer License key"
+msgstr "Jwplayer लाइसेंस कुंजी"
+
+msgid "A license key is required for the Pro, Premium and Ads edition."
+msgstr "प्रो, प्रीमियम और विज्ञापन संस्करण के लिए लाइसेंस कुंजी आवश्यक है।"
+
+msgid "Floating Player"
+msgstr "फ्लोटिंग प्लेयर"
+
+msgid "Default poster image"
+msgstr "डिफ़ॉल्ट पोस्टर छवि"
+
+msgid "Default Subtitle"
+msgstr "डिफ़ॉल्ट उपशीर्षक"
+
+msgid "Add the url of the file subtitle.srt, .vtt or using the Upload button."
+msgstr "फ़ाइल का यूआरएल subtitle.srt, .vtt या अपलोड बटन का उपयोग करके जोड़ें।"
+
+msgid "Select a method to read subtitles"
+msgstr "उपशीर्षक पढ़ने के लिए एक विधि चुनें"
+
+msgid "Direct link"
+msgstr "सीदा संबद्ध"
+
+msgid "Use readsub.php"
+msgstr "readsub.php का उपयोग करें"
+
+msgid "Subtitle color"
+msgstr "उपशीर्षक रंग"
+
+msgid "Subtitle font size"
+msgstr "उपशीर्षक फ़ॉन्ट आकार"
+
+msgid "About text"
+msgstr "पाठ के बारे में"
+
+msgid "Custom text to display in the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "राइट-क्लिक मेनू में प्रदर्शित करने के लिए कस्टम टेक्स्ट। केवल प्रीमियम और विज्ञापन संस्करणों के लिए सेट किया जा सकता है"
+
+msgid "About link"
+msgstr "लिंक के बारे में"
+
+msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "राइट-क्लिक मेनू पर क्लिक करने पर लिंक करने के लिए कस्टम URL. केवल प्रीमियम और विज्ञापन संस्करणों के लिए सेट किया जा सकता है"
+
+msgid "Detect AdBlocker"
+msgstr "AdBlocker का पता लगाएं"
+
+msgid "Auto detects ad blockers and displays a notification to users"
+msgstr "विज्ञापन अवरोधकों का स्वतः पता लगाता है और उपयोगकर्ताओं को सूचना प्रदर्शित करता है"
+
+msgid "Adblock Notices"
+msgstr "एडब्लॉक नोटिस"
+
+msgid "Please disable AdBlock to continue watching."
+msgstr "कृपया देखना जारी रखने के लिए AdBlock अक्षम करें."
+
+msgid "Ex: \"Users please remove ad blocker!\""
+msgstr "उदाहरण: \"उपयोगकर्ता कृपया विज्ञापन अवरोधक हटाएँ!\""
+
+msgid "Search"
+msgstr "खोज"
+
+msgid "All"
+msgstr "सभी"
+
+msgid "View"
+msgstr "देखना"
+
+msgid "Edit"
+msgstr "संपादन करना"
+
+msgid "Update"
+msgstr "अद्यतन"
+
+msgid "Add New "
+msgstr "नया जोड़ो "
+
+msgid "New"
+msgstr "नया"
+
+msgid "Add New Episode"
+msgstr "नया एपिसोड जोड़ें"
+
+msgid "Slug"
+msgstr "काउंटर"
+
+msgid "Add Subtitle"
+msgstr "उपशीर्षक जोड़ें"
+
+msgid "Label"
+msgstr "लेबल"
+
+msgid "File"
+msgstr "फ़ाइल"
+
+msgid "Movie Details"
+msgstr "फिल्म विवरण"
+
+msgid "TMDB ID"
+msgstr "टीएमडीबी आईडी"
+
+msgid "Enter the TMDB ID for this movie."
+msgstr "इस मूवी के लिए TMDB आईडी दर्ज करें."
+
+msgid "IMDB ID"
+msgstr "आईएमडीबी आईडी"
+
+msgid "Enter the IMDB ID for this movie."
+msgstr "इस मूवी के लिए IMDB ID दर्ज करें."
+
+msgid "Runtime"
+msgstr "क्रम"
+
+msgid "Enter the runtime of the movie."
+msgstr "फिल्म का रनटाइम दर्ज करें."
+
+msgid "Episodes"
+msgstr "एपिसोड"
+
+msgid "Enter the episode number of the movie."
+msgstr "फिल्म का एपिसोड नंबर दर्ज करें।"
+
+msgid "Total Episodes"
+msgstr "कुल एपिसोड"
+
+msgid "Enter the total number of episodes for the movie."
+msgstr "फिल्म के कुल एपिसोड की संख्या दर्ज करें।"
+
+msgid "Quality"
+msgstr "गुणवत्ता"
+
+msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
+msgstr "मूवी की गुणवत्ता दर्ज करें (उदाहरण के लिए, 1080p, 720p)."
+
+msgid "Single Movies"
+msgstr "एकल फिल्में"
+
+msgid "TV Series"
+msgstr "टीवी श्रृंखला"
+
+msgid "TV Shows"
+msgstr "टीवी शो"
+
+msgid "Theater Movie"
+msgstr "थिएटर मूवी"
+
+msgid "Cartoon"
+msgstr "कार्टून"
+
+msgid "Trailer"
+msgstr "ट्रेलर"
+
+msgid "OnGoing"
+msgstr "चल रहे"
+
+msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
+msgstr "यदि कोई विशेष छवि पहले से सेट की गई है, तो यह वैकल्पिक है। केवल .png, .jpg, .jpeg प्रारूपों में ही छवि की अनुमति है।"
+
+msgid "Trailer Links"
+msgstr "ट्रेलर लिंक"
+
+msgid "Upload or Paste Trailer Links"
+msgstr "ट्रेलर लिंक अपलोड या पेस्ट करें"
+
+msgid "Schedule Content"
+msgstr "शेड्यूल सामग्री"
+
+msgid "Enable if this movie has a release schedule."
+msgstr "यदि इस मूवी का रिलीज़ शेड्यूल है तो सक्षम करें."
+
+msgid "Schedule Day"
+msgstr "अनुसूची दिवस"
+
+msgid "Select the day of the week for the movie release schedule."
+msgstr "मूवी रिलीज़ शेड्यूल के लिए सप्ताह का दिन चुनें।"
+
+msgid "Enable Related Movies"
+msgstr "संबंधित फ़िल्में सक्षम करें"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "इस पोस्ट के लिए संबंधित फ़िल्मों या सीज़न के प्रदर्शन को सक्षम या अक्षम करें। सक्षम होने पर, आप नीचे संबंधित पोस्ट मैन्युअल रूप से चुन सकते हैं, या सिस्टम शीर्षक के आधार पर संबंधित पोस्ट स्वचालित रूप से ढूंढ लेगा (उदाहरण के लिए, \"ब्लड डेमन कैओस - सीज़न 1\" जैसे सीज़न से मेल खाते हुए)। संबंधित सामग्री छिपाने के लिए इसे अक्षम करें।"
+
+msgid "Select Post"
+msgstr "पोस्ट चुनें"
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "इस पोस्ट से संबंधित कोई फ़िल्म या सीज़न चुनें। शीर्षक के आधार पर पोस्ट खोजने के लिए खोज का उपयोग करें, और ज़रूरत पड़ने पर उन्हें पुनर्व्यवस्थित करने के लिए खींचें। चयनित पोस्ट फ़्रंटएंड पर संबंधित सामग्री के रूप में प्रदर्शित होंगी।"
+
+msgid "Custom Title"
+msgstr "कस्टम शीर्षक"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "चयनित पोस्ट के लिए एक कस्टम शीर्षक दर्ज करें जिसे फ्रंटएंड पर प्रदर्शित किया जा सके। यदि इसे खाली छोड़ दिया जाता है, तो मूल पोस्ट का शीर्षक स्वचालित रूप से उपयोग किया जाएगा। यदि आवश्यक हो, तो इसका उपयोग छोटा या अधिक वर्णनात्मक शीर्षक प्रदान करने के लिए करें।"
+
+msgid "Movies Settings"
+msgstr "मूवी सेटिंग्स"
+
+msgid "Add Video"
+msgstr "वीडियो जोड़ें"
+
+msgid "Add New Video"
+msgstr "नया वीडियो जोड़ें"
+
+msgid "Enter video name"
+msgstr "वीडियो का नाम दर्ज करें"
+
+msgid "Enter video link"
+msgstr "वीडियो लिंक दर्ज करें"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "Version"
+msgstr "संस्करण"
+
+msgid "Active Theme"
+msgstr "सक्रिय थीम"
+
+msgid "Data is being imported please be patient..."
+msgstr "डेटा आयात किया जा रहा है कृपया धैर्य रखें..."
+
+msgid "An error occurred"
+msgstr "एक त्रुटि पाई गई"
+
+msgid "Have fun!"
+msgstr "मस्ती करो!"
+
+msgid "Close"
+msgstr "बंद करना"
+
+msgid "List Episode"
+msgstr "सूची एपिसोड"
+
+msgid "Content"
+msgstr "सामग्री"
+
+msgid "Are you sure you want to delete this server?"
+msgstr "क्या आप वाकई इस सर्वर को हटाना चाहते हैं?"
+
+msgid "Are you sure you want to delete this episode?"
+msgstr "क्या आप वाकई इस एपिसोड को हटाना चाहते हैं?"
+
+msgid "Are you sure you want to delete this video?"
+msgstr "क्या आप वाकई इस वीडियो को हटाना चाहते हैं?"
+
+msgid "Are you sure you want to delete this chapter?"
+msgstr "क्या आप वाकई इस अध्याय को हटाना चाहते हैं?"
+
+msgid "This video file cannot be played"
+msgstr "यह वीडियो फ़ाइल नहीं चलाई जा सकती"
+
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "हमें वह वीडियो नहीं मिल रहा है जिसे आप ढूंढ रहे हैं। इसके कई कारण हो सकते हैं, जैसे कि इसे मालिक ने हटा दिया हो!"
+
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "देखना जारी रखने के लिए, कृपया \"रीलोड प्लेयर\" बटन पर क्लिक करें"
+
+msgid "or click on the buttons below"
+msgstr "या नीचे दिए गए बटनों पर क्लिक करें"
+
+msgid "Reload Player"
+msgstr "प्लेयर पुनः लोड करें"
+
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "क्या आप सहेजे गए स्थान से देखना जारी रखना चाहते हैं या शुरुआत से शुरू करना चाहते हैं?"
+
+msgid "Continue watching"
+msgstr "देखना जारी रखें"
+
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "आपके वीडियो को स्वचालित रूप से वहीं से पुनः प्रारंभ करता है जहां आपने उन्हें अंतिम बार चलाया था"
+
+msgid "Playback"
+msgstr "प्लेबैक"
+
+msgid "Loading, please wait..."
+msgstr "लोड हो रहा है कृपया प्रतीक्षा करें..."
+
+msgid "Switching to backup server..."
+msgstr "बैकअप सर्वर पर स्विच किया जा रहा है..."
+
+msgid "Error loading video."
+msgstr "वीडियो लोड करने में त्रुटि."
+
+msgid "Empty!"
+msgstr "खाली!"
+
+msgid "All items removed successfully!"
+msgstr "सभी आइटम सफलतापूर्वक हटा दिए गए!"
+
+msgid "Failed to remove items!"
+msgstr "आइटम हटाने में विफल!"
+
+msgid "An error occurred while removing all items."
+msgstr "सभी आइटम हटाते समय एक त्रुटि हुई."
+
+msgid "Marked as resolved successfully!"
+msgstr "सफलतापूर्वक हल किया गया चिह्नित!"
+
+msgid "Failed to mark as resolved!"
+msgstr "हल हो गया के रूप में चिह्नित करने में विफल!"
+
+msgid "An error occurred while updating the status."
+msgstr "स्थिति अद्यतन करते समय एक त्रुटि हुई."
+
+msgid "Item removed successfully!"
+msgstr "आइटम सफलतापूर्वक हटा दिया गया!"
+
+msgid "Failed to remove item!"
+msgstr "आइटम हटाने में विफल!"
+
+msgid "An error occurred while removing the item."
+msgstr "आइटम हटाते समय एक त्रुटि हुई."
+
+msgid "Mark As Resolved"
+msgstr "सही के रूप में चिन्हित करो"
+
+msgid "Remove"
+msgstr "निकालना"
+
+msgid "Prev"
+msgstr "पिछला"
+
+msgid "Next"
+msgstr "अगला"
+
+msgid "Saved successfully!"
+msgstr "सफलतापूर्वक बचाया!"
+
+msgid "Failed to save!"
+msgstr "सहेजने में विफल!"
+
+msgid "An error occurred while saving the issues."
+msgstr "मुद्दों को सहेजते समय एक त्रुटि हुई."
+
+msgid "Report an Issue"
+msgstr "समस्या की रिपोर्ट करें"
+
+msgid "Send Report"
+msgstr "रिपोर्ट भेजना"
+
+msgid "Please select at least one issue."
+msgstr "कृपया कम से कम एक मुद्दा चुनें."
+
+msgid "Report sent successfully!"
+msgstr "रिपोर्ट सफलतापूर्वक भेजी गई!"
+
+msgid "Failed to send report!"
+msgstr "रिपोर्ट भेजने में विफल!"
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
+msgstr "हम वह वीडियो नहीं ढूंढ पा रहे हैं जिसे आप ढूंढ रहे हैं।<br>इसके कई कारण हो सकते हैं, उदाहरण के लिए इसे स्वामी द्वारा हटा दिया गया है या यह सामग्री आपके देश में उपलब्ध नहीं है!"
+
+msgid "Copyright infringement!"
+msgstr "सर्वाधिकार उल्लंघन!"
+
+msgid "Choose Server"
+msgstr "सर्वर चुनें"
+
+msgid "Save"
+msgstr "बचाना"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "क्या आप सुनिश्चित रूप से इस आइटम को मिटाना चाहते हैं?"
+
+msgid "Are you sure you want to delete %d selected items?"
+msgstr "क्या आप वाकई %d चयनित आइटम हटाना चाहते हैं?"
+
+msgid "Updated successfully!"
+msgstr "सफलतापूर्वक अपडेट किया गया!"
+
+msgid "Deleted successfully!"
+msgstr "सफलतापूर्वक मिटाया गया!"
+
+msgid "An error occurred: %s"
+msgstr "एक त्रुटि हुई: %s"
+
+msgid "Please select at least one item"
+msgstr "कृपया कम से कम एक आइटम चुनें"
+
+msgid "Processing..."
+msgstr "प्रसंस्करण..."
+
+msgid "Search:"
+msgstr "खोज:"
+
+msgid "Show _MENU_ entries"
+msgstr "_MENU_ प्रविष्टियाँ दिखाएँ"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "_कुल_ प्रविष्टियों में से _START_ से _END_ तक दिखाया जा रहा है"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "0 से 0 में से 0 प्रविष्टियाँ दिखाई जा रही हैं"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(_MAX_ कुल प्रविष्टियों से फ़िल्टर किया गया)"
+
+msgid "First"
+msgstr "पहला"
+
+msgid "Last"
+msgstr "अंतिम"
+
+msgid "Previous"
+msgstr "पहले का"
+

@@ -1,1 +1,229 @@
-var _0x219be4=_0x3751;(function(_0x22c6eb,_0x9e317f){var _0x5d7acc=_0x3751,_0x4e347f=_0x22c6eb();while(!![]){try{var _0x3fb043=parseInt(_0x5d7acc(0x22a))/0x1+-parseInt(_0x5d7acc(0x204))/0x2*(parseInt(_0x5d7acc(0x254))/0x3)+parseInt(_0x5d7acc(0x250))/0x4+parseInt(_0x5d7acc(0x22c))/0x5*(parseInt(_0x5d7acc(0x24d))/0x6)+parseInt(_0x5d7acc(0x232))/0x7*(-parseInt(_0x5d7acc(0x22d))/0x8)+parseInt(_0x5d7acc(0x258))/0x9+-parseInt(_0x5d7acc(0x1f0))/0xa*(parseInt(_0x5d7acc(0x22e))/0xb);if(_0x3fb043===_0x9e317f)break;else _0x4e347f['push'](_0x4e347f['shift']());}catch(_0x39af36){_0x4e347f['push'](_0x4e347f['shift']());}}}(_0x3daa,0x8523d));var $=jQuery['noConflict']();window[_0x219be4(0x21f)]=function(_0x59d231){var _0x59b0c7=_0x219be4;return bx_license[_0x59b0c7(0x1f2)][_0x59d231]||_0x59d231;},$(document)[_0x219be4(0x230)](function(){var _0x1fe36e=_0x219be4;$(_0x1fe36e(0x213))[_0x1fe36e(0x261)](function(){var _0x5d255d=_0x1fe36e,_0x11382b=$(this)[_0x5d255d(0x234)]('id'),_0x49894c=$(this);$(_0x11382b)['toggle'](function(){var _0x550766=_0x5d255d;$(this)[_0x550766(0x243)](_0x550766(0x221))==_0x550766(0x25f)?_0x49894c[_0x550766(0x220)](_0x550766(0x252)+_0x49894c[_0x550766(0x1f8)]()):_0x49894c['html'](_0x550766(0x219)+_0x49894c[_0x550766(0x1f8)]()),$(_0x550766(0x223))[_0x550766(0x201)]({'scrollTop':$(_0x11382b)[_0x550766(0x1f9)]()[_0x550766(0x200)]-0x64},0x1f4);});}),$(_0x1fe36e(0x23c))[_0x1fe36e(0x261)](()=>{var _0x12a099=_0x1fe36e;$(_0x12a099(0x23c))[_0x12a099(0x1f8)](_0x12a099(0x1f6));var _0x215e09=$(_0x12a099(0x23c))['data'](_0x12a099(0x209));$['ajax']({'type':_0x12a099(0x217),'url':bx_license['ajax_url'],'dataType':_0x12a099(0x202),'data':{'action':_0x215e09},'success':_0x5d8388=>{var _0x37a92a=_0x12a099;console['log'](_0x5d8388),$(_0x37a92a(0x23c))['text'](_0x37a92a(0x236)),_0x5d8388[_0x37a92a(0x25e)]?$('.license-msg')[_0x37a92a(0x22f)]()[_0x37a92a(0x1f8)](_0x5d8388[_0x37a92a(0x25e)])['css']('color',_0x37a92a(0x256)):$('.license-msg')['show']()['text'](_0x37a92a(0x23a))[_0x37a92a(0x243)](_0x37a92a(0x20e),_0x37a92a(0x222)),setTimeout(()=>{var _0x4ba7a2=_0x37a92a;window[_0x4ba7a2(0x1fc)][_0x4ba7a2(0x238)]();},0x5dc);}});}),$(_0x1fe36e(0x225))[_0x1fe36e(0x261)](()=>{var _0x51babf=_0x1fe36e,_0x5eb8ba=$(_0x51babf(0x21e))[_0x51babf(0x241)](),_0x24a20a=$(_0x51babf(0x225))[_0x51babf(0x231)]('action');if(!_0x5eb8ba){alert('Please\x20enter\x20license\x20code');return;}$(_0x51babf(0x225))[_0x51babf(0x1f8)](_0x51babf(0x208)),$[_0x51babf(0x24b)]({'type':'POST','url':bx_license['ajax_url'],'dataType':_0x51babf(0x202),'data':{'action':_0x24a20a,'license_key':_0x5eb8ba},'success':_0x1c774e=>{var _0x3db803=_0x51babf;_0x1c774e['status']?($('.license-msg')['hide']()[_0x3db803(0x1f8)](_0x1c774e['message'])[_0x3db803(0x243)](_0x3db803(0x20e),_0x3db803(0x222))[_0x3db803(0x25a)](),$(_0x3db803(0x225))['text'](_0x3db803(0x20f)),$(_0x3db803(0x262))['removeClass']('license_invalid'),$(_0x3db803(0x20a))[_0x3db803(0x211)](_0x3db803(0x22b))[_0x3db803(0x1fb)](_0x3db803(0x205)),$(_0x3db803(0x1f4))[_0x3db803(0x1f8)](_0x3db803(0x1f5)),setTimeout(()=>{var _0x407f0b=_0x3db803;window[_0x407f0b(0x1fc)][_0x407f0b(0x238)]();},0x4b0)):($('.license-msg')[_0x3db803(0x239)]()[_0x3db803(0x1f8)](_0x1c774e[_0x3db803(0x25e)])[_0x3db803(0x243)]('color','red')[_0x3db803(0x25a)](),$(_0x3db803(0x225))['text'](_0x3db803(0x214)));}});}),$(_0x1fe36e(0x206))[_0x1fe36e(0x261)](()=>{var _0x2c35b2=_0x1fe36e;$(_0x2c35b2(0x206))[_0x2c35b2(0x1f8)](_0x2c35b2(0x23e));var _0x432790=$('#deactivate-license')[_0x2c35b2(0x231)](_0x2c35b2(0x209));$[_0x2c35b2(0x24b)]({'type':'POST','url':bx_license[_0x2c35b2(0x1ff)],'dataType':_0x2c35b2(0x202),'data':{'action':_0x432790},'success':_0x56dc51=>{var _0x3e7764=_0x2c35b2;_0x56dc51[_0x3e7764(0x249)]?($('#deactivate-license')[_0x3e7764(0x1f8)](_0x3e7764(0x23f)),$('.license-msg')[_0x3e7764(0x239)]()[_0x3e7764(0x1f8)](_0x56dc51['message'])[_0x3e7764(0x243)](_0x3e7764(0x20e),_0x3e7764(0x256))[_0x3e7764(0x25a)](),$('.license_status')[_0x3e7764(0x211)](_0x3e7764(0x25d)),$(_0x3e7764(0x20a))['removeClass'](_0x3e7764(0x22b))[_0x3e7764(0x211)](_0x3e7764(0x205)),$(_0x3e7764(0x1f4))[_0x3e7764(0x1f8)](_0x3e7764(0x21b)),setTimeout(()=>{var _0x41d2f2=_0x3e7764;window[_0x41d2f2(0x1fc)][_0x41d2f2(0x238)]();},0x4b0)):setTimeout(()=>{var _0x1a5619=_0x3e7764;window[_0x1a5619(0x1fc)][_0x1a5619(0x238)]();},0x4b0);}});});});function _0x3751(_0x26e051,_0x10dbac){var _0x3daab2=_0x3daa();return _0x3751=function(_0x375195,_0x4af729){_0x375195=_0x375195-0x1ef;var _0x4b08b6=_0x3daab2[_0x375195];return _0x4b08b6;},_0x3751(_0x26e051,_0x10dbac);}function isValidEmailAddress(_0x2487d9){var _0xb58320=/^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;return _0xb58320['test'](_0x2487d9);}jQuery(document)[_0x219be4(0x230)](function(_0x725153){var _0x12a062=_0x219be4;function _0x175b8f(_0x53a2bb,_0x5e323e,_0x1ba6d4,_0x36799d){var _0x43aa67=_0x3751;!_0x725153('#'+_0x53a2bb)['length']&&_0x725153('body')[_0x43aa67(0x259)]('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal\x22\x20id=\x22'+_0x53a2bb+_0x43aa67(0x23b)+_0x53a2bb+_0x43aa67(0x23d)+_0x53a2bb+_0x43aa67(0x203)+___(_0x5e323e)+_0x43aa67(0x218)+___(_0x43aa67(0x25b))+_0x43aa67(0x260)+___(_0x1ba6d4)+_0x43aa67(0x1fd)+_0x53a2bb[_0x43aa67(0x1f1)]('modal',_0x43aa67(0x25e))+'\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-footer\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22button\x20csf-warning-primary\x20action-button\x22>'+___(_0x36799d)+'</button>&ensp;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22button\x20button-primary\x22\x20data-bs-dismiss=\x22modal\x22>'+___(_0x43aa67(0x24c))+_0x43aa67(0x207));}_0x725153(_0x12a062(0x251))[_0x12a062(0x253)]>0x0&&(_0x175b8f(_0x12a062(0x20b),'Create\x20Page',_0x12a062(0x20d),_0x12a062(0x248)),_0x175b8f('create_menu_modal','Create\x20Menu','Are\x20you\x20sure\x20you\x20want\x20to\x20create\x20menus\x20like\x20in\x20the\x20demo?',_0x12a062(0x21c)),_0x175b8f(_0x12a062(0x224),_0x12a062(0x237),'Are\x20you\x20sure\x20you\x20want\x20to\x20create\x20widgets\x20like\x20in\x20the\x20demo?',_0x12a062(0x212)),_0x175b8f(_0x12a062(0x20c),'Import\x20Theme\x20Demo',_0x12a062(0x21a),_0x12a062(0x229)));function _0x599bfd(_0x5f088d,_0x10e802,_0x1de30a,_0x4d34af){var _0x9dba70=_0x12a062;_0x725153('#'+_0x5f088d+'\x20.action-button')['on'](_0x9dba70(0x261),function(){var _0x472472=_0x9dba70;const _0x35a521=bootstrap[_0x472472(0x1f7)]['getInstance'](document[_0x472472(0x245)](_0x5f088d));_0x725153('#'+_0x10e802)[_0x472472(0x220)](_0x472472(0x244)+___(_0x472472(0x21d))+_0x472472(0x246)),_0x725153['ajax']({'type':_0x472472(0x217),'url':bx_license[_0x472472(0x1ff)],'dataType':_0x472472(0x1f8),'data':{'action':_0x1de30a,'nonce':bx_license['nonce']},'beforeSend':function(){var _0xad5ed1=_0x472472;_0x35a521[_0xad5ed1(0x239)]();},'success':function(_0x39f391){var _0x29853f=_0x472472;_0x725153('#'+_0x10e802)[_0x29853f(0x220)](_0x29853f(0x227)+___(_0x4d34af)+'</strong>\x20'+___(_0x29853f(0x257))+_0x29853f(0x24a));},'error':function(_0x5b1ecc,_0x128555,_0x4025c8){var _0x4996b8=_0x472472;_0x725153('#'+_0x10e802)['html'](_0x4996b8(0x216)+___(_0x4996b8(0x226))+_0x4996b8(0x24a));}});});}function _0x1825b6(_0x3112a6,_0x285c4c){var _0x2558dc=_0x12a062;const _0xf177ad=_0x725153(_0x3112a6),_0x4700fe=_0x725153('#'+_0x285c4c);let _0x53f9fa=null;return _0xf177ad['on'](_0x2558dc(0x261),function(){var _0x146b7c=_0x2558dc;_0x53f9fa=new bootstrap['Modal'](_0x4700fe[0x0],{'backdrop':_0x146b7c(0x235),'keyboard':![],'focus':!![]}),_0x4700fe[_0x146b7c(0x231)](_0x146b7c(0x24e),this),_0x53f9fa[_0x146b7c(0x22f)]();}),_0x4700fe['on'](_0x2558dc(0x1fa),function(){var _0x4ecb3a=_0x2558dc;_0x725153(this)['find'](_0x4ecb3a(0x24f))['focus']();}),_0x4700fe['on'](_0x2558dc(0x25c),function(){var _0x5ad54b=_0x2558dc;const _0x9398f0=_0x725153(this)[_0x5ad54b(0x231)](_0x5ad54b(0x24e));_0x9398f0&&_0x725153(_0x9398f0)['focus']();}),_0x53f9fa;}_0x1825b6('.buxt_createpage',_0x12a062(0x20b)),_0x1825b6('.buxt_createmenu',_0x12a062(0x215)),_0x1825b6(_0x12a062(0x228),'create_widgets_modal'),_0x1825b6(_0x12a062(0x1f3),'import_themes_modal'),_0x599bfd('create_page_modal',_0x12a062(0x210),_0x12a062(0x242),_0x12a062(0x1ef)),_0x599bfd('create_menu_modal',_0x12a062(0x247),_0x12a062(0x255),'menu'),_0x599bfd(_0x12a062(0x224),_0x12a062(0x233),'buxt_createwidgets',_0x12a062(0x240)),_0x599bfd(_0x12a062(0x20c),'import_themes_message','buxt_importthemes',_0x12a062(0x1fe));});function _0x3daa(){var _0x281cd3=['Yes,\x20Create\x20Pages','status','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','ajax','Cancel','5886IEtXql','returnFocus','.action-button','3222820hXALqU','.buxt_createpage,\x20.buxt_createmenu,\x20.buxt_createwidgets,\x20.buxt_importthemes','<i\x20class=\x22dashicons\x20dashicons-unlock\x22></i>\x20','length','48zNLYYs','buxt_createmenu','red','havefun','4550526LMyVyI','append','fadeIn','Close','hidden.bs.modal','license_invalid','message','none','\x22></button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-body\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>','click','.license_status','page','4295420jleJOz','replace','i18n','.buxt_importthemes','.license_status\x20.txt','Your\x20license\x20is\x20valid','Updating...','Modal','text','offset','shown.bs.modal','removeClass','location','</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22','theme','ajax_url','top','animate','json','Label\x22>','64244QnGluE','dashicons-dismiss','#deactivate-license','</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Activating...','action','.license_invalid\x20i','create_page_modal','import_themes_modal','Are\x20you\x20sure\x20you\x20want\x20to\x20create\x20pages\x20like\x20in\x20the\x20demo?','color','Activated','create_page_message','addClass','Yes,\x20Create\x20Widgets','.expand-act-box','Activate\x20License','create_menu_modal','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22csf-notice\x20csf-notice-danger\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','POST','</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22btn-close\x22\x20data-bs-dismiss=\x22modal\x22\x20aria-label=\x22','<i\x20class=\x22dashicons\x20dashicons-dismiss\x22></i>\x20','Are\x20you\x20sure\x20you\x20want\x20to\x20import\x20theme\x20demo\x20content?\x20This\x20will\x20import\x20posts,\x20pages,\x20and\x20settings\x20from\x20the\x20demo.','Your\x20license\x20is\x20invalid','Yes,\x20Create\x20Menus','dataimport','input[name=\x22license_key\x22]','___','html','display','green','html,\x20body','create_widgets_modal','#activate-license','error_occurred','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22csf-notice\x20csf-notice-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>','.buxt_createwidgets','Yes,\x20Import\x20Demo','23781OmvUvM','dashicons-yes-alt','1190ICAMDk','212648FQFMIj','11TJoZKB','show','ready','data','21LrbcFx','create_widgets_message','attr','static','Update\x20License','Create\x20Widgets','reload','hide','License\x20updated\x20successfully','\x22\x20tabindex=\x22-1\x22\x20role=\x22dialog\x22\x20aria-modal=\x22true\x22\x20aria-labelledby=\x22','#update-license','Label\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-dialog\x22\x20role=\x22document\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-content\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5\x20class=\x22modal-title\x22\x20id=\x22','Deactivating...','Deactivated','widgets','val','buxt_createpage','css','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22csf-notice\x20csf-notice-info\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','getElementById','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','create_menu_message'];_0x3daa=function(){return _0x281cd3;};return _0x3daa();}
+var $ = jQuery.noConflict();
+window.___ = function (key) {
+    return bx_license.i18n[key] || key;
+}
+$(document).ready( function(){
+    $('.expand-act-box').click( function() {
+        var collapse_content_selector = $(this).attr('id');
+        var toggle_switch = $(this);
+        $(collapse_content_selector).toggle( function() {
+            if($(this).css('display')=='none') {
+                toggle_switch.html('<i class="dashicons dashicons-unlock"></i> '+toggle_switch.text());
+            } else {
+                toggle_switch.html('<i class="dashicons dashicons-dismiss"></i> '+toggle_switch.text());
+            }
+            $('html, body').animate({
+                scrollTop: $(collapse_content_selector).offset().top - 100
+            }, 500);
+        });
+    });
+
+
+    $('#update-license').click( () => {
+        $('#update-license').text('Updating...')
+        var action = $('#update-license').data('action')
+        $.ajax({
+            type: 'POST',
+            url: bx_license.ajax_url,
+            dataType: 'json',
+            data: {
+                action: action
+            },
+            success: (res) => {
+                console.log(res);
+                $('#update-license').text('Update License')
+                if(res.message) {
+                    $('.license-msg').show().text(res.message).css('color', 'red')
+                } else {
+                    $('.license-msg').show().text('License updated successfully').css('color', 'green')
+                }
+                setTimeout( () => {
+                    window.location.reload();
+                }, 1500)
+            }
+        });
+    });
+
+    $('#activate-license').click( () => {
+        var license_key = $('input[name="license_key"]').val(),
+            action = $('#activate-license').data('action')
+
+        if(!license_key) {
+            alert('Please enter license code')
+            return
+        }
+        $('#activate-license').text('Activating...')
+        $.ajax({
+            type: 'POST',
+            url: bx_license.ajax_url,
+            dataType: 'json',
+            data: {
+                action: action,
+                license_key: license_key
+            },
+            success: (res) => {
+                if(res.status) {
+                    $('.license-msg').hide().text(res.message).css('color', 'green').fadeIn();
+                    $('#activate-license').text('Activated')
+                    $('.license_status').removeClass('license_invalid')
+                    $('.license_invalid i').addClass('dashicons-yes-alt').removeClass('dashicons-dismiss')
+                    $('.license_status .txt').text('Your license is valid')
+                    setTimeout( () => {
+                        window.location.reload();
+                    }, 1200)
+                } else {
+                    $('.license-msg').hide().text(res.message).css('color', 'red').fadeIn();
+                    $('#activate-license').text('Activate License')
+                }
+            }
+        });
+    });
+
+    $('#deactivate-license').click( () => {
+        $('#deactivate-license').text('Deactivating...')
+        var action = $('#deactivate-license').data('action')
+        $.ajax({
+            type: 'POST',
+            url: bx_license.ajax_url,
+            dataType: 'json',
+            data: {
+                action: action
+            },
+            success: (res) => {
+                if(res.status) {
+                    $('#deactivate-license').text('Deactivated')
+                    $('.license-msg').hide().text(res.message).css('color', 'red').fadeIn();
+                    $('.license_status').addClass('license_invalid')
+                    $('.license_invalid i').removeClass('dashicons-yes-alt').addClass('dashicons-dismiss')
+                    $('.license_status .txt').text('Your license is invalid')
+                    setTimeout( () => {
+                        window.location.reload();
+                    }, 1200)
+                } else {
+                    setTimeout( () => {
+                        window.location.reload();
+                    }, 1200)
+                }
+            }
+        });
+    });
+});
+
+function isValidEmailAddress(emailAddress) {
+    var pattern = /^([a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+(\.[a-z\d!#$%&'*+\-\/=?^_`{|}~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]+)*|"((([ \t]*\r\n)?[ \t]+)?([\x01-\x08\x0b\x0c\x0e-\x1f\x7f\x21\x23-\x5b\x5d-\x7e\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|\\[\x01-\x09\x0b\x0c\x0d-\x7f\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))*(([ \t]*\r\n)?[ \t]+)?")@(([a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\d\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.)+([a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]|[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF][a-z\d\-._~\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]*[a-z\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])\.?$/i;
+    return pattern.test(emailAddress);
+}
+
+jQuery(document).ready(function($) {
+    function appendModalIfNotExists(modalId, title, message, buttonText) {
+        if (!$(`#${modalId}`).length) {
+            $('body').append(`
+                <div class="modal" id="${modalId}" tabindex="-1" role="dialog" aria-modal="true" aria-labelledby="${modalId}Label">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="${modalId}Label">${___(title)}</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="${___('Close')}"></button>
+                            </div>
+                            <div class="modal-body">
+                                <p>${___(message)}</p>
+                                <div id="${modalId.replace('modal', 'message')}"></div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="button csf-warning-primary action-button">${___(buttonText)}</button>&ensp;
+                                <button type="button" class="button button-primary" data-bs-dismiss="modal">${___('Cancel')}</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `);
+        }
+    }
+
+    if ($('.buxt_createpage, .buxt_createmenu, .buxt_createwidgets, .buxt_importthemes').length > 0) {
+        appendModalIfNotExists('create_page_modal', 'Create Page', 'Are you sure you want to create pages like in the demo?', 'Yes, Create Pages');
+        appendModalIfNotExists('create_menu_modal', 'Create Menu', 'Are you sure you want to create menus like in the demo?', 'Yes, Create Menus');
+        appendModalIfNotExists('create_widgets_modal', 'Create Widgets', 'Are you sure you want to create widgets like in the demo?', 'Yes, Create Widgets');
+        appendModalIfNotExists('import_themes_modal', 'Import Theme Demo', 'Are you sure you want to import theme demo content? This will import posts, pages, and settings from the demo.', 'Yes, Import Demo');
+    }
+
+    function handleAjaxAction(modalId, messageId, action, successText) {
+        $(`#${modalId} .action-button`).on('click', function() {
+            const modal = bootstrap.Modal.getInstance(document.getElementById(modalId));
+            $(`#${messageId}`).html(`
+                <div class="csf-notice csf-notice-info">
+                    ${___('dataimport')}
+                </div>
+            `);
+
+            $.ajax({
+                type: 'POST',
+                url: bx_license.ajax_url,
+                dataType: 'text',
+                data: {
+                    action: action,
+                    nonce: bx_license.nonce
+                },
+                beforeSend: function() {
+                    modal.hide();
+                },
+                success: function(response) {
+                    $(`#${messageId}`).html(`
+                        <div class="csf-notice csf-notice-info">
+                            <strong>${___(successText)}</strong> ${___('havefun')}
+                        </div>
+                    `);
+                },
+                error: function(xhr, status, error) {
+                    $(`#${messageId}`).html(`
+                        <div class="csf-notice csf-notice-danger">
+                            ${___('error_occurred')}
+                        </div>
+                    `);
+                }
+            });
+        });
+    }
+    function initModal(buttonSelector, modalId) {
+        const $button = $(buttonSelector);
+        const $modal = $(`#${modalId}`);
+        let modal = null;
+
+        $button.on('click', function() {
+            modal = new bootstrap.Modal($modal[0], {
+                backdrop: 'static',
+                keyboard: false,
+                focus: true
+            });
+            
+            // Store the trigger button for focus restoration
+            $modal.data('returnFocus', this);
+            
+            modal.show();
+        });
+
+        // Handle proper focus management
+        $modal.on('shown.bs.modal', function() {
+            $(this).find('.action-button').focus();
+        });
+
+        $modal.on('hidden.bs.modal', function() {
+            const returnFocus = $(this).data('returnFocus');
+            if (returnFocus) {
+                $(returnFocus).focus();
+            }
+        });
+
+        return modal;
+    }
+
+    initModal('.buxt_createpage', 'create_page_modal');
+    initModal('.buxt_createmenu', 'create_menu_modal');
+    initModal('.buxt_createwidgets', 'create_widgets_modal');
+    initModal('.buxt_importthemes', 'import_themes_modal');
+
+    handleAjaxAction('create_page_modal', 'create_page_message', 'buxt_createpage', 'page');
+    handleAjaxAction('create_menu_modal', 'create_menu_message', 'buxt_createmenu', 'menu');
+    handleAjaxAction('create_widgets_modal', 'create_widgets_message', 'buxt_createwidgets', 'widgets');
+    handleAjaxAction('import_themes_modal', 'import_themes_message', 'buxt_importthemes', 'theme');
+});

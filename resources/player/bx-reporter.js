@@ -1,1 +1,238 @@
-const _0x27e253=_0x3a56;function _0x5ece(){const _0x2dbe8e=['</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>','\x22\x20onclick=\x22reporter.markAsResolved(','</strong></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20colspan=\x223\x22\x20style=\x22min-width:400px;\x20word-wrap:\x20break-word;\x22>','div','appendChild','column','json','name','rest_nonce','i18n','info','118620gtqMya','text-danger','value','.item_','14086jJCacn','add',')\x22>','removeAll','Saved\x20successfully!','6px','</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-center\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Failed\x20to\x20remove\x20item!','removeItem','BOT','.mark-as-resolved-','remove','/remove_item','/save_issues','\x22>●</span></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-center\x22><strong\x20style=\x22color:','/delete_removeall','Marked\x20as\x20resolved\x20successfully!','<button\x20type=\x22button\x22\x20class=\x22button\x20button-secondary\x20mark-as-resolved-','Error\x20saving\x20issues:','opacity\x200.5s','innerHTML','357669Iurbla','opacity','border','12yHMKeB','#d63638','</td></tr>','backgroundColor','Empty!',')\x22>‹\x20','An\x20error\x20occurred\x20while\x20removing\x20the\x20item.','bx-toast-container','markAsResolved','application/json','error','count','316286McsCfV','style','An\x20error\x20occurred\x20while\x20updating\x20the\x20status.','table.rp\x20tbody','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-center\x20status_','<tr><td\x20colspan=\x226\x22\x20class=\x22text-center\x22>','DOMContentLoaded','An\x20error\x20occurred\x20while\x20removing\x20all\x20items.','.status_','classList','rest_api','/get_page','Failed\x20to\x20save!','date_time','Failed\x20to\x20mark\x20as\x20resolved!','content','getElementById',';\x22>','</div>','</button>','bxreport_issues','join','#2271b1','An\x20error\x20occurred\x20while\x20saving\x20the\x20issues.','textContent','#444','boxShadow','length','Error\x20loading\x20report\x20page:','createElement','Error:','display','saveIssues','message','addEventListener','13px','transform','bxreport-count','880760MSRalL','bxreport-pagination','154vNOWGa','gap','seen','Mark\x20As\x20Resolved','Item\x20removed\x20successfully!','data','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22','stringify','post_name','19464XYqJJD','___','transition','20px','translateY(0)','All\x20items\x20removed\x20successfully!','split','showToast','fixed','right','none','color','restapi','loadReportPage','position','zIndex','body','<button\x20type=\x22button\x22\x20class=\x22button\x22\x20onclick=\x22reporter.loadReportPage(','toLocaleString','success','32ATuMVg','querySelector','transitionend','58746lKHMcA','<div\x20class=\x22small\x20text-muted\x22\x20style=\x22color:#d63638;\x20margin-bottom:2px;\x20word-wrap:\x20break-word;\x20max-width:\x20400px;\x22>','\x22><span\x20class=\x22','Next','text-success','POST','text-muted'];_0x5ece=function(){return _0x2dbe8e;};return _0x5ece();}function _0x3a56(_0x449072,_0x5de96b){const _0x5ecea1=_0x5ece();return _0x3a56=function(_0x3a568b,_0x56922a){_0x3a568b=_0x3a568b-0x14b;let _0x9ba71d=_0x5ecea1[_0x3a568b];return _0x9ba71d;},_0x3a56(_0x449072,_0x5de96b);}(function(_0x48952e,_0x5e3618){const _0x49d20f=_0x3a56,_0xaeba72=_0x48952e();while(!![]){try{const _0x3327ee=-parseInt(_0x49d20f(0x18d))/0x1+-parseInt(_0x49d20f(0x1b1))/0x2+-parseInt(_0x49d20f(0x160))/0x3*(-parseInt(_0x49d20f(0x1a5))/0x4)+-parseInt(_0x49d20f(0x189))/0x5+parseInt(_0x49d20f(0x177))/0x6*(parseInt(_0x49d20f(0x157))/0x7)+parseInt(_0x49d20f(0x174))/0x8*(parseInt(_0x49d20f(0x1a2))/0x9)+-parseInt(_0x49d20f(0x155))/0xa;if(_0x3327ee===_0x5e3618)break;else _0xaeba72['push'](_0xaeba72['shift']());}catch(_0x41cae6){_0xaeba72['push'](_0xaeba72['shift']());}}}(_0x5ece,0x1ace9));class Reporter{constructor(){const _0x36c48e=_0x3a56;this['restapi']=bxreport[_0x36c48e(0x1bb)],this[_0x36c48e(0x187)]=bxreport[_0x36c48e(0x187)];}['___'](_0x39a99b){const _0x18177a=_0x3a56;return this[_0x18177a(0x187)][_0x39a99b]||_0x39a99b;}async[_0x27e253(0x190)](){const _0x12eb1e=_0x27e253;try{const _0x2b5741=await fetch(bxreport[_0x12eb1e(0x1bb)]+_0x12eb1e(0x19c),{'method':_0x12eb1e(0x17c),'headers':{'X-WP-Nonce':bxreport[_0x12eb1e(0x186)],'Content-Type':_0x12eb1e(0x1ae)},'body':JSON['stringify']({})}),_0xfef112=await _0x2b5741[_0x12eb1e(0x184)]();_0xfef112[_0x12eb1e(0x173)]?(document[_0x12eb1e(0x175)](_0x12eb1e(0x1b4))[_0x12eb1e(0x1a1)]='<tr><td\x20colspan=\x228\x22\x20class=\x22text-center\x20text-muted\x22>'+this[_0x12eb1e(0x161)](_0x12eb1e(0x1a9))+_0x12eb1e(0x1a7),this['showToast'](_0xfef112['data'][_0x12eb1e(0x150)]||this[_0x12eb1e(0x161)](_0x12eb1e(0x165)),_0x12eb1e(0x173))):this[_0x12eb1e(0x167)](_0xfef112[_0x12eb1e(0x15c)][_0x12eb1e(0x150)]||this['___']('Failed\x20to\x20remove\x20items!'),_0x12eb1e(0x1af));}catch(_0x170b98){console[_0x12eb1e(0x1af)](_0x12eb1e(0x14d),_0x170b98),this[_0x12eb1e(0x167)](this[_0x12eb1e(0x161)](_0x12eb1e(0x1b8)),_0x12eb1e(0x1af));}}async[_0x27e253(0x1ad)](_0x3b8b8d){const _0x293497=_0x27e253;try{const _0x8ff64=await fetch(this[_0x293497(0x16c)]+_0x293497(0x199),{'method':'POST','headers':{'X-WP-Nonce':bxreport[_0x293497(0x186)],'Content-Type':_0x293497(0x1ae)},'body':JSON[_0x293497(0x15e)]({'id':_0x3b8b8d})}),_0x34b6f1=await _0x8ff64[_0x293497(0x184)]();if(_0x34b6f1[_0x293497(0x173)]){const _0x149620=document[_0x293497(0x175)](_0x293497(0x1b9)+_0x3b8b8d+'\x20span');_0x149620&&(_0x149620[_0x293497(0x1ba)]['remove']('text-success'),_0x149620[_0x293497(0x1ba)][_0x293497(0x18e)](_0x293497(0x17d)));const _0x316077=document[_0x293497(0x175)](_0x293497(0x197)+_0x3b8b8d);_0x316077&&(_0x316077[_0x293497(0x1b2)]['display']=_0x293497(0x16a)),this[_0x293497(0x167)](_0x34b6f1[_0x293497(0x15c)][_0x293497(0x150)]||this[_0x293497(0x161)](_0x293497(0x19d)),_0x293497(0x173));}else this[_0x293497(0x167)](_0x34b6f1[_0x293497(0x15c)][_0x293497(0x150)]||this[_0x293497(0x161)](_0x293497(0x1bf)),_0x293497(0x1af));}catch(_0x48cc5c){console[_0x293497(0x1af)](_0x293497(0x14d),_0x48cc5c),this['showToast'](this[_0x293497(0x161)](_0x293497(0x1b3)),_0x293497(0x1af));}}async[_0x27e253(0x195)](_0x425c1e){const _0x390a46=_0x27e253;try{const _0x5f1ded=await fetch(bxreport[_0x390a46(0x1bb)]+_0x390a46(0x199),{'method':_0x390a46(0x17c),'headers':{'X-WP-Nonce':bxreport['rest_nonce'],'Content-Type':'application/json'},'body':JSON[_0x390a46(0x15e)]({'id':_0x425c1e})}),_0x1e4630=await _0x5f1ded[_0x390a46(0x184)]();if(_0x1e4630['success']){const _0x226698=document[_0x390a46(0x175)](_0x390a46(0x18c)+_0x425c1e);_0x226698&&(_0x226698[_0x390a46(0x1b2)][_0x390a46(0x1a3)]='0',_0x226698[_0x390a46(0x1b2)][_0x390a46(0x162)]=_0x390a46(0x1a0),setTimeout(()=>{const _0x244cb0=_0x390a46;_0x226698[_0x244cb0(0x198)]();},0x1f4)),this[_0x390a46(0x167)](_0x1e4630[_0x390a46(0x15c)]['message']||this['___'](_0x390a46(0x15b)),_0x390a46(0x173));}else this['showToast'](_0x1e4630[_0x390a46(0x15c)][_0x390a46(0x150)]||this[_0x390a46(0x161)](_0x390a46(0x194)),_0x390a46(0x1af));}catch(_0x513c9c){console[_0x390a46(0x1af)]('Error:',_0x513c9c),this[_0x390a46(0x167)](this['___'](_0x390a46(0x1ab)),_0x390a46(0x1af));}}async[_0x27e253(0x16d)](_0x226e3f=0x1,_0x13932e=0x14){const _0x454fd7=_0x27e253;try{const _0x50dd80=await fetch(this['restapi']+_0x454fd7(0x1bc),{'method':_0x454fd7(0x17c),'headers':{'X-WP-Nonce':bxreport['rest_nonce'],'Content-Type':_0x454fd7(0x1ae)},'body':JSON['stringify']({'page':_0x226e3f,'show':_0x13932e})}),_0x5d515d=await _0x50dd80[_0x454fd7(0x184)](),_0x1e2d34=document[_0x454fd7(0x175)](_0x454fd7(0x1b4)),_0xd74d6e=document['getElementById'](_0x454fd7(0x156)),_0x1ce810=document['getElementById'](_0x454fd7(0x154));if(_0x1ce810)_0x1ce810['textContent']=_0x5d515d[_0x454fd7(0x1b0)];_0x5d515d[_0x454fd7(0x15c)][_0x454fd7(0x1cc)]===0x0?_0x1e2d34[_0x454fd7(0x1a1)]=_0x454fd7(0x1b6)+this[_0x454fd7(0x161)](_0x454fd7(0x1a9))+_0x454fd7(0x1a7):_0x1e2d34[_0x454fd7(0x1a1)]=_0x5d515d[_0x454fd7(0x15c)]['map'](_0x33b15a=>{const _0xbb603f=_0x454fd7,_0x19afc3=_0x33b15a[_0xbb603f(0x159)]==0x0?_0xbb603f(0x18a):_0xbb603f(0x17b),_0x313b69=_0x33b15a[_0xbb603f(0x185)]===_0xbb603f(0x196)?_0xbb603f(0x1a6):_0xbb603f(0x1c7),_0xb8d8b5=_0x33b15a[_0xbb603f(0x1c0)]?_0x33b15a['content'][_0xbb603f(0x166)]('\x0a'):[],_0x16f014=_0xb8d8b5['map'](_0x295bde=>_0xbb603f(0x178)+_0x295bde+_0xbb603f(0x1c3))['join']('');return'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr\x20class=\x22item_'+_0x33b15a['id']+_0xbb603f(0x1b5)+_0x33b15a['id']+_0xbb603f(0x179)+_0x19afc3+_0xbb603f(0x19b)+_0x313b69+_0xbb603f(0x1c2)+_0x33b15a[_0xbb603f(0x185)]+_0xbb603f(0x180)+_0x16f014+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-center\x20small\x22>'+_0x33b15a[_0xbb603f(0x15f)]+'</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20class=\x22text-center\x20small\x22>'+new Date(_0x33b15a[_0xbb603f(0x1be)])[_0xbb603f(0x172)]()+_0xbb603f(0x193)+(_0x33b15a[_0xbb603f(0x159)]==0x0?_0xbb603f(0x19e)+_0x33b15a['id']+_0xbb603f(0x17f)+_0x33b15a['id']+_0xbb603f(0x18f)+this[_0xbb603f(0x161)](_0xbb603f(0x15a))+_0xbb603f(0x1c4):'')+_0xbb603f(0x15d)+(_0x33b15a['edit_post_link']||'#')+'\x22\x20target=\x22_blank\x22\x20class=\x22button\x20button-primary\x22>Edit</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20class=\x22button\x20button-link-delete\x22\x20onclick=\x22reporter.removeItem('+_0x33b15a['id']+_0xbb603f(0x18f)+this[_0xbb603f(0x161)]('Remove')+_0xbb603f(0x17e);})[_0x454fd7(0x1c6)]('');const _0x28af48=Math['ceil'](_0x5d515d[_0x454fd7(0x1b0)]/_0x5d515d['show']);let _0x3ffeb7='';_0x226e3f>0x1&&(_0x3ffeb7+=_0x454fd7(0x171)+(_0x226e3f-0x1)+',\x20'+_0x13932e+_0x454fd7(0x1aa)+this[_0x454fd7(0x161)]('Prev')+'</button>&#160;'),_0x226e3f<_0x28af48&&(_0x3ffeb7+=_0x454fd7(0x171)+(_0x226e3f+0x1)+',\x20'+_0x13932e+_0x454fd7(0x18f)+this['___'](_0x454fd7(0x17a))+'\x20›</button>'),_0xd74d6e[_0x454fd7(0x1a1)]=_0x3ffeb7;}catch(_0xc1830a){console[_0x454fd7(0x1af)](_0x454fd7(0x14b),_0xc1830a);}}async[_0x27e253(0x14f)](){const _0x4db658=_0x27e253;try{const _0x52367a=document[_0x4db658(0x1c1)]('bxreport_issues')[_0x4db658(0x18b)],_0x56f43a=await fetch(bxreport['rest_api']+_0x4db658(0x19a),{'method':'POST','headers':{'X-WP-Nonce':bxreport[_0x4db658(0x186)],'Content-Type':_0x4db658(0x1ae)},'body':JSON['stringify']({'issues':_0x52367a})}),_0x17517b=await _0x56f43a[_0x4db658(0x184)]();if(_0x17517b[_0x4db658(0x173)]){const _0x158aba=document[_0x4db658(0x1c1)](_0x4db658(0x1c5));_0x158aba&&(_0x158aba[_0x4db658(0x1b2)]['border']='2px\x20solid\x20#2271b1',setTimeout(()=>_0x158aba['style'][_0x4db658(0x1a4)]='',0x3e8)),this[_0x4db658(0x167)](_0x17517b['message']||this['___'](_0x4db658(0x191)),'success');}else this['showToast'](_0x17517b[_0x4db658(0x150)]||this[_0x4db658(0x161)](_0x4db658(0x1bd)),_0x4db658(0x1af));}catch(_0x9656c8){console[_0x4db658(0x1af)](_0x4db658(0x19f),_0x9656c8),this['showToast'](this['___'](_0x4db658(0x1c8)),_0x4db658(0x1af));}}[_0x27e253(0x167)](_0x4580d4,_0x513e3c=_0x27e253(0x188)){const _0x10ee96=_0x27e253;let _0x267454=document[_0x10ee96(0x175)]('.bx-toast-container');!_0x267454&&(_0x267454=document[_0x10ee96(0x14c)](_0x10ee96(0x181)),_0x267454['className']=_0x10ee96(0x1ac),_0x267454['style'][_0x10ee96(0x16e)]=_0x10ee96(0x168),_0x267454[_0x10ee96(0x1b2)]['bottom']=_0x10ee96(0x163),_0x267454['style'][_0x10ee96(0x169)]=_0x10ee96(0x163),_0x267454[_0x10ee96(0x1b2)][_0x10ee96(0x16f)]=0x270f,_0x267454[_0x10ee96(0x1b2)][_0x10ee96(0x14e)]='flex',_0x267454[_0x10ee96(0x1b2)]['flexDirection']=_0x10ee96(0x183),_0x267454[_0x10ee96(0x1b2)][_0x10ee96(0x158)]='8px',document[_0x10ee96(0x170)]['appendChild'](_0x267454));const _0x21e28c=document[_0x10ee96(0x14c)]('div');_0x21e28c[_0x10ee96(0x1c9)]=_0x4580d4,_0x21e28c['style']['padding']='10px\x2016px',_0x21e28c[_0x10ee96(0x1b2)]['borderRadius']=_0x10ee96(0x192),_0x21e28c['style'][_0x10ee96(0x16b)]='#fff',_0x21e28c[_0x10ee96(0x1b2)]['fontSize']=_0x10ee96(0x152),_0x21e28c[_0x10ee96(0x1b2)][_0x10ee96(0x1cb)]='0\x202px\x206px\x20rgba(0,0,0,0.2)',_0x21e28c['style']['opacity']=0x0,_0x21e28c['style'][_0x10ee96(0x162)]='opacity\x200.3s,\x20transform\x200.3s',_0x21e28c[_0x10ee96(0x1b2)][_0x10ee96(0x153)]='translateY(20px)';switch(_0x513e3c){case _0x10ee96(0x173):_0x21e28c[_0x10ee96(0x1b2)][_0x10ee96(0x1a8)]='#2271b1';break;case _0x10ee96(0x1af):_0x21e28c['style']['backgroundColor']=_0x10ee96(0x1a6);break;default:_0x21e28c['style']['backgroundColor']=_0x10ee96(0x1ca);}_0x267454[_0x10ee96(0x182)](_0x21e28c),requestAnimationFrame(()=>{const _0x569cf7=_0x10ee96;_0x21e28c['style']['opacity']=0x1,_0x21e28c[_0x569cf7(0x1b2)][_0x569cf7(0x153)]=_0x569cf7(0x164);}),setTimeout(()=>{const _0xd3e676=_0x10ee96;_0x21e28c['style'][_0xd3e676(0x1a3)]=0x0,_0x21e28c['style'][_0xd3e676(0x153)]='translateY(20px)',_0x21e28c[_0xd3e676(0x151)](_0xd3e676(0x176),()=>_0x21e28c[_0xd3e676(0x198)]());},0xbb8);}}const reporter=new Reporter();document[_0x27e253(0x151)](_0x27e253(0x1b7),()=>{reporter['loadReportPage'](0x1,0x14);});
+class Reporter {
+    constructor() {
+        this.restapi = bxreport.rest_api
+        this.i18n = bxreport.i18n
+    }
+
+    ___(key) {
+        return this.i18n[key] || key
+    }
+
+    async removeAll() {
+        try {
+        const response = await fetch(bxreport.rest_api + '/delete_removeall', {
+            method: "POST",
+            headers: {
+                'X-WP-Nonce': bxreport.rest_nonce,
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({})
+        });
+        const data = await response.json()
+        if (data.success) {
+            document.querySelector("table.rp tbody").innerHTML =
+            '<tr><td colspan="8" class="text-center text-muted">' + this.___("Empty!") + "</td></tr>"
+            this.showToast(data.data.message || this.___("All items removed successfully!"), "success")
+        } else {
+            this.showToast(data.data.message || this.___("Failed to remove items!"), "error")
+        }
+        } catch (error) {
+        console.error("Error:", error)
+        this.showToast(this.___("An error occurred while removing all items."), "error")
+        }
+    }
+
+    async markAsResolved(postID) {
+        try {
+        const response = await fetch(`${this.restapi}/remove_item`, {
+            method: "POST",
+            headers: {
+                'X-WP-Nonce': bxreport.rest_nonce,
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ id: postID })
+        })
+
+        const data = await response.json()
+
+        if (data.success) {
+            const statusElement = document.querySelector(".status_" + postID + " span")
+            if (statusElement) {
+                statusElement.classList.remove("text-success")
+                statusElement.classList.add("text-muted")
+            }
+
+            const resolveButton = document.querySelector(".mark-as-resolved-" + postID)
+            if (resolveButton) {
+            resolveButton.style.display = "none"
+            }
+
+            this.showToast(data.data.message || this.___("Marked as resolved successfully!"), "success")
+        } else {
+            this.showToast(data.data.message || this.___("Failed to mark as resolved!"), "error")
+        }
+        } catch (error) {
+            console.error("Error:", error)
+            this.showToast(this.___("An error occurred while updating the status."), "error")
+        }
+    }
+
+    async removeItem(postID) {
+        try {
+        const response = await fetch(bxreport.rest_api + '/remove_item', {
+            method: "POST",
+            headers: {
+                'X-WP-Nonce': bxreport.rest_nonce,
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ id: postID })
+        });
+        const data = await response.json()
+
+        if (data.success) {
+            const item = document.querySelector(".item_" + postID)
+            if (item) {
+            item.style.opacity = "0"
+            item.style.transition = "opacity 0.5s"
+            setTimeout(() => {
+                item.remove()
+            }, 500)
+            }
+
+            this.showToast(data.data.message || this.___("Item removed successfully!"), "success")
+        } else {
+            this.showToast(data.data.message || this.___("Failed to remove item!"), "error")
+        }
+        } catch (error) {
+        console.error("Error:", error)
+        this.showToast(this.___("An error occurred while removing the item."), "error")
+        }
+    }
+
+    async loadReportPage(page = 1, show = 20) {
+        try {
+            const response = await fetch(`${this.restapi}/get_page`, {
+                method: "POST",
+                headers: {
+                    'X-WP-Nonce': bxreport.rest_nonce,
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ page, show })
+            });
+            const result = await response.json();
+            const tableBody = document.querySelector("table.rp tbody");
+            const topNav    = document.getElementById("bxreport-pagination");
+            const countEl   = document.getElementById("bxreport-count");
+            if (countEl) countEl.textContent = result.count;
+            if (result.data.length === 0) {
+                tableBody.innerHTML = `<tr><td colspan="6" class="text-center">${this.___("Empty!")}</td></tr>`;
+            } else {
+                tableBody.innerHTML = result.data.map(item => {
+                    const statusClass = item.seen == 0 ? 'text-danger' : 'text-success';
+                    const reporterColor = item.name === 'BOT' ? '#d63638' : '#2271b1';
+                    const lines = item.content ? item.content.split("\n") : [];
+                    const contentHtml = lines.map(line => `<div class="small text-muted" style="color:#d63638; margin-bottom:2px; word-wrap: break-word; max-width: 400px;">${line}</div>`).join('');
+                    return `
+                    <tr class="item_${item.id}">
+                        <td class="text-center status_${item.id}"><span class="${statusClass}">●</span></td>
+                        <td class="text-center"><strong style="color:${reporterColor};">${item.name}</strong></td>
+                        <td colspan="3" style="min-width:400px; word-wrap: break-word;">${contentHtml}</td>
+                        <td class="text-center small">${item.post_name}</td>
+                        <td class="text-center small">${new Date(item.date_time).toLocaleString()}</td>
+                        <td class="text-center">
+                            ${item.seen == 0 ? `<button type="button" class="button button-secondary mark-as-resolved-${item.id}" onclick="reporter.markAsResolved(${item.id})">${this.___("Mark As Resolved")}</button>` : ''}
+                            <a href="${item.edit_post_link || '#'}" target="_blank" class="button button-primary">Edit</a>
+                            <button type="button" class="button button-link-delete" onclick="reporter.removeItem(${item.id})">${this.___("Remove")}</button>
+                        </td>
+                    </tr>`;
+                }).join('');
+            }
+
+            const totalPages = Math.ceil(result.count / result.show);
+            let paginationHTML = '';
+            if (page > 1) {
+                paginationHTML += `<button type="button" class="button" onclick="reporter.loadReportPage(${page-1}, ${show})">‹ ${this.___("Prev")}</button>&#160;`;
+            }
+            if (page < totalPages) {
+                paginationHTML += `<button type="button" class="button" onclick="reporter.loadReportPage(${page+1}, ${show})">${this.___("Next")} ›</button>`;
+            }
+            topNav.innerHTML = paginationHTML;
+
+        } catch (error) {
+            console.error("Error loading report page:", error);
+        }
+    }
+
+    async saveIssues() {
+        try {
+            const issues = document.getElementById('bxreport_issues').value;
+            const response = await fetch(bxreport.rest_api + '/save_issues', {
+                method: "POST",
+                headers: {
+                    'X-WP-Nonce': bxreport.rest_nonce,
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ issues })
+            });
+            const data = await response.json();
+            if (data.success) {
+                const textarea = document.getElementById('bxreport_issues');
+                if (textarea) {
+                    textarea.style.border = "2px solid #2271b1";
+                    setTimeout(() => textarea.style.border = "", 1000);
+                }
+
+                this.showToast(data.message || this.___("Saved successfully!"), "success");
+            } else {
+                this.showToast(data.message || this.___("Failed to save!"), "error");
+            }
+
+        } catch (error) {
+            console.error("Error saving issues:", error);
+            this.showToast(this.___("An error occurred while saving the issues."), "error");
+        }
+    }
+
+    showToast(message, type = "info") {
+        let toastContainer = document.querySelector(".bx-toast-container");
+        if (!toastContainer) {
+            toastContainer = document.createElement("div");
+            toastContainer.className = "bx-toast-container";
+            toastContainer.style.position = "fixed";
+            toastContainer.style.bottom = "20px";
+            toastContainer.style.right = "20px";
+            toastContainer.style.zIndex = 9999;
+            toastContainer.style.display = "flex";
+            toastContainer.style.flexDirection = "column";
+            toastContainer.style.gap = "8px";
+            document.body.appendChild(toastContainer);
+        }
+        const toast = document.createElement("div");
+        toast.textContent = message;
+        toast.style.padding = "10px 16px";
+        toast.style.borderRadius = "6px";
+        toast.style.color = "#fff";
+        toast.style.fontSize = "13px";
+        toast.style.boxShadow = "0 2px 6px rgba(0,0,0,0.2)";
+        toast.style.opacity = 0;
+        toast.style.transition = "opacity 0.3s, transform 0.3s";
+        toast.style.transform = "translateY(20px)";
+        switch(type) {
+            case "success":
+                toast.style.backgroundColor = "#2271b1"; 
+                break;
+            case "error":
+                toast.style.backgroundColor = "#d63638"; 
+                break;
+            default:
+                toast.style.backgroundColor = "#444"; 
+        }
+        toastContainer.appendChild(toast);
+        requestAnimationFrame(() => {
+            toast.style.opacity = 1;
+            toast.style.transform = "translateY(0)";
+        });
+
+        setTimeout(() => {
+            toast.style.opacity = 0;
+            toast.style.transform = "translateY(20px)";
+            toast.addEventListener("transitionend", () => toast.remove());
+        }, 3000);
+    }
+
+}
+
+const reporter = new Reporter()
+document.addEventListener('DOMContentLoaded', () => {
+    reporter.loadReportPage(1, 20);
+});

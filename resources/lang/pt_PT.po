@@ -1,0 +1,1389 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Thumbs"
+msgstr "Polegares"
+
+msgid "Details"
+msgstr "Detalhes"
+
+msgid "Categories"
+msgstr "Categorias"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Last Update"
+msgstr "Última atualização"
+
+msgid "views"
+msgstr "visualizações"
+
+msgid "Custom CSS Code"
+msgstr "Código CSS personalizado"
+
+msgid "At the top, for custom CSS No need to add <strong>&lt;style></strong> tags"
+msgstr "No topo, para CSS personalizado Não há necessidade de adicionar tags <strong>&lt;style></strong>"
+
+msgid "Custom JS Code at Footer"
+msgstr "Código JS personalizado no rodapé"
+
+msgid "At the bottom, for adding third-party analytics code, e.g. Google analytics, Baidu, CNZZ. Example: "
+msgstr "Na parte inferior, para adicionar código analítico de terceiros, como Google Analytics, Baidu, CNZZ. Exemplo:"
+
+msgid "Site Logo"
+msgstr "Logotipo do site"
+
+msgid "Set the site logo (recommended to match the custom logo width and height)"
+msgstr "Defina o logotipo do site (recomenda-se que corresponda à largura e altura do logotipo personalizado)"
+
+msgid "Site Favicon"
+msgstr "Favicon do site"
+
+msgid "Open Main Links in New Tab"
+msgstr "Abrir links principais em nova aba"
+
+msgid "Main links such as list/grid articles will open in a new tab."
+msgstr "Os links principais, como artigos de lista/grade, serão abertos em uma nova aba."
+
+msgid "Site Comment Feature"
+msgstr "Recurso de comentário do site"
+
+msgid "Control the site comment feature. Disable if not needed."
+msgstr "Controle o recurso de comentários do site. Desative-o se não for necessário."
+
+msgid "Basic Settings"
+msgstr "Configurações básicas"
+
+msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
+msgstr "Recursos de otimização de SEO do tema:<br>1. Suporta substituição personalizada do separador de título padrão do WordPress"
+
+msgid "Simplify Category Alias"
+msgstr "Simplificar alias de categoria"
+
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "Remova o prefixo \"category/\" dos links de categorias para simplificar URLs. Recomenda-se manter as regras padrão do WordPress para consistência de SEO."
+
+msgid "Categories Display Style"
+msgstr "Categorias Estilo de exibição"
+
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "Escolha como as categorias serão exibidas no frontend. Selecione um estilo que combine com o design do seu tema."
+
+msgid "Enable Built-in SEO Features"
+msgstr "Habilitar recursos de SEO integrados"
+
+msgid "Built-in SEO Settings"
+msgstr "Configurações de SEO integradas"
+
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "Crie automaticamente funções padrão de SEO do Google"
+
+msgid "Site-wide Link Separator"
+msgstr "Separador de links em todo o site"
+
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "Defina o separador para títulos de SEO (por exemplo, \"-\" ou \"|\"). Evite alterá-lo após a configuração para manter a consistência de SEO."
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "Habilitar configuração de SEO do Yoast integrada"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "Configure automaticamente as configurações de SEO do Yoast (títulos, taxonomias, trilhas de navegação) para obter o melhor SEO na página."
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "Habilitar configuração de SEO de matemática de classificação integrada"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "Configure automaticamente as configurações de SEO do Rank Math e registre variáveis ​​personalizadas para títulos dinâmicos e meta descrições."
+
+msgid "Bing Webmaster Verification Code"
+msgstr "Código de verificação do webmaster do Bing"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "Digite seu código de verificação do Microsoft Bing."
+
+msgid "Yandex Verification Code"
+msgstr "Código de verificação Yandex"
+
+msgid "Enter your Yandex verification code."
+msgstr "Digite seu código de verificação Yandex."
+
+msgid "Google Site Verification Code"
+msgstr "Código de verificação do site do Google"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "Digite seu código de verificação do Google Search Console."
+
+msgid "Baidu Site Verification Code"
+msgstr "Código de verificação do site Baidu"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "Digite seu código de verificação do Baidu Webmaster Tools."
+
+msgid "Site Keywords"
+msgstr "Palavras-chave do site"
+
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "Insira de 3 a 5 palavras-chave relevantes para seu site, separadas por vírgulas (por exemplo, filmes, streaming, entretenimento)."
+
+msgid "Site Description"
+msgstr "Descrição do site"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "Insira uma breve descrição do seu site (recomendado de 50 a 160 caracteres) para meta descrições de mecanismos de busca."
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "Título SEO (Página de informações do filme)"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "Personalize o título SEO da página de informações do filme. Use marcadores de posição para inserir detalhes do filme dinamicamente."
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "Espaços reservados disponíveis: {title} = título do filme, {slug} = slug do episódio, {quality} = qualidade do filme, {release} = ano de lançamento, {alt_title} = título original, {runtime} = duração, {country} = país"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "Título SEO (Página de Assistir ao Filme)"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "Personalize o título SEO da página de assistir ao filme. Use marcadores de posição para inserir detalhes do filme dinamicamente."
+
+msgid "SEO Settings"
+msgstr "Configurações de SEO"
+
+msgid "Taxonomy Custom"
+msgstr "Taxonomia Personalizada"
+
+msgid "Custom filter fields"
+msgstr "Campos de filtro personalizados"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "Quais campos personalizados exibir para filtrar entradas"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "Configuração avançada de campos de filtro personalizados"
+
+msgid "Filter Name"
+msgstr "Nome do filtro"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "Por exemplo: formato, cor, tamanho, dimensões, o nome pode ser modificado no meio do caminho após a configuração"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "Identificador Único do Campo de Taxonomia"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "Deve ser inglês puro, como geshhi, yanse, szie, color, <b style=\"color:red;\">Uma vez definido, se já houver artigos associados selecionados, este identificador não poderá ser modificado no meio do caminho</b>"
+
+msgid "Option Type"
+msgstr "Tipo de opção"
+
+msgid "Multiple Choice"
+msgstr "Múltipla escolha"
+
+msgid "Dropdown Single Choice"
+msgstr "Escolha única suspensa"
+
+msgid "Single Choice"
+msgstr "Escolha única"
+
+msgid "Option type when publishing articles in the background"
+msgstr "Tipo de opção ao publicar artigos em segundo plano"
+
+msgid "Popup"
+msgstr "Aparecer"
+
+msgid "Top Archive"
+msgstr "Arquivo principal"
+
+msgid "Bottom Archive"
+msgstr "Arquivo inferior"
+
+msgid "Top Player"
+msgstr "Melhor Jogador"
+
+msgid "Bottom Player"
+msgstr "Jogador de baixo"
+
+msgid "Desktop Ad Code"
+msgstr "Código de anúncio para desktop"
+
+msgid "Mobile Ad Code"
+msgstr "Código de anúncio para celular"
+
+msgid "Ad Settings"
+msgstr "Configurações de anúncios"
+
+msgid "Enable Ads"
+msgstr "Habilitar anúncios"
+
+msgid "Website Optimization"
+msgstr "Otimização de sites"
+
+msgid "Use Gutenberg Editor"
+msgstr "Usar o Editor Gutenberg"
+
+msgid "Use Gutenberg Widgets"
+msgstr "Use widgets Gutenberg"
+
+msgid "Enable Menu Caching"
+msgstr "Habilitar cache de menu"
+
+msgid "Enable to cache the site’s top menu to reduce SQL queries. Disable if using different menus across domains."
+msgstr "Habilite o cache do menu superior do site para reduzir consultas SQL. Desabilite se estiver usando menus diferentes em diferentes domínios."
+
+msgid "Disable WP Content Texturization"
+msgstr "Desativar a texturização de conteúdo do WP"
+
+msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
+msgstr "Desabilitar permite a formatação de código bruto em postagens sem escape. Útil para conteúdo baseado em código."
+
+msgid "Remove Frontend Admin Bar"
+msgstr "Remover barra de administração do frontend"
+
+msgid "Remove WP Admin Top Logo Menu"
+msgstr "Remover o menu superior do logotipo do WP Admin"
+
+msgid "Remove WP Admin Footer Version Info"
+msgstr "Remover informações da versão do rodapé do WP Admin"
+
+msgid "Remove WP Dashboard Menu"
+msgstr "Remover o menu do painel WP"
+
+msgid "Remove WP Emoji Plugin"
+msgstr "Remover o plugin WP Emoji"
+
+msgid "Greatly reduces JS and CSS usage."
+msgstr "Reduz bastante o uso de JS e CSS."
+
+msgid "Optimize Head Tags on Frontend"
+msgstr "Otimize as tags de cabeçalho no frontend"
+
+msgid "Simplify Image HTML Code"
+msgstr "Simplifique o código HTML da imagem"
+
+msgid "Removes unnecessary HTML attributes added by the default WP image editor."
+msgstr "Remove atributos HTML desnecessários adicionados pelo editor de imagens WP padrão."
+
+msgid "Disable REST API"
+msgstr "Desabilitar API REST"
+
+msgid "If you’re using mobile apps or similar, do not disable this."
+msgstr "Se você estiver usando aplicativos móveis ou similares, não desative isso."
+
+msgid "Disable XML-RPC (Pingback)"
+msgstr "Desabilitar XML-RPC (Pingback)"
+
+msgid "XML-RPC is used by third-party clients. Disabling it can help prevent brute-force attacks."
+msgstr "O XML-RPC é usado por clientes de terceiros. Desabilitá-lo pode ajudar a prevenir ataques de força bruta."
+
+msgid "Disable Sitewide Search Function (Caution)"
+msgstr "Desativar a função de pesquisa em todo o site (cuidado)"
+
+msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
+msgstr "Após a desativação, o site não poderá mais pesquisar artigos. Isso pode prevenir ataques de força bruta e bloqueios de banco de dados."
+
+msgid "Disable F12 Key, Debug tools in Browser"
+msgstr "Desabilitar tecla F12, ferramentas de depuração no navegador"
+
+msgid "Disable F12 key, Debug tools in Browser"
+msgstr "Desabilitar tecla F12, ferramentas de depuração no navegador"
+
+msgid "URL to redirect if debug tool is opened"
+msgstr "URL para redirecionar se a ferramenta de depuração for aberta"
+
+msgid "URL will redirect to after pressing F12 (Default is: https://buxt.net)"
+msgstr "A URL será redirecionada após pressionar F12 (o padrão é: https://buxt.net)"
+
+msgid "Import Demo"
+msgstr "Importar demonstração"
+
+msgid "Create Page"
+msgstr "Criar página"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Crie uma <a href=\"%s\" target=\"_blank\">página</a> como na demonstração <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Create Menu"
+msgstr "Criar Menu"
+
+msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Crie um <a href=\"%s\" target=\"_blank\">menu</a> como na demonstração <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Create Widgets"
+msgstr "Criar widgets"
+
+msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Crie <a href=\"%s\" target=\"_blank\">widgets</a> como na demonstração <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Import Themes Demo"
+msgstr "Demonstração de importação de temas"
+
+msgid "Import Theme Demo"
+msgstr "Importar demonstração do tema"
+
+msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
+msgstr "Importar <a href=\"%s\" target=\"_blank\">conteúdo</a> de demonstração como na demonstração <a href=\"%s\" target=\"_blank\">%s</a>."
+
+msgid "Backup Settings"
+msgstr "Configurações de backup"
+
+msgid "This will only back up all theme option settings on this page. It does NOT back up WordPress data like posts. ⚠️ Note: The backup data saved here is in string format and has length validation. Do not manually modify the string to avoid corruption. If editing is needed, please import the data as-is and make changes through the input fields on the settings page."
+msgstr "Isso fará backup apenas de todas as configurações de opções do tema nesta página. NÃO faz backup de dados do WordPress, como postagens. ⚠️ Observação: os dados de backup salvos aqui estão em formato de string e possuem validação de comprimento. Não modifique a string manualmente para evitar corrupção. Se precisar editar, importe os dados como estão e faça as alterações nos campos de entrada na página de configurações."
+
+msgid "Cache Manager"
+msgstr "Gerenciador de Cache"
+
+msgid "Total Cache"
+msgstr "Cache total"
+
+msgid "Cache Empty!"
+msgstr "Cache vazio!"
+
+msgid "Delete All Cache"
+msgstr "Excluir todo o cache"
+
+msgid "Are you sure you want to remove all cache?"
+msgstr "Tem certeza de que deseja remover todo o cache?"
+
+msgid "Please wait..."
+msgstr "Por favor, aguarde..."
+
+msgid "Error while deleting cache"
+msgstr "Erro ao excluir o cache"
+
+msgid "An unexpected error occurred"
+msgstr "Ocorreu um erro inesperado"
+
+msgid "Theme License"
+msgstr "Licença de tema"
+
+msgid "No license activated. Please activate your license."
+msgstr "Nenhuma licença ativada. Por favor, ative sua licença."
+
+msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
+msgstr "Obrigado por usar este tema para sua criação. Primeiro, insira seu ID de Licença e Código de Licença do seu centro de usuários do ritheme.com e clique em Salvar para verificar."
+
+msgid "Status"
+msgstr "Status"
+
+msgid "License Key"
+msgstr "Chave de licença"
+
+msgid "License Email"
+msgstr "E-mail de licença"
+
+msgid "Activation Date"
+msgstr "Data de ativação"
+
+msgid "Expiration Date"
+msgstr "Data de validade"
+
+msgid "Lifetime License"
+msgstr "Licença vitalícia"
+
+msgid "Activation Domain"
+msgstr "Domínio de ativação"
+
+msgid "Update License"
+msgstr "Atualizar Licença"
+
+msgid "Deactivate License"
+msgstr "Desativar licença"
+
+msgid "License Code"
+msgstr "Código de licença"
+
+msgid "Activate"
+msgstr "Ativar"
+
+msgid "Embed"
+msgstr "Incorporar"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "MP4"
+msgstr "MP4"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Iframe"
+msgstr "Iframe"
+
+msgid "Images"
+msgstr "Imagens"
+
+msgid "less than 1 second ago"
+msgstr "menos de 1 segundo atrás"
+
+msgid "year ago"
+msgstr "ano atrás"
+
+msgid "month ago"
+msgstr "mês atrás"
+
+msgid "day ago"
+msgstr "dia atrás"
+
+msgid "hour ago"
+msgstr "uma hora atrás"
+
+msgid "minute ago"
+msgstr "minuto atrás"
+
+msgid "second ago"
+msgstr "segundo atrás"
+
+msgid "years ago"
+msgstr "anos atrás"
+
+msgid "months ago"
+msgstr "meses antes"
+
+msgid "days ago"
+msgstr "dias atrás"
+
+msgid "hours ago"
+msgstr "horas atrás"
+
+msgid "minutes ago"
+msgstr "minutos atrás"
+
+msgid "seconds ago"
+msgstr "segundos atrás"
+
+msgid "Broken Report"
+msgstr "Relatório quebrado"
+
+msgid "Invalid REST nonce."
+msgstr "Nonce REST inválido."
+
+msgid "Issues configuration saved successfully."
+msgstr "Configuração de problemas salva com sucesso."
+
+msgid "Item removed successfully"
+msgstr "Item removido com sucesso"
+
+msgid "Failed to remove item"
+msgstr "Falha ao remover o item"
+
+msgid "All items removed successfully"
+msgstr "Todos os itens foram removidos com sucesso"
+
+msgid "Failed to remove all items"
+msgstr "Falha ao remover todos os itens"
+
+msgid "Status updated successfully"
+msgstr "Status atualizado com sucesso"
+
+msgid "Failed to update status"
+msgstr "Falha ao atualizar o status"
+
+msgid "There are %d broken movies!"
+msgstr "Há %d filmes quebrados!"
+
+msgid "Go to Report"
+msgstr "Ir para o relatório"
+
+msgid "Broken Movie"
+msgstr "Filme Quebrado"
+
+msgid "Delete All"
+msgstr "Excluir tudo"
+
+msgid "Reporter"
+msgstr "Repórter"
+
+msgid "Issues"
+msgstr "Problemas"
+
+msgid "Time"
+msgstr "Tempo"
+
+msgid "Action"
+msgstr "Ação"
+
+msgid "Loading..."
+msgstr "Carregando..."
+
+msgid "Issues Configuration"
+msgstr "Configuração de problemas"
+
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+msgid "Separate categories with commas"
+msgstr "Separe as categorias com vírgulas"
+
+msgid "Add or remove categories"
+msgstr "Adicionar ou remover categorias"
+
+msgid "Choose from the most used categories"
+msgstr "Escolha entre as categorias mais utilizadas"
+
+msgid "Add Server"
+msgstr "Adicionar servidor"
+
+msgid "Server #1"
+msgstr "Servidor #1"
+
+msgid "Chapter #1"
+msgstr "Capítulo #1"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "Server Name"
+msgstr "Nome do servidor"
+
+msgid "Add New Chapter"
+msgstr "Adicionar novo capítulo"
+
+msgid "Import Chapters"
+msgstr "Importar capítulos"
+
+msgid "Paste your chapter list in the format: Title|Chapter Number|URL"
+msgstr "Cole sua lista de capítulos no formato: Título|Número do capítulo|URL"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "STT"
+msgstr "STT"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Index"
+msgstr "Índice"
+
+msgid "Chapter Name"
+msgstr "Nome do Capítulo"
+
+msgid "Ex: https://example.com/chapter-1 (OR) image1*image2*..."
+msgstr "Ex: https://example.com/chapter-1 (OU) imagem1*imagem2*..."
+
+msgid "Meta Videos"
+msgstr "Meta Vídeos"
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid "Ongoing"
+msgstr "Em andamento"
+
+msgid "Upcoming"
+msgstr "Por vir"
+
+msgid "Manga"
+msgstr "Mangá"
+
+msgid "Oneshot"
+msgstr "Um tiro"
+
+msgid "Manhua"
+msgstr "Manhua"
+
+msgid "Manhwa"
+msgstr "Manhwa"
+
+msgid "Doujinshi"
+msgstr "Doujinshi"
+
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgid "Optional if a Featured Image has already been set."
+msgstr "Opcional se uma Imagem em Destaque já tiver sido definida."
+
+msgid "Poster"
+msgstr "Poster"
+
+msgid "Displayed in vertical format. Optional if you want to use a different image from the Featured Image."
+msgstr "Exibido no formato vertical. Opcional se você quiser usar uma imagem diferente da Imagem em Destaque."
+
+msgid "Alternative Title"
+msgstr "Título alternativo"
+
+msgid "Optional backup or translated title."
+msgstr "Backup opcional ou título traduzido."
+
+msgid "Adult Content"
+msgstr "Conteúdo adulto"
+
+msgid "Enable if this manga contains 18+ content."
+msgstr "Habilite se este mangá contiver conteúdo para maiores de 18 anos."
+
+msgid "Schedule"
+msgstr "Agendar"
+
+msgid "Enable if this manga has a release schedule."
+msgstr "Habilite se este mangá tiver um cronograma de lançamento."
+
+msgid "Release Days"
+msgstr "Dias de lançamento"
+
+msgid "Select the days this manga is usually updated."
+msgstr "Selecione os dias em que este mangá geralmente é atualizado."
+
+msgid "Monday"
+msgstr "Segunda-feira"
+
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+msgid "Friday"
+msgstr "Sexta-feira"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "Release Time"
+msgstr "Tempo de lançamento"
+
+msgid "Optional — Time of day when the manga is usually released."
+msgstr "Opcional — Horário do dia em que o mangá geralmente é lançado."
+
+msgid "Enable Message"
+msgstr "Habilitar mensagem"
+
+msgid "Turn on to display a custom message on the manga page."
+msgstr "Ative para exibir uma mensagem personalizada na página do mangá."
+
+msgid "Message Content"
+msgstr "Conteúdo da mensagem"
+
+msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
+msgstr "Digite a mensagem a ser exibida (por exemplo, hora de lançamento, status da atualização). Deixe em branco se não for utilizado."
+
+msgid "Fetch Manga Info"
+msgstr "Obter informações sobre o mangá"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "Selecione uma fonte e insira o URL para preencher os dados automaticamente."
+
+msgid "Fetch"
+msgstr "Buscar"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "Insira um URL válido de otruyenapi.com."
+
+msgid "Fetching..."
+msgstr "Buscando..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "Dados obtidos e preenchidos com sucesso!"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "Falha ao buscar dados ou formato de resposta inválido."
+
+msgid "An error occurred during the request: "
+msgstr "Ocorreu um erro durante a solicitação:"
+
+msgid "Fetching from AniList..."
+msgstr "Buscando do AniList..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "Obtido e preenchido com sucesso do AniList!"
+
+msgid "AniList: No data found."
+msgstr "AniList: Nenhum dado encontrado."
+
+msgid "Please enter a valid URL or ID."
+msgstr "Insira um URL ou ID válido."
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "Não foi possível detectar a fonte. Insira um URL ou ID válido para Otruyen, MyAnimeList ou AniList."
+
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Custom SEO Title"
+msgstr "Título SEO personalizado"
+
+msgid "Leave blank to set nothing"
+msgstr "Deixe em branco para não definir nada"
+
+msgid "Custom SEO Keywords"
+msgstr "Palavras-chave SEO personalizadas"
+
+msgid "Keywords are separated by commas, leave blank to set nothing"
+msgstr "As palavras-chave são separadas por vírgulas, deixe em branco para não definir nada"
+
+msgid "Custom SEO Description"
+msgstr "Descrição SEO personalizada"
+
+msgid "BXManager"
+msgstr "Gerenciador de BX"
+
+msgid "Views Day"
+msgstr "Dia das Visualizações"
+
+msgid "Views Week"
+msgstr "Visualizações Semana"
+
+msgid "Views Month"
+msgstr "Visualizações Mês"
+
+msgid "Views All"
+msgstr "Visualizações Todas"
+
+msgid "Player & ADS"
+msgstr "Jogador e ADS"
+
+msgid "Player Size"
+msgstr "Tamanho do jogador"
+
+msgid "JWPlayer error detect"
+msgstr "Detecção de erro do JWPlayer"
+
+msgid "If the player cannot play the video, it will automatically switch to another server."
+msgstr "Se o player não puder reproduzir o vídeo, ele mudará automaticamente para outro servidor."
+
+msgid "Show Modal Popup"
+msgstr "Mostrar pop-up modal"
+
+msgid "Auto Play Alternative Server"
+msgstr "Servidor Alternativo de Reprodução Automática"
+
+msgid "Enable Auto Report"
+msgstr "Habilitar Relatório Automático"
+
+msgid "Enable to automatically report the episode when the user clicks on the report button."
+msgstr "Habilite para reportar automaticamente o episódio quando o usuário clicar no botão denunciar."
+
+msgid "Show Ads Vast"
+msgstr "Mostrar anúncios vastos"
+
+msgid "VAST Configuration"
+msgstr "Configuração VAST"
+
+msgid "Configure VAST settings for the player"
+msgstr "Configurar as configurações VAST para o player"
+
+msgid "VAST File"
+msgstr "Arquivo VAST"
+
+msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
+msgstr "A URL do arquivo VAST a ser usado para anúncios. Isso é necessário se você habilitar os anúncios do JWPlayer."
+
+msgid "Ads Message"
+msgstr "Mensagem de anúncios"
+
+msgid "Ex: XX seconds left in ad. XX cannot be changed"
+msgstr "Ex: XX segundos restantes no anúncio. XX não pode ser alterado"
+
+msgid "XX seconds left in ad"
+msgstr "Restam XX segundos no anúncio"
+
+msgid "Skip Offset"
+msgstr "Deslocamento de salto"
+
+msgid "The number of seconds before the skip button appears. Default is 5 seconds."
+msgstr "O número de segundos antes do botão de pular aparecer. O padrão é 5 segundos."
+
+msgid "Skip Text"
+msgstr "Pular texto"
+
+msgid "The text to display on the skip button. Default is \"Skip Ad\"."
+msgstr "O texto a ser exibido no botão Pular. O padrão é \"Pular anúncio\"."
+
+msgid "Skip Ad"
+msgstr "Pular anúncio"
+
+msgid "Skip Message"
+msgstr "Pular mensagem"
+
+msgid "The message to display when the skip button appears. Default is \"Skip after xxs seconds\"."
+msgstr "A mensagem a ser exibida quando o botão de pular aparece. O padrão é \"Pular após xxs segundos\"."
+
+msgid "Skip after xxs seconds"
+msgstr "Pular após xxs segundos"
+
+msgid "Show Logo Player"
+msgstr "Mostrar o reprodutor de logotipo"
+
+msgid "Logo Player Configuration"
+msgstr "Configuração do Logo Player"
+
+msgid "Show logo on both JWPlayer and embedded iframe player"
+msgstr "Mostrar logotipo no JWPlayer e no player de iframe incorporado"
+
+msgid "Logo File"
+msgstr "Arquivo de logotipo"
+
+msgid "The URL of an external JPG, PNG or GIF image to be used as watermark (e.g. /assets/logo.png). We recommend using 24 bit PNG images with transparency"
+msgstr "A URL de uma imagem externa JPG, PNG ou GIF a ser usada como marca d\'água (por exemplo, /assets/logo.png). Recomendamos o uso de imagens PNG de 24 bits com transparência."
+
+msgid "Logo link"
+msgstr "Link do logotipo"
+
+msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
+msgstr "A URL a ser visitada ao clicar na imagem da marca d\'água. Clicar em um logotipo não terá efeito, a menos que isso seja configurado."
+
+msgid "Logo Position"
+msgstr "Posição do logotipo"
+
+msgid "Top left"
+msgstr "Canto superior esquerdo"
+
+msgid "Top right"
+msgstr "Canto superior direito"
+
+msgid "Bottom left"
+msgstr "canto inferior esquerdo"
+
+msgid "Bottom right"
+msgstr "canto inferior direito"
+
+msgid "Control bar (JWPlayer only)"
+msgstr "Barra de controle (somente JWPlayer)"
+
+msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
+msgstr "Isso define o canto onde a marca d\'água será exibida. A opção \"barra de controle\" só é suportada no JWPlayer e adiciona o logotipo como o ícone mais à esquerda no grupo direito de botões na barra de controle."
+
+msgid "Auto hide logo (JWPlayer only)"
+msgstr "Ocultar logotipo automaticamente (somente JWPlayer)"
+
+msgid "This setting only applies to JWPlayer: Auto hide the logo when the mouse is not over the player."
+msgstr "Esta configuração se aplica somente ao JWPlayer: Ocultar automaticamente o logotipo quando o mouse não estiver sobre o player."
+
+msgid "Show Ads & Banner"
+msgstr "Mostrar anúncios e banners"
+
+msgid "Custom Ads Position"
+msgstr "Posição de anúncios personalizados"
+
+msgid "Ads Configuration"
+msgstr "Configuração de anúncios"
+
+msgid "You can add ads code for desktop and mobile devices"
+msgstr "Você pode adicionar código de anúncios para dispositivos móveis e de desktop"
+
+msgid "ADS Desktop"
+msgstr "ADS Desktop"
+
+msgid "Popup Ads Code Desktop"
+msgstr "Código de anúncios pop-up para desktop"
+
+msgid "Header Ads Code Desktop"
+msgstr "Código de anúncios de cabeçalho para desktop"
+
+msgid "Footer Ads Code Desktop"
+msgstr "Código de anúncios de rodapé para desktop"
+
+msgid "Top Player Ads Code Desktop"
+msgstr "Código de anúncios do Top Player para desktop"
+
+msgid "Under Player Ads Desktop"
+msgstr "Em Anúncios do Player Desktop"
+
+msgid "ADS Mobile"
+msgstr "ADS Móvel"
+
+msgid "Header Ads Code Mobile"
+msgstr "Código de anúncios de cabeçalho para celular"
+
+msgid "Footer Ads Code Mobile"
+msgstr "Código de anúncios de rodapé para celular"
+
+msgid "Top Player Ads Code Mobile"
+msgstr "Código de anúncios do Top Player para celular"
+
+msgid "Under Player Ads Mobile"
+msgstr "Em Anúncios de Jogadores para Celular"
+
+msgid "Resume Playback"
+msgstr "Retomar reprodução"
+
+msgid "Use localStorage to remember where the user left off and resume playback at the same time offset when revisiting the page."
+msgstr "Use localStorage para lembrar onde o usuário parou e retomar a reprodução no mesmo horário ao revisitar a página."
+
+msgid "Cache Player"
+msgstr "Reprodutor de cache"
+
+msgid "Enable cache link"
+msgstr "Habilitar link de cache"
+
+msgid "Cache Configuration"
+msgstr "Configuração de cache"
+
+msgid "Auto reset cache"
+msgstr "Redefinição automática do cache"
+
+msgid "Automatically clear the cache if the player error"
+msgstr "Limpar automaticamente o cache se ocorrer um erro no player"
+
+msgid "Cache time"
+msgstr "Tempo de cache"
+
+msgid "Cache expired time. (seconds)"
+msgstr "Tempo de expiração do cache (segundos)"
+
+msgid "Custom JWPlayer"
+msgstr "JWPlayer personalizado"
+
+msgid "JWPlayer Configuration"
+msgstr "Configuração do JWPlayer"
+
+msgid "Autostart"
+msgstr "Início automático"
+
+msgid "Auto Pause Player"
+msgstr "Pausa automática do player"
+
+msgid "Automatically pauses the player based on certain rules"
+msgstr "Pausa automaticamente o player com base em certas regras"
+
+msgid "Share Button"
+msgstr "Botão Compartilhar"
+
+msgid "Jwplayer License key"
+msgstr "Chave de licença do Jwplayer"
+
+msgid "A license key is required for the Pro, Premium and Ads edition."
+msgstr "Uma chave de licença é necessária para as edições Pro, Premium e Ads."
+
+msgid "Floating Player"
+msgstr "Jogador Flutuante"
+
+msgid "Default poster image"
+msgstr "Imagem de pôster padrão"
+
+msgid "Default Subtitle"
+msgstr "Legenda padrão"
+
+msgid "Add the url of the file subtitle.srt, .vtt or using the Upload button."
+msgstr "Adicione a url do arquivo subtitle.srt, .vtt ou use o botão Upload."
+
+msgid "Select a method to read subtitles"
+msgstr "Selecione um método para ler as legendas"
+
+msgid "Direct link"
+msgstr "Link direto"
+
+msgid "Use readsub.php"
+msgstr "Use readsub.php"
+
+msgid "Subtitle color"
+msgstr "Cor da legenda"
+
+msgid "Subtitle font size"
+msgstr "Tamanho da fonte da legenda"
+
+msgid "About text"
+msgstr "Sobre o texto"
+
+msgid "Custom text to display in the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "Texto personalizado para exibir no menu do botão direito. Só pode ser definido para as edições Premium e Ads."
+
+msgid "About link"
+msgstr "Sobre o link"
+
+msgid "Custom URL to link to when clicking the right-click menu. Can only be set for the Premium and Ads Editions"
+msgstr "URL personalizada para acessar ao clicar no menu do botão direito. Só pode ser definida para as edições Premium e Ads."
+
+msgid "Detect AdBlocker"
+msgstr "Detectar AdBlocker"
+
+msgid "Auto detects ad blockers and displays a notification to users"
+msgstr "Detecta automaticamente bloqueadores de anúncios e exibe uma notificação aos usuários"
+
+msgid "Adblock Notices"
+msgstr "Avisos de bloqueio de anúncios"
+
+msgid "Please disable AdBlock to continue watching."
+msgstr "Desative o AdBlock para continuar assistindo."
+
+msgid "Ex: \"Users please remove ad blocker!\""
+msgstr "Ex: \"Usuários, por favor, removam o bloqueador de anúncios!\""
+
+msgid "Search"
+msgstr "Procurar"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "View"
+msgstr "Visualizar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Update"
+msgstr "Atualizar"
+
+msgid "Add New "
+msgstr "Adicionar novo"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Add New Episode"
+msgstr "Adicionar novo episódio"
+
+msgid "Slug"
+msgstr "Lesma"
+
+msgid "Add Subtitle"
+msgstr "Adicionar legenda"
+
+msgid "Label"
+msgstr "Rótulo"
+
+msgid "File"
+msgstr "Arquivo"
+
+msgid "Movie Details"
+msgstr "Detalhes do filme"
+
+msgid "TMDB ID"
+msgstr "ID do TMDB"
+
+msgid "Enter the TMDB ID for this movie."
+msgstr "Digite o ID do TMDB para este filme."
+
+msgid "IMDB ID"
+msgstr "ID do IMDB"
+
+msgid "Enter the IMDB ID for this movie."
+msgstr "Digite o ID do IMDB para este filme."
+
+msgid "Runtime"
+msgstr "Tempo de execução"
+
+msgid "Enter the runtime of the movie."
+msgstr "Insira o tempo de execução do filme."
+
+msgid "Episodes"
+msgstr "Episódios"
+
+msgid "Enter the episode number of the movie."
+msgstr "Digite o número do episódio do filme."
+
+msgid "Total Episodes"
+msgstr "Episódios totais"
+
+msgid "Enter the total number of episodes for the movie."
+msgstr "Digite o número total de episódios do filme."
+
+msgid "Quality"
+msgstr "Qualidade"
+
+msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
+msgstr "Digite a qualidade do filme (por exemplo, 1080p, 720p)."
+
+msgid "Single Movies"
+msgstr "Filmes individuais"
+
+msgid "TV Series"
+msgstr "Série de TV"
+
+msgid "TV Shows"
+msgstr "Programas de TV"
+
+msgid "Theater Movie"
+msgstr "Cinema de Teatro"
+
+msgid "Cartoon"
+msgstr "Desenho animado"
+
+msgid "Trailer"
+msgstr "Reboque"
+
+msgid "OnGoing"
+msgstr "Em andamento"
+
+msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
+msgstr "Opcional se uma Imagem em Destaque já tiver sido definida. Somente os formatos de imagem .png, .jpg e .jpeg são permitidos."
+
+msgid "Trailer Links"
+msgstr "Links do trailer"
+
+msgid "Upload or Paste Trailer Links"
+msgstr "Carregar ou colar links de trailer"
+
+msgid "Schedule Content"
+msgstr "Conteúdo da programação"
+
+msgid "Enable if this movie has a release schedule."
+msgstr "Habilite se este filme tiver um cronograma de lançamento."
+
+msgid "Schedule Day"
+msgstr "Dia da programação"
+
+msgid "Select the day of the week for the movie release schedule."
+msgstr "Selecione o dia da semana para a programação de lançamento do filme."
+
+msgid "Enable Related Movies"
+msgstr "Habilitar filmes relacionados"
+
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "Ative ou desative a exibição de filmes ou temporadas relacionadas a esta publicação. Quando ativada, você pode selecionar manualmente as publicações relacionadas abaixo, ou o sistema encontrará automaticamente publicações relacionadas com base no título (por exemplo, temporadas correspondentes, como \"Blood Demon Chaos - Temporada 1\"). Desative esta opção para ocultar conteúdo relacionado."
+
+msgid "Select Post"
+msgstr "Selecione a postagem"
+
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "Selecione um filme ou temporada relacionada para associar a esta publicação. Use a busca para encontrar publicações por título e arraste para reordená-las, se necessário. As publicações selecionadas serão exibidas como conteúdo relacionado no frontend."
+
+msgid "Custom Title"
+msgstr "Título personalizado"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "Insira um título personalizado para a publicação selecionada a ser exibida no frontend. Se deixado em branco, o título original da publicação será usado automaticamente. Use esta opção para fornecer um título mais curto ou descritivo, se necessário."
+
+msgid "Movies Settings"
+msgstr "Configurações de filmes"
+
+msgid "Add Video"
+msgstr "Adicionar vídeo"
+
+msgid "Add New Video"
+msgstr "Adicionar novo vídeo"
+
+msgid "Enter video name"
+msgstr "Digite o nome do vídeo"
+
+msgid "Enter video link"
+msgstr "Insira o link do vídeo"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "Active Theme"
+msgstr "Tema ativo"
+
+msgid "Data is being imported please be patient..."
+msgstr "Os dados estão sendo importados. Por favor, seja paciente..."
+
+msgid "An error occurred"
+msgstr "Ocorreu um erro"
+
+msgid "Have fun!"
+msgstr "Divirta-se!"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "List Episode"
+msgstr "Listar Episódio"
+
+msgid "Content"
+msgstr "Contente"
+
+msgid "Are you sure you want to delete this server?"
+msgstr "Tem certeza de que deseja excluir este servidor?"
+
+msgid "Are you sure you want to delete this episode?"
+msgstr "Tem certeza de que deseja excluir este episódio?"
+
+msgid "Are you sure you want to delete this video?"
+msgstr "Tem certeza de que deseja excluir este vídeo?"
+
+msgid "Are you sure you want to delete this chapter?"
+msgstr "Tem certeza de que deseja excluir este capítulo?"
+
+msgid "This video file cannot be played"
+msgstr "Este arquivo de vídeo não pode ser reproduzido"
+
+msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
+msgstr "Não conseguimos encontrar o vídeo que você procura. Pode haver vários motivos para isso, como, por exemplo, a remoção do vídeo pelo proprietário!"
+
+msgid "To continue watching, please click on the \"Reload Player\" button"
+msgstr "Para continuar assistindo, clique no botão \"Recarregar Player\""
+
+msgid "or click on the buttons below"
+msgstr "ou clique nos botões abaixo"
+
+msgid "Reload Player"
+msgstr "Recarregar jogador"
+
+msgid "Do you want to continue viewing from the saved location or start from the beginning?"
+msgstr "Você quer continuar visualizando a partir do local salvo ou começar do início?"
+
+msgid "Continue watching"
+msgstr "Continue assistindo"
+
+msgid "Automatically resumes your videos from where you played them last at"
+msgstr "Retoma automaticamente seus vídeos de onde você os reproduziu pela última vez"
+
+msgid "Playback"
+msgstr "Reprodução"
+
+msgid "Loading, please wait..."
+msgstr "Carregando, aguarde..."
+
+msgid "Switching to backup server..."
+msgstr "Mudando para o servidor de backup..."
+
+msgid "Error loading video."
+msgstr "Erro ao carregar o vídeo."
+
+msgid "Empty!"
+msgstr "Vazio!"
+
+msgid "All items removed successfully!"
+msgstr "Todos os itens foram removidos com sucesso!"
+
+msgid "Failed to remove items!"
+msgstr "Falha ao remover itens!"
+
+msgid "An error occurred while removing all items."
+msgstr "Ocorreu um erro ao remover todos os itens."
+
+msgid "Marked as resolved successfully!"
+msgstr "Marcado como resolvido com sucesso!"
+
+msgid "Failed to mark as resolved!"
+msgstr "Falha ao marcar como resolvido!"
+
+msgid "An error occurred while updating the status."
+msgstr "Ocorreu um erro ao atualizar o status."
+
+msgid "Item removed successfully!"
+msgstr "Item removido com sucesso!"
+
+msgid "Failed to remove item!"
+msgstr "Falha ao remover o item!"
+
+msgid "An error occurred while removing the item."
+msgstr "Ocorreu um erro ao remover o item."
+
+msgid "Mark As Resolved"
+msgstr "Marcar como resolvido"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Prev"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Próximo"
+
+msgid "Saved successfully!"
+msgstr "Salvo com sucesso!"
+
+msgid "Failed to save!"
+msgstr "Falha ao salvar!"
+
+msgid "An error occurred while saving the issues."
+msgstr "Ocorreu um erro ao salvar os problemas."
+
+msgid "Report an Issue"
+msgstr "Relatar um problema"
+
+msgid "Send Report"
+msgstr "Enviar relatório"
+
+msgid "Please select at least one issue."
+msgstr "Selecione pelo menos um problema."
+
+msgid "Report sent successfully!"
+msgstr "Relatório enviado com sucesso!"
+
+msgid "Failed to send report!"
+msgstr "Falha ao enviar o relatório!"
+
+msgid "We are unable to find the video you are looking for.<br>There could be several reasons for this, for example it got removed by the owner or this content is not available in your country!"
+msgstr "Não conseguimos encontrar o vídeo que você está procurando.<br>Pode haver vários motivos para isso, por exemplo, ele foi removido pelo proprietário ou este conteúdo não está disponível em seu país!"
+
+msgid "Copyright infringement!"
+msgstr "Violação de direitos autorais!"
+
+msgid "Choose Server"
+msgstr "Escolha o servidor"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Are you sure you want to delete this item?"
+msgstr "Tem certeza de que deseja excluir este item?"
+
+msgid "Are you sure you want to delete %d selected items?"
+msgstr "Tem certeza de que deseja excluir %d itens selecionados?"
+
+msgid "Updated successfully!"
+msgstr "Atualizado com sucesso!"
+
+msgid "Deleted successfully!"
+msgstr "Excluído com sucesso!"
+
+msgid "An error occurred: %s"
+msgstr "Ocorreu um erro: %s"
+
+msgid "Please select at least one item"
+msgstr "Selecione pelo menos um item"
+
+msgid "Processing..."
+msgstr "Processamento..."
+
+msgid "Search:"
+msgstr "Procurar:"
+
+msgid "Show _MENU_ entries"
+msgstr "Mostrar entradas do _MENU_"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mostrando _INÍCIO_ a _FIM_ de _TOTAL_ entradas"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mostrando 0 a 0 de 0 entradas"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrado de _MAX_ entradas totais)"
+
+msgid "First"
+msgstr "Primeiro"
+
+msgid "Last"
+msgstr "Durar"
+
+msgid "Previous"
+msgstr "Anterior"
+

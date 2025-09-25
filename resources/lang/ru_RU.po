@@ -1,28 +1,17 @@
-# Date created: 2025-09-22 04:41:28 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 08:56+0700\n"
-"Last-Translator: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
 "Language-Team: \n"
-"Language: ru_RU\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
-
-msgid "Movies Code"
-msgstr "Код фильмов"
-
-msgid "Quality"
-msgstr "Качество"
-
-msgid "Runtime"
-msgstr "Время выполнения"
-
-msgid "Copyright"
-msgstr "Авторские права"
+"X-Poedit-Basepath: .\n"
 
 msgid "Title"
 msgstr "Заголовок"
@@ -84,41 +73,101 @@ msgstr "Управление функцией комментирования н�
 msgid "Basic Settings"
 msgstr "Основные настройки"
 
-msgid "SEO Settings"
-msgstr "Настройки SEO"
-
 msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
 msgstr "Возможности SEO-оптимизации темы:<br>1. Поддерживает пользовательскую замену стандартного разделителя заголовков WordPress."
 
 msgid "Simplify Category Alias"
 msgstr "Упростить псевдоним категории"
 
-msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
-msgstr "Удалите префикс «category/» из ссылок на категории статей. Как правило, рекомендуется сохранить правила WordPress по умолчанию."
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "Удалите префикс «category/» из ссылок категорий, чтобы упростить URL-адреса. Рекомендуется сохранить стандартные правила WordPress для обеспечения согласованности SEO."
 
-msgid "Categories Type"
-msgstr "Категории Тип"
+msgid "Categories Display Style"
+msgstr "Стиль отображения категорий"
 
-msgid "Built-in SEO Features"
-msgstr "Встроенные функции SEO"
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "Выберите, как категории будут отображаться на сайте. Выберите стиль, соответствующий дизайну вашей темы."
+
+msgid "Enable Built-in SEO Features"
+msgstr "Включить встроенные функции SEO"
 
 msgid "Built-in SEO Settings"
 msgstr "Встроенные настройки SEO"
 
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "Автоматически создавать стандартные функции SEO Google"
+
 msgid "Site-wide Link Separator"
 msgstr "Разделитель ссылок на всем сайте"
 
-msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
-msgstr "После выбора не меняйте значение на полпути, так как это неоптимизировано для SEO. Обычно это «-» или «_»."
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "Установите разделитель для SEO-заголовков (например, «-» или «|»). Не меняйте его после настройки, чтобы обеспечить единообразие SEO."
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "Включить встроенную конфигурацию Yoast SEO"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "Автоматически настраивайте параметры Yoast SEO (заголовки, таксономии, хлебные крошки) для наилучшего внутреннего SEO."
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "Включить встроенную настройку SEO для расчета рейтинга"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "Автоматически настройте параметры SEO Rank Math и зарегистрируйте пользовательские переменные для динамических заголовков и метаописаний."
+
+msgid "Bing Webmaster Verification Code"
+msgstr "Проверочный код Bing Webmaster"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "Введите проверочный код Microsoft Bing."
+
+msgid "Yandex Verification Code"
+msgstr "Код подтверждения Яндекса"
+
+msgid "Enter your Yandex verification code."
+msgstr "Введите ваш проверочный код Яндекс.Диск."
+
+msgid "Google Site Verification Code"
+msgstr "Код подтверждения сайта Google"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "Введите проверочный код Google Search Console."
+
+msgid "Baidu Site Verification Code"
+msgstr "Код проверки сайта Baidu"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "Введите проверочный код Baidu Webmaster Tools."
 
 msgid "Site Keywords"
 msgstr "Ключевые слова сайта"
 
-msgid "3-5 keywords, separated by commas"
-msgstr "3-5 ключевых слов, разделенных запятыми"
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "Введите 3–5 ключевых слов, релевантных вашему сайту, разделив их запятыми (например, фильмы, потоковое вещание, развлечения)."
 
 msgid "Site Description"
 msgstr "Описание сайта"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "Введите краткое описание вашего сайта (рекомендуется 50–160 символов) для метаописаний поисковых систем."
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "SEO-заголовок (страница с информацией о фильме)"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "Настройте SEO-заголовок для страницы с информацией о фильме. Используйте плейсхолдеры для динамической подстановки информации о фильме."
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "Доступные заполнители: {title} = название фильма, {slug} = название эпизода, {quality} = качество фильма, {release} = год выпуска, {alt_title} = оригинальное название, {runtime} = продолжительность, {country} = страна"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "SEO-заголовок (страница просмотра фильма)"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "Настройте SEO-заголовок для страницы просмотра фильма. Используйте плейсхолдеры для динамической подстановки информации о фильме."
+
+msgid "SEO Settings"
+msgstr "Настройки SEO"
 
 msgid "Taxonomy Custom"
 msgstr "Таксономия Пользовательская"
@@ -142,7 +191,7 @@ msgid "Taxonomy Field Unique Identifier"
 msgstr "Уникальный идентификатор поля таксономии"
 
 msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "Должен быть на чистом английском языке, например, geshhi, yanse, szie, color, <b style=\"color:red;\">После установки, если уже выбраны связанные статьи, этот идентификатор нельзя изменить на полпути</b>"
+msgstr "Должен быть на чистом английском языке, например, geshhi, yanse, szie, color, <b style=\"color:red;\">После установки, если уже выбраны связанные статьи, этот идентификатор нельзя будет изменить на полпути</b>"
 
 msgid "Option Type"
 msgstr "Тип опции"
@@ -642,6 +691,45 @@ msgstr "Содержание сообщения"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "Введите сообщение для отображения (например, время выпуска, статус обновления). Оставьте поле пустым, если не используется."
 
+msgid "Fetch Manga Info"
+msgstr "Получить информацию о манге"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "Выберите источник и введите URL-адрес для автоматического заполнения данных."
+
+msgid "Fetch"
+msgstr "Принести"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "Введите действительный URL-адрес с otruyenapi.com."
+
+msgid "Fetching..."
+msgstr "Загрузка..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "Данные успешно извлечены и заполнены!"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "Не удалось получить данные или неверный формат ответа."
+
+msgid "An error occurred during the request: "
+msgstr "Во время запроса произошла ошибка:"
+
+msgid "Fetching from AniList..."
+msgstr "Извлечение из AniList..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "Успешно извлечено и заполнено из AniList!"
+
+msgid "AniList: No data found."
+msgstr "AniList: Данные не найдены."
+
+msgid "Please enter a valid URL or ID."
+msgstr "Введите действительный URL или идентификатор."
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "Не удалось определить источник. Введите действительный URL или идентификатор Otruyen, MyAnimeList или AniList."
+
 msgid "Custom Fields"
 msgstr "Пользовательские поля"
 
@@ -665,6 +753,18 @@ msgstr "Индивидуальное SEO-описание"
 
 msgid "BXManager"
 msgstr "BXManager"
+
+msgid "Views Day"
+msgstr "День просмотров"
+
+msgid "Views Week"
+msgstr "Просмотры за неделю"
+
+msgid "Views Month"
+msgstr "Просмотры за месяц"
+
+msgid "Views All"
+msgstr "Просмотры всех"
 
 msgid "Player & ADS"
 msgstr "Плеер и реклама"
@@ -987,6 +1087,9 @@ msgstr "Идентификатор IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "Введите идентификатор IMDB для этого фильма."
 
+msgid "Runtime"
+msgstr "Время выполнения"
+
 msgid "Enter the runtime of the movie."
 msgstr "Укажите продолжительность фильма."
 
@@ -1001,6 +1104,9 @@ msgstr "Всего эпизодов"
 
 msgid "Enter the total number of episodes for the movie."
 msgstr "Введите общее количество серий фильма."
+
+msgid "Quality"
+msgstr "Качество"
 
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Введите качество фильма (например, 1080p, 720p)."
@@ -1050,14 +1156,20 @@ msgstr "Выберите день недели для просмотра гра�
 msgid "Enable Related Movies"
 msgstr "Включить похожие фильмы"
 
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "Включите или отключите отображение связанных фильмов или сезонов для этой публикации. Если эта опция включена, вы можете вручную выбрать похожие публикации ниже, или система автоматически найдёт похожие публикации по названию (например, соответствующие сезоны, например, «Blood Demon Chaos - Season 1»). Отключите эту функцию, чтобы скрыть связанный контент."
+
 msgid "Select Post"
 msgstr "Выбрать пост"
 
-msgid "Select related seasons for this movies."
-msgstr "Выберите соответствующие сезоны для этого фильма."
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "Выберите связанный фильм или сезон для этой публикации. Воспользуйтесь поиском, чтобы найти публикации по названию, и при необходимости перетащите их, чтобы изменить порядок. Выбранные публикации будут отображаться как связанный контент во внешнем интерфейсе."
 
 msgid "Custom Title"
 msgstr "Пользовательский заголовок"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "Введите название выбранной публикации, которое будет отображаться во внешнем интерфейсе. Если оставить поле пустым, автоматически будет использовано исходное название публикации. При необходимости используйте это поле, чтобы указать более короткое или описательное название."
 
 msgid "Movies Settings"
 msgstr "Настройки фильмов"
@@ -1275,38 +1387,3 @@ msgstr "Последний"
 msgid "Previous"
 msgstr "Предыдущий"
 
-msgid "History"
-msgstr "История"
-
-msgid "Profile"
-msgstr "Профиль"
-
-msgid "Favorite"
-msgstr "Любимый"
-
-msgid "Login"
-msgstr "Авторизоваться"
-
-msgid "Movies"
-msgstr "Фильмы"
-
-msgid "TV Show"
-msgstr "ТВ-шоу"
-
-msgid "Featured"
-msgstr "Избранное"
-
-msgid "Register"
-msgstr "Зарегистрироваться"
-
-msgid "Reset"
-msgstr "Перезагрузить"
-
-msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "Включить или отключить отображение связанных фильмов или сезонов для этой записи. При включении вы можете вручную выбрать связанные записи ниже, или система автоматически найдет связанные записи на основе заголовка (например, соответствующие сезоны, такие как «Хаос Кровавого Демона - Сезон 1»). Отключите, чтобы скрыть связанный контент."
-
-msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
-msgstr "Выберите связанный фильм или сезон для связи с этой записью. Используйте поиск, чтобы найти записи по заголовку, и перетаскивайте для изменения порядка при необходимости. Выбранные записи будут отображаться как связанный контент на фронтенде."
-
-msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
-msgstr "Введите пользовательский заголовок для выбранной записи для отображения на фронтенде. Если оставить пустым, будет автоматически использован исходный заголовок записи. Используйте это, чтобы указать более короткий или описательный заголовок при необходимости."

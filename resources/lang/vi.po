@@ -1,28 +1,17 @@
-# Date created: 2025-09-22 04:41:44 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 08:56+0700\n"
-"Last-Translator: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
 "Language-Team: \n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
-
-msgid "Movies Code"
-msgstr "Mã phim"
-
-msgid "Quality"
-msgstr "Chất lượng"
-
-msgid "Runtime"
-msgstr "Thời gian chạy"
-
-msgid "Copyright"
-msgstr "Bản quyền"
+"X-Poedit-Basepath: .\n"
 
 msgid "Title"
 msgstr "Tiêu đề"
@@ -84,41 +73,101 @@ msgstr "Kiểm soát tính năng bình luận trên trang web. Tắt nếu khôn
 msgid "Basic Settings"
 msgstr "Cài đặt cơ bản"
 
-msgid "SEO Settings"
-msgstr "Cài đặt SEO"
-
 msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
 msgstr "Tính năng tối ưu hóa SEO cho chủ đề:<br>1. Hỗ trợ thay thế tùy chỉnh dấu phân cách tiêu đề mặc định của WordPress"
 
 msgid "Simplify Category Alias"
 msgstr "Đơn giản hóa bí danh danh mục"
 
-msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
-msgstr "Xóa tiền tố danh mục/thể loại khỏi liên kết danh mục bài viết. Nhìn chung, nên giữ nguyên các quy tắc mặc định của WP."
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "Xóa tiền tố \"category/\" khỏi liên kết danh mục để đơn giản hóa URL. Khuyến nghị giữ nguyên các quy tắc mặc định của WordPress để đảm bảo tính nhất quán về SEO."
 
-msgid "Categories Type"
-msgstr "Loại danh mục"
+msgid "Categories Display Style"
+msgstr "Kiểu hiển thị danh mục"
 
-msgid "Built-in SEO Features"
-msgstr "Tính năng SEO tích hợp"
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "Chọn cách hiển thị danh mục trên giao diện. Chọn kiểu phù hợp với thiết kế giao diện của bạn."
+
+msgid "Enable Built-in SEO Features"
+msgstr "Kích hoạt tính năng SEO tích hợp"
 
 msgid "Built-in SEO Settings"
 msgstr "Cài đặt SEO tích hợp"
 
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "Tự động tạo các hàm SEO chuẩn của Google"
+
 msgid "Site-wide Link Separator"
 msgstr "Bộ phân tách liên kết toàn trang web"
 
-msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
-msgstr "Sau khi chọn, đừng thay đổi giữa chừng vì nó không thân thiện với SEO. Thường là \"-\" hoặc \"_\"."
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "Đặt dấu phân cách cho tiêu đề SEO (ví dụ: \"-\" hoặc \"|\"). Tránh thay đổi dấu này sau khi thiết lập để duy trì tính nhất quán của SEO."
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "Kích hoạt cấu hình Yoast SEO tích hợp"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "Tự động cấu hình cài đặt Yoast SEO (tiêu đề, phân loại, đường dẫn) để có SEO trên trang tốt nhất."
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "Kích hoạt cấu hình SEO Rank Math tích hợp"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "Tự động cấu hình cài đặt SEO Rank Math và đăng ký các biến tùy chỉnh cho tiêu đề động và mô tả meta."
+
+msgid "Bing Webmaster Verification Code"
+msgstr "Mã xác minh quản trị trang web Bing"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "Nhập mã xác minh Microsoft Bing của bạn."
+
+msgid "Yandex Verification Code"
+msgstr "Mã xác minh Yandex"
+
+msgid "Enter your Yandex verification code."
+msgstr "Nhập mã xác minh Yandex của bạn."
+
+msgid "Google Site Verification Code"
+msgstr "Mã xác minh trang web của Google"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "Nhập mã xác minh Google Search Console của bạn."
+
+msgid "Baidu Site Verification Code"
+msgstr "Mã xác minh trang web Baidu"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "Nhập mã xác minh Công cụ quản trị trang web Baidu của bạn."
 
 msgid "Site Keywords"
 msgstr "Từ khóa trang web"
 
-msgid "3-5 keywords, separated by commas"
-msgstr "3-5 từ khóa, cách nhau bằng dấu phẩy"
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "Nhập 3-5 từ khóa có liên quan đến trang web của bạn, cách nhau bằng dấu phẩy (ví dụ: phim, phát trực tuyến, giải trí)."
 
 msgid "Site Description"
 msgstr "Mô tả trang web"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "Nhập mô tả ngắn gọn về trang web của bạn (khuyến nghị từ 50-160 ký tự) cho phần mô tả siêu dữ liệu của công cụ tìm kiếm."
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "Tiêu đề SEO (Trang thông tin phim)"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "Tùy chỉnh tiêu đề SEO cho trang thông tin phim. Sử dụng trình giữ chỗ để chèn thông tin phim một cách linh hoạt."
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "Chỗ giữ chỗ có sẵn: {title} = tiêu đề phim, {slug} = slug tập phim, {quality} = chất lượng phim, {release} = năm phát hành, {alt_title} = tiêu đề gốc, {runtime} = thời lượng, {country} = quốc gia"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "Tiêu đề SEO (Trang xem phim)"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "Tùy chỉnh tiêu đề SEO cho trang xem phim. Sử dụng trình giữ chỗ để chèn thông tin phim một cách linh hoạt."
+
+msgid "SEO Settings"
+msgstr "Cài đặt SEO"
 
 msgid "Taxonomy Custom"
 msgstr "Phân loại tùy chỉnh"
@@ -642,6 +691,45 @@ msgstr "Nội dung tin nhắn"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "Nhập thông báo để hiển thị (ví dụ: thời gian phát hành, trạng thái cập nhật). Để trống nếu không sử dụng."
 
+msgid "Fetch Manga Info"
+msgstr "Lấy thông tin Manga"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "Chọn nguồn và nhập URL để tự động điền dữ liệu."
+
+msgid "Fetch"
+msgstr "Tìm về"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "Vui lòng nhập URL hợp lệ từ otruyenapi.com."
+
+msgid "Fetching..."
+msgstr "Đang tải..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "Đã lấy và điền dữ liệu thành công!"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "Không thể lấy dữ liệu hoặc định dạng phản hồi không hợp lệ."
+
+msgid "An error occurred during the request: "
+msgstr "Đã xảy ra lỗi trong quá trình yêu cầu:"
+
+msgid "Fetching from AniList..."
+msgstr "Đang lấy từ AniList..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "Đã tải và điền thông tin thành công từ AniList!"
+
+msgid "AniList: No data found."
+msgstr "AniList: Không tìm thấy dữ liệu."
+
+msgid "Please enter a valid URL or ID."
+msgstr "Vui lòng nhập URL hoặc ID hợp lệ."
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "Không tìm thấy nguồn. Vui lòng nhập URL hoặc ID hợp lệ cho Otruyen, MyAnimeList hoặc AniList."
+
 msgid "Custom Fields"
 msgstr "Trường tùy chỉnh"
 
@@ -665,6 +753,18 @@ msgstr "Mô tả SEO tùy chỉnh"
 
 msgid "BXManager"
 msgstr "Trình quản lý BX"
+
+msgid "Views Day"
+msgstr "Ngày quan điểm"
+
+msgid "Views Week"
+msgstr "Tuần lễ quan điểm"
+
+msgid "Views Month"
+msgstr "Tháng lượt xem"
+
+msgid "Views All"
+msgstr "Xem tất cả"
 
 msgid "Player & ADS"
 msgstr "Trình phát & Quảng cáo"
@@ -709,7 +809,7 @@ msgid "Ads Message"
 msgstr "Tin nhắn quảng cáo"
 
 msgid "Ex: XX seconds left in ad. XX cannot be changed"
-msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi được"
+msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi"
 
 msgid "XX seconds left in ad"
 msgstr "Còn XX giây nữa là hết quảng cáo"
@@ -979,13 +1079,16 @@ msgid "TMDB ID"
 msgstr "Mã số TMDB"
 
 msgid "Enter the TMDB ID for this movie."
-msgstr "Nhập ID TMDB cho phim này."
+msgstr "Nhập ID TMDB cho bộ phim này."
 
 msgid "IMDB ID"
 msgstr "Mã IMDB"
 
 msgid "Enter the IMDB ID for this movie."
 msgstr "Nhập ID IMDB cho bộ phim này."
+
+msgid "Runtime"
+msgstr "Thời gian chạy"
 
 msgid "Enter the runtime of the movie."
 msgstr "Nhập thời lượng của bộ phim."
@@ -1001,6 +1104,9 @@ msgstr "Tổng số tập"
 
 msgid "Enter the total number of episodes for the movie."
 msgstr "Nhập tổng số tập của bộ phim."
+
+msgid "Quality"
+msgstr "Chất lượng"
 
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Nhập chất lượng của phim (ví dụ: 1080p, 720p)."
@@ -1027,7 +1133,7 @@ msgid "OnGoing"
 msgstr "Đang diễn ra"
 
 msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
-msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ chấp nhận định dạng ảnh .png, .jpg, .jpeg."
+msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ cho phép định dạng ảnh .png, .jpg, .jpeg."
 
 msgid "Trailer Links"
 msgstr "Liên kết Trailer"
@@ -1050,14 +1156,20 @@ msgstr "Chọn ngày trong tuần để xem lịch phát hành phim."
 msgid "Enable Related Movies"
 msgstr "Bật Phim liên quan"
 
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "Bật hoặc tắt hiển thị phim hoặc mùa liên quan cho bài viết này. Khi bật, bạn có thể chọn thủ công các bài viết liên quan bên dưới, hoặc hệ thống sẽ tự động tìm bài viết liên quan dựa trên tiêu đề (ví dụ: các mùa phù hợp như \"Blood Demon Chaos - Phần 1\"). Tắt tính năng này để ẩn nội dung liên quan."
+
 msgid "Select Post"
 msgstr "Chọn bài đăng"
 
-msgid "Select related seasons for this movies."
-msgstr "Chọn các mùa liên quan đến bộ phim này."
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "Chọn một bộ phim hoặc mùa phim liên quan để liên kết với bài đăng này. Sử dụng chức năng tìm kiếm để tìm bài đăng theo tiêu đề và kéo để sắp xếp lại nếu cần. Các bài đăng đã chọn sẽ được hiển thị dưới dạng nội dung liên quan ở giao diện người dùng."
 
 msgid "Custom Title"
 msgstr "Tiêu đề tùy chỉnh"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "Nhập tiêu đề tùy chỉnh cho bài viết đã chọn để hiển thị trên giao diện người dùng. Nếu để trống, tiêu đề bài viết gốc sẽ được tự động sử dụng. Sử dụng tùy chọn này để cung cấp tiêu đề ngắn gọn hoặc mô tả chi tiết hơn nếu cần."
 
 msgid "Movies Settings"
 msgstr "Cài đặt phim"
@@ -1275,38 +1387,3 @@ msgstr "Cuối cùng"
 msgid "Previous"
 msgstr "Trước"
 
-msgid "History"
-msgstr "Lịch sử"
-
-msgid "Profile"
-msgstr "Hồ sơ"
-
-msgid "Favorite"
-msgstr "Yêu thích"
-
-msgid "Login"
-msgstr "Đăng nhập"
-
-msgid "Movies"
-msgstr "Phim"
-
-msgid "TV Show"
-msgstr "Chương trình truyền hình"
-
-msgid "Featured"
-msgstr "Nổi bật"
-
-msgid "Register"
-msgstr "Đăng ký"
-
-msgid "Reset"
-msgstr "Cài lại"
-
-msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "Bật hoặc tắt hiển thị các phim hoặc mùa liên quan cho bài viết này. Khi bật, bạn có thể chọn thủ công các bài viết liên quan bên dưới, hoặc hệ thống sẽ tự động tìm các bài viết liên quan dựa trên tiêu đề (ví dụ: các mùa phù hợp như \"Huyết Quỷ Hỗn Chiến - Phần 1\"). Tắt để ẩn nội dung liên quan."
-
-msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
-msgstr "Chọn một phim hoặc mùa liên quan để liên kết với bài viết này. Sử dụng chức năng tìm kiếm để tìm bài viết theo tiêu đề và kéo để sắp xếp lại nếu cần. Các bài viết được chọn sẽ được hiển thị dưới dạng nội dung liên quan trên giao diện người dùng."
-
-msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
-msgstr "Nhập tiêu đề tùy chỉnh cho bài viết được chọn để hiển thị trên giao diện người dùng. Nếu để trống, tiêu đề gốc của bài viết sẽ được sử dụng tự động. Sử dụng tính năng này để cung cấp tiêu đề ngắn hơn hoặc mô tả rõ ràng hơn nếu cần."

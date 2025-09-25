@@ -1,28 +1,17 @@
-# Date created: 2025-09-22 04:41:35 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 08:56+0700\n"
-"Last-Translator: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
 "Language-Team: \n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
-
-msgid "Movies Code"
-msgstr "รหัสภาพยนตร์"
-
-msgid "Quality"
-msgstr "คุณภาพ"
-
-msgid "Runtime"
-msgstr "รันไทม์"
-
-msgid "Copyright"
-msgstr "ลิขสิทธิ์"
+"X-Poedit-Basepath: .\n"
 
 msgid "Title"
 msgstr "ชื่อ"
@@ -84,41 +73,101 @@ msgstr "ควบคุมฟีเจอร์แสดงความคิด
 msgid "Basic Settings"
 msgstr "การตั้งค่าพื้นฐาน"
 
-msgid "SEO Settings"
-msgstr "การตั้งค่า SEO"
-
 msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
 msgstr "คุณสมบัติการปรับแต่ง SEO ของธีม:<br>1. รองรับการแทนที่ตัวคั่นชื่อเรื่องเริ่มต้นของ WordPress แบบกำหนดเอง"
 
 msgid "Simplify Category Alias"
 msgstr "ลดความซับซ้อนของหมวดหมู่นามแฝง"
 
-msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
-msgstr "ลบหมวดหมู่/คำนำหน้าออกจากลิงก์หมวดหมู่บทความ โดยทั่วไปขอแนะนำให้คงกฎ WP เริ่มต้นไว้"
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "ลบคำนำหน้า \"category/\" ออกจากลิงก์หมวดหมู่เพื่อให้ URL ง่ายขึ้น แนะนำให้ใช้กฎเริ่มต้นของ WordPress เพื่อความสอดคล้องของ SEO"
 
-msgid "Categories Type"
-msgstr "ประเภทหมวดหมู่"
+msgid "Categories Display Style"
+msgstr "รูปแบบการแสดงหมวดหมู่"
 
-msgid "Built-in SEO Features"
-msgstr "คุณสมบัติ SEO ในตัว"
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "เลือกวิธีแสดงหมวดหมู่บนส่วนหน้า เลือกสไตล์ที่ตรงกับธีมของคุณ"
+
+msgid "Enable Built-in SEO Features"
+msgstr "เปิดใช้งานคุณสมบัติ SEO ในตัว"
 
 msgid "Built-in SEO Settings"
 msgstr "การตั้งค่า SEO ในตัว"
 
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "สร้างฟังก์ชัน SEO มาตรฐานของ Google โดยอัตโนมัติ"
+
 msgid "Site-wide Link Separator"
 msgstr "ตัวแยกลิงก์ทั่วทั้งไซต์"
 
-msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
-msgstr "เมื่อเลือกแล้ว อย่าเปลี่ยนแปลงกลางคัน เพราะไม่เป็นมิตรกับ SEO มักจะเป็น \"-\" หรือ \"_\""
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "ตั้งค่าตัวคั่นสำหรับหัวข้อ SEO (เช่น \"-\" หรือ \"|\") หลีกเลี่ยงการเปลี่ยนแปลงนี้หลังจากการตั้งค่าเพื่อรักษาความสอดคล้องของ SEO"
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "เปิดใช้งานการกำหนดค่า Yoast SEO ในตัว"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "กำหนดค่าการตั้งค่า Yoast SEO โดยอัตโนมัติ (หัวเรื่อง, อนุกรมวิธาน, เส้นทางนำทาง) เพื่อ SEO บนเพจที่ดีที่สุด"
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "เปิดใช้งานการกำหนดค่า SEO Rank Math ในตัว"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "กำหนดค่าการตั้งค่า Rank Math SEO โดยอัตโนมัติและลงทะเบียนตัวแปรที่กำหนดเองสำหรับชื่อเรื่องแบบไดนามิกและคำอธิบายเมตา"
+
+msgid "Bing Webmaster Verification Code"
+msgstr "รหัสยืนยันเว็บมาสเตอร์ Bing"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "ป้อนรหัสยืนยัน Microsoft Bing ของคุณ"
+
+msgid "Yandex Verification Code"
+msgstr "รหัสยืนยัน Yandex"
+
+msgid "Enter your Yandex verification code."
+msgstr "ป้อนรหัสยืนยัน Yandex ของคุณ"
+
+msgid "Google Site Verification Code"
+msgstr "รหัสยืนยันไซต์ Google"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "ป้อนรหัสยืนยัน Google Search Console ของคุณ"
+
+msgid "Baidu Site Verification Code"
+msgstr "รหัสยืนยันไซต์ Baidu"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "ป้อนรหัสยืนยันเครื่องมือ Baidu Webmaster ของคุณ"
 
 msgid "Site Keywords"
 msgstr "คำสำคัญของไซต์"
 
-msgid "3-5 keywords, separated by commas"
-msgstr "3-5 คำสำคัญ คั่นด้วยเครื่องหมายจุลภาค"
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "ป้อนคำหลัก 3-5 คำที่เกี่ยวข้องกับไซต์ของคุณ โดยคั่นด้วยเครื่องหมายจุลภาค (เช่น ภาพยนตร์ สตรีมมิ่ง ความบันเทิง)"
 
 msgid "Site Description"
 msgstr "คำอธิบายไซต์"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "ป้อนคำอธิบายสั้น ๆ เกี่ยวกับไซต์ของคุณ (แนะนำ 50-160 ตัวอักษร) เพื่อใช้คำอธิบายเมตาของเครื่องมือค้นหา"
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "SEO Title (หน้าข้อมูลภาพยนตร์)"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "ปรับแต่งชื่อ SEO สำหรับหน้าข้อมูลภาพยนตร์ ใช้ตัวแทนเพื่อแทรกรายละเอียดภาพยนตร์แบบไดนามิก"
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "ตัวแทนที่พร้อมใช้งาน: {title} = ชื่อภาพยนตร์, {slug} = ตอน slug, {quality} = คุณภาพภาพยนตร์, {release} = ปีที่ออกฉาย, {alt_title} = ชื่อเรื่องต้นฉบับ, {runtime} = ระยะเวลา, {country} = ประเทศ"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "SEO Title (หน้าชมภาพยนตร์)"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "ปรับแต่งชื่อ SEO สำหรับหน้าชมภาพยนตร์ ใช้ตัวแทนเพื่อแทรกรายละเอียดภาพยนตร์แบบไดนามิก"
+
+msgid "SEO Settings"
+msgstr "การตั้งค่า SEO"
 
 msgid "Taxonomy Custom"
 msgstr "อนุกรมวิธานแบบกำหนดเอง"
@@ -250,7 +299,7 @@ msgid "Disable Sitewide Search Function (Caution)"
 msgstr "ปิดใช้งานฟังก์ชันการค้นหาทั่วทั้งไซต์ (ข้อควรระวัง)"
 
 msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
-msgstr "หลังจากปิดใช้งานแล้ว เว็บไซต์จะไม่สามารถค้นหาบทความได้ วิธีนี้ช่วยป้องกันการโจมตีแบบ Brute Force และการบล็อกฐานข้อมูลได้อย่างมีประสิทธิภาพ"
+msgstr "หลังจากปิดใช้งานแล้ว เว็บไซต์จะไม่สามารถค้นหาบทความได้ ซึ่งสามารถป้องกันการโจมตีแบบ Brute Force และการบล็อกฐานข้อมูลได้อย่างมีประสิทธิภาพ"
 
 msgid "Disable F12 Key, Debug tools in Browser"
 msgstr "ปิดใช้งานปุ่ม F12, เครื่องมือดีบักในเบราว์เซอร์"
@@ -271,7 +320,7 @@ msgid "Create Page"
 msgstr "สร้างหน้า"
 
 msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "สร้าง<a href=\"%s\" target=\"_blank\">หน้า</a>เหมือนในเดโม<a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr "สร้าง <a href=\"%s\" target=\"_blank\">หน้า</a> เช่นเดียวกับในตัวอย่าง <a href=\"%s\" target=\"_blank\">%s</a>"
 
 msgid "Create Menu"
 msgstr "สร้างเมนู"
@@ -283,7 +332,7 @@ msgid "Create Widgets"
 msgstr "สร้างวิดเจ็ต"
 
 msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "สร้าง <a href=\"%s\" target=\"_blank\">วิดเจ็ต</a> เช่นเดียวกับในเดโม <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr "สร้าง <a href=\"%s\" target=\"_blank\">วิดเจ็ต</a> เช่นเดียวกับการสาธิต <a href=\"%s\" target=\"_blank\">%s</a>"
 
 msgid "Import Themes Demo"
 msgstr "นำเข้าธีมสาธิต"
@@ -571,7 +620,7 @@ msgid "Thumbnail"
 msgstr "ภาพย่อ"
 
 msgid "Optional if a Featured Image has already been set."
-msgstr "เป็นทางเลือกหากมีการตั้งค่าภาพเด่นแล้ว"
+msgstr "ทางเลือกหากมีการตั้งค่าภาพเด่นแล้ว"
 
 msgid "Poster"
 msgstr "โปสเตอร์"
@@ -642,6 +691,45 @@ msgstr "เนื้อหาข้อความ"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "กรอกข้อความที่จะแสดง (เช่น เวลาเผยแพร่ สถานะการอัปเดต) เว้นว่างไว้หากไม่ได้ใช้"
 
+msgid "Fetch Manga Info"
+msgstr "ดึงข้อมูลมังงะ"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "เลือกแหล่งที่มาและกรอก URL เพื่อกรอกข้อมูลอัตโนมัติ"
+
+msgid "Fetch"
+msgstr "การดึงข้อมูล"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "กรุณาป้อน URL ที่ถูกต้องจาก otruyenapi.com"
+
+msgid "Fetching..."
+msgstr "กำลังดึงข้อมูล..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "ดึงข้อมูลและใส่ข้อมูลสำเร็จแล้ว!"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "ไม่สามารถดึงข้อมูลหรือรูปแบบการตอบสนองไม่ถูกต้อง"
+
+msgid "An error occurred during the request: "
+msgstr "เกิดข้อผิดพลาดระหว่างการร้องขอ:"
+
+msgid "Fetching from AniList..."
+msgstr "กำลังดึงข้อมูลจาก AniList..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "ดึงข้อมูลและเติมข้อมูลจาก AniList สำเร็จแล้ว!"
+
+msgid "AniList: No data found."
+msgstr "AniList: ไม่พบข้อมูล."
+
+msgid "Please enter a valid URL or ID."
+msgstr "กรุณาป้อน URL หรือ ID ที่ถูกต้อง"
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "ไม่สามารถตรวจจับแหล่งที่มาได้ โปรดป้อน URL หรือ ID ที่ถูกต้องสำหรับ Otruyen, MyAnimeList หรือ AniList"
+
 msgid "Custom Fields"
 msgstr "ฟิลด์ที่กำหนดเอง"
 
@@ -665,6 +753,18 @@ msgstr "คำอธิบาย SEO ที่กำหนดเอง"
 
 msgid "BXManager"
 msgstr "บีเอ็กซ์แมเนเจอร์"
+
+msgid "Views Day"
+msgstr "วิวเดย์"
+
+msgid "Views Week"
+msgstr "สัปดาห์แห่งการดู"
+
+msgid "Views Month"
+msgstr "มุมมองเดือน"
+
+msgid "Views All"
+msgstr "ดูทั้งหมด"
 
 msgid "Player & ADS"
 msgstr "เครื่องเล่นและโฆษณา"
@@ -739,7 +839,7 @@ msgid "Skip after xxs seconds"
 msgstr "ข้ามหลังจาก xx วินาที"
 
 msgid "Show Logo Player"
-msgstr "แสดงผู้เล่นโลโก้"
+msgstr "แสดงโลโก้ผู้เล่น"
 
 msgid "Logo Player Configuration"
 msgstr "การกำหนดค่าผู้เล่นโลโก้"
@@ -987,6 +1087,9 @@ msgstr "รหัส IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "ใส่รหัส IMDB สำหรับภาพยนตร์เรื่องนี้"
 
+msgid "Runtime"
+msgstr "รันไทม์"
+
 msgid "Enter the runtime of the movie."
 msgstr "ระบุระยะเวลาการฉายของภาพยนตร์"
 
@@ -1001,6 +1104,9 @@ msgstr "จำนวนตอนทั้งหมด"
 
 msgid "Enter the total number of episodes for the movie."
 msgstr "ระบุจำนวนตอนทั้งหมดของภาพยนตร์"
+
+msgid "Quality"
+msgstr "คุณภาพ"
 
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "ป้อนคุณภาพของภาพยนตร์ (เช่น 1080p, 720p)"
@@ -1050,14 +1156,20 @@ msgstr "เลือกวันในสัปดาห์สำหรับก
 msgid "Enable Related Movies"
 msgstr "เปิดใช้งานภาพยนตร์ที่เกี่ยวข้อง"
 
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "เปิดหรือปิดการแสดงภาพยนตร์หรือซีซันที่เกี่ยวข้องกับโพสต์นี้ เมื่อเปิดใช้งาน คุณสามารถเลือกโพสต์ที่เกี่ยวข้องด้านล่างได้ด้วยตนเอง หรือระบบจะค้นหาโพสต์ที่เกี่ยวข้องโดยอัตโนมัติตามชื่อเรื่อง (เช่น ซีซันที่ตรงกับ \"Blood Demon Chaos - ซีซัน 1\") ปิดใช้งานนี้เพื่อซ่อนเนื้อหาที่เกี่ยวข้อง"
+
 msgid "Select Post"
 msgstr "เลือกโพสต์"
 
-msgid "Select related seasons for this movies."
-msgstr "เลือกฤดูกาลที่เกี่ยวข้องกับภาพยนตร์นี้"
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "เลือกภาพยนตร์หรือซีซันที่เกี่ยวข้องเพื่อเชื่อมโยงกับโพสต์นี้ ใช้การค้นหาเพื่อค้นหาโพสต์ตามชื่อเรื่อง และลากเพื่อเรียงลำดับใหม่หากจำเป็น โพสต์ที่เลือกจะแสดงเป็นเนื้อหาที่เกี่ยวข้องบนส่วนหน้า"
 
 msgid "Custom Title"
 msgstr "ชื่อเรื่องที่กำหนดเอง"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "ป้อนชื่อเรื่องแบบกำหนดเองสำหรับโพสต์ที่เลือกเพื่อแสดงบนส่วนหน้า หากเว้นว่างไว้ ระบบจะใช้ชื่อเรื่องโพสต์เดิมโดยอัตโนมัติ ใช้ชื่อนี้เพื่อตั้งชื่อที่สั้นลงหรืออธิบายรายละเอียดได้มากขึ้นหากจำเป็น"
 
 msgid "Movies Settings"
 msgstr "การตั้งค่าภาพยนตร์"
@@ -1275,38 +1387,3 @@ msgstr "ล่าสุด"
 msgid "Previous"
 msgstr "ก่อนหน้า"
 
-msgid "History"
-msgstr "ประวัติศาสตร์"
-
-msgid "Profile"
-msgstr "ประวัติโดยย่อ"
-
-msgid "Favorite"
-msgstr "ที่ชื่นชอบ"
-
-msgid "Login"
-msgstr "เข้าสู่ระบบ"
-
-msgid "Movies"
-msgstr "ภาพยนตร์"
-
-msgid "TV Show"
-msgstr "รายการทีวี"
-
-msgid "Featured"
-msgstr "โดดเด่น"
-
-msgid "Register"
-msgstr "ลงทะเบียน"
-
-msgid "Reset"
-msgstr "รีเซ็ต"
-
-msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "เปิดหรือปิดการแสดงผลภาพยนตร์หรือซีซันที่เกี่ยวข้องสำหรับโพสต์นี้ เมื่อเปิดใช้งาน คุณสามารถเลือกโพสต์ที่เกี่ยวข้องด้านล่างด้วยตนเอง หรือระบบจะค้นหาโพสต์ที่เกี่ยวข้องโดยอัตโนมัติตามชื่อเรื่อง (เช่น ซีซันที่ตรงกัน เช่น \"ความโกลาหลของปีศาจเลือด - ซีซัน 1\") ปิดเพื่อซ่อนเนื้อหาที่เกี่ยวข้อง"
-
-msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
-msgstr "เลือกภาพยนตร์หรือซีซันที่เกี่ยวข้องเพื่อเชื่อมโยงกับโพสต์นี้ ใช้การค้นหาเพื่อค้นหาโพสต์ตามชื่อเรื่อง และลากเพื่อจัดเรียงใหม่หากจำเป็น โพสต์ที่เลือกจะถูกแสดงเป็นเนื้อหาที่เกี่ยวข้องในหน้าเว็บ"
-
-msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
-msgstr "ป้อนชื่อที่กำหนดเองสำหรับโพสต์ที่เลือกเพื่อแสดงในหน้าเว็บ หากปล่อยว่าง ชื่อโพสต์เดิมจะถูกใช้โดยอัตโนมัติ ใช้เพื่อให้ชื่อที่สั้นลงหรืออธิบายได้ชัดเจนยิ่งขึ้นหากจำเป็น"

@@ -1,28 +1,17 @@
-# Date created: 2025-09-22 04:41:11 by https://dichthuatphuongdong.com/tienich/csv2po.html
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-22 08:57+0700\n"
-"Last-Translator: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-30 12:31+0000\n"
+"PO-Revision-Date: 2025-09-23 01:22+0700\n"
+"Last-Translator: Buxt.Net\n"
 "Language-Team: \n"
-"Language: zh_TW\n"
+"Language: zh-TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.7\n"
-
-msgid "Movies Code"
-msgstr "電影程式碼"
-
-msgid "Quality"
-msgstr "品質"
-
-msgid "Runtime"
-msgstr "運行時"
-
-msgid "Copyright"
-msgstr "版權"
+"X-Poedit-Basepath: .\n"
 
 msgid "Title"
 msgstr "標題"
@@ -84,41 +73,101 @@ msgstr "控制網站評論功能。如不需要，請停用。"
 msgid "Basic Settings"
 msgstr "基本設定"
 
-msgid "SEO Settings"
-msgstr "SEO設定"
-
 msgid "Theme SEO Optimization Features:<br>1. Supports custom replacement of WordPress default title separator"
 msgstr "主題SEO最佳化功能：<br>1.支援自訂替換WordPress預設標題分隔符"
 
 msgid "Simplify Category Alias"
 msgstr "簡化類別別名"
 
-msgid "Remove category/ prefix from article category links. Generally, it is recommended to keep the default WP rules."
-msgstr "刪除文章分類連結中的 category/ 前綴。一般建議保留預設的 WP 規則。"
+msgid "Remove the \"category/\" prefix from category links to simplify URLs. Recommended to keep default WordPress rules for SEO consistency."
+msgstr "從類別連結中刪除「category/」前綴以簡化 URL。建議保留 WordPress 預設規則，以確保 SEO 一致性。"
 
-msgid "Categories Type"
-msgstr "類別類型"
+msgid "Categories Display Style"
+msgstr "分類展示樣式"
 
-msgid "Built-in SEO Features"
-msgstr "內建SEO功能"
+msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
+msgstr "選擇類別在前端的顯示方式。選擇與您的主題設計相符的樣式。"
+
+msgid "Enable Built-in SEO Features"
+msgstr "啟用內建 SEO 功能"
 
 msgid "Built-in SEO Settings"
 msgstr "內建 SEO 設定"
 
+msgid "Automatically Create Google Standard SEO Functions"
+msgstr "自動建立 Google 標準 SEO 功能"
+
 msgid "Site-wide Link Separator"
 msgstr "網站範圍的連結分隔符"
 
-msgid "Once chosen, do not change midway, as it is not SEO-friendly. Usually \"-\" or \"_\""
-msgstr "一旦選定，請勿中途更改，因為這不利於 SEO。通常使用“-”或“_”"
+msgid "Set the separator for SEO titles (e.g., \"-\" or \"|\"). Avoid changing this after setup to maintain SEO consistency."
+msgstr "設定 SEO 標題的分隔符號（例如“-”或“|”）。設定後請避免更改此設置，以保持 SEO 的一致性。"
+
+msgid "Enable Built-in Yoast SEO Configuration"
+msgstr "啟用內建 Yoast SEO 配置"
+
+msgid "Automatically configure Yoast SEO settings (titles, taxonomies, breadcrumbs) for best on-page SEO."
+msgstr "自動設定 Yoast SEO 設定（標題、分類法、麵包屑）以獲得最佳的頁面 SEO。"
+
+msgid "Enable Built-in Rank Math SEO Configuration"
+msgstr "啟用內建排名數學 SEO 配置"
+
+msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
+msgstr "自動配置 Rank Math SEO 設定並為動態標題和元描述註冊自訂變數。"
+
+msgid "Bing Webmaster Verification Code"
+msgstr "Bing 網站管理員驗證碼"
+
+msgid "Enter your Microsoft Bing verification code."
+msgstr "輸入您的 Microsoft Bing 驗證碼。"
+
+msgid "Yandex Verification Code"
+msgstr "Yandex驗證碼"
+
+msgid "Enter your Yandex verification code."
+msgstr "輸入您的 Yandex 驗證碼。"
+
+msgid "Google Site Verification Code"
+msgstr "Google 網站驗證碼"
+
+msgid "Enter your Google Search Console verification code."
+msgstr "輸入您的 Google Search Console 驗證碼。"
+
+msgid "Baidu Site Verification Code"
+msgstr "百度網站驗證碼"
+
+msgid "Enter your Baidu Webmaster Tools verification code."
+msgstr "輸入您的百度站長工具驗證碼。"
 
 msgid "Site Keywords"
 msgstr "網站關鍵字"
 
-msgid "3-5 keywords, separated by commas"
-msgstr "3-5個關鍵字，以逗號分隔"
+msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
+msgstr "輸入 3-5 個與您的網站相關的關鍵字，並以逗號分隔（例如，電影、串流媒體、娛樂）。"
 
 msgid "Site Description"
 msgstr "站點描述"
+
+msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
+msgstr "輸入您的網站的簡短描述（建議 50-160 個字元）以供搜尋引擎元描述。"
+
+msgid "SEO Title (Movie Info Page)"
+msgstr "SEO標題（電影資訊頁面）"
+
+msgid "Customize the SEO title for the movie info page. Use placeholders to dynamically insert movie details."
+msgstr "自訂電影資訊頁面的 SEO 標題。使用佔位符動態插入影片詳情。"
+
+msgid "Available placeholders: {title} = movie title, {slug} = episode slug, {quality} = movie quality, {release} = release year, {alt_title} = original title, {runtime} = duration, {country} = country"
+msgstr "可用佔位符：{title} = 電影標題、{slug} = 劇集標題、{quality} = 電影品質、{release} = 發行年份、{alt_title} = 原始標題、{runtime} = 長度、{country} = 國家/地區"
+
+msgid "SEO Title (Watch Movie Page)"
+msgstr "SEO標題（觀看電影頁面）"
+
+msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
+msgstr "自訂觀看電影頁面的 SEO 標題。使用佔位符動態插入影片詳情。"
+
+msgid "SEO Settings"
+msgstr "SEO設定"
 
 msgid "Taxonomy Custom"
 msgstr "分類法自訂"
@@ -499,7 +548,7 @@ msgid "Server #1"
 msgstr "伺服器 #1"
 
 msgid "Chapter #1"
-msgstr "第一章"
+msgstr "第 1 章"
 
 msgid "Server"
 msgstr "伺服器"
@@ -642,6 +691,45 @@ msgstr "訊息內容"
 msgid "Enter the message to show (e.g., release time, update status). Leave blank if unused."
 msgstr "輸入要顯示的訊息（例如，發佈時間、更新狀態）。如未使用，請留空。"
 
+msgid "Fetch Manga Info"
+msgstr "獲取漫畫訊息"
+
+msgid "Select a source and enter the URL to automatically fill in the data."
+msgstr "選擇一個來源並輸入 URL 以自動填寫資料。"
+
+msgid "Fetch"
+msgstr "拿來"
+
+msgid "Please enter a valid URL from otruyenapi.com."
+msgstr "請輸入 otruyenapi.com 的有效 URL。"
+
+msgid "Fetching..."
+msgstr "正在獲取..."
+
+msgid "Successfully fetched and populated data!"
+msgstr "成功獲取並填充數據！"
+
+msgid "Failed to fetch data or invalid response format."
+msgstr "無法取得資料或回應格式無效。"
+
+msgid "An error occurred during the request: "
+msgstr "請求過程中出現錯誤："
+
+msgid "Fetching from AniList..."
+msgstr "從 AniList 取得..."
+
+msgid "Successfully fetched and populated from AniList!"
+msgstr "已成功從 AniList 獲取並填充！"
+
+msgid "AniList: No data found."
+msgstr "AniList：未找到資料。"
+
+msgid "Please enter a valid URL or ID."
+msgstr "請輸入有效的 URL 或 ID。"
+
+msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
+msgstr "無法檢測來源。請輸入 Otruyen、MyAnimeList 或 AniList 的有效 URL 或 ID。"
+
 msgid "Custom Fields"
 msgstr "自訂字段"
 
@@ -665,6 +753,18 @@ msgstr "自訂 SEO 描述"
 
 msgid "BXManager"
 msgstr "BX管理器"
+
+msgid "Views Day"
+msgstr "觀看日"
+
+msgid "Views Week"
+msgstr "觀看周"
+
+msgid "Views Month"
+msgstr "觀看次數月"
+
+msgid "Views All"
+msgstr "看全部"
 
 msgid "Player & ADS"
 msgstr "球員和廣告"
@@ -987,6 +1087,9 @@ msgstr "IMDB ID"
 msgid "Enter the IMDB ID for this movie."
 msgstr "輸入這部電影的 IMDB ID。"
 
+msgid "Runtime"
+msgstr "運行時"
+
 msgid "Enter the runtime of the movie."
 msgstr "輸入電影的播放時間。"
 
@@ -1001,6 +1104,9 @@ msgstr "總集數"
 
 msgid "Enter the total number of episodes for the movie."
 msgstr "輸入電影的總集數。"
+
+msgid "Quality"
+msgstr "品質"
 
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "輸入電影的品質（例如，1080p、720p）。"
@@ -1050,14 +1156,20 @@ msgstr "選擇電影上映日期為星期幾。"
 msgid "Enable Related Movies"
 msgstr "啟用相關電影"
 
+msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
+msgstr "啟用或停用此貼文的相關電影或劇季顯示。啟用後，您可以手動選擇下方相關帖子，或者係統會根據標題自動查找相關帖子（例如，匹配劇季，例如“血魔混沌 - 第 1 季”）。停用此功能可隱藏相關內容。"
+
 msgid "Select Post"
 msgstr "選擇貼文"
 
-msgid "Select related seasons for this movies."
-msgstr "選擇此電影的相關季節。"
+msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
+msgstr "選擇與此帖子關聯的電影或劇季。使用搜尋功能按標題尋找帖子，並根據需要拖曳以重新排序。所選貼文將在前端顯示為相關內容。"
 
 msgid "Custom Title"
 msgstr "自訂標題"
+
+msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
+msgstr "為所選貼文輸入自訂標題，以便在前端顯示。如果留空，系統將自動使用原始貼文標題。如有需要，您可以使用此選項提供更短或更具描述性的標題。"
 
 msgid "Movies Settings"
 msgstr "電影設定"
@@ -1275,38 +1387,3 @@ msgstr "最後的"
 msgid "Previous"
 msgstr "以前的"
 
-msgid "History"
-msgstr "歷史"
-
-msgid "Profile"
-msgstr "輪廓"
-
-msgid "Favorite"
-msgstr "最喜歡的"
-
-msgid "Login"
-msgstr "登入"
-
-msgid "Movies"
-msgstr "電影"
-
-msgid "TV Show"
-msgstr "電視節目"
-
-msgid "Featured"
-msgstr "精選"
-
-msgid "Register"
-msgstr "登記"
-
-msgid "Reset"
-msgstr "重置"
-
-msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "啟用或停用此文章相關電影或季的顯示。啟用後，您可以在下方手動選擇相關文章，或者系統將根據標題自動查找相關文章（例如，匹配的季，如「血魔混亂 - 第1季」）。停用以隱藏相關內容。"
-
-msgid "Select a related movie or season to associate with this post. Use the search to find posts by title, and drag to reorder them if needed. The selected posts will be displayed as related content on the frontend."
-msgstr "選擇一部相關電影或季以與此文章關聯。使用搜尋按標題查找文章，並根據需要拖曳重新排序。所選文章將作為相關內容顯示在前端。"
-
-msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
-msgstr "為所選文章輸入自訂標題以在前端顯示。如果留空，將自動使用原始文章標題。使用此功能可提供更短或更具描述性的標題。"
