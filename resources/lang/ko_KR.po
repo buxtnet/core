@@ -169,45 +169,6 @@ msgstr "영화 시청 페이지의 SEO 제목을 맞춤설정하세요. 플레�
 msgid "SEO Settings"
 msgstr "SEO 설정"
 
-msgid "Taxonomy Custom"
-msgstr "분류법 사용자 정의"
-
-msgid "Custom filter fields"
-msgstr "사용자 정의 필터 필드"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "필터링 항목에 표시할 사용자 정의 필드"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "고급 사용자 정의 필터 필드 구성"
-
-msgid "Filter Name"
-msgstr "필터 이름"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "예: 형식, 색상, 크기, 치수, 이름은 설정 후 중간에 수정 가능"
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "분류 필드 고유 식별자"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "geshhi, yanse, szie, color와 같이 순수 영어여야 합니다. <b style=\"color:red;\">설정 후, 이미 연관된 문서가 선택된 경우 이 식별자는 중간에 수정할 수 없습니다.</b>"
-
-msgid "Option Type"
-msgstr "옵션 유형"
-
-msgid "Multiple Choice"
-msgstr "객관식"
-
-msgid "Dropdown Single Choice"
-msgstr "드롭다운 단일 선택"
-
-msgid "Single Choice"
-msgstr "단일 선택"
-
-msgid "Option type when publishing articles in the background"
-msgstr "백그라운드에서 기사를 게시할 때의 옵션 유형"
-
 msgid "Popup"
 msgstr "팝업"
 
@@ -433,6 +394,48 @@ msgstr "아이프레임"
 msgid "Images"
 msgstr "이미지"
 
+msgid "Movies"
+msgstr "영화 산업"
+
+msgid "TV Series"
+msgstr "TV 시리즈"
+
+msgid "TV Shows"
+msgstr "TV 프로그램"
+
+msgid "Theater Movie"
+msgstr "극장 영화"
+
+msgid "Cartoon"
+msgstr "만화"
+
+msgid "Manga"
+msgstr "만화"
+
+msgid "Oneshot"
+msgstr "원샷"
+
+msgid "Manhua"
+msgstr "만화"
+
+msgid "Manhwa"
+msgstr "만화"
+
+msgid "Doujinshi"
+msgstr "동인지"
+
+msgid "Trailer"
+msgstr "트레일러"
+
+msgid "Completed"
+msgstr "완전한"
+
+msgid "Ongoing"
+msgstr "전진"
+
+msgid "Upcoming"
+msgstr "다가오는"
+
 msgid "less than 1 second ago"
 msgstr "1초도 안 전"
 
@@ -592,30 +595,6 @@ msgstr "예: https://example.com/chapter-1 (또는) image1*image2*..."
 msgid "Meta Videos"
 msgstr "메타 비디오"
 
-msgid "Completed"
-msgstr "완전한"
-
-msgid "Ongoing"
-msgstr "전진"
-
-msgid "Upcoming"
-msgstr "다가오는"
-
-msgid "Manga"
-msgstr "만화"
-
-msgid "Oneshot"
-msgstr "원샷"
-
-msgid "Manhua"
-msgstr "만화"
-
-msgid "Manhwa"
-msgstr "만화"
-
-msgid "Doujinshi"
-msgstr "동인지"
-
 msgid "Thumbnail"
 msgstr "썸네일"
 
@@ -672,12 +651,6 @@ msgstr "토요일"
 
 msgid "Sunday"
 msgstr "일요일"
-
-msgid "Release Time"
-msgstr "출시 시간"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "선택 사항 — 만화가 일반적으로 출시되는 시간입니다."
 
 msgid "Enable Message"
 msgstr "메시지 활성화"
@@ -765,6 +738,72 @@ msgstr "조회수 월"
 
 msgid "Views All"
 msgstr "전체 보기"
+
+msgid "Custom Rewite"
+msgstr "커스텀 리와이트"
+
+msgid "First Last Url"
+msgstr "이름 성 URL"
+
+msgid "First"
+msgstr "첫 번째"
+
+msgid "Last"
+msgstr "마지막"
+
+msgid "Custom Info"
+msgstr "사용자 정의 정보"
+
+msgid "Info"
+msgstr "정보"
+
+msgid "Info Url"
+msgstr "정보 URL"
+
+msgid "Custom Details"
+msgstr "사용자 정의 세부 정보"
+
+msgid "Watch Url"
+msgstr "시계 URL"
+
+msgid "Custom filter fields"
+msgstr "사용자 정의 필터 필드"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "필터링 항목에 표시할 사용자 정의 필드"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "고급 사용자 정의 필터 필드 구성"
+
+msgid "Filter Name"
+msgstr "필터 이름"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "예: 형식, 색상, 크기, 치수, 이름은 설정 후 중간에 수정 가능"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "분류 필드 고유 식별자"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "geshhi, yanse, szie, color와 같이 순수 영어여야 합니다. <b style=\"color:red;\">설정 후, 이미 연관된 문서가 선택된 경우 이 식별자는 중간에 수정할 수 없습니다.</b>"
+
+msgid "Option Type"
+msgstr "옵션 유형"
+
+msgid "Multiple Choice"
+msgstr "객관식"
+
+msgid "Dropdown Single Choice"
+msgstr "드롭다운 단일 선택"
+
+msgid "Single Choice"
+msgstr "단일 선택"
+
+msgid "Option type when publishing articles in the background"
+msgstr "백그라운드에서 기사를 게시할 때의 옵션 유형"
+
+msgid "Rewrite & Taxonomy"
+msgstr "다시 쓰기 및 분류"
 
 msgid "Player & ADS"
 msgstr "플레이어 및 광고"
@@ -1036,6 +1075,30 @@ msgstr "시청을 계속하려면 AdBlock을 비활성화하세요."
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "예: \"사용자 여러분, 광고 차단 기능을 제거해 주세요!\""
 
+msgid "Item Settings"
+msgstr "아이템 설정"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "텍스트 필드에서 아래의 플레이스홀더를 사용하여 동적 값을 표시하세요."
+
+msgid "Enable Cusom List Item"
+msgstr "사용자 정의 목록 항목 활성화"
+
+msgid "Runtime"
+msgstr "실행 시간"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "사용자 지정 런타임 텍스트를 입력하세요. {runtime}, {quality}, {episodes} 등의 자리 표시자를 사용할 수 있습니다."
+
+msgid "Quality"
+msgstr "품질"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "원하는 품질 텍스트를 입력하세요. {quality}, {episodes} 등의 자리 표시자를 사용할 수 있습니다."
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "사용자 지정 상태 텍스트를 입력하세요. {status}, {type} 등의 자리 표시자를 사용할 수 있습니다."
+
 msgid "Search"
 msgstr "찾다"
 
@@ -1087,9 +1150,6 @@ msgstr "IMDB 아이디"
 msgid "Enter the IMDB ID for this movie."
 msgstr "이 영화의 IMDB ID를 입력하세요."
 
-msgid "Runtime"
-msgstr "실행 시간"
-
 msgid "Enter the runtime of the movie."
 msgstr "영화의 상영시간을 입력하세요."
 
@@ -1105,29 +1165,11 @@ msgstr "총 에피소드"
 msgid "Enter the total number of episodes for the movie."
 msgstr "영화의 총 에피소드 수를 입력하세요."
 
-msgid "Quality"
-msgstr "품질"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "영화의 화질을 입력하세요(예: 1080p, 720p)."
 
 msgid "Single Movies"
 msgstr "싱글 무비"
-
-msgid "TV Series"
-msgstr "TV 시리즈"
-
-msgid "TV Shows"
-msgstr "TV 프로그램"
-
-msgid "Theater Movie"
-msgstr "극장 영화"
-
-msgid "Cartoon"
-msgstr "만화"
-
-msgid "Trailer"
-msgstr "트레일러"
 
 msgid "OnGoing"
 msgstr "전진"
@@ -1157,7 +1199,7 @@ msgid "Enable Related Movies"
 msgstr "관련 영화 활성화"
 
 msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "이 게시물과 관련된 영화 또는 시즌 표시를 활성화 또는 비활성화합니다. 활성화하면 아래에서 관련 게시물을 직접 선택하거나, 제목(예: \"Blood Demon Chaos - Season 1\")을 기준으로 관련 게시물을 자동으로 찾습니다. 비활성화하면 관련 콘텐츠가 숨겨집니다."
+msgstr "이 게시물과 관련된 영화 또는 시즌 표시를 활성화 또는 비활성화합니다. 활성화하면 아래에서 관련 게시물을 직접 선택하거나, 제목을 기준으로 관련 게시물을 자동으로 찾습니다(예: \"Blood Demon Chaos - Season 1\"과 같이 일치하는 시즌). 관련 콘텐츠를 숨기려면 비활성화합니다."
 
 msgid "Select Post"
 msgstr "게시물 선택"
@@ -1169,7 +1211,7 @@ msgid "Custom Title"
 msgstr "사용자 정의 제목"
 
 msgid "Enter a custom title for the selected post to display on the frontend. If left blank, the original post title will be used automatically. Use this to provide a shorter or more descriptive title if needed."
-msgstr "선택한 게시물의 프런트엔드에 표시할 사용자 지정 제목을 입력하세요. 비워 두면 원래 게시물 제목이 자동으로 사용됩니다. 필요한 경우 더 짧거나 설명적인 제목을 입력하세요."
+msgstr "선택한 게시물의 프런트엔드에 표시할 사용자 지정 제목을 입력하세요. 비워 두면 원래 게시물 제목이 자동으로 사용됩니다. 필요한 경우 더 짧거나 더 설명적인 제목을 입력하세요."
 
 msgid "Movies Settings"
 msgstr "영화 설정"
@@ -1229,7 +1271,7 @@ msgid "Are you sure you want to delete this chapter?"
 msgstr "이 장을 삭제하시겠습니까?"
 
 msgid "This video file cannot be played"
-msgstr "이 비디오 파일을 재생할 수 없습니다"
+msgstr "이 비디오 파일은 재생할 수 없습니다"
 
 msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
 msgstr "찾으시는 동영상을 찾을 수 없습니다. 여러 가지 이유가 있을 수 있습니다. 예를 들어, 소유자가 동영상을 삭제했을 수 있습니다."
@@ -1377,12 +1419,6 @@ msgstr "0개 항목 중 0~0개 표시"
 
 msgid "(filtered from _MAX_ total entries)"
 msgstr "(총 _MAX_개 항목에서 필터링됨)"
-
-msgid "First"
-msgstr "첫 번째"
-
-msgid "Last"
-msgstr "마지막"
 
 msgid "Previous"
 msgstr "이전의"

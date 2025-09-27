@@ -169,45 +169,6 @@ msgstr "映画鑑賞ページのSEOタイトルをカスタマイズします。
 msgid "SEO Settings"
 msgstr "SEO設定"
 
-msgid "Taxonomy Custom"
-msgstr "分類カスタム"
-
-msgid "Custom filter fields"
-msgstr "カスタムフィルターフィールド"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "フィルタリングエントリに表示するカスタムフィールド"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "高度なカスタムフィルターフィールドの設定"
-
-msgid "Filter Name"
-msgstr "フィルター名"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "例えば、フォーマット、色、サイズ、寸法、名前は設定後に途中で変更することができます"
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "分類フィールドの一意の識別子"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "geshhi、yanse、szie、color などの純粋な英語である必要があります。<b style=\"color:red;\">一度設定すると、関連する冠詞がすでに選択されている場合、この識別子を途中で変更することはできません。</b>"
-
-msgid "Option Type"
-msgstr "オプションタイプ"
-
-msgid "Multiple Choice"
-msgstr "複数選択問題"
-
-msgid "Dropdown Single Choice"
-msgstr "ドロップダウン単一選択"
-
-msgid "Single Choice"
-msgstr "単一選択"
-
-msgid "Option type when publishing articles in the background"
-msgstr "バックグラウンドで記事を公開する際のオプションの種類"
-
 msgid "Popup"
 msgstr "ポップアップ"
 
@@ -254,7 +215,7 @@ msgid "Disable WP Content Texturization"
 msgstr "WPコンテンツのテクスチャ化を無効にする"
 
 msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
-msgstr "無効にすると、投稿でエスケープ処理なしで生のコード形式を使用できます。コードベースのコンテンツに便利です。"
+msgstr "無効にすると、投稿でエスケープ処理なしで生のコードフォーマットを使用できます。コードベースのコンテンツに便利です。"
 
 msgid "Remove Frontend Admin Bar"
 msgstr "フロントエンド管理バーを削除する"
@@ -433,6 +394,48 @@ msgstr "インラインフレーム"
 msgid "Images"
 msgstr "画像"
 
+msgid "Movies"
+msgstr "映画"
+
+msgid "TV Series"
+msgstr "連続テレビ番組"
+
+msgid "TV Shows"
+msgstr "テレビ番組"
+
+msgid "Theater Movie"
+msgstr "劇場映画"
+
+msgid "Cartoon"
+msgstr "漫画"
+
+msgid "Manga"
+msgstr "マンガ"
+
+msgid "Oneshot"
+msgstr "ワンショット"
+
+msgid "Manhua"
+msgstr "マンフア"
+
+msgid "Manhwa"
+msgstr "マンガ"
+
+msgid "Doujinshi"
+msgstr "同人誌"
+
+msgid "Trailer"
+msgstr "トレーラー"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Ongoing"
+msgstr "進行中"
+
+msgid "Upcoming"
+msgstr "今後の予定"
+
 msgid "less than 1 second ago"
 msgstr "1秒未満前"
 
@@ -592,30 +595,6 @@ msgstr "例: https://example.com/chapter-1 (または) image1*image2*..."
 msgid "Meta Videos"
 msgstr "メタビデオ"
 
-msgid "Completed"
-msgstr "完了"
-
-msgid "Ongoing"
-msgstr "進行中"
-
-msgid "Upcoming"
-msgstr "今後の予定"
-
-msgid "Manga"
-msgstr "マンガ"
-
-msgid "Oneshot"
-msgstr "ワンショット"
-
-msgid "Manhua"
-msgstr "マンフア"
-
-msgid "Manhwa"
-msgstr "マンガ"
-
-msgid "Doujinshi"
-msgstr "同人誌"
-
 msgid "Thumbnail"
 msgstr "サムネイル"
 
@@ -672,12 +651,6 @@ msgstr "土曜日"
 
 msgid "Sunday"
 msgstr "日曜日"
-
-msgid "Release Time"
-msgstr "リリース時間"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "オプション - マンガが通常リリースされる時間。"
 
 msgid "Enable Message"
 msgstr "メッセージを有効にする"
@@ -765,6 +738,72 @@ msgstr "月間閲覧数"
 
 msgid "Views All"
 msgstr "すべて表示"
+
+msgid "Custom Rewite"
+msgstr "カスタムリライト"
+
+msgid "First Last Url"
+msgstr "名 姓 URL"
+
+msgid "First"
+msgstr "初め"
+
+msgid "Last"
+msgstr "最後"
+
+msgid "Custom Info"
+msgstr "カスタム情報"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Info Url"
+msgstr "情報URL"
+
+msgid "Custom Details"
+msgstr "カスタム詳細"
+
+msgid "Watch Url"
+msgstr "ウォッチURL"
+
+msgid "Custom filter fields"
+msgstr "カスタムフィルターフィールド"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "フィルタリングエントリに表示するカスタムフィールド"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "高度なカスタムフィルターフィールドの設定"
+
+msgid "Filter Name"
+msgstr "フィルター名"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "例えば、フォーマット、色、サイズ、寸法、名前は設定後に途中で変更することができます"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "分類フィールドの一意の識別子"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "geshhi、yanse、szie、color などの純粋な英語である必要があります。<b style=\"color:red;\">一度設定すると、関連する冠詞がすでに選択されている場合、この識別子を途中で変更することはできません。</b>"
+
+msgid "Option Type"
+msgstr "オプションタイプ"
+
+msgid "Multiple Choice"
+msgstr "複数選択問題"
+
+msgid "Dropdown Single Choice"
+msgstr "ドロップダウン単一選択"
+
+msgid "Single Choice"
+msgstr "単一選択"
+
+msgid "Option type when publishing articles in the background"
+msgstr "バックグラウンドで記事を公開する際のオプションの種類"
+
+msgid "Rewrite & Taxonomy"
+msgstr "書き換えと分類"
 
 msgid "Player & ADS"
 msgstr "プレイヤーと広告"
@@ -878,7 +917,7 @@ msgid "Control bar (JWPlayer only)"
 msgstr "コントロールバー（JWPlayerのみ）"
 
 msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
-msgstr "透かしを表示するコーナーを設定します。「control-bar」オプションはJWPlayerでのみサポートされており、コントロールバーの右側のボタングループの左端のアイコンとしてロゴを追加します。"
+msgstr "透かしを表示するコーナーを設定します。「コントロールバー」オプションはJWPlayerでのみサポートされており、コントロールバーの右側のボタングループの左端のアイコンとしてロゴを追加します。"
 
 msgid "Auto hide logo (JWPlayer only)"
 msgstr "ロゴを自動的に非表示にする（JWPlayer のみ）"
@@ -1036,6 +1075,30 @@ msgstr "視聴を続けるにはAdBlockを無効にしてください。"
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "例: 「ユーザーは広告ブロッカーを削除してください!」"
 
+msgid "Item Settings"
+msgstr "アイテム設定"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "動的な値を表示するには、テキスト フィールドで以下のプレースホルダーを使用します。"
+
+msgid "Enable Cusom List Item"
+msgstr "カスタムリストアイテムを有効にする"
+
+msgid "Runtime"
+msgstr "ランタイム"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "ランタイムテキストを入力してください。{runtime}、{quality}、{episodes}などのプレースホルダを使用できます。"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "品質に関するカスタムテキストを入力してください。{quality}、{episodes}などのプレースホルダを使用できます。"
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "カスタムステータステキストを入力してください。{status}、{type}などのプレースホルダを使用できます。"
+
 msgid "Search"
 msgstr "検索"
 
@@ -1087,9 +1150,6 @@ msgstr "IMDB ID"
 msgid "Enter the IMDB ID for this movie."
 msgstr "この映画の IMDB ID を入力してください。"
 
-msgid "Runtime"
-msgstr "ランタイム"
-
 msgid "Enter the runtime of the movie."
 msgstr "映画の実行時間を入力します。"
 
@@ -1105,29 +1165,11 @@ msgstr "合計エピソード数"
 msgid "Enter the total number of episodes for the movie."
 msgstr "映画の合計エピソード数を入力します。"
 
-msgid "Quality"
-msgstr "品質"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "映画の品質を入力します（例：1080p、720p）。"
 
 msgid "Single Movies"
 msgstr "単発映画"
-
-msgid "TV Series"
-msgstr "連続テレビ番組"
-
-msgid "TV Shows"
-msgstr "テレビ番組"
-
-msgid "Theater Movie"
-msgstr "劇場映画"
-
-msgid "Cartoon"
-msgstr "漫画"
-
-msgid "Trailer"
-msgstr "トレーラー"
 
 msgid "OnGoing"
 msgstr "進行中"
@@ -1277,7 +1319,7 @@ msgid "An error occurred while removing all items."
 msgstr "すべてのアイテムを削除中にエラーが発生しました。"
 
 msgid "Marked as resolved successfully!"
-msgstr "解決済みとしてマークされました。"
+msgstr "正常に解決済みとしてマークされました。"
 
 msgid "Failed to mark as resolved!"
 msgstr "解決済みとしてマークできませんでした。"
@@ -1377,12 +1419,6 @@ msgstr "0件中0件を表示"
 
 msgid "(filtered from _MAX_ total entries)"
 msgstr "(合計 _MAX_ 件のエントリからフィルタリング)"
-
-msgid "First"
-msgstr "初め"
-
-msgid "Last"
-msgstr "最後"
 
 msgid "Previous"
 msgstr "前の"

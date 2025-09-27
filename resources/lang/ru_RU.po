@@ -53,7 +53,7 @@ msgid "Site Logo"
 msgstr "Логотип сайта"
 
 msgid "Set the site logo (recommended to match the custom logo width and height)"
-msgstr "Установите логотип сайта (рекомендуется, чтобы ширина и высота соответствовали пользовательскому логотипу)"
+msgstr "Установите логотип сайта (рекомендуется, чтобы ширина и высота соответствовали ширине и высоте пользовательского логотипа)"
 
 msgid "Site Favicon"
 msgstr "Фавикон сайта"
@@ -168,45 +168,6 @@ msgstr "Настройте SEO-заголовок для страницы про
 
 msgid "SEO Settings"
 msgstr "Настройки SEO"
-
-msgid "Taxonomy Custom"
-msgstr "Таксономия Пользовательская"
-
-msgid "Custom filter fields"
-msgstr "Пользовательские поля фильтра"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "Какие настраиваемые поля отображать для фильтрации записей"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "Расширенная конфигурация полей настраиваемого фильтра"
-
-msgid "Filter Name"
-msgstr "Имя фильтра"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "Например: формат, цвет, размер, параметры, имя можно изменить в процессе настройки."
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "Уникальный идентификатор поля таксономии"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "Должен быть на чистом английском языке, например, geshhi, yanse, szie, color, <b style=\"color:red;\">После установки, если уже выбраны связанные статьи, этот идентификатор нельзя будет изменить на полпути</b>"
-
-msgid "Option Type"
-msgstr "Тип опции"
-
-msgid "Multiple Choice"
-msgstr "Множественный выбор"
-
-msgid "Dropdown Single Choice"
-msgstr "Раскрывающийся список с одним выбором"
-
-msgid "Single Choice"
-msgstr "Единственный выбор"
-
-msgid "Option type when publishing articles in the background"
-msgstr "Тип опции при публикации статей в фоновом режиме"
 
 msgid "Popup"
 msgstr "Неожиданно возникнуть"
@@ -433,6 +394,48 @@ msgstr "IFrame"
 msgid "Images"
 msgstr "Изображения"
 
+msgid "Movies"
+msgstr "Фильмы"
+
+msgid "TV Series"
+msgstr "Сериал"
+
+msgid "TV Shows"
+msgstr "ТВ-шоу"
+
+msgid "Theater Movie"
+msgstr "Театральное кино"
+
+msgid "Cartoon"
+msgstr "Мультфильм"
+
+msgid "Manga"
+msgstr "Манга"
+
+msgid "Oneshot"
+msgstr "Ваншот"
+
+msgid "Manhua"
+msgstr "Маньхуа"
+
+msgid "Manhwa"
+msgstr "Манхва"
+
+msgid "Doujinshi"
+msgstr "Додзинси"
+
+msgid "Trailer"
+msgstr "Трейлер"
+
+msgid "Completed"
+msgstr "Завершенный"
+
+msgid "Ongoing"
+msgstr "Непрерывный"
+
+msgid "Upcoming"
+msgstr "Предстоящие"
+
 msgid "less than 1 second ago"
 msgstr "менее 1 секунды назад"
 
@@ -592,30 +595,6 @@ msgstr "Пример: https://example.com/chapter-1 (ИЛИ) image1*image2*..."
 msgid "Meta Videos"
 msgstr "Мета-видео"
 
-msgid "Completed"
-msgstr "Завершенный"
-
-msgid "Ongoing"
-msgstr "Непрерывный"
-
-msgid "Upcoming"
-msgstr "Предстоящие"
-
-msgid "Manga"
-msgstr "Манга"
-
-msgid "Oneshot"
-msgstr "Ваншот"
-
-msgid "Manhua"
-msgstr "Маньхуа"
-
-msgid "Manhwa"
-msgstr "Манхва"
-
-msgid "Doujinshi"
-msgstr "Додзинси"
-
 msgid "Thumbnail"
 msgstr "Миниатюра"
 
@@ -673,12 +652,6 @@ msgstr "Суббота"
 msgid "Sunday"
 msgstr "Воскресенье"
 
-msgid "Release Time"
-msgstr "Время выпуска"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "Необязательно — Время суток, когда обычно выходит манга."
-
 msgid "Enable Message"
 msgstr "Включить сообщение"
 
@@ -728,7 +701,7 @@ msgid "Please enter a valid URL or ID."
 msgstr "Введите действительный URL или идентификатор."
 
 msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
-msgstr "Не удалось определить источник. Введите действительный URL или идентификатор Otruyen, MyAnimeList или AniList."
+msgstr "Не удалось определить источник. Введите действительный URL-адрес или идентификатор Otruyen, MyAnimeList или AniList."
 
 msgid "Custom Fields"
 msgstr "Пользовательские поля"
@@ -765,6 +738,72 @@ msgstr "Просмотры за месяц"
 
 msgid "Views All"
 msgstr "Просмотры всех"
+
+msgid "Custom Rewite"
+msgstr "Пользовательский Rewite"
+
+msgid "First Last Url"
+msgstr "Первый Последний URL"
+
+msgid "First"
+msgstr "Первый"
+
+msgid "Last"
+msgstr "Последний"
+
+msgid "Custom Info"
+msgstr "Пользовательская информация"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Info Url"
+msgstr "Информационный URL-адрес"
+
+msgid "Custom Details"
+msgstr "Индивидуальные детали"
+
+msgid "Watch Url"
+msgstr "URL-адрес для просмотра"
+
+msgid "Custom filter fields"
+msgstr "Пользовательские поля фильтра"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "Какие настраиваемые поля отображать для фильтрации записей"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "Расширенная конфигурация полей пользовательского фильтра"
+
+msgid "Filter Name"
+msgstr "Имя фильтра"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "Например: формат, цвет, размер, параметры, имя можно изменить в процессе настройки."
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "Уникальный идентификатор поля таксономии"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "Должен быть на чистом английском языке, например, geshhi, yanse, szie, color, <b style=\"color:red;\">После установки, если уже выбраны связанные статьи, этот идентификатор нельзя изменить на полпути</b>"
+
+msgid "Option Type"
+msgstr "Тип опции"
+
+msgid "Multiple Choice"
+msgstr "Множественный выбор"
+
+msgid "Dropdown Single Choice"
+msgstr "Раскрывающийся список с одним выбором"
+
+msgid "Single Choice"
+msgstr "Единственный выбор"
+
+msgid "Option type when publishing articles in the background"
+msgstr "Тип опции при публикации статей в фоновом режиме"
+
+msgid "Rewrite & Taxonomy"
+msgstr "Переписывание и таксономия"
 
 msgid "Player & ADS"
 msgstr "Плеер и реклама"
@@ -1036,6 +1075,30 @@ msgstr "Пожалуйста, отключите AdBlock, чтобы продо�
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "Пример: «Пользователи, пожалуйста, удалите блокировщик рекламы!»"
 
+msgid "Item Settings"
+msgstr "Настройки элемента"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "Используйте заполнители ниже в текстовых полях для отображения динамических значений:"
+
+msgid "Enable Cusom List Item"
+msgstr "Включить элемент пользовательского списка"
+
+msgid "Runtime"
+msgstr "Время выполнения"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "Введите свой текст для времени выполнения. Можно использовать плейсхолдеры, такие как {runtime}, {quality}, {episodes} и т. д."
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "Введите свой текст, указывающий качество. Вы можете использовать плейсхолдеры, такие как {quality}, {episodes} и т. д."
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "Введите текст вашего статуса. Вы можете использовать плейсхолдеры, такие как {status}, {type} и т. д."
+
 msgid "Search"
 msgstr "Поиск"
 
@@ -1087,9 +1150,6 @@ msgstr "Идентификатор IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "Введите идентификатор IMDB для этого фильма."
 
-msgid "Runtime"
-msgstr "Время выполнения"
-
 msgid "Enter the runtime of the movie."
 msgstr "Укажите продолжительность фильма."
 
@@ -1105,29 +1165,11 @@ msgstr "Всего эпизодов"
 msgid "Enter the total number of episodes for the movie."
 msgstr "Введите общее количество серий фильма."
 
-msgid "Quality"
-msgstr "Качество"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Введите качество фильма (например, 1080p, 720p)."
 
 msgid "Single Movies"
 msgstr "Отдельные фильмы"
-
-msgid "TV Series"
-msgstr "Сериал"
-
-msgid "TV Shows"
-msgstr "ТВ-шоу"
-
-msgid "Theater Movie"
-msgstr "Театральное кино"
-
-msgid "Cartoon"
-msgstr "Мультфильм"
-
-msgid "Trailer"
-msgstr "Трейлер"
 
 msgid "OnGoing"
 msgstr "Непрерывный"
@@ -1376,13 +1418,7 @@ msgid "Showing 0 to 0 of 0 entries"
 msgstr "Показано 0–0 из 0 записей"
 
 msgid "(filtered from _MAX_ total entries)"
-msgstr "(отфильтровано из _MAX_ общего числа записей)"
-
-msgid "First"
-msgstr "Первый"
-
-msgid "Last"
-msgstr "Последний"
+msgstr "(отфильтровано из _MAX_ общего количества записей)"
 
 msgid "Previous"
 msgstr "Предыдущий"

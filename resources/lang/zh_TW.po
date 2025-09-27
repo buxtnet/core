@@ -169,45 +169,6 @@ msgstr "自訂觀看電影頁面的 SEO 標題。使用佔位符動態插入影�
 msgid "SEO Settings"
 msgstr "SEO設定"
 
-msgid "Taxonomy Custom"
-msgstr "分類法自訂"
-
-msgid "Custom filter fields"
-msgstr "自訂過濾字段"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "顯示哪些自訂欄位來過濾條目"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "進階自訂過濾欄位配置"
-
-msgid "Filter Name"
-msgstr "過濾器名稱"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "例如：格式、顏色、大小、尺寸、名稱可以在設定後中途修改"
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "分類字段唯一標識符"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "必須是純英文，例如geshhi、yanse、szie、color，<b style=\"color:red;\">一旦設置，如果已經選擇了相關文章，則此標識符不能中途修改</b>"
-
-msgid "Option Type"
-msgstr "選項類型"
-
-msgid "Multiple Choice"
-msgstr "多項選擇"
-
-msgid "Dropdown Single Choice"
-msgstr "下拉單選"
-
-msgid "Single Choice"
-msgstr "單選"
-
-msgid "Option type when publishing articles in the background"
-msgstr "後台發布文章時的選項類型"
-
 msgid "Popup"
 msgstr "彈出視窗"
 
@@ -433,6 +394,48 @@ msgstr "內嵌框架"
 msgid "Images"
 msgstr "圖片"
 
+msgid "Movies"
+msgstr "電影"
+
+msgid "TV Series"
+msgstr "電視劇"
+
+msgid "TV Shows"
+msgstr "電視節目"
+
+msgid "Theater Movie"
+msgstr "戲院電影"
+
+msgid "Cartoon"
+msgstr "卡通片"
+
+msgid "Manga"
+msgstr "漫畫"
+
+msgid "Oneshot"
+msgstr "一次性"
+
+msgid "Manhua"
+msgstr "漫畫"
+
+msgid "Manhwa"
+msgstr "漫畫"
+
+msgid "Doujinshi"
+msgstr "同人誌"
+
+msgid "Trailer"
+msgstr "拖車"
+
+msgid "Completed"
+msgstr "完全的"
+
+msgid "Ongoing"
+msgstr "正在進行"
+
+msgid "Upcoming"
+msgstr "即將推出"
+
 msgid "less than 1 second ago"
 msgstr "不到 1 秒前"
 
@@ -592,30 +595,6 @@ msgstr "例如：https://example.com/chapter-1 （或）image1*image2*..."
 msgid "Meta Videos"
 msgstr "元影片"
 
-msgid "Completed"
-msgstr "完全的"
-
-msgid "Ongoing"
-msgstr "正在進行"
-
-msgid "Upcoming"
-msgstr "即將推出"
-
-msgid "Manga"
-msgstr "漫畫"
-
-msgid "Oneshot"
-msgstr "一次性"
-
-msgid "Manhua"
-msgstr "漫畫"
-
-msgid "Manhwa"
-msgstr "漫畫"
-
-msgid "Doujinshi"
-msgstr "同人誌"
-
 msgid "Thumbnail"
 msgstr "縮圖"
 
@@ -672,12 +651,6 @@ msgstr "週六"
 
 msgid "Sunday"
 msgstr "星期日"
-
-msgid "Release Time"
-msgstr "發佈時間"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "可選——漫畫通常發布的時間。"
 
 msgid "Enable Message"
 msgstr "啟用訊息"
@@ -765,6 +738,72 @@ msgstr "觀看次數月"
 
 msgid "Views All"
 msgstr "看全部"
+
+msgid "Custom Rewite"
+msgstr "自訂重寫"
+
+msgid "First Last Url"
+msgstr "第一個 姓氏 網址"
+
+msgid "First"
+msgstr "第一的"
+
+msgid "Last"
+msgstr "最後的"
+
+msgid "Custom Info"
+msgstr "自訂訊息"
+
+msgid "Info"
+msgstr "資訊"
+
+msgid "Info Url"
+msgstr "資訊網址"
+
+msgid "Custom Details"
+msgstr "自訂詳細信息"
+
+msgid "Watch Url"
+msgstr "觀看網址"
+
+msgid "Custom filter fields"
+msgstr "自訂過濾字段"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "顯示哪些自訂欄位來過濾條目"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "進階自訂過濾欄位配置"
+
+msgid "Filter Name"
+msgstr "過濾器名稱"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "例如：格式、顏色、大小、尺寸、名稱可以在設定後中途修改"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "分類字段唯一標識符"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "必須是純英文，例如geshhi、yanse、szie、color，<b style=\"color:red;\">一旦設置，如果已經選擇了相關文章，則此標識符不能中途修改</b>"
+
+msgid "Option Type"
+msgstr "選項類型"
+
+msgid "Multiple Choice"
+msgstr "多項選擇"
+
+msgid "Dropdown Single Choice"
+msgstr "下拉單選"
+
+msgid "Single Choice"
+msgstr "單選"
+
+msgid "Option type when publishing articles in the background"
+msgstr "後台發布文章時的選項類型"
+
+msgid "Rewrite & Taxonomy"
+msgstr "重寫和分類"
 
 msgid "Player & ADS"
 msgstr "球員和廣告"
@@ -1036,6 +1075,30 @@ msgstr "請停用 AdBlock 以繼續觀看。"
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "例如：“用戶請刪除廣告攔截器！”"
 
+msgid "Item Settings"
+msgstr "項目設定"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "使用文字欄位中的以下佔位符來顯示動態值："
+
+msgid "Enable Cusom List Item"
+msgstr "啟用自訂清單項"
+
+msgid "Runtime"
+msgstr "運行時"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "輸入您的自訂運行時文字。您可以使用佔位符，例如 {runtime}、{quality}、{episodes} 等。"
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "輸入您的自訂品質文字。您可以使用佔位符，例如 {quality}、{episodes} 等。"
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "輸入您的自訂狀態文字。您可以使用佔位符，例如 {status}、{type} 等。"
+
 msgid "Search"
 msgstr "搜尋"
 
@@ -1087,9 +1150,6 @@ msgstr "IMDB ID"
 msgid "Enter the IMDB ID for this movie."
 msgstr "輸入這部電影的 IMDB ID。"
 
-msgid "Runtime"
-msgstr "運行時"
-
 msgid "Enter the runtime of the movie."
 msgstr "輸入電影的播放時間。"
 
@@ -1105,35 +1165,17 @@ msgstr "總集數"
 msgid "Enter the total number of episodes for the movie."
 msgstr "輸入電影的總集數。"
 
-msgid "Quality"
-msgstr "品質"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "輸入電影的品質（例如，1080p、720p）。"
 
 msgid "Single Movies"
 msgstr "單曲電影"
 
-msgid "TV Series"
-msgstr "電視劇"
-
-msgid "TV Shows"
-msgstr "電視節目"
-
-msgid "Theater Movie"
-msgstr "戲院電影"
-
-msgid "Cartoon"
-msgstr "卡通片"
-
-msgid "Trailer"
-msgstr "拖車"
-
 msgid "OnGoing"
 msgstr "正在進行"
 
 msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
-msgstr "如果已設定特色圖片，則此欄位為選填。僅允許使用 .png、.jpg、.jpeg 格式的圖片。"
+msgstr "如果已設定特色圖片，則可選。僅允許使用 .png、.jpg、.jpeg 格式的圖片。"
 
 msgid "Trailer Links"
 msgstr "預告片連結"
@@ -1157,7 +1199,7 @@ msgid "Enable Related Movies"
 msgstr "啟用相關電影"
 
 msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "啟用或停用此貼文的相關電影或劇季顯示。啟用後，您可以手動選擇下方相關帖子，或者係統會根據標題自動查找相關帖子（例如，匹配劇季，例如“血魔混沌 - 第 1 季”）。停用此功能可隱藏相關內容。"
+msgstr "啟用或停用此貼文的相關電影或季節顯示。啟用後，您可以手動選擇下方的相關帖子，或者係統會根據標題自動查找相關帖子（例如，匹配季節，例如“血魔混沌 - 第 1 季”）。停用此功能可隱藏相關內容。"
 
 msgid "Select Post"
 msgstr "選擇貼文"
@@ -1373,16 +1415,10 @@ msgid "Showing _START_ to _END_ of _TOTAL_ entries"
 msgstr "顯示 _TOTAL_ 個條目中的 _START_ 至 _END_ 條"
 
 msgid "Showing 0 to 0 of 0 entries"
-msgstr "顯示 0 至 0 條，共 0 條"
+msgstr "顯示 0 到 0 的 0 個條目"
 
 msgid "(filtered from _MAX_ total entries)"
 msgstr "（從_MAX_個條目中過濾）"
-
-msgid "First"
-msgstr "第一的"
-
-msgid "Last"
-msgstr "最後的"
 
 msgid "Previous"
 msgstr "以前的"

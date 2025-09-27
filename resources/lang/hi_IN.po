@@ -137,7 +137,7 @@ msgid "Baidu Site Verification Code"
 msgstr "Baidu साइट सत्यापन कोड"
 
 msgid "Enter your Baidu Webmaster Tools verification code."
-msgstr "अपना Baidu वेबमास्टर टूल्स सत्यापन कोड दर्ज करें."
+msgstr "अपना Baidu वेबमास्टर टूल सत्यापन कोड दर्ज करें."
 
 msgid "Site Keywords"
 msgstr "साइट कीवर्ड"
@@ -168,45 +168,6 @@ msgstr "मूवी देखने वाले पेज के लिए SEO
 
 msgid "SEO Settings"
 msgstr "एसईओ सेटिंग्स"
-
-msgid "Taxonomy Custom"
-msgstr "वर्गीकरण कस्टम"
-
-msgid "Custom filter fields"
-msgstr "कस्टम फ़िल्टर फ़ील्ड"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "प्रविष्टियों को फ़िल्टर करने के लिए कौन से कस्टम फ़ील्ड प्रदर्शित करें"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "उन्नत कस्टम फ़िल्टर फ़ील्ड कॉन्फ़िगरेशन"
-
-msgid "Filter Name"
-msgstr "फ़िल्टर का नाम"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "उदाहरण के लिए: प्रारूप, रंग, आकार, आयाम, नाम को सेटिंग के बाद बीच में संशोधित किया जा सकता है"
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "टैक्सोनॉमी फ़ील्ड विशिष्ट पहचानकर्ता"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "शुद्ध अंग्रेजी होना चाहिए, जैसे कि geshhi, yanse, szie, color, <b style=\"color:red;\">एक बार सेट हो जाने पर, यदि पहले से ही संबद्ध लेख चयनित हैं, तो इस पहचानकर्ता को बीच में संशोधित नहीं किया जा सकता है</b>"
-
-msgid "Option Type"
-msgstr "विकल्प प्रकार"
-
-msgid "Multiple Choice"
-msgstr "बहुविकल्पी"
-
-msgid "Dropdown Single Choice"
-msgstr "ड्रॉपडाउन एकल विकल्प"
-
-msgid "Single Choice"
-msgstr "एकल विकल्प"
-
-msgid "Option type when publishing articles in the background"
-msgstr "पृष्ठभूमि में लेख प्रकाशित करते समय विकल्प प्रकार"
 
 msgid "Popup"
 msgstr "पॉप अप"
@@ -433,6 +394,48 @@ msgstr "आईफ्रेम"
 msgid "Images"
 msgstr "इमेजिस"
 
+msgid "Movies"
+msgstr "फिल्में"
+
+msgid "TV Series"
+msgstr "टीवी श्रृंखला"
+
+msgid "TV Shows"
+msgstr "टीवी शो"
+
+msgid "Theater Movie"
+msgstr "थिएटर मूवी"
+
+msgid "Cartoon"
+msgstr "कार्टून"
+
+msgid "Manga"
+msgstr "मंगा"
+
+msgid "Oneshot"
+msgstr "एक शॉट"
+
+msgid "Manhua"
+msgstr "ManHua"
+
+msgid "Manhwa"
+msgstr "Manhwa"
+
+msgid "Doujinshi"
+msgstr "doujinshi"
+
+msgid "Trailer"
+msgstr "ट्रेलर"
+
+msgid "Completed"
+msgstr "पुरा होना।"
+
+msgid "Ongoing"
+msgstr "चल रहे"
+
+msgid "Upcoming"
+msgstr "आगामी"
+
 msgid "less than 1 second ago"
 msgstr "1 सेकंड से भी कम समय पहले"
 
@@ -592,30 +595,6 @@ msgstr "उदाहरण: https://example.com/chapter-1 (या) image1*image2
 msgid "Meta Videos"
 msgstr "मेटा वीडियो"
 
-msgid "Completed"
-msgstr "पुरा होना।"
-
-msgid "Ongoing"
-msgstr "चल रहे"
-
-msgid "Upcoming"
-msgstr "आगामी"
-
-msgid "Manga"
-msgstr "मंगा"
-
-msgid "Oneshot"
-msgstr "एक शॉट"
-
-msgid "Manhua"
-msgstr "ManHua"
-
-msgid "Manhwa"
-msgstr "Manhwa"
-
-msgid "Doujinshi"
-msgstr "doujinshi"
-
 msgid "Thumbnail"
 msgstr "थंबनेल"
 
@@ -672,12 +651,6 @@ msgstr "शनिवार"
 
 msgid "Sunday"
 msgstr "रविवार"
-
-msgid "Release Time"
-msgstr "जारी करने का समय"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "वैकल्पिक - दिन का वह समय जब मंगा आमतौर पर जारी किया जाता है।"
 
 msgid "Enable Message"
 msgstr "संदेश सक्षम करें"
@@ -765,6 +738,72 @@ msgstr "दृश्य महीना"
 
 msgid "Views All"
 msgstr "सभी दृश्य"
+
+msgid "Custom Rewite"
+msgstr "कस्टम रीराइट"
+
+msgid "First Last Url"
+msgstr "पहला अंतिम यूआरएल"
+
+msgid "First"
+msgstr "पहला"
+
+msgid "Last"
+msgstr "अंतिम"
+
+msgid "Custom Info"
+msgstr "कस्टम जानकारी"
+
+msgid "Info"
+msgstr "जानकारी"
+
+msgid "Info Url"
+msgstr "जानकारी यूआरएल"
+
+msgid "Custom Details"
+msgstr "कस्टम विवरण"
+
+msgid "Watch Url"
+msgstr "वॉच यूआरएल"
+
+msgid "Custom filter fields"
+msgstr "कस्टम फ़िल्टर फ़ील्ड"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "प्रविष्टियों को फ़िल्टर करने के लिए कौन से कस्टम फ़ील्ड प्रदर्शित करें"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "उन्नत कस्टम फ़िल्टर फ़ील्ड कॉन्फ़िगरेशन"
+
+msgid "Filter Name"
+msgstr "फ़िल्टर का नाम"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "उदाहरण के लिए: प्रारूप, रंग, आकार, आयाम, नाम को सेटिंग के बाद बीच में संशोधित किया जा सकता है"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "टैक्सोनॉमी फ़ील्ड विशिष्ट पहचानकर्ता"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "शुद्ध अंग्रेजी होना चाहिए, जैसे कि geshhi, yanse, szie, color, <b style=\"color:red;\">एक बार सेट हो जाने पर, यदि पहले से ही संबद्ध लेख चयनित हैं, तो इस पहचानकर्ता को बीच में संशोधित नहीं किया जा सकता है</b>"
+
+msgid "Option Type"
+msgstr "विकल्प प्रकार"
+
+msgid "Multiple Choice"
+msgstr "बहुविकल्पी"
+
+msgid "Dropdown Single Choice"
+msgstr "ड्रॉपडाउन एकल विकल्प"
+
+msgid "Single Choice"
+msgstr "एकल विकल्प"
+
+msgid "Option type when publishing articles in the background"
+msgstr "पृष्ठभूमि में लेख प्रकाशित करते समय विकल्प प्रकार"
+
+msgid "Rewrite & Taxonomy"
+msgstr "पुनर्लेखन और वर्गीकरण"
 
 msgid "Player & ADS"
 msgstr "प्लेयर और विज्ञापन"
@@ -857,7 +896,7 @@ msgid "Logo link"
 msgstr "लोगो लिंक"
 
 msgid "The URL to visit when the watermark image is clicked. Clicking a logo will have no affect unless this is configured"
-msgstr "वॉटरमार्क इमेज पर क्लिक करने पर जाने वाला URL। किसी लोगो पर क्लिक करने से कोई प्रभाव नहीं पड़ेगा जब तक कि इसे कॉन्फ़िगर न किया गया हो"
+msgstr "वॉटरमार्क इमेज पर क्लिक करने पर विज़िट करने वाला URL। किसी लोगो पर क्लिक करने से कोई प्रभाव नहीं पड़ेगा जब तक कि इसे कॉन्फ़िगर न किया गया हो"
 
 msgid "Logo Position"
 msgstr "लोगो की स्थिति"
@@ -1036,6 +1075,30 @@ msgstr "कृपया देखना जारी रखने के लि�
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "उदाहरण: \"उपयोगकर्ता कृपया विज्ञापन अवरोधक हटाएँ!\""
 
+msgid "Item Settings"
+msgstr "आइटम सेटिंग्स"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "गतिशील मान प्रदर्शित करने के लिए पाठ फ़ील्ड में नीचे दिए गए प्लेसहोल्डर्स का उपयोग करें:"
+
+msgid "Enable Cusom List Item"
+msgstr "कस्टम सूची आइटम सक्षम करें"
+
+msgid "Runtime"
+msgstr "क्रम"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "अपना कस्टम रनटाइम टेक्स्ट दर्ज करें। आप {runtime}, {quality}, {episodes} आदि जैसे प्लेसहोल्डर का उपयोग कर सकते हैं।"
+
+msgid "Quality"
+msgstr "गुणवत्ता"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "अपना कस्टम क्वालिटी टेक्स्ट डालें। आप {quality}, {episodes} आदि जैसे प्लेसहोल्डर का इस्तेमाल कर सकते हैं।"
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "अपना कस्टम स्टेटस टेक्स्ट दर्ज करें। आप {status}, {type} आदि जैसे प्लेसहोल्डर का उपयोग कर सकते हैं।"
+
 msgid "Search"
 msgstr "खोज"
 
@@ -1087,9 +1150,6 @@ msgstr "आईएमडीबी आईडी"
 msgid "Enter the IMDB ID for this movie."
 msgstr "इस मूवी के लिए IMDB ID दर्ज करें."
 
-msgid "Runtime"
-msgstr "क्रम"
-
 msgid "Enter the runtime of the movie."
 msgstr "फिल्म का रनटाइम दर्ज करें."
 
@@ -1105,29 +1165,11 @@ msgstr "कुल एपिसोड"
 msgid "Enter the total number of episodes for the movie."
 msgstr "फिल्म के कुल एपिसोड की संख्या दर्ज करें।"
 
-msgid "Quality"
-msgstr "गुणवत्ता"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "मूवी की गुणवत्ता दर्ज करें (उदाहरण के लिए, 1080p, 720p)."
 
 msgid "Single Movies"
 msgstr "एकल फिल्में"
-
-msgid "TV Series"
-msgstr "टीवी श्रृंखला"
-
-msgid "TV Shows"
-msgstr "टीवी शो"
-
-msgid "Theater Movie"
-msgstr "थिएटर मूवी"
-
-msgid "Cartoon"
-msgstr "कार्टून"
-
-msgid "Trailer"
-msgstr "ट्रेलर"
 
 msgid "OnGoing"
 msgstr "चल रहे"
@@ -1280,7 +1322,7 @@ msgid "Marked as resolved successfully!"
 msgstr "सफलतापूर्वक हल किया गया चिह्नित!"
 
 msgid "Failed to mark as resolved!"
-msgstr "हल हो गया के रूप में चिह्नित करने में विफल!"
+msgstr "हल किया गया चिह्नित करने में विफल!"
 
 msgid "An error occurred while updating the status."
 msgstr "स्थिति अद्यतन करते समय एक त्रुटि हुई."
@@ -1377,12 +1419,6 @@ msgstr "0 से 0 में से 0 प्रविष्टियाँ द�
 
 msgid "(filtered from _MAX_ total entries)"
 msgstr "(_MAX_ कुल प्रविष्टियों से फ़िल्टर किया गया)"
-
-msgid "First"
-msgstr "पहला"
-
-msgid "Last"
-msgstr "अंतिम"
 
 msgid "Previous"
 msgstr "पहले का"

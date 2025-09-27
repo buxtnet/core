@@ -169,45 +169,6 @@ msgstr "Personalize o título SEO da página de assistir ao filme. Use marcadore
 msgid "SEO Settings"
 msgstr "Configurações de SEO"
 
-msgid "Taxonomy Custom"
-msgstr "Taxonomia Personalizada"
-
-msgid "Custom filter fields"
-msgstr "Campos de filtro personalizados"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "Quais campos personalizados exibir para filtrar entradas"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "Configuração avançada de campos de filtro personalizados"
-
-msgid "Filter Name"
-msgstr "Nome do filtro"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "Por exemplo: formato, cor, tamanho, dimensões, o nome pode ser modificado no meio do caminho após a configuração"
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "Identificador Único do Campo de Taxonomia"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "Deve ser inglês puro, como geshhi, yanse, szie, color, <b style=\"color:red;\">Uma vez definido, se já houver artigos associados selecionados, este identificador não poderá ser modificado no meio do caminho</b>"
-
-msgid "Option Type"
-msgstr "Tipo de opção"
-
-msgid "Multiple Choice"
-msgstr "Múltipla escolha"
-
-msgid "Dropdown Single Choice"
-msgstr "Escolha única suspensa"
-
-msgid "Single Choice"
-msgstr "Escolha única"
-
-msgid "Option type when publishing articles in the background"
-msgstr "Tipo de opção ao publicar artigos em segundo plano"
-
 msgid "Popup"
 msgstr "Aparecer"
 
@@ -433,6 +394,48 @@ msgstr "Iframe"
 msgid "Images"
 msgstr "Imagens"
 
+msgid "Movies"
+msgstr "Filmes"
+
+msgid "TV Series"
+msgstr "Série de TV"
+
+msgid "TV Shows"
+msgstr "Programas de TV"
+
+msgid "Theater Movie"
+msgstr "Cinema de Teatro"
+
+msgid "Cartoon"
+msgstr "Desenho animado"
+
+msgid "Manga"
+msgstr "Mangá"
+
+msgid "Oneshot"
+msgstr "Um tiro"
+
+msgid "Manhua"
+msgstr "Manhua"
+
+msgid "Manhwa"
+msgstr "Manhwa"
+
+msgid "Doujinshi"
+msgstr "Doujinshi"
+
+msgid "Trailer"
+msgstr "Reboque"
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid "Ongoing"
+msgstr "Em andamento"
+
+msgid "Upcoming"
+msgstr "Por vir"
+
 msgid "less than 1 second ago"
 msgstr "menos de 1 segundo atrás"
 
@@ -592,30 +595,6 @@ msgstr "Ex: https://example.com/chapter-1 (OU) imagem1*imagem2*..."
 msgid "Meta Videos"
 msgstr "Meta Vídeos"
 
-msgid "Completed"
-msgstr "Concluído"
-
-msgid "Ongoing"
-msgstr "Em andamento"
-
-msgid "Upcoming"
-msgstr "Por vir"
-
-msgid "Manga"
-msgstr "Mangá"
-
-msgid "Oneshot"
-msgstr "Um tiro"
-
-msgid "Manhua"
-msgstr "Manhua"
-
-msgid "Manhwa"
-msgstr "Manhwa"
-
-msgid "Doujinshi"
-msgstr "Doujinshi"
-
 msgid "Thumbnail"
 msgstr "Miniatura"
 
@@ -672,12 +651,6 @@ msgstr "Sábado"
 
 msgid "Sunday"
 msgstr "Domingo"
-
-msgid "Release Time"
-msgstr "Tempo de lançamento"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "Opcional — Horário do dia em que o mangá geralmente é lançado."
 
 msgid "Enable Message"
 msgstr "Habilitar mensagem"
@@ -765,6 +738,72 @@ msgstr "Visualizações Mês"
 
 msgid "Views All"
 msgstr "Visualizações Todas"
+
+msgid "Custom Rewite"
+msgstr "Reescrever personalizado"
+
+msgid "First Last Url"
+msgstr "Primeiro Último URL"
+
+msgid "First"
+msgstr "Primeiro"
+
+msgid "Last"
+msgstr "Durar"
+
+msgid "Custom Info"
+msgstr "Informações personalizadas"
+
+msgid "Info"
+msgstr "Informações"
+
+msgid "Info Url"
+msgstr "URL de informações"
+
+msgid "Custom Details"
+msgstr "Detalhes personalizados"
+
+msgid "Watch Url"
+msgstr "URL do relógio"
+
+msgid "Custom filter fields"
+msgstr "Campos de filtro personalizados"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "Quais campos personalizados exibir para filtrar entradas"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "Configuração avançada de campos de filtro personalizados"
+
+msgid "Filter Name"
+msgstr "Nome do filtro"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "Por exemplo: formato, cor, tamanho, dimensões, o nome pode ser modificado no meio do caminho após a configuração"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "Identificador Único do Campo de Taxonomia"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "Deve ser inglês puro, como geshhi, yanse, szie, color, <b style=\"color:red;\">Uma vez definido, se já houver artigos associados selecionados, este identificador não poderá ser modificado no meio do caminho</b>"
+
+msgid "Option Type"
+msgstr "Tipo de opção"
+
+msgid "Multiple Choice"
+msgstr "Múltipla escolha"
+
+msgid "Dropdown Single Choice"
+msgstr "Escolha única suspensa"
+
+msgid "Single Choice"
+msgstr "Escolha única"
+
+msgid "Option type when publishing articles in the background"
+msgstr "Tipo de opção ao publicar artigos em segundo plano"
+
+msgid "Rewrite & Taxonomy"
+msgstr "Reescrita e Taxonomia"
 
 msgid "Player & ADS"
 msgstr "Jogador e ADS"
@@ -986,7 +1025,7 @@ msgid "Floating Player"
 msgstr "Jogador Flutuante"
 
 msgid "Default poster image"
-msgstr "Imagem de pôster padrão"
+msgstr "Imagem padrão do pôster"
 
 msgid "Default Subtitle"
 msgstr "Legenda padrão"
@@ -1035,6 +1074,30 @@ msgstr "Desative o AdBlock para continuar assistindo."
 
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "Ex: \"Usuários, por favor, removam o bloqueador de anúncios!\""
+
+msgid "Item Settings"
+msgstr "Configurações do item"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "Use os espaços reservados abaixo nos campos de texto para exibir valores dinâmicos:"
+
+msgid "Enable Cusom List Item"
+msgstr "Habilitar item de lista personalizado"
+
+msgid "Runtime"
+msgstr "Tempo de execução"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "Insira seu texto de execução personalizado. Você pode usar marcadores de posição como {runtime}, {quality}, {episodes}, etc."
+
+msgid "Quality"
+msgstr "Qualidade"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "Insira seu texto de qualidade personalizado. Você pode usar marcadores de posição como {qualidade}, {episódios}, etc."
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "Insira seu texto de status personalizado. Você pode usar marcadores de posição como {status}, {type}, etc."
 
 msgid "Search"
 msgstr "Procurar"
@@ -1087,9 +1150,6 @@ msgstr "ID do IMDB"
 msgid "Enter the IMDB ID for this movie."
 msgstr "Digite o ID do IMDB para este filme."
 
-msgid "Runtime"
-msgstr "Tempo de execução"
-
 msgid "Enter the runtime of the movie."
 msgstr "Insira o tempo de execução do filme."
 
@@ -1105,29 +1165,11 @@ msgstr "Episódios totais"
 msgid "Enter the total number of episodes for the movie."
 msgstr "Digite o número total de episódios do filme."
 
-msgid "Quality"
-msgstr "Qualidade"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Digite a qualidade do filme (por exemplo, 1080p, 720p)."
 
 msgid "Single Movies"
 msgstr "Filmes individuais"
-
-msgid "TV Series"
-msgstr "Série de TV"
-
-msgid "TV Shows"
-msgstr "Programas de TV"
-
-msgid "Theater Movie"
-msgstr "Cinema de Teatro"
-
-msgid "Cartoon"
-msgstr "Desenho animado"
-
-msgid "Trailer"
-msgstr "Reboque"
 
 msgid "OnGoing"
 msgstr "Em andamento"
@@ -1377,12 +1419,6 @@ msgstr "Mostrando 0 a 0 de 0 entradas"
 
 msgid "(filtered from _MAX_ total entries)"
 msgstr "(filtrado de _MAX_ entradas totais)"
-
-msgid "First"
-msgstr "Primeiro"
-
-msgid "Last"
-msgstr "Durar"
 
 msgid "Previous"
 msgstr "Anterior"

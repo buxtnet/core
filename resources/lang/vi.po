@@ -86,7 +86,7 @@ msgid "Categories Display Style"
 msgstr "Kiểu hiển thị danh mục"
 
 msgid "Choose how categories are displayed on the frontend. Select a style that matches your theme design."
-msgstr "Chọn cách hiển thị danh mục trên giao diện. Chọn kiểu phù hợp với thiết kế giao diện của bạn."
+msgstr "Chọn cách hiển thị danh mục trên giao diện. Chọn kiểu phù hợp với thiết kế chủ đề của bạn."
 
 msgid "Enable Built-in SEO Features"
 msgstr "Kích hoạt tính năng SEO tích hợp"
@@ -143,7 +143,7 @@ msgid "Site Keywords"
 msgstr "Từ khóa trang web"
 
 msgid "Enter 3-5 keywords relevant to your site, separated by commas (e.g., movies, streaming, entertainment)."
-msgstr "Nhập 3-5 từ khóa có liên quan đến trang web của bạn, cách nhau bằng dấu phẩy (ví dụ: phim, phát trực tuyến, giải trí)."
+msgstr "Nhập 3-5 từ khóa có liên quan đến trang web của bạn, phân tách bằng dấu phẩy (ví dụ: phim, phát trực tuyến, giải trí)."
 
 msgid "Site Description"
 msgstr "Mô tả trang web"
@@ -168,45 +168,6 @@ msgstr "Tùy chỉnh tiêu đề SEO cho trang xem phim. Sử dụng trình gi�
 
 msgid "SEO Settings"
 msgstr "Cài đặt SEO"
-
-msgid "Taxonomy Custom"
-msgstr "Phân loại tùy chỉnh"
-
-msgid "Custom filter fields"
-msgstr "Các trường lọc tùy chỉnh"
-
-msgid "Which custom fields to display for filtering entries"
-msgstr "Những trường tùy chỉnh nào sẽ hiển thị để lọc mục nhập"
-
-msgid "Advanced Custom Filter Fields Configuration"
-msgstr "Cấu hình trường bộ lọc tùy chỉnh nâng cao"
-
-msgid "Filter Name"
-msgstr "Tên bộ lọc"
-
-msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
-msgstr "Ví dụ: định dạng, màu sắc, kích thước, kích thước, tên có thể được sửa đổi giữa chừng sau khi thiết lập"
-
-msgid "Taxonomy Field Unique Identifier"
-msgstr "Mã định danh duy nhất của trường phân loại"
-
-msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
-msgstr "Phải là tiếng Anh thuần túy, chẳng hạn như geshhi, yanse, szie, color, <b style=\"color:red;\">Sau khi thiết lập, nếu đã có các bài viết liên quan được chọn, thì mã định danh này không thể được sửa đổi giữa chừng</b>"
-
-msgid "Option Type"
-msgstr "Loại tùy chọn"
-
-msgid "Multiple Choice"
-msgstr "Trắc nghiệm"
-
-msgid "Dropdown Single Choice"
-msgstr "Lựa chọn đơn thả xuống"
-
-msgid "Single Choice"
-msgstr "Lựa chọn duy nhất"
-
-msgid "Option type when publishing articles in the background"
-msgstr "Loại tùy chọn khi xuất bản bài viết ở chế độ nền"
 
 msgid "Popup"
 msgstr "Cửa sổ bật lên"
@@ -433,6 +394,48 @@ msgstr "Khung nội tuyến"
 msgid "Images"
 msgstr "Hình ảnh"
 
+msgid "Movies"
+msgstr "Phim"
+
+msgid "TV Series"
+msgstr "Phim truyền hình"
+
+msgid "TV Shows"
+msgstr "Chương trình truyền hình"
+
+msgid "Theater Movie"
+msgstr "Phim sân khấu"
+
+msgid "Cartoon"
+msgstr "Hoạt hình"
+
+msgid "Manga"
+msgstr "Truyện tranh"
+
+msgid "Oneshot"
+msgstr "Oneshot"
+
+msgid "Manhua"
+msgstr "Manhua"
+
+msgid "Manhwa"
+msgstr "Manhwa"
+
+msgid "Doujinshi"
+msgstr "Doujinshi"
+
+msgid "Trailer"
+msgstr "Đoạn phim giới thiệu"
+
+msgid "Completed"
+msgstr "Hoàn thành"
+
+msgid "Ongoing"
+msgstr "Đang diễn ra"
+
+msgid "Upcoming"
+msgstr "Sắp tới"
+
 msgid "less than 1 second ago"
 msgstr "ít hơn 1 giây trước"
 
@@ -476,7 +479,7 @@ msgid "Broken Report"
 msgstr "Báo cáo bị hỏng"
 
 msgid "Invalid REST nonce."
-msgstr "Nonce REST không hợp lệ."
+msgstr "REST nonce không hợp lệ."
 
 msgid "Issues configuration saved successfully."
 msgstr "Cấu hình sự cố đã được lưu thành công."
@@ -592,30 +595,6 @@ msgstr "Ví dụ: https://example.com/chapter-1 (HOẶC) image1*image2*..."
 msgid "Meta Videos"
 msgstr "Video Meta"
 
-msgid "Completed"
-msgstr "Hoàn thành"
-
-msgid "Ongoing"
-msgstr "Đang diễn ra"
-
-msgid "Upcoming"
-msgstr "Sắp tới"
-
-msgid "Manga"
-msgstr "Truyện tranh"
-
-msgid "Oneshot"
-msgstr "Oneshot"
-
-msgid "Manhua"
-msgstr "Manhua"
-
-msgid "Manhwa"
-msgstr "Manhwa"
-
-msgid "Doujinshi"
-msgstr "Doujinshi"
-
 msgid "Thumbnail"
 msgstr "Hình thu nhỏ"
 
@@ -638,7 +617,7 @@ msgid "Adult Content"
 msgstr "Nội dung dành cho người lớn"
 
 msgid "Enable if this manga contains 18+ content."
-msgstr "Bật nếu manga này có nội dung 18+."
+msgstr "Bật nếu manga này chứa nội dung 18+."
 
 msgid "Schedule"
 msgstr "Lịch trình"
@@ -672,12 +651,6 @@ msgstr "Thứ bảy"
 
 msgid "Sunday"
 msgstr "Chủ nhật"
-
-msgid "Release Time"
-msgstr "Thời gian phát hành"
-
-msgid "Optional — Time of day when the manga is usually released."
-msgstr "Tùy chọn — Thời gian trong ngày mà manga thường được phát hành."
 
 msgid "Enable Message"
 msgstr "Bật tin nhắn"
@@ -766,8 +739,74 @@ msgstr "Tháng lượt xem"
 msgid "Views All"
 msgstr "Xem tất cả"
 
+msgid "Custom Rewite"
+msgstr "Viết lại tùy chỉnh"
+
+msgid "First Last Url"
+msgstr "Tên Họ Url"
+
+msgid "First"
+msgstr "Đầu tiên"
+
+msgid "Last"
+msgstr "Cuối cùng"
+
+msgid "Custom Info"
+msgstr "Thông tin tùy chỉnh"
+
+msgid "Info"
+msgstr "Thông tin"
+
+msgid "Info Url"
+msgstr "Url thông tin"
+
+msgid "Custom Details"
+msgstr "Chi tiết tùy chỉnh"
+
+msgid "Watch Url"
+msgstr "Xem Url"
+
+msgid "Custom filter fields"
+msgstr "Các trường lọc tùy chỉnh"
+
+msgid "Which custom fields to display for filtering entries"
+msgstr "Những trường tùy chỉnh nào sẽ hiển thị để lọc mục nhập"
+
+msgid "Advanced Custom Filter Fields Configuration"
+msgstr "Cấu hình trường bộ lọc tùy chỉnh nâng cao"
+
+msgid "Filter Name"
+msgstr "Tên bộ lọc"
+
+msgid "For example: format, color, size, dimensions, the name can be modified midway after setting"
+msgstr "Ví dụ: định dạng, màu sắc, kích thước, kích thước, tên có thể được sửa đổi giữa chừng sau khi thiết lập"
+
+msgid "Taxonomy Field Unique Identifier"
+msgstr "Mã định danh duy nhất của trường phân loại"
+
+msgid "Must be pure English, such as geshhi, yanse, szie, color, <b style=\"color:red;\">Once set, if there are already associated articles selected, this identifier cannot be modified midway</b>"
+msgstr "Phải là tiếng Anh thuần túy, chẳng hạn như geshhi, yanse, szie, color, <b style=\"color:red;\">Sau khi thiết lập, nếu đã có các bài viết liên quan được chọn, thì mã định danh này không thể được sửa đổi giữa chừng</b>"
+
+msgid "Option Type"
+msgstr "Loại tùy chọn"
+
+msgid "Multiple Choice"
+msgstr "Trắc nghiệm"
+
+msgid "Dropdown Single Choice"
+msgstr "Lựa chọn đơn thả xuống"
+
+msgid "Single Choice"
+msgstr "Lựa chọn duy nhất"
+
+msgid "Option type when publishing articles in the background"
+msgstr "Loại tùy chọn khi xuất bản bài viết ở chế độ nền"
+
+msgid "Rewrite & Taxonomy"
+msgstr "Viết lại & Phân loại"
+
 msgid "Player & ADS"
-msgstr "Trình phát & Quảng cáo"
+msgstr "Người chơi & Quảng cáo"
 
 msgid "Player Size"
 msgstr "Kích thước người chơi"
@@ -803,13 +842,13 @@ msgid "VAST File"
 msgstr "Tệp VAST"
 
 msgid "The URL of the VAST file to be used for ads. This is required if you enable JWPlayer ads."
-msgstr "URL của tệp VAST sẽ được sử dụng cho quảng cáo. Thông tin này là bắt buộc nếu bạn bật quảng cáo JWPlayer."
+msgstr "URL của tệp VAST được sử dụng cho quảng cáo. Thông tin này là bắt buộc nếu bạn bật quảng cáo JWPlayer."
 
 msgid "Ads Message"
 msgstr "Tin nhắn quảng cáo"
 
 msgid "Ex: XX seconds left in ad. XX cannot be changed"
-msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi"
+msgstr "VD: Còn XX giây nữa là hết quảng cáo. XX không thể thay đổi được"
 
 msgid "XX seconds left in ad"
 msgstr "Còn XX giây nữa là hết quảng cáo"
@@ -872,7 +911,7 @@ msgid "Bottom left"
 msgstr "Dưới cùng bên trái"
 
 msgid "Bottom right"
-msgstr "Góc dưới bên phải"
+msgstr "Dưới cùng bên phải"
 
 msgid "Control bar (JWPlayer only)"
 msgstr "Thanh điều khiển (chỉ dành cho JWPlayer)"
@@ -908,7 +947,7 @@ msgid "Header Ads Code Desktop"
 msgstr "Mã quảng cáo tiêu đề máy tính để bàn"
 
 msgid "Footer Ads Code Desktop"
-msgstr "Footer Ads Code Desktop"
+msgstr "Mã quảng cáo chân trang Máy tính để bàn"
 
 msgid "Top Player Ads Code Desktop"
 msgstr "Mã quảng cáo Top Player dành cho máy tính để bàn"
@@ -950,7 +989,7 @@ msgid "Auto reset cache"
 msgstr "Tự động đặt lại bộ nhớ đệm"
 
 msgid "Automatically clear the cache if the player error"
-msgstr "Tự động xóa bộ nhớ đệm nếu trình phát bị lỗi"
+msgstr "Tự động xóa bộ nhớ đệm nếu trình phát lỗi"
 
 msgid "Cache time"
 msgstr "Thời gian lưu trữ đệm"
@@ -1036,6 +1075,30 @@ msgstr "Vui lòng tắt AdBlock để tiếp tục xem."
 msgid "Ex: \"Users please remove ad blocker!\""
 msgstr "VD: \"Người dùng vui lòng xóa trình chặn quảng cáo!\""
 
+msgid "Item Settings"
+msgstr "Cài đặt mục"
+
+msgid "Use the placeholders below in the text fields to display dynamic values:"
+msgstr "Sử dụng các chỗ giữ chỗ bên dưới trong các trường văn bản để hiển thị các giá trị động:"
+
+msgid "Enable Cusom List Item"
+msgstr "Kích hoạt mục danh sách tùy chỉnh"
+
+msgid "Runtime"
+msgstr "Thời gian chạy"
+
+msgid "Enter your custom runtime text. You can use placeholders such as {runtime}, {quality}, {episodes}, etc."
+msgstr "Nhập văn bản thời gian chạy tùy chỉnh của bạn. Bạn có thể sử dụng các trình giữ chỗ như {runtime}, {quality}, {episodes}, v.v."
+
+msgid "Quality"
+msgstr "Chất lượng"
+
+msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
+msgstr "Nhập văn bản chất lượng tùy chỉnh của bạn. Bạn có thể sử dụng các ký tự giữ chỗ như {quality}, {episodes}, v.v."
+
+msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
+msgstr "Nhập văn bản trạng thái tùy chỉnh của bạn. Bạn có thể sử dụng các ký tự giữ chỗ như {status}, {type}, v.v."
+
 msgid "Search"
 msgstr "Tìm kiếm"
 
@@ -1079,16 +1142,13 @@ msgid "TMDB ID"
 msgstr "Mã số TMDB"
 
 msgid "Enter the TMDB ID for this movie."
-msgstr "Nhập ID TMDB cho bộ phim này."
+msgstr "Nhập ID TMDB cho phim này."
 
 msgid "IMDB ID"
 msgstr "Mã IMDB"
 
 msgid "Enter the IMDB ID for this movie."
 msgstr "Nhập ID IMDB cho bộ phim này."
-
-msgid "Runtime"
-msgstr "Thời gian chạy"
 
 msgid "Enter the runtime of the movie."
 msgstr "Nhập thời lượng của bộ phim."
@@ -1105,35 +1165,17 @@ msgstr "Tổng số tập"
 msgid "Enter the total number of episodes for the movie."
 msgstr "Nhập tổng số tập của bộ phim."
 
-msgid "Quality"
-msgstr "Chất lượng"
-
 msgid "Enter the quality of the movie (e.g., 1080p, 720p)."
 msgstr "Nhập chất lượng của phim (ví dụ: 1080p, 720p)."
 
 msgid "Single Movies"
 msgstr "Phim đơn"
 
-msgid "TV Series"
-msgstr "Phim truyền hình"
-
-msgid "TV Shows"
-msgstr "Chương trình truyền hình"
-
-msgid "Theater Movie"
-msgstr "Phim sân khấu"
-
-msgid "Cartoon"
-msgstr "Hoạt hình"
-
-msgid "Trailer"
-msgstr "Đoạn phim giới thiệu"
-
 msgid "OnGoing"
 msgstr "Đang diễn ra"
 
 msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
-msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ cho phép định dạng ảnh .png, .jpg, .jpeg."
+msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ chấp nhận định dạng ảnh .png, .jpg, .jpeg."
 
 msgid "Trailer Links"
 msgstr "Liên kết Trailer"
@@ -1377,12 +1419,6 @@ msgstr "Hiển thị 0 đến 0 trong số 0 mục nhập"
 
 msgid "(filtered from _MAX_ total entries)"
 msgstr "(được lọc từ tổng số _MAX_ mục nhập)"
-
-msgid "First"
-msgstr "Đầu tiên"
-
-msgid "Last"
-msgstr "Cuối cùng"
 
 msgid "Previous"
 msgstr "Trước"
