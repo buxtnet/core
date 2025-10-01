@@ -113,7 +113,7 @@ msgid "Enable Built-in Rank Math SEO Configuration"
 msgstr "अंतर्निहित रैंक मैथ एसईओ कॉन्फ़िगरेशन सक्षम करें"
 
 msgid "Automatically configure Rank Math SEO settings and register custom variables for dynamic titles & meta descriptions."
-msgstr "स्वचालित रूप से रैंक मैथ एसईओ सेटिंग्स कॉन्फ़िगर करें और गतिशील शीर्षक और मेटा विवरण के लिए कस्टम चर पंजीकृत करें।"
+msgstr "रैंक मैथ एसईओ सेटिंग्स को स्वचालित रूप से कॉन्फ़िगर करें और गतिशील शीर्षक और मेटा विवरण के लिए कस्टम चर पंजीकृत करें।"
 
 msgid "Bing Webmaster Verification Code"
 msgstr "बिंग वेबमास्टर सत्यापन कोड"
@@ -280,29 +280,14 @@ msgstr "डेमो आयात करें"
 msgid "Create Page"
 msgstr "पेज बनाएँ"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह <a href=\"%s\" target=\"_blank\">पृष्ठ</a> बनाएँ."
-
 msgid "Create Menu"
 msgstr "मेनू बनाएँ"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह एक <a href=\"%s\" target=\"_blank\">मेनू</a> बनाएँ."
 
 msgid "Create Widgets"
 msgstr "विजेट बनाएँ"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह <a href=\"%s\" target=\"_blank\">विजेट</a> बनाएं."
-
-msgid "Import Themes Demo"
-msgstr "थीम्स डेमो आयात करें"
-
-msgid "Import Theme Demo"
-msgstr "थीम डेमो आयात करें"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> डेमो की तरह डेमो <a href=\"%s\" target=\"_blank\">सामग्री</a> आयात करें."
+msgid "Convert Old Data"
+msgstr "पुराना डेटा परिवर्तित करें"
 
 msgid "Backup Settings"
 msgstr "बैकअप सेटिंग्स"
@@ -394,26 +379,65 @@ msgstr "आईफ्रेम"
 msgid "Images"
 msgstr "इमेजिस"
 
-msgid "Movies"
-msgstr "फिल्में"
+msgid "Completed"
+msgstr "पुरा होना।"
 
-msgid "TV Series"
-msgstr "टीवी श्रृंखला"
+msgid "Ongoing"
+msgstr "चल रहे"
 
-msgid "TV Shows"
-msgstr "टीवी शो"
+msgid "Trailer"
+msgstr "ट्रेलर"
 
-msgid "Theater Movie"
-msgstr "थिएटर मूवी"
+msgid "Monday"
+msgstr "सोमवार"
 
-msgid "Cartoon"
-msgstr "कार्टून"
+msgid "Tuesday"
+msgstr "मंगलवार"
+
+msgid "Wednesday"
+msgstr "बुधवार"
+
+msgid "Thursday"
+msgstr "गुरुवार"
+
+msgid "Friday"
+msgstr "शुक्रवार"
+
+msgid "Saturday"
+msgstr "शनिवार"
+
+msgid "Sunday"
+msgstr "रविवार"
+
+msgid "News"
+msgstr "समाचार"
+
+msgid "Blog"
+msgstr "ब्लॉग"
+
+msgid "Hentai"
+msgstr "हेनतई"
+
+msgid "Ecchi"
+msgstr "ecchi"
+
+msgid "Yaoi"
+msgstr "yaoi"
+
+msgid "Yuri"
+msgstr "यूरी"
+
+msgid "Short Film"
+msgstr "लघु फिल्म"
+
+msgid "J.A.V"
+msgstr "जे.ए.वी."
+
+msgid "Other Videos"
+msgstr "अन्य वीडियो"
 
 msgid "Manga"
 msgstr "मंगा"
-
-msgid "Oneshot"
-msgstr "एक शॉट"
 
 msgid "Manhua"
 msgstr "ManHua"
@@ -424,14 +448,41 @@ msgstr "Manhwa"
 msgid "Doujinshi"
 msgstr "doujinshi"
 
-msgid "Trailer"
-msgstr "ट्रेलर"
+msgid "Oneshot"
+msgstr "एक शॉट"
 
-msgid "Completed"
-msgstr "पुरा होना।"
+msgid "Webtoon"
+msgstr "Webtoon"
 
-msgid "Ongoing"
-msgstr "चल रहे"
+msgid "Anthology"
+msgstr "संकलन"
+
+msgid "Omnibus"
+msgstr "Omnibus"
+
+msgid "Single Movie"
+msgstr "एकल फिल्म"
+
+msgid "Movies"
+msgstr "फिल्में"
+
+msgid "Series"
+msgstr "शृंखला"
+
+msgid "TV Series"
+msgstr "टीवी श्रृंखला"
+
+msgid "TV Shows"
+msgstr "टीवी शो"
+
+msgid "Theater"
+msgstr "थिएटर"
+
+msgid "Theater Movie"
+msgstr "थिएटर मूवी"
+
+msgid "Cartoon"
+msgstr "कार्टून"
 
 msgid "Upcoming"
 msgstr "आगामी"
@@ -623,34 +674,13 @@ msgid "Schedule"
 msgstr "अनुसूची"
 
 msgid "Enable if this manga has a release schedule."
-msgstr "यदि इस मंगा का कोई रिलीज़ शेड्यूल है तो उसे सक्षम करें."
+msgstr "यदि इस मंगा का रिलीज़ शेड्यूल है तो सक्षम करें."
 
 msgid "Release Days"
 msgstr "रिलीज़ के दिन"
 
 msgid "Select the days this manga is usually updated."
 msgstr "इस मंगा को आमतौर पर अपडेट करने के लिए दिन का चयन करें।"
-
-msgid "Monday"
-msgstr "सोमवार"
-
-msgid "Tuesday"
-msgstr "मंगलवार"
-
-msgid "Wednesday"
-msgstr "बुधवार"
-
-msgid "Thursday"
-msgstr "गुरुवार"
-
-msgid "Friday"
-msgstr "शुक्रवार"
-
-msgid "Saturday"
-msgstr "शनिवार"
-
-msgid "Sunday"
-msgstr "रविवार"
 
 msgid "Enable Message"
 msgstr "संदेश सक्षम करें"
@@ -742,15 +772,6 @@ msgstr "सभी दृश्य"
 msgid "Custom Rewite"
 msgstr "कस्टम रीराइट"
 
-msgid "First Last Url"
-msgstr "पहला अंतिम यूआरएल"
-
-msgid "First"
-msgstr "पहला"
-
-msgid "Last"
-msgstr "अंतिम"
-
 msgid "Custom Info"
 msgstr "कस्टम जानकारी"
 
@@ -765,6 +786,15 @@ msgstr "कस्टम विवरण"
 
 msgid "Watch Url"
 msgstr "वॉच यूआरएल"
+
+msgid "First Last Url"
+msgstr "पहला अंतिम यूआरएल"
+
+msgid "First"
+msgstr "पहला"
+
+msgid "Last"
+msgstr "अंतिम"
 
 msgid "Custom filter fields"
 msgstr "कस्टम फ़िल्टर फ़ील्ड"
@@ -1377,6 +1407,9 @@ msgstr "हम वह वीडियो नहीं ढूंढ पा रह
 
 msgid "Copyright infringement!"
 msgstr "सर्वाधिकार उल्लंघन!"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "आपकी लाइसेंस कुंजी अमान्य है या सक्रिय नहीं है, कृपया एक वैध लाइसेंस खरीदें और उसे विकल्प पृष्ठ में दर्ज करें। [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
 
 msgid "Choose Server"
 msgstr "सर्वर चुनें"

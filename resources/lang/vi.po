@@ -280,29 +280,14 @@ msgstr "Nhập bản demo"
 msgid "Create Page"
 msgstr "Tạo trang"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Tạo <a href=\"%s\" target=\"_blank\">trang</a> giống như trên bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
-
 msgid "Create Menu"
 msgstr "Tạo Menu"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Tạo <a href=\"%s\" target=\"_blank\">menu</a> giống như trong bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
 
 msgid "Create Widgets"
 msgstr "Tạo tiện ích"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Tạo <a href=\"%s\" target=\"_blank\">tiện ích</a> giống như trên bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
-
-msgid "Import Themes Demo"
-msgstr "Nhập bản demo chủ đề"
-
-msgid "Import Theme Demo"
-msgstr "Nhập bản demo chủ đề"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Nhập nội dung bản demo <a href=\"%s\" target=\"_blank\"></a> như trên bản demo <a href=\"%s\" target=\"_blank\">%s</a>."
+msgid "Convert Old Data"
+msgstr "Chuyển đổi dữ liệu cũ"
 
 msgid "Backup Settings"
 msgstr "Cài đặt sao lưu"
@@ -394,26 +379,65 @@ msgstr "Khung nội tuyến"
 msgid "Images"
 msgstr "Hình ảnh"
 
-msgid "Movies"
-msgstr "Phim"
+msgid "Completed"
+msgstr "Hoàn thành"
 
-msgid "TV Series"
-msgstr "Phim truyền hình"
+msgid "Ongoing"
+msgstr "Đang diễn ra"
 
-msgid "TV Shows"
-msgstr "Chương trình truyền hình"
+msgid "Trailer"
+msgstr "Đoạn phim giới thiệu"
 
-msgid "Theater Movie"
-msgstr "Phim sân khấu"
+msgid "Monday"
+msgstr "Thứ hai"
 
-msgid "Cartoon"
-msgstr "Hoạt hình"
+msgid "Tuesday"
+msgstr "Thứ ba"
+
+msgid "Wednesday"
+msgstr "Thứ Tư"
+
+msgid "Thursday"
+msgstr "Thứ năm"
+
+msgid "Friday"
+msgstr "Thứ sáu"
+
+msgid "Saturday"
+msgstr "Thứ bảy"
+
+msgid "Sunday"
+msgstr "Chủ nhật"
+
+msgid "News"
+msgstr "Tin tức"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Hentai"
+msgstr "Hentai"
+
+msgid "Ecchi"
+msgstr "Ecchi"
+
+msgid "Yaoi"
+msgstr "Yaoi"
+
+msgid "Yuri"
+msgstr "Yuri"
+
+msgid "Short Film"
+msgstr "Phim ngắn"
+
+msgid "J.A.V"
+msgstr "J.A.V"
+
+msgid "Other Videos"
+msgstr "Các video khác"
 
 msgid "Manga"
 msgstr "Truyện tranh"
-
-msgid "Oneshot"
-msgstr "Oneshot"
 
 msgid "Manhua"
 msgstr "Manhua"
@@ -424,14 +448,41 @@ msgstr "Manhwa"
 msgid "Doujinshi"
 msgstr "Doujinshi"
 
-msgid "Trailer"
-msgstr "Đoạn phim giới thiệu"
+msgid "Oneshot"
+msgstr "Oneshot"
 
-msgid "Completed"
-msgstr "Hoàn thành"
+msgid "Webtoon"
+msgstr "Truyện tranh trực tuyến"
 
-msgid "Ongoing"
-msgstr "Đang diễn ra"
+msgid "Anthology"
+msgstr "Tuyển tập"
+
+msgid "Omnibus"
+msgstr "Xe buýt"
+
+msgid "Single Movie"
+msgstr "Phim đơn"
+
+msgid "Movies"
+msgstr "Phim"
+
+msgid "Series"
+msgstr "Loạt"
+
+msgid "TV Series"
+msgstr "Phim truyền hình"
+
+msgid "TV Shows"
+msgstr "Chương trình truyền hình"
+
+msgid "Theater"
+msgstr "Nhà hát"
+
+msgid "Theater Movie"
+msgstr "Phim sân khấu"
+
+msgid "Cartoon"
+msgstr "Hoạt hình"
 
 msgid "Upcoming"
 msgstr "Sắp tới"
@@ -479,7 +530,7 @@ msgid "Broken Report"
 msgstr "Báo cáo bị hỏng"
 
 msgid "Invalid REST nonce."
-msgstr "REST nonce không hợp lệ."
+msgstr "Nonce REST không hợp lệ."
 
 msgid "Issues configuration saved successfully."
 msgstr "Cấu hình sự cố đã được lưu thành công."
@@ -617,7 +668,7 @@ msgid "Adult Content"
 msgstr "Nội dung dành cho người lớn"
 
 msgid "Enable if this manga contains 18+ content."
-msgstr "Bật nếu manga này chứa nội dung 18+."
+msgstr "Bật nếu manga này có nội dung 18+."
 
 msgid "Schedule"
 msgstr "Lịch trình"
@@ -630,27 +681,6 @@ msgstr "Ngày phát hành"
 
 msgid "Select the days this manga is usually updated."
 msgstr "Chọn những ngày manga này thường được cập nhật."
-
-msgid "Monday"
-msgstr "Thứ hai"
-
-msgid "Tuesday"
-msgstr "Thứ ba"
-
-msgid "Wednesday"
-msgstr "Thứ Tư"
-
-msgid "Thursday"
-msgstr "Thứ năm"
-
-msgid "Friday"
-msgstr "Thứ sáu"
-
-msgid "Saturday"
-msgstr "Thứ bảy"
-
-msgid "Sunday"
-msgstr "Chủ nhật"
 
 msgid "Enable Message"
 msgstr "Bật tin nhắn"
@@ -742,15 +772,6 @@ msgstr "Xem tất cả"
 msgid "Custom Rewite"
 msgstr "Viết lại tùy chỉnh"
 
-msgid "First Last Url"
-msgstr "Tên Họ Url"
-
-msgid "First"
-msgstr "Đầu tiên"
-
-msgid "Last"
-msgstr "Cuối cùng"
-
 msgid "Custom Info"
 msgstr "Thông tin tùy chỉnh"
 
@@ -765,6 +786,15 @@ msgstr "Chi tiết tùy chỉnh"
 
 msgid "Watch Url"
 msgstr "Xem Url"
+
+msgid "First Last Url"
+msgstr "Tên Họ Url"
+
+msgid "First"
+msgstr "Đầu tiên"
+
+msgid "Last"
+msgstr "Cuối cùng"
 
 msgid "Custom filter fields"
 msgstr "Các trường lọc tùy chỉnh"
@@ -806,7 +836,7 @@ msgid "Rewrite & Taxonomy"
 msgstr "Viết lại & Phân loại"
 
 msgid "Player & ADS"
-msgstr "Người chơi & Quảng cáo"
+msgstr "Trình phát & Quảng cáo"
 
 msgid "Player Size"
 msgstr "Kích thước người chơi"
@@ -902,7 +932,7 @@ msgid "Logo Position"
 msgstr "Vị trí Logo"
 
 msgid "Top left"
-msgstr "Trên cùng bên trái"
+msgstr "Phía trên bên trái"
 
 msgid "Top right"
 msgstr "Phía trên bên phải"
@@ -911,7 +941,7 @@ msgid "Bottom left"
 msgstr "Dưới cùng bên trái"
 
 msgid "Bottom right"
-msgstr "Dưới cùng bên phải"
+msgstr "Góc dưới bên phải"
 
 msgid "Control bar (JWPlayer only)"
 msgstr "Thanh điều khiển (chỉ dành cho JWPlayer)"
@@ -947,7 +977,7 @@ msgid "Header Ads Code Desktop"
 msgstr "Mã quảng cáo tiêu đề máy tính để bàn"
 
 msgid "Footer Ads Code Desktop"
-msgstr "Mã quảng cáo chân trang Máy tính để bàn"
+msgstr "Footer Ads Code Desktop"
 
 msgid "Top Player Ads Code Desktop"
 msgstr "Mã quảng cáo Top Player dành cho máy tính để bàn"
@@ -989,7 +1019,7 @@ msgid "Auto reset cache"
 msgstr "Tự động đặt lại bộ nhớ đệm"
 
 msgid "Automatically clear the cache if the player error"
-msgstr "Tự động xóa bộ nhớ đệm nếu trình phát lỗi"
+msgstr "Tự động xóa bộ nhớ đệm nếu trình phát bị lỗi"
 
 msgid "Cache time"
 msgstr "Thời gian lưu trữ đệm"
@@ -1142,7 +1172,7 @@ msgid "TMDB ID"
 msgstr "Mã số TMDB"
 
 msgid "Enter the TMDB ID for this movie."
-msgstr "Nhập ID TMDB cho phim này."
+msgstr "Nhập ID TMDB cho bộ phim này."
 
 msgid "IMDB ID"
 msgstr "Mã IMDB"
@@ -1175,7 +1205,7 @@ msgid "OnGoing"
 msgstr "Đang diễn ra"
 
 msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
-msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ chấp nhận định dạng ảnh .png, .jpg, .jpeg."
+msgstr "Tùy chọn nếu Ảnh nổi bật đã được đặt. Chỉ cho phép định dạng ảnh .png, .jpg, .jpeg."
 
 msgid "Trailer Links"
 msgstr "Liên kết Trailer"
@@ -1377,6 +1407,9 @@ msgstr "Chúng tôi không thể tìm thấy video bạn đang tìm kiếm.<br>C
 
 msgid "Copyright infringement!"
 msgstr "Vi phạm bản quyền!"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "Khóa cấp phép của bạn không hợp lệ hoặc chưa được kích hoạt. Vui lòng mua một giấy phép hợp lệ và nhập vào trang tùy chọn. [<a href=\"https://buxt.net\" title=\"Chủ đề được phát triển bởi buxt.net\">Chủ đề được phát triển bởi buxt.net</a>]"
 
 msgid "Choose Server"
 msgstr "Chọn máy chủ"

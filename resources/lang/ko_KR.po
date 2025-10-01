@@ -280,29 +280,14 @@ msgstr "데모 가져오기"
 msgid "Create Page"
 msgstr "페이지 만들기"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> 데모와 같이 <a href=\"%s\" target=\"_blank\">페이지</a>를 만듭니다."
-
 msgid "Create Menu"
 msgstr "메뉴 만들기"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> 데모와 같이 <a href=\"%s\" target=\"_blank\">메뉴</a>를 만듭니다."
 
 msgid "Create Widgets"
 msgstr "위젯 만들기"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> 데모처럼 <a href=\"%s\" target=\"_blank\">위젯</a>을 만들어 보세요."
-
-msgid "Import Themes Demo"
-msgstr "테마 가져오기 데모"
-
-msgid "Import Theme Demo"
-msgstr "테마 데모 가져오기"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> 데모와 같은 데모 <a href=\"%s\" target=\"_blank\">콘텐츠</a>를 가져옵니다."
+msgid "Convert Old Data"
+msgstr "이전 데이터 변환"
 
 msgid "Backup Settings"
 msgstr "백업 설정"
@@ -394,26 +379,65 @@ msgstr "아이프레임"
 msgid "Images"
 msgstr "이미지"
 
-msgid "Movies"
-msgstr "영화 산업"
+msgid "Completed"
+msgstr "완전한"
 
-msgid "TV Series"
-msgstr "TV 시리즈"
+msgid "Ongoing"
+msgstr "전진"
 
-msgid "TV Shows"
-msgstr "TV 프로그램"
+msgid "Trailer"
+msgstr "트레일러"
 
-msgid "Theater Movie"
-msgstr "극장 영화"
+msgid "Monday"
+msgstr "월요일"
 
-msgid "Cartoon"
-msgstr "만화"
+msgid "Tuesday"
+msgstr "화요일"
+
+msgid "Wednesday"
+msgstr "수요일"
+
+msgid "Thursday"
+msgstr "목요일"
+
+msgid "Friday"
+msgstr "금요일"
+
+msgid "Saturday"
+msgstr "토요일"
+
+msgid "Sunday"
+msgstr "일요일"
+
+msgid "News"
+msgstr "소식"
+
+msgid "Blog"
+msgstr "블로그"
+
+msgid "Hentai"
+msgstr "헨타이"
+
+msgid "Ecchi"
+msgstr "에로"
+
+msgid "Yaoi"
+msgstr "야오이"
+
+msgid "Yuri"
+msgstr "유리"
+
+msgid "Short Film"
+msgstr "짧은 영화"
+
+msgid "J.A.V"
+msgstr "J.A.V"
+
+msgid "Other Videos"
+msgstr "다른 영상"
 
 msgid "Manga"
 msgstr "만화"
-
-msgid "Oneshot"
-msgstr "원샷"
 
 msgid "Manhua"
 msgstr "만화"
@@ -424,14 +448,41 @@ msgstr "만화"
 msgid "Doujinshi"
 msgstr "동인지"
 
-msgid "Trailer"
-msgstr "트레일러"
+msgid "Oneshot"
+msgstr "원샷"
 
-msgid "Completed"
-msgstr "완전한"
+msgid "Webtoon"
+msgstr "웹툰"
 
-msgid "Ongoing"
-msgstr "전진"
+msgid "Anthology"
+msgstr "시집"
+
+msgid "Omnibus"
+msgstr "염가 보급판 작품집"
+
+msgid "Single Movie"
+msgstr "싱글 무비"
+
+msgid "Movies"
+msgstr "영화 산업"
+
+msgid "Series"
+msgstr "시리즈"
+
+msgid "TV Series"
+msgstr "TV 시리즈"
+
+msgid "TV Shows"
+msgstr "TV 프로그램"
+
+msgid "Theater"
+msgstr "극장"
+
+msgid "Theater Movie"
+msgstr "극장 영화"
+
+msgid "Cartoon"
+msgstr "만화"
 
 msgid "Upcoming"
 msgstr "다가오는"
@@ -631,27 +682,6 @@ msgstr "출시일"
 msgid "Select the days this manga is usually updated."
 msgstr "이 만화가 일반적으로 업데이트되는 날짜를 선택하세요."
 
-msgid "Monday"
-msgstr "월요일"
-
-msgid "Tuesday"
-msgstr "화요일"
-
-msgid "Wednesday"
-msgstr "수요일"
-
-msgid "Thursday"
-msgstr "목요일"
-
-msgid "Friday"
-msgstr "금요일"
-
-msgid "Saturday"
-msgstr "토요일"
-
-msgid "Sunday"
-msgstr "일요일"
-
 msgid "Enable Message"
 msgstr "메시지 활성화"
 
@@ -742,15 +772,6 @@ msgstr "전체 보기"
 msgid "Custom Rewite"
 msgstr "커스텀 리와이트"
 
-msgid "First Last Url"
-msgstr "이름 성 URL"
-
-msgid "First"
-msgstr "첫 번째"
-
-msgid "Last"
-msgstr "마지막"
-
 msgid "Custom Info"
 msgstr "사용자 정의 정보"
 
@@ -765,6 +786,15 @@ msgstr "사용자 정의 세부 정보"
 
 msgid "Watch Url"
 msgstr "시계 URL"
+
+msgid "First Last Url"
+msgstr "이름 성 URL"
+
+msgid "First"
+msgstr "첫 번째"
+
+msgid "Last"
+msgstr "마지막"
 
 msgid "Custom filter fields"
 msgstr "사용자 정의 필터 필드"
@@ -1271,7 +1301,7 @@ msgid "Are you sure you want to delete this chapter?"
 msgstr "이 장을 삭제하시겠습니까?"
 
 msgid "This video file cannot be played"
-msgstr "이 비디오 파일은 재생할 수 없습니다"
+msgstr "이 비디오 파일을 재생할 수 없습니다"
 
 msgid "We are unable to find the video you are looking for. There could be several reasons for this, for example it got removed by the owner!"
 msgstr "찾으시는 동영상을 찾을 수 없습니다. 여러 가지 이유가 있을 수 있습니다. 예를 들어, 소유자가 동영상을 삭제했을 수 있습니다."
@@ -1377,6 +1407,9 @@ msgstr "원하시는 동영상을 찾을 수 없습니다.<br>여러 가지 이�
 
 msgid "Copyright infringement!"
 msgstr "저작권 침해!"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "라이선스 키가 유효하지 않거나 활성화되지 않았습니다. 유효한 라이선스를 구매하여 옵션 페이지에 입력하세요. [<a href=\"https://buxt.net\" title=\"buxt.net에서 개발한 테마\">buxt.net에서 개발한 테마</a>]"
 
 msgid "Choose Server"
 msgstr "서버 선택"

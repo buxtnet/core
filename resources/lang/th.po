@@ -149,7 +149,7 @@ msgid "Site Description"
 msgstr "คำอธิบายไซต์"
 
 msgid "Enter a brief description of your site (recommended 50-160 characters) for search engine meta descriptions."
-msgstr "ป้อนคำอธิบายสั้น ๆ เกี่ยวกับไซต์ของคุณ (แนะนำ 50-160 ตัวอักษร) เพื่อใช้อธิบายเมตาของเครื่องมือค้นหา"
+msgstr "ป้อนคำอธิบายสั้น ๆ เกี่ยวกับไซต์ของคุณ (แนะนำ 50-160 ตัวอักษร) เพื่อใช้คำอธิบายเมตาของเครื่องมือค้นหา"
 
 msgid "SEO Title (Movie Info Page)"
 msgstr "SEO Title (หน้าข้อมูลภาพยนตร์)"
@@ -221,7 +221,7 @@ msgid "Remove Frontend Admin Bar"
 msgstr "ลบแถบผู้ดูแลระบบ Frontend"
 
 msgid "Remove WP Admin Top Logo Menu"
-msgstr "ลบเมนูโลโก้ด้านบนของ WP Admin"
+msgstr "ลบโลโก้เมนูด้านบนของ WP Admin"
 
 msgid "Remove WP Admin Footer Version Info"
 msgstr "ลบข้อมูลเวอร์ชันส่วนท้ายของ WP Admin"
@@ -260,7 +260,7 @@ msgid "Disable Sitewide Search Function (Caution)"
 msgstr "ปิดใช้งานฟังก์ชันการค้นหาทั่วทั้งไซต์ (ข้อควรระวัง)"
 
 msgid "After disabling, the site will not be able to search for articles. This can effectively prevent brute force attacks and database blockage."
-msgstr "หลังจากปิดใช้งานแล้ว เว็บไซต์จะไม่สามารถค้นหาบทความได้ วิธีนี้ช่วยป้องกันการโจมตีแบบ Brute Force และการบล็อกฐานข้อมูลได้อย่างมีประสิทธิภาพ"
+msgstr "หลังจากปิดใช้งานแล้ว เว็บไซต์จะไม่สามารถค้นหาบทความได้ ซึ่งสามารถป้องกันการโจมตีแบบ Brute Force และการบล็อกฐานข้อมูลได้อย่างมีประสิทธิภาพ"
 
 msgid "Disable F12 Key, Debug tools in Browser"
 msgstr "ปิดใช้งานปุ่ม F12, เครื่องมือดีบักในเบราว์เซอร์"
@@ -280,29 +280,14 @@ msgstr "การนำเข้าสาธิต"
 msgid "Create Page"
 msgstr "สร้างหน้า"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "สร้าง<a href=\"%s\" target=\"_blank\">หน้า</a>เหมือนในเดโม<a href=\"%s\" target=\"_blank\">%s</a>"
-
 msgid "Create Menu"
 msgstr "สร้างเมนู"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "สร้าง <a href=\"%s\" target=\"_blank\">เมนู</a> เช่นเดียวกับในตัวอย่าง <a href=\"%s\" target=\"_blank\">%s</a>"
 
 msgid "Create Widgets"
 msgstr "สร้างวิดเจ็ต"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "สร้าง <a href=\"%s\" target=\"_blank\">วิดเจ็ต</a> เช่นเดียวกับการสาธิต <a href=\"%s\" target=\"_blank\">%s</a>"
-
-msgid "Import Themes Demo"
-msgstr "นำเข้าธีมสาธิต"
-
-msgid "Import Theme Demo"
-msgstr "นำเข้าธีมสาธิต"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "นำเข้าเนื้อหาสาธิต <a href=\"%s\" target=\"_blank\">เนื้อหา</a> เช่นเดียวกับในสาธิต <a href=\"%s\" target=\"_blank\">%s</a>"
+msgid "Convert Old Data"
+msgstr "แปลงข้อมูลเก่า"
 
 msgid "Backup Settings"
 msgstr "การตั้งค่าการสำรองข้อมูล"
@@ -394,26 +379,65 @@ msgstr "ไอเฟรม"
 msgid "Images"
 msgstr "รูปภาพ"
 
-msgid "Movies"
-msgstr "ภาพยนตร์"
+msgid "Completed"
+msgstr "สมบูรณ์"
 
-msgid "TV Series"
-msgstr "ซีรี่ย์ทีวี"
+msgid "Ongoing"
+msgstr "กำลังดำเนินการอยู่"
 
-msgid "TV Shows"
-msgstr "รายการทีวี"
+msgid "Trailer"
+msgstr "เทรลเลอร์"
 
-msgid "Theater Movie"
-msgstr "ภาพยนตร์ในโรงภาพยนตร์"
+msgid "Monday"
+msgstr "วันจันทร์"
 
-msgid "Cartoon"
-msgstr "การ์ตูน"
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+msgid "Thursday"
+msgstr "วันพฤหัสบดี"
+
+msgid "Friday"
+msgstr "วันศุกร์"
+
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+msgid "News"
+msgstr "ข่าว"
+
+msgid "Blog"
+msgstr "บล็อก"
+
+msgid "Hentai"
+msgstr "เฮ็นไท"
+
+msgid "Ecchi"
+msgstr "เอจจิ"
+
+msgid "Yaoi"
+msgstr "ยาโอย"
+
+msgid "Yuri"
+msgstr "ยูริ"
+
+msgid "Short Film"
+msgstr "ภาพยนตร์สั้น"
+
+msgid "J.A.V"
+msgstr "เจ.เอ.วี"
+
+msgid "Other Videos"
+msgstr "วิดีโออื่นๆ"
 
 msgid "Manga"
 msgstr "มังงะ"
-
-msgid "Oneshot"
-msgstr "วันช็อต"
 
 msgid "Manhua"
 msgstr "ม่านฮวา"
@@ -424,14 +448,41 @@ msgstr "มังฮวา"
 msgid "Doujinshi"
 msgstr "โดจินชิ"
 
-msgid "Trailer"
-msgstr "เทรลเลอร์"
+msgid "Oneshot"
+msgstr "วันช็อต"
 
-msgid "Completed"
-msgstr "สมบูรณ์"
+msgid "Webtoon"
+msgstr "เว็บตูน"
 
-msgid "Ongoing"
-msgstr "กำลังดำเนินการอยู่"
+msgid "Anthology"
+msgstr "รวบรวมบทความ"
+
+msgid "Omnibus"
+msgstr "รถโดยสารประจำทาง"
+
+msgid "Single Movie"
+msgstr "ภาพยนตร์เดี่ยว"
+
+msgid "Movies"
+msgstr "ภาพยนตร์"
+
+msgid "Series"
+msgstr "ชุด"
+
+msgid "TV Series"
+msgstr "ซีรี่ย์ทีวี"
+
+msgid "TV Shows"
+msgstr "รายการทีวี"
+
+msgid "Theater"
+msgstr "โรงภาพยนตร์"
+
+msgid "Theater Movie"
+msgstr "ภาพยนตร์ในโรงภาพยนตร์"
+
+msgid "Cartoon"
+msgstr "การ์ตูน"
 
 msgid "Upcoming"
 msgstr "กำลังจะมีขึ้น"
@@ -599,7 +650,7 @@ msgid "Thumbnail"
 msgstr "ภาพย่อ"
 
 msgid "Optional if a Featured Image has already been set."
-msgstr "เป็นทางเลือกหากมีการตั้งค่าภาพเด่นแล้ว"
+msgstr "ทางเลือกหากมีการตั้งค่าภาพเด่นแล้ว"
 
 msgid "Poster"
 msgstr "โปสเตอร์"
@@ -630,27 +681,6 @@ msgstr "วันวางจำหน่าย"
 
 msgid "Select the days this manga is usually updated."
 msgstr "เลือกวันที่จะอัปเดตมังงะเรื่องนี้เป็นประจำ"
-
-msgid "Monday"
-msgstr "วันจันทร์"
-
-msgid "Tuesday"
-msgstr "วันอังคาร"
-
-msgid "Wednesday"
-msgstr "วันพุธ"
-
-msgid "Thursday"
-msgstr "วันพฤหัสบดี"
-
-msgid "Friday"
-msgstr "วันศุกร์"
-
-msgid "Saturday"
-msgstr "วันเสาร์"
-
-msgid "Sunday"
-msgstr "วันอาทิตย์"
 
 msgid "Enable Message"
 msgstr "เปิดใช้งานข้อความ"
@@ -742,15 +772,6 @@ msgstr "ดูทั้งหมด"
 msgid "Custom Rewite"
 msgstr "การเขียนซ้ำแบบกำหนดเอง"
 
-msgid "First Last Url"
-msgstr "ชื่อ นามสกุล URL"
-
-msgid "First"
-msgstr "อันดับแรก"
-
-msgid "Last"
-msgstr "ล่าสุด"
-
 msgid "Custom Info"
 msgstr "ข้อมูลที่กำหนดเอง"
 
@@ -765,6 +786,15 @@ msgstr "รายละเอียดที่กำหนดเอง"
 
 msgid "Watch Url"
 msgstr "URL ของนาฬิกา"
+
+msgid "First Last Url"
+msgstr "ชื่อ นามสกุล URL"
+
+msgid "First"
+msgstr "อันดับแรก"
+
+msgid "Last"
+msgstr "ล่าสุด"
 
 msgid "Custom filter fields"
 msgstr "ฟิลด์ตัวกรองแบบกำหนดเอง"
@@ -1094,10 +1124,10 @@ msgid "Quality"
 msgstr "คุณภาพ"
 
 msgid "Enter your custom quality text. You can use placeholders such as {quality}, {episodes}, etc."
-msgstr "ป้อนข้อความคุณภาพที่คุณกำหนดเอง คุณสามารถใช้ตัวแทน เช่น {คุณภาพ}, {ตอน} ฯลฯ"
+msgstr "ป้อนข้อความคุณภาพที่คุณกำหนดเอง คุณสามารถใช้ตัวแทนเช่น {คุณภาพ}, {ตอน} ฯลฯ"
 
 msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
-msgstr "ป้อนข้อความสถานะที่คุณกำหนดเอง คุณสามารถใช้ตัวแทนเช่น {status}, {type} เป็นต้น"
+msgstr "ป้อนข้อความสถานะที่คุณกำหนดเอง คุณสามารถใช้ตัวแทน เช่น {status}, {type} เป็นต้น"
 
 msgid "Search"
 msgstr "ค้นหา"
@@ -1377,6 +1407,9 @@ msgstr "เราไม่พบวิดีโอที่คุณกำลั
 
 msgid "Copyright infringement!"
 msgstr "ละเมิดลิขสิทธิ์!"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "รหัสลิขสิทธิ์ของคุณไม่ถูกต้องหรือไม่ได้เปิดใช้งาน โปรดซื้อลิขสิทธิ์ที่ถูกต้องและป้อนลงในหน้าตัวเลือก [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
 
 msgid "Choose Server"
 msgstr "เลือกเซิร์ฟเวอร์"

@@ -280,29 +280,14 @@ msgstr "导入演示"
 msgid "Create Page"
 msgstr "创建页面"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "创建类似 <a href=\"%s\" target=\"_blank\">%s</a> 演示的 <a href=\"%s\" target=\"_blank\">页面</a>。"
-
 msgid "Create Menu"
 msgstr "创建菜单"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "创建一个类似于 <a href=\"%s\" target=\"_blank\">%s</a> 演示的 <a href=\"%s\" target=\"_blank\">菜单</a>。"
 
 msgid "Create Widgets"
 msgstr "创建小部件"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "创建<a href=\"%s\" target=\"_blank\">小部件</a>，如<a href=\"%s\" target=\"_blank\">%s</a>演示中所示。"
-
-msgid "Import Themes Demo"
-msgstr "导入主题演示"
-
-msgid "Import Theme Demo"
-msgstr "导入主题演示"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "导入演示<a href=\"%s\" target=\"_blank\">内容</a>，类似于<a href=\"%s\" target=\"_blank\">%s</a>演示。"
+msgid "Convert Old Data"
+msgstr "转换旧数据"
 
 msgid "Backup Settings"
 msgstr "备份设置"
@@ -394,26 +379,65 @@ msgstr "内嵌框架"
 msgid "Images"
 msgstr "图片"
 
-msgid "Movies"
-msgstr "电影"
+msgid "Completed"
+msgstr "完全的"
 
-msgid "TV Series"
-msgstr "电视剧"
+msgid "Ongoing"
+msgstr "正在进行"
 
-msgid "TV Shows"
-msgstr "电视节目"
+msgid "Trailer"
+msgstr "拖车"
 
-msgid "Theater Movie"
-msgstr "影院电影"
+msgid "Monday"
+msgstr "周一"
 
-msgid "Cartoon"
-msgstr "卡通片"
+msgid "Tuesday"
+msgstr "周二"
+
+msgid "Wednesday"
+msgstr "周三"
+
+msgid "Thursday"
+msgstr "周四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "周六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "News"
+msgstr "消息"
+
+msgid "Blog"
+msgstr "博客"
+
+msgid "Hentai"
+msgstr "变态"
+
+msgid "Ecchi"
+msgstr "埃奇"
+
+msgid "Yaoi"
+msgstr "矢追"
+
+msgid "Yuri"
+msgstr "尤里"
+
+msgid "Short Film"
+msgstr "短片"
+
+msgid "J.A.V"
+msgstr "J.A.V"
+
+msgid "Other Videos"
+msgstr "其他视频"
 
 msgid "Manga"
 msgstr "漫画"
-
-msgid "Oneshot"
-msgstr "一次性"
 
 msgid "Manhua"
 msgstr "漫画"
@@ -424,14 +448,41 @@ msgstr "漫画"
 msgid "Doujinshi"
 msgstr "同人志"
 
-msgid "Trailer"
-msgstr "拖车"
+msgid "Oneshot"
+msgstr "一次性"
 
-msgid "Completed"
-msgstr "完全的"
+msgid "Webtoon"
+msgstr "网络漫画"
 
-msgid "Ongoing"
-msgstr "正在进行"
+msgid "Anthology"
+msgstr "选集"
+
+msgid "Omnibus"
+msgstr "综合"
+
+msgid "Single Movie"
+msgstr "单部电影"
+
+msgid "Movies"
+msgstr "电影"
+
+msgid "Series"
+msgstr "系列"
+
+msgid "TV Series"
+msgstr "电视剧"
+
+msgid "TV Shows"
+msgstr "电视节目"
+
+msgid "Theater"
+msgstr "剧院"
+
+msgid "Theater Movie"
+msgstr "影院电影"
+
+msgid "Cartoon"
+msgstr "卡通片"
 
 msgid "Upcoming"
 msgstr "即将推出"
@@ -631,27 +682,6 @@ msgstr "发布日期"
 msgid "Select the days this manga is usually updated."
 msgstr "选择该漫画通常更新的日期。"
 
-msgid "Monday"
-msgstr "周一"
-
-msgid "Tuesday"
-msgstr "周二"
-
-msgid "Wednesday"
-msgstr "周三"
-
-msgid "Thursday"
-msgstr "周四"
-
-msgid "Friday"
-msgstr "星期五"
-
-msgid "Saturday"
-msgstr "周六"
-
-msgid "Sunday"
-msgstr "星期日"
-
 msgid "Enable Message"
 msgstr "启用消息"
 
@@ -742,15 +772,6 @@ msgstr "查看全部"
 msgid "Custom Rewite"
 msgstr "自定义重写"
 
-msgid "First Last Url"
-msgstr "第一个 姓氏 网址"
-
-msgid "First"
-msgstr "第一的"
-
-msgid "Last"
-msgstr "最后的"
-
 msgid "Custom Info"
 msgstr "自定义信息"
 
@@ -765,6 +786,15 @@ msgstr "自定义详细信息"
 
 msgid "Watch Url"
 msgstr "观看网址"
+
+msgid "First Last Url"
+msgstr "第一个 姓氏 网址"
+
+msgid "First"
+msgstr "第一的"
+
+msgid "Last"
+msgstr "最后的"
 
 msgid "Custom filter fields"
 msgstr "自定义过滤字段"
@@ -1175,7 +1205,7 @@ msgid "OnGoing"
 msgstr "正在进行"
 
 msgid "Optional if a Featured Image has already been set. Only image .png, .jpg, .jpeg formats are allowed."
-msgstr "如果已设置特色图片，则可选。仅允许使用 .png、.jpg、.jpeg 格式的图片。"
+msgstr "如果已设置特色图片，则此字段为选填。仅允许使用 .png、.jpg、.jpeg 格式的图片。"
 
 msgid "Trailer Links"
 msgstr "预告片链接"
@@ -1199,7 +1229,7 @@ msgid "Enable Related Movies"
 msgstr "启用相关电影"
 
 msgid "Enable or disable the display of related movies or seasons for this post. When enabled, you can manually select related posts below, or the system will automatically find related posts based on the title (e.g., matching seasons like \"Blood Demon Chaos - Season 1\"). Disable this to hide related content."
-msgstr "启用或禁用此帖子的相关电影或季节显示。启用后，您可以手动选择下方的相关帖子，或者系统会根据标题自动查找相关帖子（例如，匹配季节，例如“血魔混沌 - 第 1 季”）。禁用此功能可隐藏相关内容。"
+msgstr "启用或禁用此帖子的相关电影或剧季显示。启用后，您可以手动选择下方相关帖子，或者系统会根据标题自动查找相关帖子（例如，匹配剧季，例如“血魔混沌 - 第 1 季”）。禁用此功能可隐藏相关内容。"
 
 msgid "Select Post"
 msgstr "选择帖子"
@@ -1377,6 +1407,9 @@ msgstr "我们找不到您要找的视频。<br>造成这种情况的原因可�
 
 msgid "Copyright infringement!"
 msgstr "侵犯版权！"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "您的许可证密钥无效或未激活，请购买有效的许可证并将其输入到选项页面。[<a href=\"https://buxt.net\" title=\"主题由 buxt.net 开发\">主题由 buxt.net 开发</a>]"
 
 msgid "Choose Server"
 msgstr "选择服务器"

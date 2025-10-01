@@ -53,7 +53,7 @@ msgid "Site Logo"
 msgstr "Логотип сайта"
 
 msgid "Set the site logo (recommended to match the custom logo width and height)"
-msgstr "Установите логотип сайта (рекомендуется, чтобы ширина и высота соответствовали ширине и высоте пользовательского логотипа)"
+msgstr "Установите логотип сайта (рекомендуется, чтобы ширина и высота соответствовали пользовательскому логотипу)"
 
 msgid "Site Favicon"
 msgstr "Фавикон сайта"
@@ -164,7 +164,7 @@ msgid "SEO Title (Watch Movie Page)"
 msgstr "SEO-заголовок (страница просмотра фильма)"
 
 msgid "Customize the SEO title for the watch movie page. Use placeholders to dynamically insert movie details."
-msgstr "Настройте SEO-заголовок для страницы просмотра фильма. Используйте плейсхолдеры для динамической подстановки информации о фильме."
+msgstr "Настройте SEO-заголовок для страницы просмотра фильма. Используйте плейсхолдеры для динамической вставки информации о фильме."
 
 msgid "SEO Settings"
 msgstr "Настройки SEO"
@@ -280,29 +280,14 @@ msgstr "Импорт демо"
 msgid "Create Page"
 msgstr "Создать страницу"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Создайте <a href=\"%s\" target=\"_blank\">страницу</a>, как на демо-версии <a href=\"%s\" target=\"_blank\">%s</a>."
-
 msgid "Create Menu"
 msgstr "Создать меню"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Создайте <a href=\"%s\" target=\"_blank\">меню</a>, как на демонстрации <a href=\"%s\" target=\"_blank\">%s</a>."
 
 msgid "Create Widgets"
 msgstr "Создать виджеты"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Создайте <a href=\"%s\" target=\"_blank\">виджеты</a>, как в демоверсии <a href=\"%s\" target=\"_blank\">%s</a>."
-
-msgid "Import Themes Demo"
-msgstr "Демонстрация импорта тем"
-
-msgid "Import Theme Demo"
-msgstr "Импорт демо-темы"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Импортируйте демонстрационное <a href=\"%s\" target=\"_blank\">содержимое</a>, как в <a href=\"%s\" target=\"_blank\">%s</a> демо."
+msgid "Convert Old Data"
+msgstr "Конвертировать старые данные"
 
 msgid "Backup Settings"
 msgstr "Настройки резервного копирования"
@@ -394,26 +379,65 @@ msgstr "IFrame"
 msgid "Images"
 msgstr "Изображения"
 
-msgid "Movies"
-msgstr "Фильмы"
+msgid "Completed"
+msgstr "Завершенный"
 
-msgid "TV Series"
-msgstr "Сериал"
+msgid "Ongoing"
+msgstr "Непрерывный"
 
-msgid "TV Shows"
-msgstr "ТВ-шоу"
+msgid "Trailer"
+msgstr "Трейлер"
 
-msgid "Theater Movie"
-msgstr "Театральное кино"
+msgid "Monday"
+msgstr "Понедельник"
 
-msgid "Cartoon"
-msgstr "Мультфильм"
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Hentai"
+msgstr "Хентай"
+
+msgid "Ecchi"
+msgstr "Эччи"
+
+msgid "Yaoi"
+msgstr "Яой"
+
+msgid "Yuri"
+msgstr "Юрий"
+
+msgid "Short Film"
+msgstr "Короткометражный фильм"
+
+msgid "J.A.V"
+msgstr "J.A.V"
+
+msgid "Other Videos"
+msgstr "Другие видео"
 
 msgid "Manga"
 msgstr "Манга"
-
-msgid "Oneshot"
-msgstr "Ваншот"
 
 msgid "Manhua"
 msgstr "Маньхуа"
@@ -424,14 +448,41 @@ msgstr "Манхва"
 msgid "Doujinshi"
 msgstr "Додзинси"
 
-msgid "Trailer"
-msgstr "Трейлер"
+msgid "Oneshot"
+msgstr "Ваншот"
 
-msgid "Completed"
-msgstr "Завершенный"
+msgid "Webtoon"
+msgstr "Вебтун"
 
-msgid "Ongoing"
-msgstr "Непрерывный"
+msgid "Anthology"
+msgstr "Антология"
+
+msgid "Omnibus"
+msgstr "Омнибус"
+
+msgid "Single Movie"
+msgstr "Одиночный фильм"
+
+msgid "Movies"
+msgstr "Фильмы"
+
+msgid "Series"
+msgstr "Ряд"
+
+msgid "TV Series"
+msgstr "Сериал"
+
+msgid "TV Shows"
+msgstr "ТВ-шоу"
+
+msgid "Theater"
+msgstr "Театр"
+
+msgid "Theater Movie"
+msgstr "Театральное кино"
+
+msgid "Cartoon"
+msgstr "Мультфильм"
 
 msgid "Upcoming"
 msgstr "Предстоящие"
@@ -631,27 +682,6 @@ msgstr "Дни релиза"
 msgid "Select the days this manga is usually updated."
 msgstr "Выберите дни, в которые обычно обновляется эта манга."
 
-msgid "Monday"
-msgstr "Понедельник"
-
-msgid "Tuesday"
-msgstr "Вторник"
-
-msgid "Wednesday"
-msgstr "Среда"
-
-msgid "Thursday"
-msgstr "Четверг"
-
-msgid "Friday"
-msgstr "Пятница"
-
-msgid "Saturday"
-msgstr "Суббота"
-
-msgid "Sunday"
-msgstr "Воскресенье"
-
 msgid "Enable Message"
 msgstr "Включить сообщение"
 
@@ -701,7 +731,7 @@ msgid "Please enter a valid URL or ID."
 msgstr "Введите действительный URL или идентификатор."
 
 msgid "Unable to detect source. Please enter a valid URL or ID for Otruyen, MyAnimeList, or AniList."
-msgstr "Не удалось определить источник. Введите действительный URL-адрес или идентификатор Otruyen, MyAnimeList или AniList."
+msgstr "Не удалось определить источник. Введите действительный URL или идентификатор Otruyen, MyAnimeList или AniList."
 
 msgid "Custom Fields"
 msgstr "Пользовательские поля"
@@ -742,15 +772,6 @@ msgstr "Просмотры всех"
 msgid "Custom Rewite"
 msgstr "Пользовательский Rewite"
 
-msgid "First Last Url"
-msgstr "Первый Последний URL"
-
-msgid "First"
-msgstr "Первый"
-
-msgid "Last"
-msgstr "Последний"
-
 msgid "Custom Info"
 msgstr "Пользовательская информация"
 
@@ -766,6 +787,15 @@ msgstr "Индивидуальные детали"
 msgid "Watch Url"
 msgstr "URL-адрес для просмотра"
 
+msgid "First Last Url"
+msgstr "Первый Последний URL"
+
+msgid "First"
+msgstr "Первый"
+
+msgid "Last"
+msgstr "Последний"
+
 msgid "Custom filter fields"
 msgstr "Пользовательские поля фильтра"
 
@@ -773,7 +803,7 @@ msgid "Which custom fields to display for filtering entries"
 msgstr "Какие настраиваемые поля отображать для фильтрации записей"
 
 msgid "Advanced Custom Filter Fields Configuration"
-msgstr "Расширенная конфигурация полей пользовательского фильтра"
+msgstr "Расширенная конфигурация полей настраиваемого фильтра"
 
 msgid "Filter Name"
 msgstr "Имя фильтра"
@@ -1097,7 +1127,7 @@ msgid "Enter your custom quality text. You can use placeholders such as {quality
 msgstr "Введите свой текст, указывающий качество. Вы можете использовать плейсхолдеры, такие как {quality}, {episodes} и т. д."
 
 msgid "Enter your custom status text. You can use placeholders such as {status}, {type}, etc."
-msgstr "Введите текст вашего статуса. Вы можете использовать плейсхолдеры, такие как {status}, {type} и т. д."
+msgstr "Введите текст своего статуса. Можно использовать плейсхолдеры, такие как {status}, {type} и т. д."
 
 msgid "Search"
 msgstr "Поиск"
@@ -1378,6 +1408,9 @@ msgstr "Мы не можем найти видео, которое вы ищет
 msgid "Copyright infringement!"
 msgstr "Нарушение авторских прав!"
 
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "Ваш лицензионный ключ недействителен или не активирован. Купите действующую лицензию и введите её на странице параметров. [<a href=\"https://buxt.net\" title=\"Тема разработана buxt.net\">Тема разработана buxt.net</a>]"
+
 msgid "Choose Server"
 msgstr "Выберите сервер"
 
@@ -1418,7 +1451,7 @@ msgid "Showing 0 to 0 of 0 entries"
 msgstr "Показано 0–0 из 0 записей"
 
 msgid "(filtered from _MAX_ total entries)"
-msgstr "(отфильтровано из _MAX_ общего количества записей)"
+msgstr "(отфильтровано из _MAX_ общего числа записей)"
 
 msgid "Previous"
 msgstr "Предыдущий"

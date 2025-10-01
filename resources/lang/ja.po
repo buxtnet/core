@@ -215,7 +215,7 @@ msgid "Disable WP Content Texturization"
 msgstr "WPコンテンツのテクスチャ化を無効にする"
 
 msgid "Disabling allows raw code formatting in posts without escaping. Useful for code-based content."
-msgstr "無効にすると、投稿でエスケープ処理なしで生のコードフォーマットを使用できます。コードベースのコンテンツに便利です。"
+msgstr "無効にすると、投稿でエスケープ処理なしで生のコード形式を使用できます。コードベースのコンテンツに便利です。"
 
 msgid "Remove Frontend Admin Bar"
 msgstr "フロントエンド管理バーを削除する"
@@ -263,7 +263,7 @@ msgid "After disabling, the site will not be able to search for articles. This c
 msgstr "無効化すると、サイトは記事を検索できなくなります。これにより、ブルートフォース攻撃やデータベースのブロックを効果的に防ぐことができます。"
 
 msgid "Disable F12 Key, Debug tools in Browser"
-msgstr "F12キーを無効にして、ブラウザのデバッグツールを無効にする"
+msgstr "F12キーとブラウザのデバッグツールを無効にする"
 
 msgid "Disable F12 key, Debug tools in Browser"
 msgstr "F12キーとブラウザのデバッグツールを無効にする"
@@ -280,29 +280,14 @@ msgstr "インポートデモ"
 msgid "Create Page"
 msgstr "ページを作成"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのような <a href=\"%s\" target=\"_blank\">ページ</a> を作成します。"
-
 msgid "Create Menu"
 msgstr "メニューを作成"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのような <a href=\"%s\" target=\"_blank\">メニュー</a> を作成します。"
 
 msgid "Create Widgets"
 msgstr "ウィジェットを作成する"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのような <a href=\"%s\" target=\"_blank\">ウィジェット</a> を作成します。"
-
-msgid "Import Themes Demo"
-msgstr "テーマのインポートデモ"
-
-msgid "Import Theme Demo"
-msgstr "テーマのインポートデモ"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "<a href=\"%s\" target=\"_blank\">%s</a> デモのようなデモ <a href=\"%s\" target=\"_blank\">コンテンツ</a> をインポートします。"
+msgid "Convert Old Data"
+msgstr "古いデータを変換する"
 
 msgid "Backup Settings"
 msgstr "バックアップ設定"
@@ -341,7 +326,7 @@ msgid "No license activated. Please activate your license."
 msgstr "ライセンスが有効化されていません。ライセンスを有効化してください。"
 
 msgid "Thank you for using this theme for your creation. Please first enter your License ID and License Code from your ritheme.com user center, then click save to verify."
-msgstr "このテーマをご利用いただき、ありがとうございます。ritheme.com ユーザーセンターからライセンスIDとライセンスコードを入力し、「保存」をクリックして確認してください。"
+msgstr "このテーマをご利用いただき、ありがとうございます。ritheme.comユーザーセンターからライセンスIDとライセンスコードを入力し、「保存」をクリックして確認してください。"
 
 msgid "Status"
 msgstr "状態"
@@ -394,26 +379,65 @@ msgstr "インラインフレーム"
 msgid "Images"
 msgstr "画像"
 
-msgid "Movies"
-msgstr "映画"
+msgid "Completed"
+msgstr "完了"
 
-msgid "TV Series"
-msgstr "連続テレビ番組"
+msgid "Ongoing"
+msgstr "進行中"
 
-msgid "TV Shows"
-msgstr "テレビ番組"
+msgid "Trailer"
+msgstr "トレーラー"
 
-msgid "Theater Movie"
-msgstr "劇場映画"
+msgid "Monday"
+msgstr "月曜日"
 
-msgid "Cartoon"
-msgstr "漫画"
+msgid "Tuesday"
+msgstr "火曜日"
+
+msgid "Wednesday"
+msgstr "水曜日"
+
+msgid "Thursday"
+msgstr "木曜日"
+
+msgid "Friday"
+msgstr "金曜日"
+
+msgid "Saturday"
+msgstr "土曜日"
+
+msgid "Sunday"
+msgstr "日曜日"
+
+msgid "News"
+msgstr "ニュース"
+
+msgid "Blog"
+msgstr "ブログ"
+
+msgid "Hentai"
+msgstr "変態"
+
+msgid "Ecchi"
+msgstr "エッチ"
+
+msgid "Yaoi"
+msgstr "やおい"
+
+msgid "Yuri"
+msgstr "ユリ"
+
+msgid "Short Film"
+msgstr "短編映画"
+
+msgid "J.A.V"
+msgstr "J.A.V"
+
+msgid "Other Videos"
+msgstr "その他のビデオ"
 
 msgid "Manga"
 msgstr "マンガ"
-
-msgid "Oneshot"
-msgstr "ワンショット"
 
 msgid "Manhua"
 msgstr "マンフア"
@@ -424,14 +448,41 @@ msgstr "マンガ"
 msgid "Doujinshi"
 msgstr "同人誌"
 
-msgid "Trailer"
-msgstr "トレーラー"
+msgid "Oneshot"
+msgstr "ワンショット"
 
-msgid "Completed"
-msgstr "完了"
+msgid "Webtoon"
+msgstr "ウェブトゥーン"
 
-msgid "Ongoing"
-msgstr "進行中"
+msgid "Anthology"
+msgstr "アンソロジー"
+
+msgid "Omnibus"
+msgstr "オムニバス"
+
+msgid "Single Movie"
+msgstr "単発映画"
+
+msgid "Movies"
+msgstr "映画"
+
+msgid "Series"
+msgstr "シリーズ"
+
+msgid "TV Series"
+msgstr "連続テレビ番組"
+
+msgid "TV Shows"
+msgstr "テレビ番組"
+
+msgid "Theater"
+msgstr "劇場"
+
+msgid "Theater Movie"
+msgstr "劇場映画"
+
+msgid "Cartoon"
+msgstr "漫画"
 
 msgid "Upcoming"
 msgstr "今後の予定"
@@ -536,7 +587,7 @@ msgid "Save Changes"
 msgstr "変更を保存"
 
 msgid "Separate categories with commas"
-msgstr "カテゴリをカンマで区切る"
+msgstr "カテゴリーをカンマで区切る"
 
 msgid "Add or remove categories"
 msgstr "カテゴリを追加または削除する"
@@ -631,27 +682,6 @@ msgstr "リリース日"
 msgid "Select the days this manga is usually updated."
 msgstr "このマンガが通常更新される日を選択してください。"
 
-msgid "Monday"
-msgstr "月曜日"
-
-msgid "Tuesday"
-msgstr "火曜日"
-
-msgid "Wednesday"
-msgstr "水曜日"
-
-msgid "Thursday"
-msgstr "木曜日"
-
-msgid "Friday"
-msgstr "金曜日"
-
-msgid "Saturday"
-msgstr "土曜日"
-
-msgid "Sunday"
-msgstr "日曜日"
-
 msgid "Enable Message"
 msgstr "メッセージを有効にする"
 
@@ -742,15 +772,6 @@ msgstr "すべて表示"
 msgid "Custom Rewite"
 msgstr "カスタムリライト"
 
-msgid "First Last Url"
-msgstr "名 姓 URL"
-
-msgid "First"
-msgstr "初め"
-
-msgid "Last"
-msgstr "最後"
-
 msgid "Custom Info"
 msgstr "カスタム情報"
 
@@ -765,6 +786,15 @@ msgstr "カスタム詳細"
 
 msgid "Watch Url"
 msgstr "ウォッチURL"
+
+msgid "First Last Url"
+msgstr "名 姓 URL"
+
+msgid "First"
+msgstr "初め"
+
+msgid "Last"
+msgstr "最後"
 
 msgid "Custom filter fields"
 msgstr "カスタムフィルターフィールド"
@@ -917,7 +947,7 @@ msgid "Control bar (JWPlayer only)"
 msgstr "コントロールバー（JWPlayerのみ）"
 
 msgid "This sets the corner in which to display the watermark. The \"control-bar\" option is only supported in JWPlayer and adds the logo as the leftmost icon in the right grouping of buttons in the control bar."
-msgstr "透かしを表示するコーナーを設定します。「コントロールバー」オプションはJWPlayerでのみサポートされており、コントロールバーの右側のボタングループの左端のアイコンとしてロゴを追加します。"
+msgstr "透かしを表示するコーナーを設定します。「control-bar」オプションはJWPlayerでのみサポートされており、コントロールバーの右側のボタングループの左端のアイコンとしてロゴを追加します。"
 
 msgid "Auto hide logo (JWPlayer only)"
 msgstr "ロゴを自動的に非表示にする（JWPlayer のみ）"
@@ -1377,6 +1407,9 @@ msgstr "お探しの動画が見つかりません。<br>所有者によって�
 
 msgid "Copyright infringement!"
 msgstr "著作権侵害です！"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "ライセンスキーが無効またはアクティブ化されていません。有効なライセンスを購入し、オプションページに入力してください。[<a href=\"https://buxt.net\" title=\"Theme published by buxt.net\">Theme published by buxt.net</a>]"
 
 msgid "Choose Server"
 msgstr "サーバーを選択"

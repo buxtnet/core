@@ -280,29 +280,14 @@ msgstr "Demostración de importación"
 msgid "Create Page"
 msgstr "Crear página"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">page</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Cree una <a href=\"%s\" target=\"_blank\">página</a> como en la demostración de <a href=\"%s\" target=\"_blank\">%s</a>."
-
 msgid "Create Menu"
 msgstr "Crear menú"
-
-msgid "Create a <a href=\"%s\" target=\"_blank\">menu</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Cree un <a href=\"%s\" target=\"_blank\">menú</a> como en la demostración de <a href=\"%s\" target=\"_blank\">%s</a>."
 
 msgid "Create Widgets"
 msgstr "Crear widgets"
 
-msgid "Create <a href=\"%s\" target=\"_blank\">widgets</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Cree <a href=\"%s\" target=\"_blank\">widgets</a> como en la demostración de <a href=\"%s\" target=\"_blank\">%s</a>."
-
-msgid "Import Themes Demo"
-msgstr "Demostración de importación de temas"
-
-msgid "Import Theme Demo"
-msgstr "Demostración de tema de importación"
-
-msgid "Import Demo <a href=\"%s\" target=\"_blank\">content</a> like on <a href=\"%s\" target=\"_blank\">%s</a> demo."
-msgstr "Importe <a href=\"%s\" target=\"_blank\">contenido</a> de demostración como en la demostración <a href=\"%s\" target=\"_blank\">%s</a>."
+msgid "Convert Old Data"
+msgstr "Convertir datos antiguos"
 
 msgid "Backup Settings"
 msgstr "Configuración de copia de seguridad"
@@ -394,26 +379,65 @@ msgstr "Iframe"
 msgid "Images"
 msgstr "Imágenes"
 
-msgid "Movies"
-msgstr "Cine"
+msgid "Completed"
+msgstr "Terminado"
 
-msgid "TV Series"
-msgstr "Series de TV"
+msgid "Ongoing"
+msgstr "En curso"
 
-msgid "TV Shows"
-msgstr "Programas de televisión"
+msgid "Trailer"
+msgstr "Tráiler"
 
-msgid "Theater Movie"
-msgstr "Cine"
+msgid "Monday"
+msgstr "Lunes"
 
-msgid "Cartoon"
-msgstr "Dibujos animados"
+msgid "Tuesday"
+msgstr "Martes"
+
+msgid "Wednesday"
+msgstr "Miércoles"
+
+msgid "Thursday"
+msgstr "Jueves"
+
+msgid "Friday"
+msgstr "Viernes"
+
+msgid "Saturday"
+msgstr "Sábado"
+
+msgid "Sunday"
+msgstr "Domingo"
+
+msgid "News"
+msgstr "Noticias"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Hentai"
+msgstr "Hentai"
+
+msgid "Ecchi"
+msgstr "Ecchi"
+
+msgid "Yaoi"
+msgstr "Yaoi"
+
+msgid "Yuri"
+msgstr "Yuri"
+
+msgid "Short Film"
+msgstr "Cortometraje"
+
+msgid "J.A.V"
+msgstr "J.A.V"
+
+msgid "Other Videos"
+msgstr "Otros vídeos"
 
 msgid "Manga"
 msgstr "Manga"
-
-msgid "Oneshot"
-msgstr "Un disparo"
 
 msgid "Manhua"
 msgstr "Manhua"
@@ -424,14 +448,41 @@ msgstr "Manhwa"
 msgid "Doujinshi"
 msgstr "Doujinshi"
 
-msgid "Trailer"
-msgstr "Tráiler"
+msgid "Oneshot"
+msgstr "Un disparo"
 
-msgid "Completed"
-msgstr "Terminado"
+msgid "Webtoon"
+msgstr "Webtoon"
 
-msgid "Ongoing"
-msgstr "En curso"
+msgid "Anthology"
+msgstr "Antología"
+
+msgid "Omnibus"
+msgstr "General"
+
+msgid "Single Movie"
+msgstr "Película individual"
+
+msgid "Movies"
+msgstr "Cine"
+
+msgid "Series"
+msgstr "Serie"
+
+msgid "TV Series"
+msgstr "Series de TV"
+
+msgid "TV Shows"
+msgstr "Programas de televisión"
+
+msgid "Theater"
+msgstr "Teatro"
+
+msgid "Theater Movie"
+msgstr "Cine"
+
+msgid "Cartoon"
+msgstr "Dibujos animados"
 
 msgid "Upcoming"
 msgstr "Próximamente"
@@ -631,27 +682,6 @@ msgstr "Días de lanzamiento"
 msgid "Select the days this manga is usually updated."
 msgstr "Selecciona los días en que suele actualizarse este manga."
 
-msgid "Monday"
-msgstr "Lunes"
-
-msgid "Tuesday"
-msgstr "Martes"
-
-msgid "Wednesday"
-msgstr "Miércoles"
-
-msgid "Thursday"
-msgstr "Jueves"
-
-msgid "Friday"
-msgstr "Viernes"
-
-msgid "Saturday"
-msgstr "Sábado"
-
-msgid "Sunday"
-msgstr "Domingo"
-
 msgid "Enable Message"
 msgstr "Habilitar mensaje"
 
@@ -742,15 +772,6 @@ msgstr "Vistas Todas"
 msgid "Custom Rewite"
 msgstr "Reescritura personalizada"
 
-msgid "First Last Url"
-msgstr "Nombre Último URL"
-
-msgid "First"
-msgstr "Primero"
-
-msgid "Last"
-msgstr "Último"
-
 msgid "Custom Info"
 msgstr "Información personalizada"
 
@@ -765,6 +786,15 @@ msgstr "Detalles personalizados"
 
 msgid "Watch Url"
 msgstr "Ver URL"
+
+msgid "First Last Url"
+msgstr "Nombre Último URL"
+
+msgid "First"
+msgstr "Primero"
+
+msgid "Last"
+msgstr "Último"
 
 msgid "Custom filter fields"
 msgstr "Campos de filtro personalizados"
@@ -851,7 +881,7 @@ msgid "Ex: XX seconds left in ad. XX cannot be changed"
 msgstr "Ej.: Quedan XX segundos en el anuncio. XX no se puede cambiar."
 
 msgid "XX seconds left in ad"
-msgstr "Quedan XX segundos en el anuncio"
+msgstr "XX segundos restantes en el anuncio"
 
 msgid "Skip Offset"
 msgstr "Desplazamiento de salto"
@@ -878,7 +908,7 @@ msgid "Skip after xxs seconds"
 msgstr "Saltar después de xxs segundos"
 
 msgid "Show Logo Player"
-msgstr "Mostrar logotipo del reproductor"
+msgstr "Mostrar reproductor de logotipos"
 
 msgid "Logo Player Configuration"
 msgstr "Configuración del reproductor de logotipos"
@@ -1377,6 +1407,9 @@ msgstr "No podemos encontrar el vídeo que estás buscando. Puede haber varias r
 
 msgid "Copyright infringement!"
 msgstr "¡Infracción de derechos de autor!"
+
+msgid "Your license key is invalid or not activated, Please buy a valid license and enter it in the options page. [<a href=\"https://buxt.net\" title=\"Theme developed by buxt.net\">Theme developed by buxt.net</a>]"
+msgstr "Su clave de licencia no es válida o no está activada. Compre una licencia válida e introdúzcala en la página de opciones. [<a href=\"https://buxt.net\" title=\"Tema desarrollado por buxt.net\">Tema desarrollado por buxt.net</a>]"
 
 msgid "Choose Server"
 msgstr "Elija el servidor"
