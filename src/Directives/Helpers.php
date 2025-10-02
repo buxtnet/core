@@ -1,279 +1,290 @@
-<?php //ICB0 81:0 82:2c1b                                                     ?><?php //0037f
-// ///********************************************************
-// ///  Code By Buxt.Net
-// ///  Author  : Buxt.Net
-// ///********************************************************
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-LBeZaZKB
+<?php
+
+namespace Buxt\Directives;
+
+use Illuminate\Support\Str;
+
+class Helpers extends Directives {
+    protected array $conflicts = [
+        'Livewire\Livewire' => ['script', 'endscript', 'js'],
+    ];
+
+    /**
+     * The Helper directives.
+     */
+    public function directives(): array
+    {
+        return [
+            /*
+            |---------------------------------------------------------------------
+            | @istrue / @isfalse
+            |---------------------------------------------------------------------
+            */
+
+            'istrue' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (isset({$expression->get(0)}) && (bool) {$expression->get(0)} === true) : ?>".
+                        "<?php echo {$expression->get(1)}; ?>".
+                        '<?php endif; ?>';
+                }
+
+                return "<?php if (isset({$expression}) && (bool) {$expression} === true) : ?>";
+            },
+
+            'endistrue' => function () {
+                return '<?php endif; ?>';
+            },
+
+            'isfalse' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (isset({$expression->get(0)}) && (bool) {$expression->get(0)} === false) : ?>".
+                        "<?php echo {$expression->get(1)}; ?>".
+                        '<?php endif; ?>';
+                }
+
+                return "<?php if (isset({$expression}) && (bool) {$expression} === false) : ?>";
+            },
+
+            'endisfalse' => function () {
+                return '<?php endif; ?>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @isnull / @endisnull / @isnotnull / @endisnotnull
+            |---------------------------------------------------------------------
+            */
+
+            'isnull' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (is_null({$expression->get(0)})) : ?>".
+                        "<?php echo {$expression->get(1)}; ?>".
+                        '<?php endif; ?>';
+                }
+
+                return "<?php if (is_null({$expression})) : ?>";
+            },
+
+            'endisnull' => function () {
+                return '<?php endif; ?>';
+            },
+
+            'isnotnull' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (! is_null({$expression->get(0)})) : ?>".
+                        "<?php echo {$expression->get(1)}; ?>".
+                        '<?php endif; ?>';
+                }
+
+                return "<?php if (! is_null({$expression})) : ?>";
+            },
+
+            'endisnotnull' => function () {
+                return '<?php endif; ?>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @notempty / @endnotempty
+            |---------------------------------------------------------------------
+            */
+
+            'notempty' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (! empty({$expression->get(0)})) : ?>".
+                        "<?php echo {$expression->get(1)}; ?>".
+                        '<?php endif; ?>';
+                }
+
+                return "<?php if (! empty({$expression})) : ?>";
+            },
+
+            'endnotempty' => function () {
+                return '<?php endif; ?>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @instanceof / @endinstanceof
+            |---------------------------------------------------------------------
+            */
+
+            'instanceof' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (is_a({$expression->get(0)}, {$expression->get(1)})) : ?>";
+                }
+            },
+
+            'endinstanceof' => function () {
+                return '<?php endif; ?>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @typeof / @endtypeof
+            |---------------------------------------------------------------------
+            */
+
+            'typeof' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php if (gettype({$expression->get(0)}) === {$expression->get(1)}) : ?>";
+                }
+            },
+
+            'endtypeof' => function () {
+                return '<?php endif; ?>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @global
+            |---------------------------------------------------------------------
+            */
+
+            'global' => function ($expression) {
+                return "<?php global {$expression}; ?>";
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @set / @unset
+            |---------------------------------------------------------------------
+            */
+
+            'set' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression, 2);
+
+                    return "<?php {$expression->get(0)} = {$expression->get(1)}; ?>";
+                }
+            },
+
+            'unset' => function ($expression) {
+                return "<?php unset({$expression}); ?>";
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @extract / @implode
+            |---------------------------------------------------------------------
+            */
+
+            'extract' => function ($expression) {
+                return "<?php extract({$expression}); ?>";
+            },
+
+            'implode' => function ($expression) {
+                if ($this->shouldParse($expression)) {
+                    $expression = $this->parse($expression);
+
+                    return "<?php echo implode({$expression->get(0)}, {$expression->get(1)}); ?>";
+                }
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @repeat / @endrepeat
+            |---------------------------------------------------------------------
+            */
+
+            'repeat' => function ($expression) {
+                $initLoop = "\$__currentLoopData = range(1, {$expression}); \$__env->addLoop(\$__currentLoopData);";
+                $iterateLoop = '$__env->incrementLoopIndices(); $loop = $__env->getLastLoop();';
+
+                return "<?php {$initLoop} foreach(\$__currentLoopData as \$__i) : {$iterateLoop} ?>";
+            },
+
+            'endrepeat' => function () {
+                return '<?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @stylesheet / @endstylesheet
+            |---------------------------------------------------------------------
+            */
+
+            'stylesheet' => function ($expression) {
+                if (! empty($expression)) {
+                    return '<link rel="stylesheet" href="'.$this->strip($expression).'">';
+                }
+
+                return '<style>';
+            },
+
+            'endstylesheet' => function () {
+                return '</style>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @script / @endscript
+            |---------------------------------------------------------------------
+            */
+
+            'script' => function ($expression) {
+                if (! empty($expression)) {
+                    return '<script src="'.$this->strip($expression).'"></script>';
+                }
+
+                return '<script>';
+            },
+
+            'endscript' => function () {
+                return '</script>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @js
+            |---------------------------------------------------------------------
+            */
+
+            'js' => function ($expression) {
+                $expression = $this->parse($expression);
+                $variable = $this->strip($expression->get(0));
+ 
+                return "<script>\n".
+                    "window.{$variable} = <?php echo is_array({$expression->get(1)}) ? json_encode({$expression->get(1)}) : '\'' . {$expression->get(1)} . '\''; ?>;\n". // phpcs:ignore
+                    '</script>';
+            },
+
+            /*
+            |---------------------------------------------------------------------
+            | @inline
+            |---------------------------------------------------------------------
+            */
+
+            'inline' => function ($expression) {
+                $path = $this->strip($expression);
+
+                $output = "<?php include get_theme_file_path({$expression}) ?>";
+
+                if (Str::endsWith($path, '.css')) {
+                    return "<style>{$output}</style>";
+                }
+
+                if (Str::endsWith($path, '.js')) {
+                    return "<script>{$output}</script>";
+                }
+
+                return $output;
+            },
+
+        ];
+    }
+}

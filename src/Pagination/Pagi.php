@@ -1,96 +1,78 @@
-<?php //ICB0 81:0 82:10ac                                                     ?><?php //0037f
-// ///********************************************************
-// ///  Code By Buxt.Net
-// ///  Author  : Buxt.Net
-// ///********************************************************
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-aW==
+<?php
+namespace Buxt\Pagination;
+
+use Illuminate\Support\Arr;
+use Buxt\Pagination\LengthPaginator;
+
+class Pagi {
+    /**
+     * The current WP_Query.
+     *
+     * @var \WP_Query
+     */
+    protected static $query;
+
+    /**
+     * Collection of pagination items.
+     *
+     * @var \Illuminate\Support\Collection
+     */
+    protected static $items;
+
+    /**
+     * The current page.
+     *
+     * @var int
+     */
+    protected static $currentPage = 1;
+
+    /**
+     * Items shown per page.
+     *
+     * @var int
+     */
+    protected static $perPage = 1;
+
+    /**
+     * Prepare the WordPress pagination.
+     *
+     * @return void
+     */
+    protected static function prepare()
+    {
+        if (! isset(self::$query)) {
+            self::$query = collect(
+                Arr::get($GLOBALS, 'wp_query')->query_vars ?? []
+            )->filter();
+
+            self::$items = collect()->range(1, Arr::get($GLOBALS, 'wp_query')->found_posts);
+        }
+
+        if (self::$query->isEmpty()) {
+            return;
+        }
+
+        self::$perPage = self::$query->get('posts_per_page', 1);
+        self::$currentPage = max(1, absint(get_query_var('paged')));
+    }
+
+    public static function build()
+    {
+        self::prepare();
+
+        return new LengthPaginator(
+            self::$items,
+            self::$items->count(),
+            self::$perPage,
+            self::$currentPage
+        );
+    }
+
+    public static function setQuery($query)
+    {
+        self::$items = collect()->range(1, $query->found_posts);
+        self::$query = collect(
+            $query->query_vars ?? []
+        )->filter();
+    }
+}

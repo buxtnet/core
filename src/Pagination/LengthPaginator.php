@@ -1,126 +1,126 @@
-<?php //ICB0 81:0 82:1533                                                     ?><?php //0037f
-// ///********************************************************
-// ///  Code By Buxt.Net
-// ///  Author  : Buxt.Net
-// ///********************************************************
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-vZg5gKidXiK=
+<?php
+
+namespace Buxt\Pagination;
+
+use Illuminate\Support\Arr;
+use Illuminate\Support\Str;
+use Illuminate\Support\HtmlString;
+use Illuminate\Pagination\LengthAwarePaginator as Paginator;
+
+class LengthPaginator extends Paginator {
+    /**
+     * The default pagination view.
+     *
+     * @var string
+     */
+    public static $defaultView = 'pagi::pagination';
+
+    /**
+     * The default "simple" pagination view.
+     *
+     * @var string
+     */
+    public static $defaultSimpleView = 'pagi::pagination';
+
+    /**
+     * Get the URL for a given page number.
+     *
+     * @param  int  $page
+     * @return string
+     */
+    public function url($page)
+    {
+        if ($page <= 0) {
+            $page = 1;
+        }
+
+        $url = get_pagenum_link($page, false);
+
+        if (count($this->query) > 0) {
+            return $url .
+                (Str::contains($url, '?') ? '&' : '?') .
+                Arr::query($this->query) .
+                $this->buildFragment();
+        }
+
+        return $url;
+    }
+
+    /**
+     * Get the URL for the next page.
+     *
+     * @return string|null
+     */
+    public function nextPageUrl()
+    {
+        global $paged;
+
+        if (is_single()) {
+            return;
+        }
+
+        $paged = empty($paged) ? 1 : $paged;
+
+        $nextPage = (int) $paged + 1;
+        $maxPages = count($this->items);
+
+        if (! $maxPages || $maxPages >= $nextPage) {
+            return get_pagenum_link($nextPage, false);
+        }
+    }
+
+    /**
+     * Get the URL for the previous page.
+     *
+     * @return string|null
+     */
+    public function previousPageUrl()
+    {
+        global $paged;
+
+        if (is_single()) {
+            return;
+        }
+
+        $nextPage = (int) $paged - 1;
+        $nextPage = $nextPage < 1 ? 1 : $nextPage;
+
+        return get_pagenum_link($nextPage, false);
+    }
+
+    /**
+     * Render the paginator using the given view.
+     *
+     * @param  string|null  $view
+     * @param  array  $data
+     * @return \Illuminate\Contracts\Support\Htmlable
+     */
+    public function links($view = null, $data = [])
+    {
+        return $this->render($view, $data);
+    }
+
+    /**
+     * Render the paginator using the given view.
+     *
+     * @param  string|null  $view
+     * @param  array  $data
+     * @return \Illuminate\Contracts\Support\Htmlable
+     */
+    public function render($view = null, $data = [])
+    {
+        return new HtmlString(static::viewFactory()->make($view ?: static::$defaultView, array_merge($data, [
+            'pagi' => $this,
+        ]))->render());
+    }
+
+    /**
+     * Get the array of elements to pass to the view.
+     *
+     * @return array
+     */
+    public function elements()
+    {
+        return parent::elements();
+    }
+}
